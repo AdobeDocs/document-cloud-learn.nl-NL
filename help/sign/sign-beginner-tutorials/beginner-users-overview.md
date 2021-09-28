@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,28 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <a href="send-to-multiple-recipients.md"><strong>Verzenden naar meerdere ontvangers</strong></a>
     </div>
     <em>Verzend een document voor elektronische ondertekening naar meer dan één persoon in exact de gewenste volgorde</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Aan de slag met Adobe Sign voor nieuwe afzenders" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Aan de slag met Adobe Sign voor nieuwe afzenders</strong></a>
+    </div>
+    <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
