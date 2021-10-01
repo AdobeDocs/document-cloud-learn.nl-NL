@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="Waar komen PDF's vandaan?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Overal werken met Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF's vandaan?</strong></a>
+    <a href="acrobatweb.md"><strong>Overal werken met Acrobat Web</strong></a>
     </div>
-    <em>Begrijpen waar PDF's vandaan komen en het gebruik ervan</em>
+    <em>Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <a href="fill-and-sign.md"><strong>Een PDF-formulier invullen en ondertekenen</strong></a>
     </div>
     <em>Snel een PDF-formulier invullen en ondertekenen</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="Waar komen PDF's vandaan?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF's vandaan?</strong></a>
+    </div>
+    <em>Begrijpen waar PDF's vandaan komen en het gebruik ervan</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

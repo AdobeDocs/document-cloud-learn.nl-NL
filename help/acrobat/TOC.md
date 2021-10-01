@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 14%
+source-wordcount: '281'
+ht-degree: 13%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 + Aan de slag {#getting-started}
    + [Overzicht](getting-started/getting-started-overview.md)
    + [Kennismaken met de Acrobat DC-interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Waar komen PDF&#39;s vandaan?](getting-started/where-do-pdfs-come-from.md)
+   + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Bestanden combineren tot een PDF-bestand](getting-started/combine-to-pdf.md)
    + [PDF-bestanden maken](getting-started/create-pdf.md)
    + [Opmerkingen maken over PDF-bestanden in Acrobat DC](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 14%
    + [Pagina’s indelen](getting-started/organize.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Een PDF-formulier invullen en ondertekenen](getting-started/fill-and-sign.md)
+   + [Waar komen PDF&#39;s vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
    + [Verschillen tussen twee PDF&#39;s detecteren](advanced-tasks/compare.md)
