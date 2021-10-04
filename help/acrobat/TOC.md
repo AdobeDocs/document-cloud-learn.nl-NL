@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 11%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 11%
 + Acrobat {#60-second} van 60 seconden
    + [Overzicht](60-second/60-second-overview.md)
    + [Bestanden combineren tot één PDF](60-second/combine-to-one-pdf.md)
-   + [PDF bewerken met Acrobat Web](60-second/edit.md)
+   + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
    + [Een PPT-bestand naar PDF converteren op uw telefoon](60-second/phone.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
    + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF&#39;s maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [PDF-samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Werken met uw SharePoint-bestanden](integrate/acrobatandsp.md)
    + [E-mailberichten en bijlagen converteren naar PDF in Outlook](integrate/outlook.md)
    + [PDF-inhoud maken tijdens het bladeren met Microsoft Edge](integrate/edge.md)
