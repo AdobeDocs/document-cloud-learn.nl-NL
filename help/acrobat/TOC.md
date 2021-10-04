@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
+source-git-commit: edc1584ce9b7190781e93a4d9a2cc7434a721ec2
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 13%
+source-wordcount: '285'
+ht-degree: 11%
 
 ---
 
@@ -63,7 +63,8 @@ ht-degree: 13%
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + {#integrations} integreren
    + [Overzicht](integrate/integrate-overview.md)
-   + [Een PDF maken op basis van Microsoft Word](integrate/createfromword.md)
+   + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [PDF&#39;s maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
    + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Werken met uw SharePoint-bestanden](integrate/acrobatandsp.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)

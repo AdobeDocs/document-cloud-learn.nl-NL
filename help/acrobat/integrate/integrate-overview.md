@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="PDF's maken in [!DNL Office] voor het web" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>PDF's maken in [!DNL Office] voor het web</strong></a>
+    </div>
+    <em>Leer hoe u PDF-bestanden maakt zonder dat u uw [!DNL Microsoft Office] voor webapps hoeft te verlaten</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Werken met uw [!DNL SharePoint]-bestanden" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <em>Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF-samenwerking in [!DNL-Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <em>Werk samen met collega’s door PDF’s te bekijken, van notities te voorzien en te reviseren zonder dat je [!DNL-Microsoft Teams] hoeft te verlaten</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="E-mailberichten en bijlagen converteren naar PDF in Outlook" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <a href="edge.md"><strong>PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Leer hoe u webpagina's direct naar PDF kunt archiveren met de Adobe Acrobat-extensie voor [!DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
