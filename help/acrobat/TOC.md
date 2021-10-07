@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '302'
 ht-degree: 11%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 11%
    + [Overzicht](getting-started/getting-started-overview.md)
    + [Kennismaken met de Acrobat DC-interface](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
+   + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samenwerken in real-time](getting-started/collaborate.md)
    + [Bestanden combineren tot een PDF-bestand](getting-started/combine-to-pdf.md)
    + [PDF-bestanden maken](getting-started/create-pdf.md)
@@ -34,10 +35,10 @@ ht-degree: 11%
    + [Pagina’s indelen](getting-started/organize.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Een PDF-formulier invullen en ondertekenen](getting-started/fill-and-sign.md)
-   + [Waar komen PDF&#39;s vandaan?](getting-started/where-do-pdfs-come-from.md)
+   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
-   + [Verschillen tussen twee PDF&#39;s detecteren](advanced-tasks/compare.md)
+   + [Verschillen tussen twee PDF vaststellen](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
    + [Redigeren en ontsmetten](advanced-tasks/redact.md)
    + [Bestanden verkleinen en optimaliseren](advanced-tasks/reduce.md)
@@ -45,8 +46,8 @@ ht-degree: 11%
    + [Toegankelijke PDF-bestanden voorbereiden](advanced-tasks/accessibility.md)
    + Acrobat Accessibility Series {#accessibility-series}
       + [Overzicht](advanced-tasks/accessibility-series.md)
-      + [Inleiding tot PDF-toegankelijkheid](advanced-tasks/accessibilitysession1.md)
-      + [Een niet-toegankelijke PDF corrigeren](advanced-tasks/accessibilitysession2.md)
+      + [Inleiding tot toegankelijkheid PDF](advanced-tasks/accessibilitysession1.md)
+      + [Een ontoegankelijke PDF herstellen](advanced-tasks/accessibilitysession2.md)
       + [Complexe tabellen](advanced-tasks/accessibilitysession3.md)
       + [Gescande documenten en complexe lijsten](advanced-tasks/accessibilitysession4.md)
       + [Formuliervelden toevoegen aan een gecodeerde PDF](advanced-tasks/accessibilitysession5.md)
@@ -57,7 +58,7 @@ ht-degree: 11%
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
-   + [Een PPT-bestand naar PDF converteren op uw telefoon](60-second/phone.md)
+   + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
 + Vaardigheidsconstructies {#skill-builders}
    + [Overzicht](skill-builder/skill-builder-overview.md)
@@ -65,11 +66,11 @@ ht-degree: 11%
 + {#integrations} integreren
    + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [PDF&#39;s maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
-   + [PDF-samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
+   + [PDF samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Werken met uw SharePoint-bestanden](integrate/acrobatandsp.md)
-   + [E-mailberichten en bijlagen converteren naar PDF in Outlook](integrate/outlook.md)
-   + [PDF-inhoud maken tijdens het bladeren met Microsoft Edge](integrate/edge.md)
+   + [E-mailberichten en bijlagen omzetten naar PDF in Outlook](integrate/outlook.md)
+   + [PDF-inhoud maken tijdens bladeren met Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
 + Industrie {#by-industry}
    + [Overzicht](industry/industry-overview.md)
@@ -83,11 +84,11 @@ ht-degree: 11%
          + [Tip 4 - Werken met formulieren en handtekeningen](industry/gov/work-with-forms-and-signatures.md)
          + [Tip 5 - Scannen en bewerken op mobiele apparaten](industry/gov/scan-and-edit-on-mobile.md)
       + Toegankelijkheid {#pdfs}
-         + [PDF&#39;s toegankelijk maken](industry/gov/making-pdfs-accessible.md)
+         + [PDF toegankelijk maken](industry/gov/making-pdfs-accessible.md)
          + [#1 - Toegankelijkheid begrijpen](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [Nr. 3 - Voltooien in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [PDF-tegoeden toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
+         + [PDF-stempels toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
 + Ontwikkelen {#develop}
    + [Overzicht](develop/develop-overview.md)
 + {#deploy} implementeren
