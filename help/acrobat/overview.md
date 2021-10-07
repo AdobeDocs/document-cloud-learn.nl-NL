@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat-hoofdafbeelding](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen door PDF&#39;s te converteren, bewerken, delen en ondertekenen. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als geavanceerde gebruikers snel op Adobe Acrobat te laten kennismaken.
+Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen door PDF te converteren, bewerken, delen en ondertekenen. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als geavanceerde gebruikers snel op Adobe Acrobat te laten kennismaken.
 
 ## Leerpaden
 
@@ -62,7 +62,7 @@ Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen d
     <div>
     <a href="integrate/integrate-overview.md"><strong>Integreren</strong></a>
     </div>
-    <em>Acrobat toevoegen aan uw bestaande systemen, processen en toepassingen</em>
+    <em>Voeg Acrobat toe aan uw bestaande bedrijfssystemen, processen en toepassingen</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen d
     <div>
     <a href="mobile/mobile-overview.md"><strong>Mobiel</strong></a>
     </div>
-    <em>PDF’s maken, invullen en ondertekenen op je mobiele apparaat</em>
+    <em>PDF maken, invullen en ondertekenen op je mobiele apparaat</em>
     <br>
   </td>  
   <td>
