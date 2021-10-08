@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 4%
+source-wordcount: '375'
+ht-degree: 6%
 
 ---
 
@@ -80,7 +80,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
       <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>PDF-bestanden maken</strong></a>
+    <a href="create-pdf.md"><strong>Een PDF maken</strong></a>
     </div>
     <em>PDF maken van alle verschillende soorten documenten</em>
     <br>
@@ -92,7 +92,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
       <img alt="Opmerkingen maken over PDF-bestanden in Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Opmerkingen maken over PDF-bestanden in Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Opmerkingen over een PDF</strong></a>
     </div>
     <em>Opmerkingen toevoegen aan een PDF-bestand en vervolgens delen met anderen</em>
     <br>
@@ -102,7 +102,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
       <img alt="Een PDF bewerken in Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Een PDF bewerken in Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Een PDF-bestand bewerken</strong></a>
     </div>
     <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
     <br>
@@ -166,7 +166,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
       <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Een PDF-formulier invullen en ondertekenen</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Snel een PDF-formulier invullen en ondertekenen</em>
     <br>

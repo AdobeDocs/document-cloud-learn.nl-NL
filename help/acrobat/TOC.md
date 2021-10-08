@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 11%
    + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samenwerken in real-time](getting-started/collaborate.md)
    + [Bestanden combineren tot een PDF-bestand](getting-started/combine-to-pdf.md)
-   + [PDF-bestanden maken](getting-started/create-pdf.md)
-   + [Opmerkingen maken over PDF-bestanden in Acrobat DC](getting-started/comment-on-pdf-files.md)
-   + [Een PDF bewerken in Acrobat DC](getting-started/edit-pdf.md)
+   + [Een PDF maken](getting-started/create-pdf.md)
+   + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
+   + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
    + [Scan en OCR](getting-started/scan-and-ocr.md)
    + [Pagina’s indelen](getting-started/organize.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
-   + [Een PDF-formulier invullen en ondertekenen](getting-started/fill-and-sign.md)
+   + [PDF-formulieren invullen en ondertekenen](getting-started/fill-and-sign.md)
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
