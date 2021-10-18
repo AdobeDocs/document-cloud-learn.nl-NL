@@ -1,12 +1,12 @@
 ---
 title: Scan en OCR
-description: Scans of afbeeldingen van documenten converteren naar doorzoekbare, bewerkbare PDF-bestanden en de kwaliteit van het resulterende bestand aanpassen
+description: Zet scans of afbeeldingen van documenten om in doorzoekbare, bewerkbare PDF-bestanden en pas de kwaliteit van het resulterende bestand aan
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: fad21a78306eb79a9046747022a4c8f47304fae9
+source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 # Scan en OCR
 
-Converteer scans of afbeeldingen van documenten naar doorzoekbare, bewerkbare PDF-bestanden en pas de kwaliteit van het resulterende bestand aan in Acrobat DC.
+Zet scans of afbeeldingen van documenten om in doorzoekbare, bewerkbare PDF-bestanden en pas de kwaliteit van het resulterende bestand aan.
 
 >[!TIP]
 >
->Als u meerdere PDF-bestanden wilt OCR, kunt u de [Action Wizard](../advanced-tasks/action.md) gebruiken.
+>Als u meerdere PDF-bestanden wilt OCR, kunt u het beste de opdracht [Action Wizard](../advanced-tasks/action.md).
 
-1. Selecteer **[!UICONTROL Scan &amp; OCR]** in het midden van [!UICONTROL Tools].
+1. Selecteren **[!UICONTROL Scan en OCR]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
 
    ![Scan Stap 1](../assets/Scan_1.png)
 
@@ -33,18 +33,18 @@ Converteer scans of afbeeldingen van documenten naar doorzoekbare, bewerkbare PD
 
 1. Kies **[!UICONTROL Gescand document]** of **[!UICONTROL Camera-afbeelding]** om het document te verbeteren.
 
-1. Klik op **[!UICONTROL Verbeteren]** om de afbeelding op te schonen.
+1. Selecteren **[!UICONTROL Verbeteren]** om de afbeelding op te schonen.
 
    ![Scanstap 3](../assets/Scan_3.png)
 
    Acrobat herkent automatisch tekst uit gescande documenten.
 
-1. Selecteer **[!UICONTROL Tekst herkennen]** om tekst in afbeeldingsbestanden handmatig te herkennen.
+1. Selecteren **[!UICONTROL Tekst herkennen]** om tekst in afbeeldingsbestanden handmatig te herkennen.
 
    ![Scan Stap 4](../assets/Scan_4.png)
 
 Het bestand is nu een doorzoekbaar, bewerkbaar PDF-bestand.
 
-Klik om een PDF te downloaden van de zelfstudie *Scan &amp; OCR*.
+Klik om een PDF van de *Scan en OCR* zelfstudie.
 
 [![Zelfstudie Scan &amp; OCR downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
