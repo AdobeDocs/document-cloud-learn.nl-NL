@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 14%
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samenwerken in real-time](getting-started/collaborate.md)
-   + [Bestanden combineren tot een PDF-bestand](getting-started/combine-to-pdf.md)
+   + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
    + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
    + [Scan en OCR](getting-started/scan-and-ocr.md)
-   + [Pagina’s indelen](getting-started/organize.md)
+   + [Pagina&#39;s indelen](getting-started/organize.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [PDF-formulieren invullen en ondertekenen](getting-started/fill-and-sign.md)
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -44,7 +44,7 @@ ht-degree: 14%
    + [Bestanden verkleinen en optimaliseren](advanced-tasks/reduce.md)
    + [Werken met formuliergegevens](advanced-tasks/formdata.md)
    + [Toegankelijke PDF-bestanden voorbereiden](advanced-tasks/accessibility.md)
-   + Acrobat Accessibility Series {#accessibility-series}
+   + Acrobat Accessibility-reeks {#accessibility-series}
       + [Overzicht](advanced-tasks/accessibility-series.md)
       + [Inleiding tot toegankelijkheid PDF](advanced-tasks/accessibilitysession1.md)
       + [Een ontoegankelijke PDF herstellen](advanced-tasks/accessibilitysession2.md)
@@ -52,7 +52,7 @@ ht-degree: 14%
       + [Gescande documenten en complexe lijsten](advanced-tasks/accessibilitysession4.md)
       + [Formuliervelden toevoegen aan een gecodeerde PDF](advanced-tasks/accessibilitysession5.md)
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
-+ Acrobat {#60-second} van 60 seconden
++ Acrobat van 60 seconden {#60-second}
    + [Overzicht](60-second/60-second-overview.md)
    + [Bestanden combineren tot één PDF](60-second/combine-to-one-pdf.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -60,10 +60,10 @@ ht-degree: 14%
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
    + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
-+ Vaardigheidsconstructies {#skill-builders}
++ Vaardigingenbouwers {#skill-builders}
    + [Overzicht](skill-builder/skill-builder-overview.md)
    + [Webinars](skill-builder/skill-builder-webinars.md)
-+ {#integrations} integreren
++ Integreren {#integrations}
    + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
@@ -91,7 +91,7 @@ ht-degree: 14%
          + [PDF-stempels toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
 + Ontwikkelen {#develop}
    + [Overzicht](develop/develop-overview.md)
-+ {#deploy} implementeren
++ Implementeren {#deploy}
    + [Overzicht](deploy/deploy-overview.md)
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
