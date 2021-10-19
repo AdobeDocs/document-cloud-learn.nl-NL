@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 6%
 
 ---
@@ -25,10 +25,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Kennismaken met de Acrobat DC-interface" src="../assets/Interface.jpg" />
+      <img alt="Beginselen van de werkruimte" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Kennismaken met de Acrobat DC-interface</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
     </div>
     <em>Bekijk hoe je met de Adobe Acrobat DC-interface eenvoudig toegang hebt tot bestanden en tools op desktops, het web en mobiele apparaten</em>
     <br>
@@ -50,7 +50,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
     </div>
-    <em>Verhoog de productiviteit en de workflows voor zakelijke documenten met Acrobat en [!DNL Microsoft 365]</em>
+    <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>

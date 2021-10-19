@@ -1,20 +1,20 @@
 ---
-title: Kennismaken met de Acrobat DC-interface
-description: Ontdek hoe je met Acrobat DC gemakkelijk toegang hebt tot bestanden en tools op desktop, internet en mobiele apparaten
+title: Beginselen van de werkruimte
+description: Leer hoe je met Acrobat DC gemakkelijk toegang krijgt tot bestanden en tools op desktops, het web en mobiele apparaten
 role: User
 product: adobe acrobat
 level: Beginner
-thumbnail: 23590.jpg
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
-# Kennismaken met de Acrobat DC-interface
+# Beginselen van de werkruimte
 
-Bekijk hoe je met de Adobe Acrobat DC-interface gemakkelijk toegang hebt tot bestanden en tools op desktops, het web en mobiele apparaten, dankzij een consistente Home view-ervaring.
+Leer hoe je met de Acrobat DC-interface eenvoudig bestanden en tools kunt openen op desktop, internet en mobiele apparaten, dankzij een consistente werkruimteervaring.
 
->[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
