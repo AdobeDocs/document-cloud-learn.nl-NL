@@ -1,6 +1,6 @@
 ---
 title: Overzicht van mobiel
-description: PDF’s maken, invullen en ondertekenen op je mobiele apparaat
+description: PDF maken, invullen en ondertekenen op je mobiele apparaat
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: d2660127d9cd854a46fa8429bd6d53c051f981c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 20%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,45 @@ ht-degree: 20%
 
 ![Acrobat Mobile-afbeelding](../assets/Hero-Mobile.png)
 
-Maak, vul en onderteken PDF’s op je mobiele apparaat.
+Creëer, vul en onderteken PDF op je mobiele apparaat.
 
-Download [Adobe Acrobat Reader mobiele app](https://acrobat.adobe.com/nl/nl/mobile/acrobat-reader.html){target=&quot;_blank&quot;} de gratis wereldwijde standaard voor het op een betrouwbare manier bekijken, annoteren en ondertekenen van PDF&#39;s.
+## Zelfstudies voor mobiele apps van Acrobat Reader
 
-[Acrobat Reader for iOS mobile guide](https://www.adobe.com/go/v_acrobatios_nl){target=&quot;_blank&quot;} 
-[Acrobat Reader for Android mobile guide](https://www.adobe.com/go/v_acrobatandroid_nl){target=&quot;_blank&quot;}
+## Acrobat-zelfstudies
 
-Download [Adobe Scan mobiele app](https://acrobat.adobe.com/us/en/mobile/scanner-app.html){target=&quot;_blank&quot;} om elk papieren document vast te leggen en om te zetten in een kwalitatief hoogwaardige PDF met tekst die je kunt doorzoeken.
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../getting-started/productivity.md">
+      <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
+    </a>
+    <div>
+     <a href="../getting-started/productivity.md"><strong>Productiviteit onderweg</strong></a>
+    </div>
+    <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
-[Adobe Scan for iOS mobile guide](https://www.adobe.com/go/adobescanios_nl){target=&quot;_blank&quot;} 
-[Adobe Scan for Android mobile guide](https://www.adobe.com/go/adobescanandroid_nl){target=&quot;_blank&quot;}
+Downloaden [Adobe Acrobat Reader mobiele app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} de gratis algemene standaard voor het op een betrouwbare manier bekijken, annoteren en ondertekenen van PDF.
 
-Download [Adobe Fill &amp; Sign mobiele app](https://acrobat.adobe.com/nl/nl/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} om vanaf elke locatie en op elk apparaat elk formulier in te vullen, te ondertekenen en te verzenden, met alleen uw vinger of een stylus.
+[Gids voor Acrobat Reader for iOS voor mobiele apparaten](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
+[Handleiding voor Acrobat Reader for Android voor mobiele apparaten](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+
+Downloaden [Adobe Scan mobiele app](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} om papieren documenten vast te leggen en om te zetten in een hoogwaardige PDF met tekst die je kunt doorzoeken.
+
+[Gids voor Adobe Scan for iOS voor mobiele apparaten](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
+[Handleiding voor Adobe Scan for Android voor mobiele apparaten](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+
+Downloaden [Adobe Fill &amp; Sign mobiele app](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} om formulieren in te vullen, te ondertekenen en te verzenden vanaf elke locatie, op elk apparaat, met alleen uw vinger of een stylus.

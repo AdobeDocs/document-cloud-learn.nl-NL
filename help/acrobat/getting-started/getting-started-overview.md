@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 4%
 
 ---
@@ -44,13 +44,13 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
+     <a href="productivity.md"><strong>Productiviteit onderweg</strong></a>
     </div>
-    <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
+    <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
     <br>
   </td>
 </tr>

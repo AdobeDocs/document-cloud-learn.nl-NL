@@ -1,5 +1,5 @@
 ---
-title: Overzicht integreren
+title: Overzicht van integraties
 description: Leer hoe u Adobe Sign kunt toevoegen aan uw bestaande systemen, processen en toepassingen
 role: User
 product: adobe sign
@@ -7,21 +7,21 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Overzicht integreren
+# Overzicht van integraties
 
 ![Afbeelding integreren ondertekenen](../assets/Hero-Integrate.png)
 
 U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruikt, zoals Microsoft, Salesforce, Workday en Marketo om er een paar te noemen. Leer hoe je je workflows voor elektronische handtekeningen kunt vereenvoudigen in deze integratiehandleidingen en tutorials.
 
 >[!NOTE]
-> Als u problemen hebt met de toegang tot een van deze functies, neemt u contact op met de beheerder van uw organisatie om ervoor te zorgen dat de integratie is ingeschakeld.
+> Als u problemen hebt met de toegang tot een van deze functies, neemt u contact op met de beheerder van uw organisatie om te controleren of de integratie is ingeschakeld.
 
 ## Zelfstudies voor Microsoft-integraties
 
@@ -34,7 +34,7 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Invullen en ondertekenen in Microsoft Outlook</strong></a>
     </div>
-    <em>Een formulier rechtstreeks in Microsoft Outlook invullen en ondertekenen</em>
+    <em>Een formulier rechtstreeks invullen en ondertekenen in Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -66,17 +66,17 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tekstspatiëring in SharePoint Online</strong></a>
     </div>
-    <em>De voortgang van een overeenkomst rechtstreeks volgen in Microsoft SharePoint</em>
+    <em>De voortgang van een overeenkomst rechtstreeks volgen in Microsoft Sharepoint</em>
     <br>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Documenten ter ondertekening verzenden in [!DNL-Microsoft Teams]" src="../assets/teamsmortgage.png" />
+      <img alt="Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Documenten ter ondertekening verzenden in [!DNL-Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Verzend documenten ter ondertekening, rechtstreeks binnen [!DNL Microsoft Teams]</em>
+    <em>Verzend documenten ter ondertekening, rechtstreeks vanuit [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
