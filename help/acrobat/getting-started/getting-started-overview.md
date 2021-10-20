@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 6%
+source-wordcount: '377'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![Aan de slag met Acrobat](../assets/Hero-GettingStarted.png)
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstudies (1-2 min). Van het maken van een document tot het beveiligen van uw PDF-bestanden, deze inhoud is ontworpen om u te laten werken in PDF-workflows.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beveiligen van uw PDF-bestanden, deze inhoud is ontworpen om u te laten werken in PDF-workflows.
 
 ## Acrobat-zelfstudies
 
@@ -56,6 +56,16 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
+    </div>
+    <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="Samenwerken in real-time" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>Vele verschillende bestandstypen combineren tot één PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>PDF maken van alle verschillende soorten documenten</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Opmerkingen maken over PDF-bestanden in Acrobat DC" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="Een PDF exporteren naar bewerkbare indelingen" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Invulbare formulieren maken" src="../assets/Form.jpg" />
+      <img alt="Invulbare formulieren maken" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>Invulbare formulieren maken</strong></a>
@@ -139,7 +149,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="Pagina's indelen" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en verplaatsen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect een PDF-bestand met een wachtwoord" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign.jpg" />
+      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
     </div>
     <em>Snel een PDF-formulier invullen en ondertekenen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze zelfstu
     <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
     </div>
     <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

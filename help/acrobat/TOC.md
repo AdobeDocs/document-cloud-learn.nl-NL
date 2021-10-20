@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [Overzicht](getting-started/getting-started-overview.md)
    + [Werkruimte als basis](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
+   + [Productiviteit onderweg](getting-started/productivity.md)
    + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samenwerken in real-time](getting-started/collaborate.md)
    + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [Scan en OCR](getting-started/scan-and-ocr.md)
    + [Pagina&#39;s indelen](getting-started/organize.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
-   + [PDF-formulieren invullen en ondertekenen](getting-started/fill-and-sign.md)
+   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
@@ -63,7 +64,7 @@ ht-degree: 10%
 + Vaardigingenbouwers {#skill-builders}
    + [Overzicht](skill-builder/skill-builder-overview.md)
    + [Webinars](skill-builder/skill-builder-webinars.md)
-+ Integreren {#integrations}
++ Integraties {#integrations}
    + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
@@ -72,7 +73,7 @@ ht-degree: 10%
    + [E-mailberichten en bijlagen omzetten naar PDF in Outlook](integrate/outlook.md)
    + [PDF-inhoud maken tijdens bladeren met Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ Industrie {#by-industry}
++ Industrie en diensten {#by-industry}
    + [Overzicht](industry/industry-overview.md)
    + Overheid {#gov}
       + [Overzicht](industry/gov/gov-overview.md)
