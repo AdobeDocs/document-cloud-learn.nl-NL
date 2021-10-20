@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 5%
 
 ---
 
@@ -57,20 +57,20 @@ Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen d
 <tr>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Integreren" src="assets/acrobat_title_integrate.png" />
+      <img alt="Integraties" src="assets/acrobat_title_integrate.png" />
     </a>
     <div>
-    <a href="integrate/integrate-overview.md"><strong>Integreren</strong></a>
+    <a href="integrate/integrate-overview.md"><strong>Integraties</strong></a>
     </div>
     <em>Voeg Acrobat toe aan uw bestaande bedrijfssystemen, processen en toepassingen</em>
     <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Industrie" src="assets/acrobat_title_industry.png" />
+      <img alt="Industrie en diensten" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>Industrie</strong></a>
+    <a href="industry/industry-overview.md"><strong>Industrie en diensten</strong></a>
     </div>
     <em>Ontdek hoe echte bedrijven 100% digitaal worden</em>
     <br>

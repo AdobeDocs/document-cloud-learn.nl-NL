@@ -1,5 +1,5 @@
 ---
-title: Overzicht integreren
+title: Overzicht van integraties
 description: Integreer Acrobat met Box-, Dropbox-, Google Drive-, OneDrive- en Microsoft-apps
 role: User
 product: adobe acrobat
@@ -7,22 +7,22 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
-# Overzicht integreren
+# Overzicht van integraties
 
 ![Acrobat-integratieafbeelding](../assets/Hero-Integrate.png)
 
-Integreer Acrobat met [!DNL Box]-, [!DNL Dropbox]-, [!DNL Google Drive]-, [!DNL OneDrive]- en [!DNL Microsoft]-apps.
+Integreer Acrobat met [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive], en [!DNL Microsoft] apps.
 
 ## Microsoft
 
-Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstreeks in [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstreeks vanuit je team [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,49 +33,49 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <div>
     <a href="createfromword.md"><strong>PDF-bestanden maken van [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Maak veelzijdige, krachtige PDF-bestanden met hypergekoppelde inhoudsopgave en kruisverwijzingen, bladwijzers en zelfs bijlagen rechtstreeks vanuit [!DNL Microsoft Word]</em>
+    <em>Maak rijke, krachtige PDF-bestanden met hyperlinktabellen en kruisverwijzingen, bladwijzers en zelfs bijlagen rechtstreeks vanuit [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="PDF's maken in [!DNL Office] voor het web" src="../assets/Officeweb_1280.png" />
+      <img alt="PDF maken in [!DNL Office] voor het web" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>PDF's maken in [!DNL Office] voor het web</strong></a>
+    <a href="createofficeweb.md"><strong>PDF maken in [!DNL Office] voor het web</strong></a>
     </div>
-    <em>Leer hoe u PDF-bestanden maakt zonder dat u uw [!DNL Microsoft Office] voor webapps hoeft te verlaten</em>
+    <em>Leer hoe je PDF-bestanden maakt zonder dat je je hoeft te verlaten [!DNL Microsoft Office] voor webapps</em>
     <br>
   </td>  
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Werken met uw [!DNL SharePoint]-bestanden" src="../assets/SharePoint.png" />
+      <img alt="Werk met je [!DNL SharePoint] bestanden" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>Werken met uw [!DNL SharePoint]-bestanden</strong></a>
+    <a href="acrobatandsp.md"><strong>Werk met je [!DNL SharePoint] bestanden</strong></a>
     </div>
-    <em>Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat DC</em>
+    <em>Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat DC</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="PDF-samenwerking in [!DNL-Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF samenwerking in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
-    <a href="acrobatandteams.md"><strong>PDF-samenwerking in [!DNL-Microsoft Teams]</strong></a>
+    <a href="acrobatandteams.md"><strong>PDF samenwerking in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Werk samen met collega’s door PDF’s te bekijken, van notities te voorzien en te reviseren zonder dat je [!DNL-Microsoft Teams] hoeft te verlaten</em>
+    <em>Werk samen met collega’s door PDF te bekijken, van notities te voorzien en te reviseren zonder dat je hoeft te vertrekken [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="outlook.md">
-      <img alt="E-mailberichten en bijlagen converteren naar PDF in Outlook" src="../assets/Outlook.jpg" />
+      <img alt="E-mailberichten en bijlagen omzetten naar PDF in Outlook" src="../assets/Outlook.jpg" />
     </a>
     <div>
     <a href="outlook.md"><strong>E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]</strong></a>
     </div>
-    <em>Leer hoe u op een professionelere en veiligere manier informatie kunt leveren binnen [!DNL Outlook]</em>
+    <em>Leer hoe je op een professionelere en veiligere manier informatie levert binnen het [!DNL Outlook]</em>
     <br>
   </td>
   <td>
@@ -85,7 +85,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <div>
     <a href="edge.md"><strong>PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Leer hoe u webpagina's direct naar PDF kunt archiveren met de Adobe Acrobat-extensie voor [!DNL Microsoft Edge]</em>
+    <em>Leer hoe u webpagina's met de Adobe Acrobat-extensie kunt archiveren voor PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
 
 ## Google Drive
 
-Leer hoe je in minder tijd meer gedaan krijgt met essentiële tools voor PDF’s en elektronische handtekeningen in [!DNL Google Drive].
+Leer hoe je sneller meer kunt doen met essentiële PDF- en e-handtekeningtools binnen [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -104,7 +104,7 @@ Leer hoe je in minder tijd meer gedaan krijgt met essentiële tools voor PDF’s
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for [!DNL Google Drive]</strong></a>
     </div>
-    <em>Krijg rechtstreeks vanuit de [!DNL Google Drive]-app toegang tot tijdbesparende PDF-tools en e-handtekeningworkflows</em>
+    <em>Krijg rechtstreeks vanuit het [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
@@ -122,8 +122,8 @@ Leer hoe je in minder tijd meer gedaan krijgt met essentiële tools voor PDF’s
 
 ## Box
 
-Leer hoe Acrobat DC en [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} het voor iedereen in je organisatie eenvoudiger maken om zaken te blijven doen.
+Lees hoe Acrobat DC en [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} maakt het voor iedereen in je organisatie eenvoudiger om zaken te doen.
 
 ## Dropbox
 
-Leer hoe eenvoudig het is om PDF&#39;s te openen en ermee te werken die zijn opgeslagen in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.
+Leer hoe eenvoudig het is om toegang te krijgen tot en te werken met PDF die zijn opgeslagen in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.
