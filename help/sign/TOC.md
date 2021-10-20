@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [Een persoonlijke handtekening verkrijgen](sign-beginner-tutorials/sign-in-person.md)
       + [Wat is een digitale handtekening?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + {#getting-started-managing} beheren
+   + Beheer {#getting-started-managing}
       + [Documenten beheren en bijhouden](sign-beginner-tutorials/manage-and-track.md)
       + [Een documentsjabloon maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Een document wijzigen dat al ter ondertekening is verzonden](sign-beginner-tutorials/modify-in-flight.md)
@@ -45,9 +45,9 @@ ht-degree: 6%
       + [Handtekeningen bulksgewijs verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Adobe Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-   + {#advanced-tasks-managing} beheren
+   + Beheer {#advanced-tasks-managing}
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
-+ {#admin-set-up} beheren
++ Beheer {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor beheerders](admin/up-and-running-admin.md)
@@ -75,7 +75,7 @@ ht-degree: 6%
       + [Een digitale id ophalen van Intesi Group (geavanceerd)](digitalid/intesi-advanced.md)
       + [Een digitale id ophalen van Intesi Group (gekwalificeerd)](digitalid/intesi-qualified.md)
       + [Ondertekenen met Intesi Group](digitalid/intesi-sign.md)
-+ {#integrations} integreren
++ Integraties {#integrations}
    + [Overzicht](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [In Outlook invullen en ondertekenen](integrations/fill-and-sign-doc-microsoft-outlook.md)
@@ -96,12 +96,12 @@ ht-degree: 6%
       + [Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Herinneringen verzenden met de configuratiegids Adobe Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
       + [Meldingen verzenden met Adobe Sign for Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
-      + [Herinneringen verzenden met Adobe Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
-+ Industrie en afdeling {#expand}
+      + [Herinneringen verzenden met Adobe Sign for Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
++ Industrie en diensten {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
-   + Vaardigheidsbouwer {#innovation}
+   + Skill Builder {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
-   + Hoofdletterrecepten gebruiken {#recipes}
+   + Hoofdletters en kleine letters gebruiken {#recipes}
       + [Overzicht](sign-usecase/recipes.md)
       + Overheid {#gov}
          + [Bedrijfssubsidies en leningen](sign-usecase/usecasegovgrants.md)
@@ -113,14 +113,14 @@ ht-degree: 6%
       + Commercieel {#com}
          + [Contracten en aanvraagformulieren](sign-usecase/usecasecomcontracts.md)
          + [Beleidsovereenkomsten](sign-usecase/usecasecompolicy.md)
-   + Hoofdletters/kleine letters gebruiken {#use-case}
+   + Praktijkvoorbeelden gebruiken {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Ontwikkelen {#develop}
    + [Overzicht](develop/develop-overview.md)
    + Aangepaste API&#39;s {#custom}
       + [Verzamel grote documenten met GigaSign](develop/gigasign.md)
       + [Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren](develop/embeddedesignature.md)
-+ {#deploy} implementeren
++ Implementeren {#deploy}
    + [Overzicht](deploy-overview.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)

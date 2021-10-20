@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -67,20 +67,20 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
   </td>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integreren" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integraties" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations/integrations-overview.md"><strong>Integreren</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Integraties</strong></a>
     </div>
     <em>Adobe Sign rechtstreeks toevoegen binnen andere toepassingen die uw organisatie al gebruikt</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industrie en afdeling" src="assets/AS_Title_Industry.png" />
+      <img alt="Industrie en diensten" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie en afdeling</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie en diensten</strong></a>
     </div>
     <em>Ontdek praktijkvoorbeelden van branche en afdelingsgebruik en formules die herdefiniëren wat mogelijk is met e-handtekeningen</em>
     <br>
