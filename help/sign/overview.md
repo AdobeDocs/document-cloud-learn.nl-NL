@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie en diensten</strong></a>
     </div>
-    <em>Ontdek praktijkvoorbeelden van branche en afdelingsgebruik en formules die herdefiniëren wat mogelijk is met e-handtekeningen</em>
+    <em>Ontdek praktijkvoorbeelden van branche en afdelingsgebruik en formules om te ontdekken wat er mogelijk is met e-handtekeningen</em>
     <br>
   </td>
 </tr>
