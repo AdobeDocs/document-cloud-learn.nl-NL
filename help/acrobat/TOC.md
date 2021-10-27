@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 8%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 8%
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
    + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
+   + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
    + [Een foto bewerken in uw PDF](60-second/editphoto.md)
    + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
