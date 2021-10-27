@@ -1,15 +1,15 @@
 ---
 title: Acrobat-overzicht van 60 seconden
-description: 60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je in één minuut of minder te helpen een nieuwe truc te leren in Acrobat DC
+description: 60-Seconde Acrobat biedt tutorials ter grootte van een hap om je in één minuut of minder te helpen een nieuwe truc in Acrobat DC te leren
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Acrobat-afbeelding van 60 seconden](../assets/Hero-60sec.png)
 
-60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je in één minuut of minder te helpen een nieuwe truc te leren in Acrobat DC. Met deze taakgebaseerde tips kun je nieuwe vaardigheden voor het werken met PDF-bestanden opdoen door enkele verborgen functies van Acrobat te ontgrendelen. Je kunt er een bekijken om snel antwoord te krijgen, of vijf bekijken om je documentproductiviteit te verhogen - en nog steeds tijd hebben om van je koffiepauze te genieten.
+60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je te helpen in Acrobat DC in één minuut of minder een nieuwe truc te leren. Met deze taakgebaseerde tips kun je nieuwe vaardigheden voor het werken met PDF-bestanden opdoen door enkele verborgen elementen van Acrobat te ontgrendelen. Je kunt er een bekijken om snel antwoord te krijgen, of vijf bekijken om je documentproductiviteit te verhogen - en nog steeds tijd hebben om van je koffiepauze te genieten.
 
 ## Zelfstudies voor Acrobat van 60 seconden
 
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
     <a href="edit.md"><strong>PDF bewerken met Acrobat Web</strong></a>
     </div>
-    <em>Maak eenvoudige bewerkingen in tekst en afbeeldingen zonder de PDF te downloaden</em>
+    <em>Eenvoudige bewerkingen uitvoeren op tekst en afbeeldingen zonder zelfs de PDF te downloaden</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 0%
     <div>
      <a href="search.md"><strong>Meerdere PDF-bestanden tegelijk zoeken</strong></a>
     </div>
-    <em>Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een volledige map met PDF-bestanden doorzoeken</em>
+    <em>Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een hele map met PDF-bestanden doorzoeken</em>
     <br>
   </td>
 </tr>
@@ -63,15 +63,15 @@ ht-degree: 0%
     <div>
     <a href="photo.md"><strong>In een oogwenk een PDF van foto's maken</strong></a>
     </div>
-    <em>Leer hoe u een aantal JPG's gewoon naar het Acrobat-pictogram sleept om een PDF te maken</em>
+    <em>Leer hoe je een paar JPG naar het Acrobat-pictogram sleept om een PDF te maken</em>
     <br>
   </td>
   <td>
     <a href="phone.md">
-      <img alt="Een PPT-bestand naar PDF converteren op uw telefoon" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="Zet een PPT-bestand om in PDF op uw telefoon" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>Een PPT-bestand naar PDF converteren op uw telefoon</strong></a>
+    <a href="phone.md"><strong>Zet een PPT-bestand om in PDF op uw telefoon</strong></a>
     </div>
     <em>Leer hoe u een PowerPoint-e-mailbijlage kunt converteren naar PDF op uw telefoon</em>
     <br>
@@ -83,7 +83,39 @@ ht-degree: 0%
     <div>
     <a href="indesign.md"><strong>PDF-opmerkingen laden in InDesign</strong></a>
     </div>
-    <em>Leer hoe u PDF-opmerkingen weer in InDesign laadt na een gedeelde revisie van Acrobat</em>
+    <em>Leer hoe u PDF-opmerkingen weer in InDesign kunt laden na een gedeelde Acrobat-revisie</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="Een foto bewerken in uw PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>Een foto bewerken in uw PDF</strong></a>
+    </div>
+    <em>Leer hoe u geavanceerde bewerkingen uitvoert op een foto in uw PDF met Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="Een afbeelding in uw PDF bewerken" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>Een afbeelding in uw PDF bewerken</strong></a>
+    </div>
+    <em>Leer geavanceerde bewerkingen uit te voeren op een afbeelding in uw PDF met Illustrator</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="Pagina's in een oogwenk ordenen" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Pagina's in een oogwenk ordenen</strong></a>
+    </div>
+    <em>Leer hoe u het gereedschap Pagina's indelen gebruikt om een totaalbeeld van uw PDF te krijgen</em>
     <br>
   </td>  
 </tr>

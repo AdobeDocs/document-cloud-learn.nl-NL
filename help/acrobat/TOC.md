@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 9%
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
    + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
+   + [Een foto bewerken in uw PDF](60-second/editphoto.md)
+   + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
+   + [Pagina&#39;s in een oogwenk ordenen](60-second/organize.md)
 + Vaardigingenbouwers {#skill-builders}
    + [Overzicht](skill-builder/skill-builder-overview.md)
    + [Webinars](skill-builder/skill-builder-webinars.md)
