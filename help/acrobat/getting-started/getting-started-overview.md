@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
+source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '400'
 ht-degree: 4%
 
 ---
@@ -184,6 +184,16 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 </tr>
 <tr>
   <td>
+    <a href="signatures.md">
+      <img alt="Handtekeningen ophalen" src="../assets/Signatures_1280.png" />
+    </a>
+    <div>
+    <a href="signatures.md"><strong>Handtekeningen ophalen</strong></a>
+    </div>
+    <em>Houd je bedrijf gaande door juridisch bindende elektronische handtekeningen van anderen te verzamelen - vanaf elke locatie</em>
+    <br>
+  </td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -191,11 +201,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
     </div>
     <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
