@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Aan de slag met Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer hoe u een handeling maakt om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
+Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
 
 ## Acrobat-zelfstudies
 
@@ -25,10 +25,10 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Verschillen tussen twee PDF's detecteren" src="../assets/Compare_1280.png" />
+      <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Verschillen tussen twee PDF's detecteren</strong></a>
+    <a href="compare.md"><strong>Verschillen tussen twee PDF vaststellen</strong></a>
     </div>
     <em>Snel en nauwkeurig de verschillen tussen twee PDF-bestanden detecteren om de workflows voor documentrevisie te verbeteren</em>
     <br>
@@ -40,7 +40,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Een handeling maken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
+    <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="redact.md"><strong>Redigeren en ontsmetten</strong></a>
     </div>
-    <em>Persoonlijke of gevoelige informatie definitief verwijderen uit uw PDF</em>
+    <em>Verwijder persoonlijke of vertrouwelijke informatie permanent uit uw PDF</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="reduce.md"><strong>Bestanden verkleinen en optimaliseren</strong></a>
     </div>
-    <em>Grote bestanden verkleinen en je PDF’s optimaliseren zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
+    <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="accessibility.md"><strong>Toegankelijke PDF-bestanden voorbereiden</strong></a>
     </div>
-    <em>Algemeen toegankelijke PDF-bestanden maken</em>
+    <em>universeel toegankelijke PDF-bestanden maken</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
-    <em>In deze zes-delige on-demand-webinarseries, ga je van de basisbeginselen van toegankelijkheid naar een diepgaande stap in het coderen van je PDF-bestanden</em>
+    <em>In deze zes-delige webinarseries, ga van de basisbeginselen van Toegankelijkheid aan een diepe duik van het etiketteren van uw PDF dossiers</em>
     <br>
   </td>
   <td>
