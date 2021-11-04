@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere</em>
+    <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Toegankelijkheid van PDF controleren" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Toegankelijke PDF-bestanden voorbereiden</strong></a>
+    <a href="accessibility.md"><strong>Toegankelijkheid van PDF controleren</strong></a>
     </div>
-    <em>universeel toegankelijke PDF-bestanden maken</em>
+    <em>Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
-    <em>In deze zes-delige webinarseries, ga van de basisbeginselen van Toegankelijkheid aan een diepe duik van het etiketteren van uw PDF dossiers</em>
+    <em>In deze zes-delige webinarseries gaat u van de basisbeginselen van Toegankelijkheid naar een diepe duik van het etiketteren van uw PDF dossiers</em>
     <br>
   </td>
   <td>

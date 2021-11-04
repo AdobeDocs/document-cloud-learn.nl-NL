@@ -6,41 +6,37 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Invulbare formulieren maken
 
-Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Microsoft Word, Excel of een andere toepassing om in een invulbaar PDF-formulier in Acrobat DC.
+Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Microsoft Word, Excel of een andere toepassing om in een invulbaar PDF formulier.
 
-1. Selecteer **[!UICONTROL Prepare Form]** in het midden van [!UICONTROL Tools].
+1. Selecteren **[!UICONTROL Prepare Form]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
 
    ![Formulierstap 1](../assets/Form_1.png)
 
-1. Selecteer een bestaand document dat u als formulier wilt gebruiken (bijvoorbeeld een Word-, Excel-, InDesign- of PDF-bestand).
-
-   Als [!UICONTROL Automatische detectie van formuliervelden] is ingeschakeld, detecteert Acrobat automatisch formuliervelden in de PDF.
-
-1. Klik op **[!UICONTROL Begin]** om het formulier te maken.
+1. Selecteer een bestaand document dat u als formulier wilt gebruiken (bijvoorbeeld een Word-, Excel-, InDesign- of PDF-bestand) en selecteer **Starten**.
 
    ![Formulierstap 2](../assets/Form_2.png)
 
-   Bewerk het formulier met de weergegeven opties. Sleep velden uit de bovenste menubalk en bewerk de formuliervelddetails in het rechterdeelvenster.
+   Als [!UICONTROL Automatische detectie van formuliervelden] is **OP**, worden formuliervelden automatisch gedetecteerd in het PDF-bestand. Controleer de plaatsing van de formuliervelden.
 
-1. Klik op **[!UICONTROL Voorvertoning]** om uw formulier te bekijken nadat de velden zijn toegevoegd.
+   Sleep velden uit het bovenste menu en bewerk de formuliervelddetails in het rechterdeelvenster.
+
+1. Selecteren **[!UICONTROL Voorvertoning]** om uw formulier te bekijken.
 
    ![Formulierstap 3](../assets/Form_3.png)
 
-   Keer eenvoudig terug naar **[!UICONTROL Edit]** om te blijven werken.
+1. Selecteren **[!UICONTROL Bewerken]** om verder te werken, of selecteer **[!UICONTROL Bestand]** **>** **[!UICONTROL Opslaan als]** om het PDF-formulier op te slaan.
 
    ![Formulierstap 4](../assets/Form_4.png)
 
-1. Klik op **[!UICONTROL Bestand > Opslaan als]** om het PDF-formulier op te slaan.
-
-Klik om een PDF te downloaden van de zelfstudie *Invulbare formulieren maken*.
+Selecteer het PDF-pictogram om de *Invulbare formulieren maken* zelfstudie.
 
 [![Zelfstudie Invulbare formulieren maken downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)

@@ -1,59 +1,59 @@
 ---
-title: Toegankelijke PDF-bestanden voorbereiden
-description: Adobe Acrobat Pro DC gebruiken om de toegankelijkheid van uw bestaande PDF-bestanden te controleren
+title: Toegankelijkheid PDF controleren
+description: Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap
 role: User
 product: adobe acrobat
-level: Experienced
+level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Toegankelijke PDF-bestanden voorbereiden
+# Toegankelijkheid van PDF controleren
 
-Leer hoe u de toegankelijkheid van uw bestaande PDF-bestanden kunt controleren. Met het gereedschap **[!UICONTROL Volledige controle/toegankelijkheidscontrole]** wordt gecontroleerd of het document voldoet aan toegankelijkheidsstandaarden, zoals PDF/UA en WCAG 2.0. Het **[!UICONTROL toegankelijkheidsrapport]** geeft een overzicht van de bevindingen van de toegankelijkheidscontrole.
+Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap. Dit omvat toegang voor mensen met een mobiliteitsbeperking, blinden, slechtzienden, doven, slechthorenden of met cognitieve beperkingen.
 
 >[!NOTE]
 >
 >Alleen beschikbaar in Acrobat Pro DC.
 
-## Acrobat Pro DC [!UICONTROL Toegankelijkheidscontrole] gebruiken (Volledige controle)
+## Toegankelijkheidscontrole
 
-1. Selecteer in Acrobat Pro DC **[!UICONTROL Toegankelijkheid]** in het gereedschappencentrum of -venster.
+1. Selecteren **[!UICONTROL Toegankelijkheid]** in het gereedschappencentrum of het rechterdeelvenster.
 
    ![Toegankelijkheidsstap 1](../assets/Accessibility_1.png)
 
-1. Selecteer **[!UICONTROL Volledige controle]** in het rechterdeelvenster.
+1. Selecteren **[!UICONTROL Toegankelijkheidscontrole]** in het rechterdeelvenster.
 
    ![Toegankelijkheidsstap 2](../assets/Accessibility_2.png)
 
-1. Selecteer in het dialoogvenster een categorie in het vervolgkeuzemenu en items in de controlelijst.
+1. Selecteer een categorie in de vervolgkeuzelijst en items in de controlelijst.
 
    Laat elk vak ingeschakeld voor een volledig rapport.
 
-1. Klik **[!UICONTROL Controle starten]** om met het rapport te beginnen.
+1. Selecteren **[!UICONTROL Controle starten]** om te beginnen met het verslag.
 
    ![Toegankelijkheidsstap 3](../assets/Accessibility_3.png)
 
-   Het linkernavigatievenster wordt geopend om de rapportresultaten weer te geven.
-
-1. Vouw een sectie uit om de details weer te geven.
+   Het linkernavigatievenster wordt geopend om de rapportresultaten weer te geven. Vouw een sectie uit om de details weer te geven.
 
    ![Toegankelijkheidsstap 4](../assets/Accessibility_4.png)
 
-U kunt ook de handeling [!UICONTROL Toegankelijk maken] gebruiken in het gereedschap [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), dat een basisset stappen doorloopt om een toegankelijke PDF te maken.
+U kunt ook de opdracht [!UICONTROL Toegankelijk maken] in de [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) een standaardset stappen doorloopt om een toegankelijke PDF te maken.
 
 ## Toegankelijkheidsproblemen oplossen
 
 Klik in het venster Toegankelijkheidsrapport met de rechtermuisknop op een item om het contextmenu te openen. Het contextmenu voor elk item waarvoor de toegankelijkheidscontrole is mislukt, geeft u de mogelijkheid het probleem op te lossen.
 
-*Let op: sommige problemen kunnen niet automatisch worden opgelost en hebben uw handmatige tussenkomst nodig om het probleem op te lossen. In die gevallen wordt in Acrobat een dialoogvenster weergegeven waarin u wordt aangegeven wat u moet corrigeren.*
+>[!NOTE]
+>
+>Sommige problemen kunnen niet automatisch worden opgelost en hebben uw handmatige tussenkomst nodig om het probleem op te lossen. In die gevallen geeft >Acrobat een dialoogvenster weer waarin u wordt aangegeven wat u moet corrigeren.
 
-Klik om een PDF te downloaden van de zelfstudie *Toegankelijke PDF-bestanden voorbereiden*.
+Selecteer het PDF-pictogram om de *Toegankelijkheid van PDF controleren* zelfstudie.
 
-[![Zelfstudie](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf) over toegankelijkheid downloaden.
+[![Zelfstudie over toegankelijkheid downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
