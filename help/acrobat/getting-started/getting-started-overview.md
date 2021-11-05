@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -194,6 +194,16 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <br>
   </td>
   <td>
+    <a href="track.md">
+      <img alt="Uw documenten volgen" src="../assets/Track_1280.png" />
+    </a>
+    <div>
+    <a href="track.md"><strong>Uw documenten volgen</strong></a>
+    </div>
+    <em>Weet altijd welke bestanden wachten op handtekeningen en welke zijn ondertekend</em>
+    <br>
+  </td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -201,11 +211,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
     </div>
     <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
