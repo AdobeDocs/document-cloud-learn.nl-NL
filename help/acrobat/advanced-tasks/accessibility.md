@@ -7,16 +7,16 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Toegankelijkheid van PDF controleren
 
-Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap. Dit omvat toegang voor mensen met een mobiliteitsbeperking, blinden, slechtzienden, doven, slechthorenden of met cognitieve beperkingen.
+Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen met een handicap, inclusief mensen met een mobiliteitsbeperking, blinden, slechtzienden, doven, slechthorenden of met cognitieve beperkingen.
 
 >[!NOTE]
 >
