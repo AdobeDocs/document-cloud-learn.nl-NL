@@ -8,8 +8,8 @@ thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
 source-git-commit: cf207a5bda859635de879758aae307689b708678
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
