@@ -1,20 +1,24 @@
 ---
 title: Combine Files in één PDF
-description: U kunt een groot aantal verschillende bestandstypen, zoals PDF, Word, Excel, PowerPoint of JPEG, combineren in één PDF
+description: Combineer vele verschillende typen bestanden, zoals PDF, Word, Excel, PowerPoint of JPEG, in één PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Bestanden combineren tot één PDF
 
-Leer hoe u een groot aantal verschillende bestandstypen kunt combineren (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. Door bestanden te combineren tot één PDF, kun je content die je naar anderen verzendt beheren en beheren. Zo creëer je een betere ervaring.
+Leer hoe u een groot aantal verschillende bestandstypen kunt combineren (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. Door bestanden te combineren tot één PDF, kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
+
+>[!TIP]
+>
+>Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !

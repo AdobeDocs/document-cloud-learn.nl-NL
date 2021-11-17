@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 2%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
 
@@ -44,3 +44,7 @@ Nu kunt u de aangepaste handeling altijd uitvoeren wanneer u die specifieke reek
 Selecteer het PDF-pictogram om de *Action Wizard* zelfstudie.
 
 [![Zelfstudie Action Wizard downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+
+>[!TIP]
+>
+>Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
