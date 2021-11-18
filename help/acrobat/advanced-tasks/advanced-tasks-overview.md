@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
@@ -30,7 +30,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <div>
     <a href="enhance.md"><strong>Verbeter je PDF</strong></a>
     </div>
-    <em>Transformeer uw PDF door grafische verfraaiingen en automatische nummering toe te voegen</em>
+    <em>Transformeer uw PDF door grafische verbeteringen en automatische nummering toe te voegen</em>
     <br>
   </td>
   <td>
