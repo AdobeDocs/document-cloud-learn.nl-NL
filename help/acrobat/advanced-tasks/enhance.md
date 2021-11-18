@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 364a521c1114cb89e781c07386634a9464676bc3
+source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,13 @@ ht-degree: 0%
 
 Leer hoe u uw PDF kunt transformeren door grafische verfraaiingen en automatische nummering toe te voegen.
 
+&amp;nbsp
+
 ## Wat je nodig hebt
 
-[![Bestanden ophalen](../assets/Getfiles.png)](../assets/Enhance.zip) Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
+[![Bestanden ophalen](../assets/Getfiles.png)](../assets/Enhance.zip)   Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
+
+&amp;nbsp
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
@@ -27,15 +31,15 @@ Gebruik het gereedschap Bewerken om achtergrondafbeeldingen aan uw PDF toe te vo
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
-Wat je hebt geleerd: Achtergrondafbeeldingen toevoegen aan uw PDF met het gereedschap Bewerken.
+**Wat je hebt geleerd: Achtergrondafbeeldingen toevoegen aan uw PDF met het gereedschap Bewerken.**
 
 Door achtergronden toe te voegen, kunt u visuele elementen aan uw PDF toevoegen zonder terug te gaan naar het oorspronkelijke bronbestand of de oorspronkelijke toepassing.
 
-1. Open Altura Technology Employee Handbook.pdf uit de voorbeeldbestanden.
+1. Openen *Altura Technology Employee Handbook.pdf* uit de voorbeeldbestanden.
 1. Selecteren **PDF bewerken** in het rechterdeelvenster.
 1. Selecteren **Meer > Achtergrond > Toevoegen**.
 1. Selecteren **Opties voor paginabereik...** en kies 2 tot en met 26 onder de **Pagina&#39;s van:** en selecteer vervolgens **OK**.
-1. Kies **Bestand** onder de optie Bron en selecteer **Bladeren** om het voorbeeldbestand Background Graphic.pdf toe te voegen.
+1. Kies onder de optie Bron de optie **Bestand** en selecteer **Bladeren** om de *Achtergrondafbeelding.pdf* voorbeeldbestand.
 1. Selecteren **OK** om de achtergrondafbeelding toe te voegen.
 
 ## Leren een nieuwe voettekst toevoegen
@@ -44,13 +48,13 @@ Gebruik het gereedschap Bewerken om een nieuwe voettekst aan uw PDF toe te voege
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
-Wat je hebt geleerd: Een nieuwe voettekst toevoegen aan uw PDF.
+**Wat je hebt geleerd: Een nieuwe voettekst toevoegen aan uw PDF.**
 
 Door nieuwe kop- en voetteksten toe te voegen, kunt u uniforme PDF-bestanden maken voor een betere kijkervaring.
 
 1. Selecteren **Koptekst en voettekst > Toevoegen > Nieuw toevoegen**.
-1. 2 inch kiezen **Voorvertoning van pagina** doos.
-1. Calibri vet onder selecteren **Naam:**, 12 onder **Grootte:** en kies een witte kleur in de sectie Lettertype.
+1. In het dialoogvenster **Voorvertoning van pagina** selecteert 2.
+1. Onder **Naam** Calibri Bold, onder **Grootte** Selecteer 12 en kies een witte kleur in de sectie Lettertype.
 1. Type Altura Technology Vertrouwelijk in de **Tekst linkervoettekst** doos.
 1. Selecteren **Paginanummer invoegen** in de **Tekst gecentreerde voettekst** doos.
 1. Type Revision 3.0 in de **Tekst rechtervoettekst** doos.
