@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafische verbeteringen en automatische nummering toe te voegen.
 
-<br> 
-
-## Wat je nodig hebt
-
-[![Bestanden ophalen](../assets/Getfiles.png)](../assets/Enhance.zip)
-Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![Bestanden ophalen](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
@@ -39,7 +35,7 @@ Door achtergronden toe te voegen, kunt u visuele elementen aan uw PDF toevoegen 
 1. Openen *Altura Technology Employee Handbook.pdf* uit de voorbeeldbestanden.
 1. Selecteren **PDF bewerken** in het rechterdeelvenster.
 1. Selecteren **Meer > Achtergrond > Toevoegen**.
-1. Selecteren **Opties voor paginabereik...** en kies 2 tot en met 26 onder de **Pagina&#39;s van:** en selecteer vervolgens **OK**.
+1. Selecteren **Opties voor paginabereik...** en kiest u tussen 2 en 26 onder de optie **Pagina&#39;s van** en selecteer vervolgens **OK**.
 1. Kies onder de optie Bron de optie **Bestand** en selecteer **Bladeren** om de *Achtergrondafbeelding.pdf* voorbeeldbestand.
 1. Selecteren **OK** om de achtergrondafbeelding toe te voegen.
 
