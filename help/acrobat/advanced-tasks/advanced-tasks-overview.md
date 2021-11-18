@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '224'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,16 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="Verbeter je PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>Verbeter je PDF</strong></a>
+    </div>
+    <em>Transformeer uw PDF door grafische verfraaiingen en automatische nummering toe te voegen</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     </div>
     <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="Redigeren en ontsmetten" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     </div>
     <em>Verwijder persoonlijke of vertrouwelijke informatie permanent uit uw PDF</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="Bestanden verkleinen en optimaliseren" src="../assets/Reduce.jpg" />
@@ -75,6 +85,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <em>Formuliergegevens compileren tot één spreadsheet</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Toegankelijkheid van PDF controleren" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <em>Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
     <em>In deze zes-delige webinarseries gaat u van de basisbeginselen van Toegankelijkheid naar een diepe duik van het etiketteren van uw PDF dossiers</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
