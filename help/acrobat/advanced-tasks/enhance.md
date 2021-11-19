@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafische verbeteringen en automatische nummering toe te voegen.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Bestanden ophalen" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
-  </td>
-</tr>
-</table>
+[![Bestanden ophalen](../assets/Getfiles.svg)](../assets/Enhance.zip)   Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
+
+<br> 
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
@@ -65,14 +58,14 @@ Door nieuwe kop- en voetteksten toe te voegen, kunt u uniforme PDF-bestanden mak
 1. Voer 2 in de **Voorvertoning van pagina** doos.
 1. Selecteer Calibri Bold in het gedeelte Lettertype van het dialoogvenster **Naam** vervolgkeuzelijst.
 Selecteer 12 in het dialoogvenster **Grootte** en kies een witte kleur.
-1. Type Altura Technology Vertrouwelijk in de **Tekst linkervoettekst** doos.
+1. Type *Altura Technology Confidential* in de **Tekst linkervoettekst** doos.
 1. Selecteren **Paginanummer invoegen** in de **Tekst gecentreerde voettekst** doos.
-1. Type Revision 3.0 in de **Tekst rechtervoettekst** doos.
+1. Type *Revisie 3.0* in de **Tekst rechtervoettekst** doos.
 1. Selecteren **Notatie van paginanummers en datums**.
 Voer 2 in onder **Eerste paginanummer** en selecteer **OK**.
 1. Selecteren **Opties voor paginabereik...**.
 Voer 2 tot 26 in onder de **Pagina&#39;s van:** en selecteert u vervolgens **OK**.
 1. Voer 0,7 in de **Onder** van de sectie Marge.
 1. Selecteren **Instellingen opslaan**.
-Type Revision 3.0 in het vak en selecteer **OK**.
+Type *Revisie 3.0* in het vak en selecteer **OK**.
 1. Selecteren **OK** om de nieuwe voettekst toe te passen op de PDF.
