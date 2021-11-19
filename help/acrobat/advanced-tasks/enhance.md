@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
+source-git-commit: 869364fb68d20c7333bee25513dbdf19632a64ed
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 0%
 
 Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafische verbeteringen en automatische nummering toe te voegen.
 
-[![Bestanden ophalen](../assets/Getfiles.svg)](../assets/Enhance.zip)   Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
+## Wat je nodig hebt
+
+[![Bestanden ophalen](../assets/Getfiles.svg)](../assets/Enhance.zip)
+Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
 
 <br> 
 
