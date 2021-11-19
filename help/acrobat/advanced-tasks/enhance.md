@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafisch
 
 >[!TIP]
 >
->Download deze voorbeeldbestanden om mee te oefenen (ZIP, 342 kB)
+>[Deze voorbeeldbestanden downloaden](../assets/Enhance.zip) om mee te oefenen (ZIP, 342 kB)
 
-[![Bestanden ophalen](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Bestanden ophalen](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
@@ -61,5 +62,3 @@ Door nieuwe kop- en voetteksten toe te voegen, kunt u uniforme PDF-bestanden mak
 1. Kies 0,7 in het menu **Onder** van de sectie Marge.
 1. Selecteren **Instellingen opslaan**, typt u Revision 3.0 in het vak en selecteert u **OK**.
 1. Selecteren **OK** om de nieuwe voettekst toe te passen op de PDF.
-
-
