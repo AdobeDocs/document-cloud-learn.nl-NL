@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ Ontdek hoe je klantervaringen en werknemerservaringen kunt transformeren door pr
 
 ## Overheid
 
-Bekijk onze Acrobat DC-tutorials die speciaal zijn ontworpen voor federale, staats- en lokale overheden.
+Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats- en lokale overheden.
 
 * [Acrobat Tutorials voor overheidsoverzicht](gov/gov-overview.md)

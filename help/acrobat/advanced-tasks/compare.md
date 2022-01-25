@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8496.jpg
 kt: 8496
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Maak nooit de fout om met de verkeerde versie van een bestand te werken. Detecte
 
 >[!NOTE]
 >
->Alleen beschikbaar in Acrobat Pro DC.
+>Alleen beschikbaar in Acrobat Pro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
 

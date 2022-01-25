@@ -3,31 +3,31 @@ title: PDF-bestanden delen en online reviewen
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 26%
 
 ---
 
 # PDF-bestanden delen en online reviewen
 
-Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat DC-bureaubladtoepassing, het Document Cloud-web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging op hun computer klikken, kunnen ze eenvoudig feedback geven in een browser, zonder zich te hoeven aanmelden of extra software te hoeven gebruiken.
+Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat-bureaubladtoepassing, het Document Cloud web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging op hun computer klikken, kunnen ze eenvoudig feedback geven in een browser, zonder zich te hoeven aanmelden of extra software te hoeven gebruiken.
 
 In deze exercitie bekijken we hoe
 
 * Persoonlijke uitnodigingen verzenden voor opmerkingen
 * Een anonieme of openbare koppeling verzenden in een e-mailbericht
 
-Hier zijn de [demobestanden](assets/01_Review.zip) voor deze oefening.
+Hier zijn de [demo-bestanden](assets/01_Review.zip) voor deze oefening.
 
 ## Persoonlijke uitnodigingen verzenden voor opmerkingen
 
-**Stap 1:** Open het  `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
+**Stap 1:** Open de `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
 
 ![Afbeelding stap 1](assets/Step1.png)
 
-**Stap 2:** Klik op  **[!UICONTROL Verzenden voor]** opmerkingen in het rechterdeelvenster of op het pictogram Dit bestand  **[!UICONTROL delen met]** ![](assets/sendforcommentsicon.png)  andere opmerkingen in de rechterbovenhoek.
+**Stap 2:** Klik op **[!UICONTROL Send for Comments]** in het rechterdeelvenster of in het **[!UICONTROL Dit bestand delen met anderen]** ![commentaarsicon](assets/sendforcommentsicon.png)  in de rechterbovenhoek.
 
 **Stap 3:** Voer de e-mailadressen van de ontvangers in. U kunt een bericht aan de ontvangers invoeren of een deadline voor de revisie toevoegen.
 
@@ -43,21 +43,21 @@ De revisoren ontvangen een uitnodiging per e-mail met daarin een koppeling naar 
 
 ## Een anonieme of openbare koppeling verzenden in een e-mailbericht
 
-**Stap 1:** Open het  `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
+**Stap 1:** Open de `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
 
-**Stap 2:** Klik op  **[!UICONTROL Een]** ![Linklinkpictogram](assets/sendlinkicon.png) delen. De gedeelde koppeling wordt meteen gegenereerd. U hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard is de schakeloptie [!UICONTROL Opmerkingen toestaan] ingeschakeld.
+**Stap 2:** Klikken **[!UICONTROL Een koppeling delen]** ![koppelingspictogram](assets/sendlinkicon.png). De gedeelde koppeling wordt meteen gegenereerd. U hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard worden de [!UICONTROL Opmerkingen toestaan] switch is aan.
 
 ![Stap 2L-afbeelding](assets/Step2L.png)
 
-**Stap 3:** Klik op  **[!UICONTROL Koppeling]** kopiëren en deel de koppeling met de ontvangers.
+**Stap 3:** Klikken **[!UICONTROL Koppeling kopiëren]** en deel de koppeling met de ontvangers.
 
 ## Opmerkingen maken
 
-**Stap 1:** Klik op de  **** opmerking in het rechterdeelvenster.
+**Stap 1:** Klik op **[!UICONTROL Opmerking]** in het rechterdeelvenster.
 
 ![Opmerking klikken](assets/Cselect.jpg)
 
-**Stap 2:** Gebruik de gereedschappen voor het bovenste lint om het document te markeren en/of een opmerking te typen.
+**Stap 2:** Gebruik de gereedschappen op het bovenste lint om het document te markeren en/of een opmerking te typen.
 
 ![opmerking ui](assets/commentsui.png)
 
@@ -65,21 +65,21 @@ Uw opmerkingen worden automatisch opgeslagen en kunnen door anderen worden weerg
 
 ## PDF-opmerkingen importeren naar InDesign
 
-Met InDesign CC 2019 kunt u opmerkingen rechtstreeks importeren uit PDF-bestanden. U kunt de wijzigingen met slechts één klik importeren, accepteren en toepassen. Als u een opmerking selecteert in het nieuwe deelvenster PDF-opmerkingen, wordt de opmerking gezocht en gemarkeerd in uw InDesign-bestand.
+Met InDesign CC 2019 kunt u opmerkingen rechtstreeks importeren uit PDF-bestanden. U kunt de wijzigingen met slechts één klik importeren, accepteren en toepassen. Als u een opmerking selecteert in het nieuwe deelvenster Opmerkingen PDF, wordt de opmerking gezocht en gemarkeerd in uw InDesign-bestand.
 
 **Stap 1:** Download het PDF-bestand met de opmerkingen.
 
 **Stap 2:** Open uw InDesign-bestand.
 
-**Stap 3:** Klik op  **** Bestand in het bovenste menu.
+**Stap 3:** Klikken **[!UICONTROL Bestand]** in het bovenste menu.
 
-![PDF-opmerkingen in Indd](assets/inddpdf.png)
+![PDF opmerkingen in Indd](assets/inddpdf.png)
 
-**Stap 4:** Klik in het vervolgkeuzemenu op  **[!UICONTROL PDF-]** opmerkingen importeren.
+**Stap 4:** Klikken **[!UICONTROL PDF-opmerkingen importeren]** uit de vervolgkeuzelijst.
 
 **Stap 5:** Open de PDF met de opmerkingen.
 
-![PDF-opmerkingen in Indd](assets/inddpdfshown.png)
+![PDF opmerkingen in Indd](assets/inddpdfshown.png)
 
 Opmerkingen worden weergegeven in de gebruikersinterface.
 
@@ -87,7 +87,7 @@ Opmerkingen worden weergegeven in de gebruikersinterface.
 
 Bekijk en deel ontwerpversies met Acrobat. Met Acrobat kunt u:
 
-* Verzend een koppeling naar een PDF ter revisie naar anderen.
+* Verzend een koppeling naar een PDF ter revisie door anderen.
 * Overal reviewen - desktop, browser, mobiel.
 * Verzamel in één document.
 * Beheer feedback op één georganiseerde locatie.

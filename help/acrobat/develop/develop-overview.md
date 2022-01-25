@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 5%
 
 ---
 
@@ -21,9 +21,9 @@ Ontwikkel software die kan worden geïntegreerd met Acrobat en Adobe Reader met 
 
 ## Acrobat SDK
 
-De [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} is een reeks hulpmiddelen die u helpen software te ontwikkelen die met de technologie van Acrobat in wisselwerking staat.
+De [Acrobat SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} is een set gereedschappen waarmee u software kunt ontwikkelen die communiceert met Acrobat-technologie.
 
 ## Adobe Document Services API&#39;s
 
-[API&#39;s voor ingesloten weergave en bewerking van PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;} 
-[Document Services-zelfstudies](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
+[API&#39;s voor ingesloten weergave en bewerking van PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[Zelfstudies voor Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ![Aan de slag met Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat DC. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
+Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
 
 ## Acrobat-zelfstudies
 

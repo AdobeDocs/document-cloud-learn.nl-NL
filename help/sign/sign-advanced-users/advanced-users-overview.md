@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -83,7 +83,7 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign-tekstlabels</strong></a>
     </div>
-    <em>Adobe Sign-formuliervelden maken met tekstlabels met Adobe Acrobat DC</em>
+    <em>Adobe Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
     <br>
   </td> 
 </table>

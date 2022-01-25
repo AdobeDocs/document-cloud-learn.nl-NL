@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Gebruik het gereedschap Bewerken om achtergrondafbeeldingen aan uw PDF toe te vo
 
 <br> 
 
-**Wat je hebt geleerd: Achtergrondafbeeldingen toevoegen aan uw PDF met het gereedschap Bewerken.**
+## Wat je hebt geleerd: Achtergrondafbeeldingen aan uw PDF toevoegen
 
 Door achtergronden toe te voegen, kunt u visuele elementen aan uw PDF toevoegen zonder terug te gaan naar het oorspronkelijke bronbestand of de oorspronkelijke toepassing.
 
@@ -55,7 +55,7 @@ Gebruik het gereedschap Bewerken om een nieuwe voettekst aan uw PDF toe te voege
 
 <br> 
 
-**Wat je hebt geleerd: Een nieuwe voettekst toevoegen aan uw PDF.**
+## Wat je hebt geleerd: Een nieuwe voettekst toevoegen aan uw PDF
 
 Door nieuwe kop- en voetteksten toe te voegen, kunt u uniforme PDF-bestanden maken voor een betere kijkervaring.
 
