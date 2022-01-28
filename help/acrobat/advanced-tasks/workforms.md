@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Gebruik het gereedschap Prepare Form om automatisch formuliervelden toe te voege
 >[!TIP]
 >
 >Schakel in uw Voorkeuren onder de categorie Algemeen de sneltoetsen van één toets in.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Comb-eigenschappen worden gebruikt om tekst gelijkmatig te verspreiden over de b
 
 ## Leer hoe u eigenschappen voor meerdere velden tegelijk instelt, de tabvolgorde en een formulier beveiligt
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Als u eigenschappen voor meerdere velden tegelijk wilt instellen, moet u de tabv
 
 Door de tabvolgorde in te stellen, zorgt u ervoor dat de invuller van het formulier eenvoudig van veld naar veld kan gaan terwijl hij het formulier invult.
 
-1. Typ Shift + N om de tabvolgorde weer te geven.
+1. Type *Shift + N* om de tabvolgorde weer te geven.
 1. Verplaats de *HQ-locatie* veld onder de *Aantal werknemers* in het rechterdeelvenster.
 1. Verplaats de *Start project* en *Einde project* velden onder de *E-MAILADRES* in het rechterdeelvenster.
 
 Door een formulier te beveiligen, weet u zeker dat de velden of inhoud van het document niet kunnen worden gewijzigd.
 
-1. Typ Ctrl + D (Cmd + D op de Mac) om de **Documenteigenschappen** in.
+1. Type *Ctrl + D (Cmd + D op de Mac)* om de **Documenteigenschappen** in.
 1. Selecteer het tabblad **Beveiliging.**
 1. Selecteren **Wachtwoordbeveiliging** onder de **Beveiligingsmethode:** vervolgkeuzelijst.
 1. Controleren **Bewerken en afdrukken van het document beperken. U hebt een wachtwoord nodig om deze machtigingsinstellingen te wijzigen.**
