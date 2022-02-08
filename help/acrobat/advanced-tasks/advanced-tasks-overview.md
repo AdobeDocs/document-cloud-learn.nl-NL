@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizeseo.md">
+      <img alt="Optimize PDF voor SEO" src="../assets/seo_1280.png" />
+    </a>
+    <div>
+    <a href="optimizeseo.md"><strong>Optimize PDF voor SEO</strong></a>
+    </div>
+    <em>Optimaliseer een PDF voor betere vindbaarheid en positie van zoekmachines op het web</em>
+    <br>
+  </td>
   <td>
     <a href="workforms.md">
       <img alt="Werken met formuliervelden" src="../assets/Workform_1280.png" />
@@ -43,7 +53,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Transformeer uw PDF door grafische verbeteringen en automatische nummering toe te voegen</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="compare.md">
       <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/Compare_1280.png" />
     </a>
@@ -52,9 +64,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     </div>
     <em>Snel en nauwkeurig de verschillen tussen twee PDF-bestanden detecteren</em>
     <br>
-  </td>
-</tr>
-<tr>
+  </td> 
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -75,6 +85,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verwijder persoonlijke of vertrouwelijke informatie permanent uit uw PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="reduce.md">
       <img alt="Bestanden verkleinen en optimaliseren" src="../assets/Reduce.jpg" />
@@ -85,9 +97,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -107,6 +117,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/Accessibilityseries_1280.png" />
@@ -115,6 +127,16 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
     <em>In deze zes-delige webinarseries gaat u van de basisbeginselen van Toegankelijkheid naar een diepe duik van het etiketteren van uw PDF dossiers</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
