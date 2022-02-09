@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---

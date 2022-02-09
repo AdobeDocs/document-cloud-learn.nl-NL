@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -25,10 +25,10 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 <tr>
   <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF voor SEO" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDF voor SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>Optimize PDF voor SEO</strong></a>
+    <a href="optimizeseo.md"><strong>Optimize PDF voor SEO (Search Engine Optimization)</strong></a>
     </div>
     <em>Optimaliseer een PDF voor betere vindbaarheid en positie van zoekmachines op het web</em>
     <br>
