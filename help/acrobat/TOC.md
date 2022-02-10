@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
+source-git-commit: 8e10aac6ae42846fe1fa77d65fd933f741e3bbbc
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 7%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 7%
    + [Overzicht](industry/industry-overview.md)
    + Overheid {#gov}
       + [Overzicht](industry/gov/gov-overview.md)
-      + 5 tips voor het overal werken met Acrobat DC {#tips}
+      + 5 tips voor het overal werken met Acrobat {#tips}
          + [5 tips voor het overal werken met Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
