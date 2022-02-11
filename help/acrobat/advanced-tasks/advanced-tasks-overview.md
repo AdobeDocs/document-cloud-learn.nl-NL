@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: c7c0d0d337dd385ac0e90bbfeef24d926424dce5
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -109,12 +109,12 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
   </td>
    <td>
     <a href="accessibility.md">
-      <img alt="Toegankelijkheid van PDF controleren" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Toegankelijkheid PDF controleren" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Toegankelijkheid van PDF controleren</strong></a>
+    <a href="accessibility.md"><strong>Toegankelijkheid PDF controleren</strong></a>
     </div>
-    <em>Leer hoe je kunt controleren of je PDF overal toegankelijk is voor mensen met een handicap</em>
+    <em>Controleren of uw PDF algemeen toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
 </tr>
