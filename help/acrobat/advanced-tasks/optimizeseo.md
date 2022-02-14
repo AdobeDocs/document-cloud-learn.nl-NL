@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave 
 Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de PDF. **Snelle webweergave** Hiermee kan het bestand direct worden geopend, weergegeven en doorzocht voordat het hele bestand wordt gestreamd of gedownload. Zo ontstaat een optimale ervaring voor de eindgebruiker. Openen **[!UICONTROL Documenteigenschappen]** (*Ctrl + D* in Windows of *Cmd + D* in Mac) om te bepalen of **Snelle webweergave** is ingeschakeld.
 
 ![Schermafbeelding van documenteigenschappen](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Als u Acrobat Pro hebt, voert u Optimaliseren voor web en mobiel uit in het gereedschap Action Wizard. Met deze handeling worden kleuren omgezet in sRGB en worden lettertypen ingesloten voor een consistente weergave van PDF op verschillende browsers en mobiele apparaten.
 
 ## Een trefwoordbestandsnaam maken
 
