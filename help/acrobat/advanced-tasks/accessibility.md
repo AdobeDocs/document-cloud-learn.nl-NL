@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen
 
 >[!NOTE]
 >
->Alleen beschikbaar in Acrobat Pro DC.
+>Alleen beschikbaar in Acrobat Pro.
 
 ## Toegankelijkheidscontrole
 
