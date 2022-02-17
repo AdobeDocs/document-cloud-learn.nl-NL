@@ -1,15 +1,15 @@
 ---
 title: Acrobat-overzicht van 60 seconden
-description: 60-Seconde Acrobat biedt tutorials ter grootte van een hap om je in één minuut of minder te helpen een nieuwe truc in Acrobat DC te leren
+description: 60-Seconde Acrobat biedt tutorials ter grootte van een hap om je in één minuut of minder te helpen een nieuwe truc in Acrobat te leren
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,75 @@ ht-degree: 0%
 
 ![Acrobat-afbeelding van 60 seconden](../assets/Hero-60sec.png)
 
-60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je te helpen in Acrobat DC in één minuut of minder een nieuwe truc te leren. Met deze taakgebaseerde tips kun je nieuwe vaardigheden voor het werken met PDF-bestanden opdoen door enkele verborgen elementen van Acrobat te ontgrendelen. Je kunt er een bekijken om snel antwoord te krijgen, of vijf bekijken om je documentproductiviteit te verhogen - en nog steeds tijd hebben om van je koffiepauze te genieten.
+60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je te helpen in Acrobat in één minuut of minder een nieuwe truc te leren. Met deze taakgebaseerde tips kun je nieuwe vaardigheden voor het werken met PDF-bestanden opdoen door enkele verborgen elementen van Acrobat te ontgrendelen. Je kunt er een bekijken om snel antwoord te krijgen, of vijf bekijken om je documentproductiviteit te verhogen - en nog steeds tijd hebben om van je koffiepauze te genieten.
 
 ## Zelfstudies voor Acrobat van 60 seconden
 
 <table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="optimize.md">
+      <img alt="Eenvoudiger PDF-bestanden maken" src="../assets/60sec_Optimize_1280.jpg" />
+    </a>
+    <div>
+    <a href="optimize.md"><strong>Eenvoudiger PDF-bestanden maken</strong></a>
+    </div>
+    <em>Gebruik de Optimize PDF-tool om de grootte van uw PDF-bestanden aanzienlijk te verkleinen</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect uw PDF-bestanden met een wachtwoord" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect uw PDF-bestanden met een wachtwoord</strong></a>
+    </div>
+    <em>Protect a PDF zodat er een wachtwoord vereist is om de PDF te openen of te bewerken</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="Word converteren naar PDF, inclusief formuliervelden" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Word converteren naar PDF, inclusief formuliervelden</strong></a>
+    </div>
+    <em>Word-bestanden en -formulieren converteren naar PDF en automatisch formuliervelden maken</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Acrobat helpen bij het maken van toegankelijke PDF" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Acrobat helpen bij het maken van toegankelijke PDF</strong></a>
+    </div>
+    <em>Controleren of een PDF toegankelijk is</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF aan Word van uw telefoon" src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>Export PDF aan Word van uw telefoon</strong></a>
+    </div>
+    <em>Een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Word-document met de mobiele Acrobat-app</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="Tekst in een gescand PDF-bestand herkennen" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>Tekst in een gescand PDF-bestand herkennen</strong></a>
+    </div>
+    <em>Een gescande PDF omzetten zodat u naar tekst in de PDF kunt zoeken</em>
+    <br>
+  </td>
+</tr>
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
@@ -115,7 +179,7 @@ ht-degree: 0%
     <div>
     <a href="editgraphic.md"><strong>Een afbeelding in uw PDF bewerken</strong></a>
     </div>
-    <em>Leer geavanceerde bewerkingen uit te voeren op een afbeelding in uw PDF met Illustrator</em>
+    <em>Leer hoe u geavanceerde bewerkingen kunt uitvoeren op een afbeelding in uw PDF met Illustrator</em>
     <br>
   </td> 
 </tr>

@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 9%
+source-wordcount: '387'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 9%
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
 + Acrobat van 60 seconden {#60-second}
    + [Overzicht](60-second/60-second-overview.md)
+   + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
+   + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
+   + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
+   + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
+   + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
+   + [Tekst in een gescand PDF-bestand herkennen](60-second/textrecognition.md)
    + [Bestanden combineren tot één PDF](60-second/combine-to-one-pdf.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
