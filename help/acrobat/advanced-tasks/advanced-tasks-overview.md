@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="Aangepaste opdrachten en gereedschappen" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>Aangepaste opdrachten en gereedschappen</strong></a>
+    </div>
+    <em>Verbeter de productiviteit van de documentworkflow met behulp van aangepaste opdrachten en gereedschappen</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Geavanceerde formuliervelden" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Optimaliseer een PDF voor betere vindbaarheid en positie van zoekmachines op het web</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="Werken met formuliervelden" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verschillende typen formuliervelden toevoegen, eigenschappen van formuliervelden instellen en beveiliging toevoegen om professionele formulieren van hoge kwaliteit te maken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Verbeter je PDF" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     </div>
     <em>Snel en nauwkeurig de verschillen tussen twee PDF-bestanden detecteren</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     </div>
     <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="Redigeren en ontsmetten" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Formuliergegevens compileren tot één spreadsheet</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Toegankelijkheid PDF controleren" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Controleren of uw PDF algemeen toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
     <em>In deze zes-delige webinarseries gaat u van de basisbeginselen van Toegankelijkheid naar een diepe duik van het etiketteren van uw PDF dossiers</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
