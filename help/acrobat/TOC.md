@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 8%
@@ -51,7 +51,7 @@ ht-degree: 8%
    + [Redigeren en ontsmetten](advanced-tasks/redact.md)
    + [Bestanden verkleinen en optimaliseren](advanced-tasks/reduce.md)
    + [Werken met formuliergegevens](advanced-tasks/formdata.md)
-   + [Toegankelijkheid van PDF controleren](advanced-tasks/accessibility.md)
+   + [Toegankelijkheid PDF controleren](advanced-tasks/accessibility.md)
    + Acrobat Accessibility-reeks {#accessibility-series}
       + [Overzicht](advanced-tasks/accessibility-series.md)
       + [Inleiding tot toegankelijkheid PDF](advanced-tasks/accessibilitysession1.md)
