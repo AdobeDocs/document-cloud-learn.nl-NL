@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
 
 ## Unieke inhoud maken
 
-Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s. PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
+Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s.
+
++++Leer hoe
+
+PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 
 * Eén hoofdkop/titel gebruiken die begint met een trefwoord
 * Trefwoordsubkoppen gebruiken die zijn geordend in een hiërarchische structuur
@@ -31,9 +35,15 @@ Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s. PDF-inhoud 
 
    ![Schermafbeelding van de vloeiende modus in de mobiele Acrobat Reader-app](../assets/optimizeseo1.png)
 
++++
+
 ## Documenteigenschappen toevoegen
 
-PDF-bestanden hebben een titel en een meta-beschrijving, net als een webpagina. Sleutel toevoegen **[!UICONTROL Documenteigenschappen]** als volgt:
+PDF-bestanden hebben een titel en een meta-beschrijving, net als een webpagina.
+
++++Leer hoe
+
+Sleutel toevoegen **[!UICONTROL Documenteigenschappen]** als volgt:
 
 1. Selecteren **[!UICONTROL Bestand > Eigenschappen]** of gebruik de sneltoets *Ctrl + D* in Windows of *Cmd + D* op Mac en selecteer de **[!UICONTROL Beschrijving]** tabblad.
 1. Voer een titel die is geoptimaliseerd voor trefwoorden in het dialoogvenster **[!UICONTROL Titel:]** veld.
@@ -44,13 +54,19 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
    ![Schermafbeelding van documenteigenschappen](../assets/optimizeseo2.png)
 
++++
+
 ## Tag uw PDF
 
 >[!NOTE]
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) voor mensen met een handicap: het verbetert ook de SEO. Een PDF als volgt labelen:
+Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) voor mensen met een handicap: het verbetert ook de SEO.
+
++++Leer hoe
+
+Een PDF als volgt labelen:
 
 1. Selecteren **[!UICONTROL Toegankelijkheid]** in de **[!UICONTROL Gereedschappen]** midden.
 1. Selecteren **[!UICONTROL Automatisch labelen van document]** in het rechterdeelvenster.
@@ -60,9 +76,15 @@ Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://expe
 
    ![Screenshot van het instellen van alternatieve tekst in PDF](../assets/optimizeseo3.png)
 
++++
+
 ## Voorbereiden voor web
 
-Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave en de bestandsgrootte te reduceren. Als u uw PDF wilt voorbereiden voor het web, selecteert u **[!UICONTROL Bestand > Opslaan als > Kleinere PDF]**.
+Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave en de bestandsgrootte te reduceren.
+
++++Leer hoe
+
+Als u uw PDF wilt voorbereiden voor het web, selecteert u **[!UICONTROL Bestand > Opslaan als > Kleinere PDF]**.
 
 ![Schermafbeelding van documenteigenschappen](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de 
 >
 >Als u Acrobat Pro hebt, voert u Optimaliseren voor web en mobiel uit in het gereedschap Action Wizard. Met deze handeling worden kleuren omgezet in sRGB en worden lettertypen ingesloten voor een consistente weergave van PDF op verschillende browsers en mobiele apparaten.
 
++++
+
 ## Een trefwoordbestandsnaam maken
+
++++Leer hoe
 
 De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt geplaatst. U kunt het beste de titel die is geoptimaliseerd voor trefwoorden laten overeenkomen met de bestandsnaam. Zoekvriendelijk zijn - gebruik kleine letters, geen leestekens of hashes en vermijd stopwoorden (a, an, the en, it, for, or, but, in, my, your, our, and their, etc.). Als u afzonderlijke woorden gebruikt, voegt u afbreekstreepjes of onderstrepingstekens toe tussen de woorden.
 
++++
+
 ## Uw PDF beveiligen
 
-De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voorkomen. Beveilig een PDF als volgt:
+De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voorkomen.
+
++++Leer hoe
+
+Beveilig een PDF als volgt:
 
 1. Openen **[!UICONTROL Documenteigenschappen]** (*Ctrl + D* in Windows of *Cmd + D* in Mac) en selecteer de **[!UICONTROL Beveiliging]** tabblad.
 1. Controleren **[!UICONTROL Bewerken en afdrukken van het document. U hebt een wachtwoord nodig om deze instellingen te kunnen wijzigen.]**
@@ -90,5 +122,7 @@ De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voo
 1. Selecteren **[!UICONTROL OK]** en sla het bestand op.
 
    ![Schermafbeelding van documenteigenschappen](../assets/optimizeseo6.png)
+
++++
 
 Nu is je PDF klaar om op het web te worden geplaatst - met een optimaal beoordelingspotentieel voor trefwoorden en interactie met eindgebruikers.
