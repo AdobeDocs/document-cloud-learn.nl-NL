@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
 
 Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s.
 
-+++Leer hoe
++++Bekijk details over het maken van unieke inhoud
 
 PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 
@@ -37,11 +37,13 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 
 +++
 
+<br> 
+
 ## Documenteigenschappen toevoegen
 
 PDF-bestanden hebben een titel en een meta-beschrijving, net als een webpagina.
 
-+++Leer hoe
++++Bekijk details over het toevoegen van documenteigenschappen
 
 Sleutel toevoegen **[!UICONTROL Documenteigenschappen]** als volgt:
 
@@ -56,6 +58,8 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 +++
 
+<br> 
+
 ## Tag uw PDF
 
 >[!NOTE]
@@ -64,7 +68,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) voor mensen met een handicap: het verbetert ook de SEO.
 
-+++Leer hoe
++++Bekijk details over het labelen van een PDF
 
 Een PDF als volgt labelen:
 
@@ -78,11 +82,15 @@ Een PDF als volgt labelen:
 
 +++
 
+<br> 
+
 ## Voorbereiden voor web
 
 Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave en de bestandsgrootte te reduceren.
 
-+++Leer hoe
++++Bekijk details over hoe u uw PDF voorbereidt voor het web
+
+Bereid uw PDF als volgt voor op het web:
 
 Als u uw PDF wilt voorbereiden voor het web, selecteert u **[!UICONTROL Bestand > Opslaan als > Kleinere PDF]**.
 
@@ -98,19 +106,25 @@ Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de 
 
 +++
 
+<br> 
+
 ## Een trefwoordbestandsnaam maken
 
-+++Leer hoe
++++Bekijk details over het maken van een trefwoordbestandsnaam
+
+Maak als volgt een trefwoordbestandsnaam:
 
 De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt geplaatst. U kunt het beste de titel die is geoptimaliseerd voor trefwoorden laten overeenkomen met de bestandsnaam. Zoekvriendelijk zijn - gebruik kleine letters, geen leestekens of hashes en vermijd stopwoorden (a, an, the en, it, for, or, but, in, my, your, our, and their, etc.). Als u afzonderlijke woorden gebruikt, voegt u afbreekstreepjes of onderstrepingstekens toe tussen de woorden.
 
 +++
 
+<br> 
+
 ## Uw PDF beveiligen
 
 De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voorkomen.
 
-+++Leer hoe
++++Bekijk details over het beveiligen van je PDF
 
 Beveilig een PDF als volgt:
 
