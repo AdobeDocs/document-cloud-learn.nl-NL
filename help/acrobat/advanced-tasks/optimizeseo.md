@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
+source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web.
 
-## Unieke inhoud maken
+## 1. Unieke inhoud maken
 
 Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s.
 
@@ -39,7 +39,7 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 
 <br> 
 
-## Documenteigenschappen toevoegen
+## 2. Documenteigenschappen toevoegen
 
 PDF-bestanden hebben een titel en een meta-beschrijving, net als een webpagina.
 
@@ -60,7 +60,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 <br> 
 
-## Tag uw PDF
+## 3. Tag uw PDF
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Een PDF als volgt labelen:
 
 <br> 
 
-## Voorbereiden voor web
+## 4. Voorbereiden voor web
 
 Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave en de bestandsgrootte te reduceren.
 
@@ -108,7 +108,7 @@ Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de 
 
 <br> 
 
-## Een trefwoordbestandsnaam maken
+## 5. Een trefwoordbestandsnaam maken
 
 +++Bekijk details over het maken van een trefwoordbestandsnaam
 
@@ -120,7 +120,7 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 <br> 
 
-## Uw PDF beveiligen
+## 6. Uw PDF beveiligen
 
 De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voorkomen.
 
