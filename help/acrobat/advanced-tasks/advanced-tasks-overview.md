@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="Bladwijzers en hyperlinks toevoegen" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>Bladwijzers en hyperlinks toevoegen</strong></a>
+    </div>
+    <em>Leer hoe u gescande documenten kunt verbeteren voor een betere weergave en zoekervaring voor PDF</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Gescande documenten optimaliseren" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verbeter de productiviteit van de documentworkflow met behulp van aangepaste opdrachten en tools</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="Geavanceerde formuliervelden" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Leer geavanceerde technieken voor het opbouwen van professionele PDF forms</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF voor SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verschillende typen formuliervelden toevoegen, eigenschappen van formuliervelden instellen en beveiliging toevoegen om professionele formulieren van hoge kwaliteit te maken</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="Verbeter je PDF" src="../assets/Enhance_1280.png" />
@@ -84,10 +96,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     </div>
     <em>Transformeer uw PDF door grafische verbeteringen en automatische nummering toe te voegen</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
       <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/Compare_1280.png" />
     </a>
@@ -107,7 +117,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="Redigeren en ontsmetten" src="../assets/Redact.jpg" />
     </a>
@@ -117,8 +129,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verwijder persoonlijke of vertrouwelijke informatie permanent uit uw PDF</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
       <img alt="Bestanden verkleinen en optimaliseren" src="../assets/Reduce.jpg" />
@@ -139,7 +149,9 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Formuliergegevens compileren tot één spreadsheet</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="Toegankelijkheid PDF controleren" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Controleren of uw PDF algemeen toegankelijk is voor mensen met een handicap</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-reeks</strong></a>
     </div>
     <em>In deze zes-delige webinarseries gaat u van de basisbeginselen van Toegankelijkheid naar een diepe duik van het etiketteren van uw PDF dossiers</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
