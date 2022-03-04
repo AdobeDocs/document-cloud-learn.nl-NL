@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <div>
     <a href="bookmarks.md"><strong>Bladwijzers en hyperlinks toevoegen</strong></a>
     </div>
-    <em>Leer hoe u gescande documenten kunt verbeteren voor een betere weergave en zoekervaring voor PDF</em>
+    <em>Leer hoe u bladwijzers en hyperlinks toevoegt voor betere navigatie en interactie</em>
     <br>
   </td>
   <td>
