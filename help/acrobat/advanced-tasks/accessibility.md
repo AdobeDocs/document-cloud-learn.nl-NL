@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ Klik in het venster Toegankelijkheidsrapport met de rechtermuisknop op een item 
 >[!NOTE]
 >
 >Sommige problemen kunnen niet automatisch worden opgelost en hebben uw handmatige tussenkomst nodig om het probleem op te lossen. In die gevallen geeft >Acrobat een dialoogvenster weer waarin u wordt aangegeven wat u moet corrigeren.
-
-Selecteer het PDF-pictogram om de *Toegankelijkheid van PDF controleren* zelfstudie.
-
-[![Zelfstudie over toegankelijkheid downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).

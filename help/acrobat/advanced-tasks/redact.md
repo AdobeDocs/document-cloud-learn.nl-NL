@@ -1,21 +1,21 @@
 ---
 title: Redigeren en ontsmetten
-description: Learn how to permanently remove private or sensitive information from your PDF
+description: Leer hoe u persoonlijke of vertrouwelijke informatie permanent uit uw PDF kunt verwijderen
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # Redigeren en ontsmetten
 
-Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke informatie permanent uit uw PDF te verwijderen. Use the Sanitize tool to remove information that is not visible in the file, such as comments, metadata, or hidden layers.
+Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke informatie permanent uit uw PDF te verwijderen. Gebruik het gereedschap ontsmetten om informatie te verwijderen die niet zichtbaar is in het bestand, zoals opmerkingen, metagegevens of verborgen lagen.
 
 >[!NOTE]
 >
@@ -25,13 +25,13 @@ Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke 
 
 1. Selecteren **[!UICONTROL Redigeren]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
 
-   ![Redact Step 1](../assets/Redact_1.png)
+   ![Stap 1 redigeren](../assets/Redact_1.png)
 
-1. Select **[!UICONTROL Redact Text &amp; Images]** **>** **[!UICONTROL Properties]** to customize the appearance of your redactions including color of redaction boxes or text overlay.
+1. Selecteren **[!UICONTROL Tekst en afbeeldingen redigeren]** **>** **[!UICONTROL Eigenschappen]** om de weergave van uw redacties aan te passen, inclusief de kleur van redactievakken of tekstbedekking.
 
    ![Stap 2 redigeren](../assets/Redact_2.png)
 
-   Als u informatie wilt redigeren, markeert u eerst de onderdelen die u wilt verwijderen en past u de redactie toe. You can redact entire pages or selected content.
+   Als u informatie wilt redigeren, markeert u eerst de onderdelen die u wilt verwijderen en past u de redactie toe. U kunt volledige pagina&#39;s of geselecteerde inhoud redigeren.
 
 1. Selecteren **[!UICONTROL Pagina&#39;s redigeren]** kiest u de pagina of het paginabereik dat u wilt redigeren, en selecteert u **[!UICONTROL OK]**.
 
@@ -41,33 +41,29 @@ Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke 
 
    ![Stap 5a redigeren](../assets/Redact_4.png)
 
-1. Select **[!UICONTROL Redact Text &amp; Images]** **>** **[!UICONTROL Find Text &amp; Redact]** to find specific content to redact.
+1. Selecteren **[!UICONTROL Tekst en afbeeldingen redigeren]** **>** **[!UICONTROL Tekst zoeken en redigeren]** om specifieke inhoud te zoeken die u wilt redigeren.
 
-   Use the search box to search for a specific word or phrase.
+   Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgroep.
 
 1. Selecteren **[!UICONTROL Patronen]** om bepaalde soorten informatie te vinden, dan de vakjes te controleren en te selecteren **[!UICONTROL Tekst zoeken en verwijderen]**.
 
    ![Stap 5b redigeren](../assets/Redact_5.png)
 
-1. Select **[!UICONTROL Apply]** in the [!UICONTROL Redact] top menu to apply the marked redactions and save the redacted file.
+1. Selecteren **[!UICONTROL Toepassen]** in de [!UICONTROL Redigeren] bovenste menu om de gemarkeerde redactiewijzigingen toe te passen en het geredigeerde bestand op te slaan.
 
-   ![Redact Step 6](../assets/Redact_6.png)
+   ![Stap 6 redigeren](../assets/Redact_6.png)
 
-## Sanitize document
+## Document ontsmetten
 
-1. Select **[!UICONTROL Sanitize Document]** in the [!UICONTROL Redact] top menu.
+1. Selecteren **[!UICONTROL Document ontsmetten]** in de [!UICONTROL Redigeren] bovenaan.
 
-1. Selecteren **[!UICONTROL OK]** om de verwijdering van verborgen informatie te bevestigen. Or, choose **[!UICONTROL Click Here]** to selectively remove hidden information.
+1. Selecteren **[!UICONTROL OK]** om de verwijdering van verborgen informatie te bevestigen. Of kies **[!UICONTROL Klik hier]** om verborgen informatie selectief te verwijderen.
 
    ![Stap 2 ontsmetten](../assets/Redact_7.png)
 
 >[!TIP]
 >
->To speed up the redaction process, check out the [Action Wizard](../advanced-tasks/action.md).
-
-Selecteer het PDF-pictogram om de *Redigeren en ontsmetten* zelfstudie.
-
-[![Download Redact &amp; Sanitize tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
+>Als u het redactieproces wilt versnellen, checkt u het [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >

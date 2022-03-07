@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '230'
 ht-degree: 7%
 
 ---
@@ -54,7 +54,3 @@ Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat va
 >[!TIP]
 >
 >Als u meerdere PDF-bestanden wilt optimaliseren, kunt u de opdracht [Action Wizard](../advanced-tasks/action.md).
-
-Selecteer het PDF-pictogram om de *Bestanden verkleinen en optimaliseren* zelfstudie.
-
-[![Download Bestand verkleinen en zelfstudie optimaliseren](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).

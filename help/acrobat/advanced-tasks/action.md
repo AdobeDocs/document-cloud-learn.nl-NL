@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ Bespaar tijd en toetsaanslagen door met een handeling automatisch een set opdrac
 1. Selecteren **[!UICONTROL Opslaan]** en geef de handeling een naam, zodat deze wordt weergegeven op de **[!UICONTROL Handelingenlijst]**.
 
 Nu kunt u de aangepaste handeling altijd uitvoeren wanneer u die specifieke reeks stappen wilt uitvoeren op een of meer PDF-bestanden.
-
-Selecteer het PDF-pictogram om de *Action Wizard* zelfstudie.
-
-[![Zelfstudie Action Wizard downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >

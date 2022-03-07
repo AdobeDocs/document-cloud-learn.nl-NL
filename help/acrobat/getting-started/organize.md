@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ Gebruik **[!UICONTROL Pagina&#39;s indelen]** in Acrobat om pagina&#39;s in uw P
    Wanneer u een PDF splitst, kunt u deze splitsen op basis van het aantal pagina&#39;s, de bestandsgrootte of bladwijzers op het hoogste niveau.
 
    ![Scan Stap 5](../assets/Organize_4.png)
-
-Klik om een PDF van de *Pagina&#39;s indelen* zelfstudie.
-
-[![Zelfstudie Organize Pages downloaden](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
