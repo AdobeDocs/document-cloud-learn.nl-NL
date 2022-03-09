@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -197,7 +197,7 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
       <img alt="Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Zelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketovideo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo</strong></a>
     </div>
     <em>Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
