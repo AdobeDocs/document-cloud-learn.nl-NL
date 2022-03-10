@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 8%
@@ -108,7 +108,7 @@ ht-degree: 8%
          + [#1 - Toegankelijkheid begrijpen](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [Nr. 3 - Voltooien in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [PDF-stempels toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
+         + [PDF-stembiljetten toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
 + Ontwikkelen {#develop}
    + [Overzicht](develop/develop-overview.md)
 + Implementeren {#deploy}

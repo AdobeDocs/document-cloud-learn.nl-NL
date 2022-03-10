@@ -1,35 +1,143 @@
 ---
-title: Acrobat voor de overheid
+title: Acrobat for Government
 description: Ontdek onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats- en lokale overheden
 role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
 # Acrobat voor de overheid
 
-Reageer snel op de dringende uitdagingen van de federale overheid, de staat en de lokale overheid met deze geselecteerde verzameling snelle-startrecepten en leervideo&#39;s.
+Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats- en lokale overheden.
 
-De zelfstudie met vijf tips is de volledige reeks tips. Als u een specifieke workflow wilt bekijken, hoeft u alleen maar de volledige video over te slaan door de tip te selecteren waarover u het meest wilt leren.
-
-[5 tips voor het overal werken met Acrobat voor de overheid (15:12 voltooien)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-1. [Verkrijg je tools (2:59)](get-your-tools.md)
-1. [Samenwerken aan documenten (2:03)](collaborate-on-documents.md)
-1. [Protect Digital Documents (1:23)](protect-digital-documents.md)
-1. [Werken met Forms en handtekeningen (7:03)](work-with-forms-and-signatures.md)
-1. [Scannen en bewerken op mobiele apparaten (1:43)](scan-and-edit-on-mobile.md)
-
-Zie de zelfstudie PDF toegankelijk maken of selecteer een specifieke workflow in de training waarin u wilt leren werken.
-
-[PDF toegankelijk maken (14:11 voltooien)](making-pdfs-accessible.md)
-1. [Toegankelijkheid begrijpen (6:42)](understanding-accessibility.md)
-1. [Ontwerpen in Word (2:51)](authoring-in-word.md)
-1. [Afwerken in Acrobat (4:37)](finishing-in-acrobat.md)
-
-[PDF-stempels toegankelijker maken](making-pdf-ballots-accessible.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
+      <img alt="5 tips voor het overal werken met Acrobat (volledige versie 15:12)" src="../../assets/5tipscomplete.png" />
+    </a>
+    <div>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 tips voor het overal werken met Acrobat (volledige versie 15:12)</strong></a>
+    </div>
+    <em>Leer hoe u de tools in Acrobat en de bijbehorende mobiele apps kunt gebruiken om overal te werken</em>
+    <br>
+  </td>
+  <td>
+    <a href="get-your-tools.md">
+      <img alt="Tip 1: Verkrijg je tools" src="../../assets/Tip1.png" />
+    </a>
+    <div>
+    <a href="get-your-tools.md"><strong>Tip 1: Verkrijg je tools</strong></a>
+    </div>
+    <em>De eerste stap om vanaf elke locatie aan de slag te gaan, is het verkrijgen van je Acrobat-tools en mobiele apps</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="Tip 2: Samenwerken aan documenten" src="../../assets/Tip2.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>Tip 2: Samenwerken aan documenten</strong></a>
+    </div>
+    <em>Creëer eenvoudige en moeiteloze workflows voor het samenwerken aan documenten</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="protect-digital-documents.md">
+      <img alt="Tip: 3Protect digitale documenten" src="../../assets/Tip3.png" />
+    </a>
+    <div>
+    <a href="protect-digital-documents.md"><strong>Tip 3: Protect digitale documenten</strong></a>
+    </div>
+    <em>Een wachtwoord aan uw PDF toevoegen om te voorkomen dat bestanden worden gekopieerd, bewerkt of afgedrukt</em>
+    <br>
+  </td>
+  <td>
+    <a href="work-with-forms-and-signatures.md">
+      <img alt="Tip 4: Werken met formulieren en handtekeningen" src="../../assets/Tip4.png" />
+    </a>
+    <div>
+    <a href="work-with-forms-and-signatures.md"><strong>Tip 4: Werken met formulieren en handtekeningen</strong></a>
+    </div>
+    <em>Leer hoe u digitaal kunt blijven bij het invullen van formulieren</em>
+    <br>
+  </td>
+  <td>
+    <a href="scan-and-edit-on-mobile.md">
+      <img alt="Tip 5: Scannen en bewerken op mobiele apparaten" src="../../assets/Tip5.png" />
+    </a>
+    <div>
+    <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: Scannen en bewerken op mobiele apparaten</strong></a>
+    </div>
+    <em>Leer hoe je kunt werken met mobiele apps van Adobe Scan en Acrobat Reader om vanaf elke locatie werk gedaan te krijgen</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="making-pdfs-accessible.md">
+      <img alt="PDF toegankelijk maken (14:11 voltooien)" src="../../assets/Accessiblecomplete.png" />
+    </a>
+    <div>
+    <a href="making-pdfs-accessible.md"><strong>PDF toegankelijk maken (14:11 voltooien)</strong></a>
+    </div>
+    <em>Meer informatie over de optimale workflow voor het maken van toegankelijke PDF-bestanden</em>
+    <br>
+  </td>
+  <td>
+    <a href="understanding-accessibility.md">
+      <img alt="PDF toegankelijk maken: Toegankelijkheid" src="../../assets/Accessibiityunderstanding.png" />
+    </a>
+    <div>
+    <a href="understanding-accessibility.md"><strong>PDF toegankelijk maken: Toegankelijkheid</strong></a>
+    </div>
+    <em>Ontdek wat het betekent om een PDF toegankelijk te maken voor mensen met een handicap</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="PDF toegankelijk maken: Ontwerpen in Word" src="../../assets/Accessibilityword.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>PDF toegankelijk maken: Ontwerpen in Word</strong></a>
+    </div>
+    <em>Leer de beste werkwijzen voor het maken van PDF-bestanden die zijn gemaakt in [!DNL Microsoft Word]</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="finishing-in-acrobat.md">
+      <img alt="PDF toegankelijk maken: Voltooien in Acrobat" src="../../assets/Accessibilityacrobat.png" />
+    </a>
+    <div>
+    <a href="finishing-in-acrobat.md"><strong>PDF toegankelijk maken: Voltooien in Acrobat</strong></a>
+    </div>
+    <em>Leer hoe u uw PDF-bestand kunt openen met de tools in Acrobat Pro</em>
+    <br>
+  </td>
+  <td>
+    <a href="making-pdf-ballots-accessible.md">
+      <img alt="PDF-stembiljetten toegankelijker maken" src="../../assets/Accessibleballots.png" />
+    </a>
+    <div>
+    <a href="making-pdf-ballots-accessible.md"><strong>PDF-stembiljetten toegankelijker maken</strong></a>
+    </div>
+    <em>Dit webinar behandelt belangrijke gebieden van de toegankelijkheid van de PDF noodzakelijk om gebruikers van hulptechnologieën, zoals het schermlezers, toe te staan om hun stempels te lezen en te voltooien</em>
+    <br>
+  </td>  
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
