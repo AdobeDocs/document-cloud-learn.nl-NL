@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Hoofdletterrecepten gebruiken
 
-Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen. Klik hierop om een PDF weer te geven met bronnen en informatie over het instellen van deze specifieke gebruiksvoorbeelden voor elektronische handtekeningen.
+Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen. Klik om een PDF te bekijken met bronnen en informatie over hoe u deze specifieke gebruiksscenario&#39;s voor elektronische handtekeningen instelt.
 
 ## Gebruiksscenario’s voor de overheid
 
@@ -46,10 +46,10 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Contracten en aanvraag Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contracten en aanvraagformulieren" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Contracten en aanvraag Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Contracten en aanvraagformulieren</strong></a>
     </div>
     <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten</em>
     <br>
@@ -78,10 +78,10 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Verzoek om extern woordenboek" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Verzoek om extern bevel" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Verzoek om extern woordenboek</strong></a>
+    <a href="usecasegovremote.md"><strong>Verzoek om extern bevel</strong></a>
     </div>
     <em>Gebruik samen elektronische handtekeningen en webconferenties om rechters sneller om verzoeken te ontvangen en om warrants te beveiligen</em>
     <br>
@@ -95,10 +95,10 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Contracten en aanvraag Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contracten en aanvraagformulieren" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Contracten en aanvraag Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Contracten en aanvraagformulieren</strong></a>
     </div>
     <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten</em>
     <br>
