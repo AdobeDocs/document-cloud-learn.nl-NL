@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 ## 3. Tag uw PDF
 
->[!NOTE]
->
->Alleen beschikbaar in Acrobat Pro.
-
 Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) voor mensen met een handicap: het verbetert ook de SEO.
 
 +++Bekijk details over het labelen van een PDF
@@ -81,6 +77,10 @@ Een PDF als volgt labelen:
    ![Screenshot van het instellen van alternatieve tekst in PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Alleen beschikbaar in Acrobat Pro.
 
 <br> 
 

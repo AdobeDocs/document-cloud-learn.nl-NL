@@ -4,10 +4,12 @@ description: Ontdek onze Acrobat-tutorials die speciaal zijn ontworpen voor fede
 role: User
 product: adobe acrobat
 level: Beginner
+thumbnail: KT-9910.jpg
+kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 77f676d923ca5b199d9c73299bbd15ae7e1518fe
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

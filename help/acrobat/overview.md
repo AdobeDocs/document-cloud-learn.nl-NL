@@ -1,19 +1,19 @@
 ---
-title: Zelfstudies
+title: Acrobat Tutorials
 description: Een verzameling zelfstudies, webinars en gebruiksscenario's voor Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 7b00851bd253e219d3dce1fbe0f06df80d8dafef
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
-# Adobe Acrobat-zelfstudies
+# Acrobat-zelfstudies
 
 ![Acrobat-hoofdafbeelding](assets/Hero_Acrobat.jpg)
 
