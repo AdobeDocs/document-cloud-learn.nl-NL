@@ -7,9 +7,9 @@ level: Experienced
 thumbnail: KT-8364.jpg
 kt: 8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 ![Acrobat Accessibility Series Image](../assets/Hero_Accessibility.png)
 
-In deze zes-delige on-demand webinarseries, ga je van de basisbeginselen van toegankelijkheid naar een diepgaande beschrijving van het coderen van je PDF-bestanden. Elke sessie bevat oefenbestanden om mee te doen.
+In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid naar een diepgaande duik van het etiketteren van uw PDF dossiers. Elke sessie bevat oefenbestanden om mee te doen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="accessibilitysession1.md">
-      <img alt="Inleiding tot PDF-toegankelijkheid" src="../assets/Accessibilitysession1_1280.png" />
+      <img alt="Inleiding tot toegankelijkheid PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>Inleiding tot PDF-toegankelijkheid</strong></a>
+    <a href="accessibilitysession1.md"><strong>Inleiding tot toegankelijkheid PDF</strong></a>
     </div>
-    <em>In deze sessie op aanvraag leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro DC instelt om te werken aan PDF's voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF</em>
+    <em>In deze sessie op aanvraag leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro instelt om te werken aan PDF voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF doorvoert</em>
     <br>
   </td>
   <td>
     <a href="accessibilitysession2.md">
-      <img alt="Een niet-toegankelijke PDF corrigeren" src="../assets/Accessibilitysession2_1280.png" />
+      <img alt="Een ontoegankelijke PDF herstellen" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Een niet-toegankelijke PDF corrigeren</strong></a>
+    <a href="accessibilitysession2.md"><strong>Een ontoegankelijke PDF herstellen</strong></a>
     </div>
-    <em>Leer in deze sessie op aanvraag de workflow voor het converteren van een Word-document en het oplossen van enkele basiscoderingsproblemen met de Acrobat Pro DC-tools die in de inleiding van het webinar worden getoond</em>
+    <em>Leer in deze sessie op aanvraag de workflow voor het converteren van een Word-document en het oplossen van enkele basiscoderingsproblemen met de Acrobat Pro-tools die in de inleiding van het webinar worden getoond</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ In deze zes-delige on-demand webinarseries, ga je van de basisbeginselen van toe
     <div>
     <a href="accessibilitysession3.md"><strong>Complexe tabellen</strong></a>
     </div>
-    <em>Deze on-demand-sessie verhelpt een van de meer voorkomende en uitdagende problemen bij het verhelpen van een PDF voor toegankelijkheid: complexe tabellen</em>
+    <em>Deze on-demand sessie behandelt een van de meer voorkomende en uitdagende problemen bij het oplossen van een PDF voor toegankelijkheid: complexe tabellen</em>
     <br>
   </td>
 </tr>
@@ -71,7 +71,7 @@ In deze zes-delige on-demand webinarseries, ga je van de basisbeginselen van toe
     <div>
     <a href="accessibilitysession5.md"><strong>Formuliervelden toevoegen aan een gecodeerde PDF</strong></a>
     </div>
-    <em>Deze sessie op aanvraag is gericht op het toevoegen van formuliervelden aan een eerder gecodeerde PDF</em>
+    <em>Deze sessie op verzoek is gericht op het toevoegen van formuliervelden aan een eerder gecodeerde PDF</em>
     <br>
   </td>  
   <td>

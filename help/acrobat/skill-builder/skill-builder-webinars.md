@@ -4,9 +4,9 @@ description: Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn o
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om j
 Datum: 25 augustus 2022 Krijg alle informatie die je nodig hebt om je PDF-content te beschermen. In deze sessie worden technieken gebruikt voor het toevoegen van wachtwoorden om te voorkomen dat een PDF wordt weergegeven, bewerkt of afgedrukt en wordt uitgelegd hoe u gevoelige informatie permanent kunt verwijderen - zelfs uit niet-zichtbare metagegevens!
 
 * **[Eenvoudige automatisering met Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-Datum: 28 juli 2022 Stop met het herhalen van eenvoudige handmatige taken! Deze sessie leert u hoe u Action Wizard in Acrobat DC kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren.
+Datum: 28 juli 2022 Stop met het herhalen van eenvoudige handmatige taken! Deze sessie leert u hoe u Action Wizard in Acrobat kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren.
 
 * **[Leesbaarheid voor iedereen: Toegankelijke PDF maken](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 Datum: 23 juni 2022 Door toegankelijkheidsfuncties toe te voegen aan uw PDF, hebben alle lezers toegang tot de inhoud. Word lid van deze sessie en leer hoe u compatibele, toegankelijke PDF met Acrobat kunt maken.

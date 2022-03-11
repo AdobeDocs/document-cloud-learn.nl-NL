@@ -1,22 +1,22 @@
 ---
 title: PDF toegankelijk maken - Voltooien in Acrobat
-description: Het maken van toegankelijke documenten in Acrobat DC voltooien
+description: Het maken van toegankelijke documenten in Acrobat voltooien
 role: User
 product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# PDF toegankelijk maken - Voltooien in Acrobat
+# PDF toegankelijk maken: Voltooien in Acrobat
 
-Leer in de derde videozelfstudie hoe u klaar bent met het toegankelijk maken van uw PDF-bestand met de tools in Acrobat Pro.
+Leer in de derde videozelfstudie in de serie PDF toegankelijk maken hoe u klaar bent met het toegankelijk maken van uw PDF-bestand met de tools in Acrobat Pro.
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ Leer in de derde videozelfstudie hoe u klaar bent met het toegankelijk maken van
 
 ## Deel 3 - Afwerken in Acrobat (4:37)
 
->[!VIDEO](https://video.tv.adobe.com/v/34514)
+>[!VIDEO](https://video.tv.adobe.com/v/34514?hidetitle=true)

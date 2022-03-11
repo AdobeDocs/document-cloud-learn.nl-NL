@@ -3,9 +3,9 @@ title: PDF-bestanden delen en online reviewen
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ U ontvangt een e-mailbericht zodra de ontvangers uw bestand hebben bekeken.
 
 ## Reviewer-ervaring
 
-De revisoren ontvangen een uitnodiging per e-mail met daarin een koppeling naar de revisie-PDF. Wanneer ze klikken op de knop **[!UICONTROL Reviseren]** in de uitnodiging, wordt de PDF in een webbrowser geopend. Ze kunnen de tools voor opmerkingen gebruiken om commentaar toe te voegen in de PDF. Ze kunnen ook de bureaubladtoepassing Acrobat Reader DC of Acrobat DC openen om opmerkingen toe te voegen.
+De revisoren ontvangen een uitnodiging per e-mail met daarin een koppeling naar de revisie-PDF. Wanneer ze klikken op de knop **[!UICONTROL Reviseren]** in de uitnodiging, wordt de PDF in een webbrowser geopend. Ze kunnen de gereedschappen voor opmerkingen gebruiken om commentaar toe te voegen in de PDF. Ze kunnen ook de bureaubladtoepassing Acrobat Reader of Acrobat openen om opmerkingen toe te voegen.
 
 ## Een anonieme of openbare koppeling verzenden in een e-mailbericht
 
