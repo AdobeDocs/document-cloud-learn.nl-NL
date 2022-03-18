@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -59,7 +59,7 @@ ht-degree: 6%
       + [Een rapport maken](admin/create-a-report.md)
       + [Een webformulier instellen](sign-advanced-users/webform.md)
       + [Handtekeningen bulksgewijs verzamelen](sign-advanced-users/megasign.md)
-      + [Een workflow instellen](admin/building-a-custom-workflow.md)
+      + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
    + Geavanceerde taken {#advanced-tasks-admins}
       + [Algemene instellingen](admin/learn-about-global-settings.md)
       + [Toegang tot accounts delen](admin/share-account-access.md)
@@ -126,5 +126,5 @@ ht-degree: 6%
    + [Overzicht](deploy-overview.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + Mobiele zelfstudies {#mobile-tutorials}
+   + Mobile-zelfstudies {#mobile-tutorials}
       + [Vloeiende modus in Adobe Sign](mobile/liquidmode.md)
