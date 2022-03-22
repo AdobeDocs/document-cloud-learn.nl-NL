@@ -1,5 +1,5 @@
 ---
-title: Overzicht van geavanceerde taken
+title: Overzicht van geavanceerde taken ondertekenen
 description: Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---

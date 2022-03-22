@@ -1,14 +1,14 @@
 ---
-title: Aan de slag - overzicht
+title: Aan de slag met Acrobat Sign - overzicht
 description: Ga snel aan de slag met deze korte, stapsgewijze tutorials over het verzenden, ondertekenen en volgen van documenten
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

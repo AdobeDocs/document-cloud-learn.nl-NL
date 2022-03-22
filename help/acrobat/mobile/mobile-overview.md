@@ -1,5 +1,5 @@
 ---
-title: Overzicht van mobiel
+title: Overzicht Acrobat Mobile
 description: PDF maken, invullen en ondertekenen op je mobiele apparaat
 role: User
 product: adobe acrobat
@@ -8,16 +8,16 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Overzicht van mobiel
+# Overzicht van Mobile
 
-![Acrobat Mobile-afbeelding](../assets/Hero-Mobile.png)
+![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
 Creëer, vul en onderteken PDF op je mobiele apparaat.
 
