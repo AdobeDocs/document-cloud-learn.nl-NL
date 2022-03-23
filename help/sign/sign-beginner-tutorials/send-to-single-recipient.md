@@ -5,9 +5,9 @@ role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33659.jpg
+thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 De meest voorkomende workflow in Adobe Sign: een document ter ondertekening verzenden. In deze videozelfstudie leert u hoe u een document uploadt, formuliervelden toevoegt en ter ondertekening naar iemand verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) die gratis beschikbaar is op het Experience League!
+>Deze video maakt deel uit van de cursus [Aan de slag met Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) dat is gratis beschikbaar op Experience League !
