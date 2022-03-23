@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 6%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 6%
       + Commercieel {#com}
          + [Contracten en aanvraagformulieren](sign-usecase/usecasecomcontracts.md)
          + [Beleidsovereenkomsten](sign-usecase/usecasecompolicy.md)
+         + [Telovereenkomst](sign-usecase/usecasecomtelework.md)
    + Praktijkvoorbeelden gebruiken {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Ontwikkelen {#develop}
