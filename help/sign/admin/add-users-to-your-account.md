@@ -8,15 +8,15 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 17356.jpg
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 11%
+source-wordcount: '32'
+ht-degree: 12%
 
 ---
 
 # Gebruikers toevoegen
 
-In deze videozelfstudie leert u hoe u gebruikers afzonderlijk of in bulk kunt toevoegen aan uw Adobe Sign-account.
+Leer hoe u individuele of grote gebruikers aan uw Adobe Sign-account kunt toevoegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17356?hidetitle=true)
