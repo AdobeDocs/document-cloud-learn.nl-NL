@@ -3,11 +3,11 @@ title: Documentsjablonen beheren
 description: Een sjabloon uit uw bibliotheek bewerken of verwijderen
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Leer hoe u een sjabloon in uw bibliotheek kunt bewerken of verwijderen.
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) die gratis beschikbaar is op Experience League!
+>Deze video maakt deel uit van de cursus [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) dat is gratis beschikbaar op Experience League !

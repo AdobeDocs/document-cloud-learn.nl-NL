@@ -3,12 +3,12 @@ title: Praktijkvoorbeelden gebruiken
 description: De praktijkvoorbeelden Showcase is een livestreamsessie waarin je kennismaakt met nieuwe Adobe Sign-gebruiksscenario’s, -trends en -trends, en die laat zien hoe je organisatie ze kan implementeren en er voordeel van kan hebben
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%

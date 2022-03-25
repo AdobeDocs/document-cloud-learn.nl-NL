@@ -3,11 +3,11 @@ title: Overzicht implementeren
 description: Artikelen met best practices en waardevol inzicht in de implementatie van Adobe Sign
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%

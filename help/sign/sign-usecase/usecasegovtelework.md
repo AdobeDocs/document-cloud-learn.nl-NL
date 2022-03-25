@@ -3,11 +3,11 @@ title: Teleovereenkomst van de overheid
 description: Verzamel op efficiënte wijze handtekeningen van al je medewerkers op telewerkovereenkomsten, beleidsupdates en meer
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Overheidsovereenkomst voor telewerken
 
-Leer hoe je op een efficiënte manier handtekeningen van al je medewerkers verzamelt op telewerkovereenkomsten, beleidsupdates en meer. Eerst maakt u een herbruikbare documentsjabloon die snel toegankelijk is vanuit uw documentbibliotheek. Ten tweede verzendt u de nieuwe documentsjabloon ter ondertekening naar honderden werknemers tegelijk met Mega Sign.
+Learn how to efficiently collect signatures from all your employees on telework agreements, policy updates, and more. Eerst maakt u een herbruikbare documentsjabloon die snel toegankelijk is vanuit uw documentbibliotheek. Ten tweede verzendt u de nieuwe documentsjabloon ter ondertekening naar honderden werknemers tegelijk met Mega Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
 

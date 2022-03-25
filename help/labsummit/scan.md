@@ -1,9 +1,9 @@
 ---
 title: Ga digitaal met Adobe Scan
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat Sign
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ga digitaal met Adobe Scan
 
-Maak je werk overzichtelijker, orden of deel! Het is niet nodig om stapels papier op je bureau te houden of bonnetjes in je portemonnee. De mobiele app van Adobe Scan scant papieren documenten rechtstreeks in PDF&#39;s en herkent automatisch tekst.
+Maak je werk overzichtelijker, orden of deel! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. De mobiele app van Adobe Scan scant papieren documenten rechtstreeks in PDF en herkent automatisch tekst.
 
 In deze oefening, uploadt u inhoud van een bedrijfskaart rechtstreeks in uw contacten. Scan en sla een kwitantie op.
 
@@ -29,37 +29,37 @@ Verzamel een visitekaartje, kwitantie of ander papier waarmee u wilt werken.
 ![B-kaartafbeelding](assets/scanbcard.png)
 
 
-**Stap 4:** Als het scannen is voltooid, brengt u de aanpassingen aan om ervoor te zorgen dat uw kaart zich binnen het selectiekader bevindt.
+**Stap 4:** Als het scannen is voltooid, voert u de aanpassingen uit om ervoor te zorgen dat uw kaart zich binnen het selectiekader bevindt.
 
-**Stap 5:** Tik rechtsboven op  **[!UICONTROL PDF]** opslaan. Tik vervolgens op **[!UICONTROL Contactpersoon opslaan]**.
+**Stap 5:** Tikken **[!UICONTROL PDF opslaan]** in de rechterbovenhoek. Tik vervolgens op **[!UICONTROL Contactpersoon opslaan]**.
 
 
 ![opslaan op kaartafbeelding](assets/savecontact.jpg)
 
 ![B-kaartafbeelding](assets/savecontact.png)
 
-**Stap 6:** Maak om het even welke gewenste uitgeeft of toevoegingen aan de contactinformatie alvorens in uw telefoon op te slaan. Tik nogmaals op &quot;Opslaan&quot; om het opslaan in contactpersonen te voltooien.
+**Stap 6:** Breng de gewenste bewerkingen of toevoegingen aan de contactgegevens aan voordat u het bestand opslaat op uw telefoon. Tik nogmaals op &quot;Opslaan&quot; om het opslaan in contactpersonen te voltooien.
 
 ## Een kwitantie scannen en opslaan
 
 De Adobe Scan-app kan ook handig zijn om een kwitantie die u later nodig hebt, te scannen en op te slaan (bijvoorbeeld een onkostenrapport of andere terugbetaling).
 
-**Stap 1:** Zorg dat de Adobe Scan-app is geopend en neem een foto van het kwitantie dat u wilt opslaan.
+**Stap 1:** Open de Adobe Scan-app en neem een foto van het kwitantie dat u wilt opslaan.
 
 ![scanontvangstafbeelding](assets/scanreceipt.png)
 
 
-**Stap 2:** observeer wanneer de app uw kwitantie automatisch detecteert en leg de inhoud ervan vast.
+**Stap 2:** Bekijk hoe de app uw kwitantie automatisch detecteert en de inhoud ervan vastlegt.
 
 ![B-kaartafbeelding](assets/receiptoutput.jpg)
 
-**Stap 3:** Tik op  **[!UICONTROL PDF]** opslaan in de rechterbovenhoek om het ontvangstbewijs op te slaan op uw telefoon.
+**Step 3:** Tap **[!UICONTROL Save PDF]** at the upper-right hand corner to store the receipt in your phone.
 
 
 ## Recap:
 
 * Scan papieren documenten en formulieren naar PDF.
-* Converteer JPG-afbeeldingen naar PDF.
+* Zet JPG-afbeeldingen om in PDF.
 * Bewerk rechtstreeks op je apparaat.
 * Voeg bedrijfskaartgegevens rechtstreeks toe aan uw contactpersonen.
 

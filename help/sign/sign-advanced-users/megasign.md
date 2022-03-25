@@ -3,11 +3,11 @@ title: Handtekeningen in bulk verzamelen
 description: Leer hoe je in een paar korte stappen honderden handtekeningen tegelijk verzamelt voor elk document
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe je honderden handtekeningen verzamelt in slechts een paar korte stappen. In dit geval krijgt iedereen zijn of haar eigen aansprakelijkheidsvrijstelling voor ondertekening en kunt u de voortgang van elke individuele ontheffing volgen, zodat u precies weet wie er is of wie niet heeft ondertekend. Elke online handtekening die u vastlegt, is veilig en rechtsgeldig.
 
-Bekijk deze extra praktijkvoorbeelden [Telework agreement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en).
+Bekijk deze aanvullende realiteit [Telovereenkomst](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) gebruiksscenario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37839?hidetitle=true)
 
@@ -26,4 +26,4 @@ Bekijk deze extra praktijkvoorbeelden [Telework agreement](https://experiencelea
 
 >[!TIP]
 >
->Deze video maakt deel uit van de [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) en [Aan de slag met Adobe Sign voor beheerders](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) cursussen die gratis beschikbaar zijn op Experience League!
+>Deze video maakt deel uit van de [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) en [Aan de slag met Adobe Sign voor beheerders](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) cursussen die gratis beschikbaar zijn op het Experience League!

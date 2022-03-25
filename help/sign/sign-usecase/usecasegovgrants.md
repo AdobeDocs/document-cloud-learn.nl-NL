@@ -3,11 +3,11 @@ title: Overheidssubsidies en -leningen
 description: Snel hulp bieden aan bedrijven door zelfservice toegang te bieden tot aanvraagformulieren voor subsidies, leningen en belastinguitstel
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

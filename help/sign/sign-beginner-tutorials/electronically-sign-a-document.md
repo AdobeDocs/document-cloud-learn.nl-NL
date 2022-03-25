@@ -3,11 +3,11 @@ title: Een document elektronisch ondertekenen
 description: Leer hoe eenvoudig het is om een document te ondertekenen dat u met Adobe Sign hebt ontvangen
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: 17360.jpg
 exl-id: 3c626d69-b982-45e3-a4cb-7b758175ffea
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

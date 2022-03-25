@@ -3,12 +3,12 @@ title: Een documentsjabloon maken in Adobe Sign for Salesforce
 description: Leer hoe u een herbruikbare documentsjabloon kunt maken voor snelheid en consistentie
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17349.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

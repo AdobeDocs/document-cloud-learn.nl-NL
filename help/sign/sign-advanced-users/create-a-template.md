@@ -3,11 +3,11 @@ title: Een documentsjabloon maken
 description: Maak een herbruikbare documentsjabloon die snel en consistent is
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Leer hoe u een herbruikbare documentsjabloon maakt en deze toevoegt aan uw Adobe
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) die gratis beschikbaar is op het Experience League!
+>Deze video maakt deel uit van de cursus [Aan de slag met Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) dat is gratis beschikbaar op Experience League !
