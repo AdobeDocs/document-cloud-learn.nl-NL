@@ -6,9 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
-source-git-commit: 7db57badff0e39d003ec39b6b8ad7b615db71fd5
+exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
@@ -19,6 +20,6 @@ Houd je bedrijf gaande door juridisch bindende elektronische handtekeningen van 
 
 >[!IMPORTANT]
 >
->U moet een Adobe Sign Enterprise-machtiging hebben naast uw Acrobat Enterprise-abonnement.
+>U moet een Acrobat Sign Enterprise-machtiging hebben naast uw Acrobat Enterprise-abonnement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)

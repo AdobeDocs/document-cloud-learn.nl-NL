@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Aan de slag-afbeelding ondertekenen](../assets/Hero-GettingStarted.png)
 
-Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Adobe Sign en begin met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
+Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en ga vervolgens door met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
 
 ## Verzenden
 
@@ -25,12 +25,12 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Snelle rondleiding door Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Snelle rondleiding door Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Snelle rondleiding door Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Snelle rondleiding door Acrobat Sign</strong></a>
     </div>
-    <em>Volg een korte rondleiding door de Adobe Sign-interface om aan de slag te gaan</em>
+    <em>Volg een korte rondleiding door de Acrobat Sign-interface om aan de slag te gaan</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Aan de slag met Adobe Sign voor nieuwe afzenders" src="../assets/gettingstartednew.png" />
+      <img alt="Aan de slag met Acrobat Sign voor nieuwe afzenders" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Aan de slag met Adobe Sign voor nieuwe afzenders</strong></a>
+    <a href="new-sender.md"><strong>Aan de slag met Acrobat Sign voor nieuwe afzenders</strong></a>
     </div>
-    <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Adobe Sign</em>
+    <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="electronically-sign-a-document.md"><strong>Een document elektronisch ondertekenen</strong></a>
     </div>
-    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat u met Adobe Sign hebt ontvangen</em>
+    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat naar u is verzonden met Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="sign-in-person.md"><strong>Een persoonlijke handtekening verkrijgen</strong></a>
     </div>
-    <em>Persoonlijk iemands handtekening verkrijgen met de mobiele Adobe Sign-app</em>
+    <em>Persoonlijk iemands handtekening verkrijgen met de mobiele Acrobat Sign-app</em>
     <br>
   </td>
 </tr>

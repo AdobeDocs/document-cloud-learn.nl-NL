@@ -1,5 +1,5 @@
 ---
-title: Herinneringen verzenden met Adobe Sign for Microsoft Dynamics 365 en Marketo
+title: Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
 
 ---
 
-# Herinneringen verzenden met Adobe Sign for Microsoft Dynamics 365 en Marketo
+# Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
 
-Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Adobe Sign, Adobe Sign voor Microsoft Dynamics, Marketo en de Marketo Microsoft Dynamics Sync.
+Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Microsoft Dynamics, Marketo en de Marketo Microsoft Dynamics Sync.
 
 ## Vereisten
 
@@ -25,13 +25,13 @@ Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepa
 
    Informatie en de nieuwste insteekmodule voor Microsoft Dynamics Sync zijn beschikbaar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installeren [Adobe Sign voor Microsoft Dynamics](https://appsource.microsoft.com/nl-nl/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Installeren [Acrobat Sign voor Microsoft Dynamics](https://appsource.microsoft.com/nl-nl/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
    Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
-Als de Marketo Microsoft Dynamics Sync en Adobe Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
+Nadat de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
 ![Beheerder](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Omdat het campagnefilter **Dagen tot vervaldatum** is gebruikt, kunt u een gepla
 
 >[!TIP]
 >
->Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Adobe Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !
+>Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Acrobat Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !

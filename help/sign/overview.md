@@ -1,23 +1,23 @@
 ---
 title: Zelfstudies
-description: Een verzameling zelfstudies, webinars en gebruiksscenario’s die zijn ontworpen om zowel beginners als beheerders snel op Adobe Sign te laten kennismaken
+description: Een verzameling zelfstudies, webinars en gebruiksscenario’s die zijn ontworpen om zowel beginners als beheerders snel op weg te helpen bij Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Adobe Sign-lesbestanden
+# Acrobat Sign-zelfstudies
 
-![Adobe Sign-hoofdafbeelding](assets/Hero_Sign.jpg)
+![Acrobat Sign-hoofdafbeelding](assets/Hero_Sign.jpg)
 
-Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om snel zowel beginners als beheerders op Adobe Sign up-to-date te brengen.
+Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als beheerders snel up-to-date te brengen op Acrobat Sign.
 
 ## Leerpaden
 
@@ -62,7 +62,7 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>Digitale id</strong></a>
     </div>
-    <em>Leer hoe je digitale ID’s van over de hele wereld gebruikt met Adobe Sign</em>
+    <em>Leer hoe je digitale ID’s van over de hele wereld gebruikt met Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integraties</strong></a>
     </div>
-    <em>Adobe Sign rechtstreeks toevoegen binnen andere toepassingen die uw organisatie al gebruikt</em>
+    <em>Voeg Acrobat Sign rechtstreeks toe binnen andere toepassingen die uw organisatie al gebruikt</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
     <div>
     <a href="develop/develop-overview.md"><strong>Ontwikkelen</strong></a>
     </div>
-    <em>Ontwikkelingsbronnen ophalen voor Adobe Sign I/O</em>
+    <em>Ontwikkelbronnen ophalen voor Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
@@ -104,7 +104,7 @@ Adobe Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoef
     <div>
     <a href="deploy-overview.md"><strong>Implementeren</strong></a>
     </div>
-    <em>Inzicht en best practices voor het implementeren van Adobe Sign binnen uw organisatie</em>
+    <em>Inzicht en best practices voor het implementeren van Acrobat Sign binnen uw organisatie</em>
     <br>
   </td>
   <td>

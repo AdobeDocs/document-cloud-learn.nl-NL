@@ -1,5 +1,5 @@
 ---
-title: Herinneringen verzenden met Adobe Sign for Salesforce en Marketo Configuration Guide
+title: Herinneringen verzenden met Acrobat Sign voor Salesforce en Marketo Configuration Guide
 description: Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Herinneringen verzenden met Adobe Sign for Salesforce en Marketo Configuration Guide
+# Herinneringen verzenden met Acrobat Sign voor Salesforce en Marketo Configuration Guide
 
-Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Adobe Sign, Adobe Sign voor Salesforce, Marketo en de Marketo- en Salesforce-synchronisatie.
+Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Salesforce, Marketo en de Marketo- en Salesforce-synchronisatie.
 
 ## Vereisten
 
@@ -25,13 +25,13 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst
 
    Informatie en de nieuwste insteekmodule voor Salesforce Sync zijn beschikbaar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installeer Adobe Sign voor Salesforce.
+1. Installeer Acrobat Sign voor Salesforce.
 
    Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
-Als de Marketo Salesforce Sync en Adobe Sign for Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
+Als de Marketo Salesforce Sync en Acrobat Sign voor Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
 
 ![Beheerder](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Omdat het campagnefilter **Dagen niet ondertekend** is gebruikt, kunt u een gepl
 
 >[!TIP]
 >
->Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Adobe Sign voor Salesforce en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !
+>Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Acrobat Sign voor Salesforce en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !

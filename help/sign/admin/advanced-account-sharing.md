@@ -3,12 +3,11 @@ title: Geavanceerde deelfuncties voor accounts
 description: Met geavanceerd delen van accounts kunnen beheerders en gebruikers hun verzendmachtigingen delegeren, wijzigen en machtigingen bekijken
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

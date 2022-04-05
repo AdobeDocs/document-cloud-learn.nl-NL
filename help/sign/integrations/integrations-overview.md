@@ -1,13 +1,13 @@
 ---
 title: Overzicht van Sign-integraties
-description: Leer hoe u Adobe Sign kunt toevoegen aan uw bestaande systemen, processen en toepassingen
+description: Leer hoe u Acrobat Sign kunt toevoegen aan uw bestaande systemen, processen en toepassingen
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Afbeelding integreren ondertekenen](../assets/Hero-Integrate.png)
 
-U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruikt, zoals Microsoft, Salesforce, Workday en Marketo om er een paar te noemen. Leer hoe je je workflows voor elektronische handtekeningen kunt vereenvoudigen in deze integratiehandleidingen en tutorials.
+U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebruikt, zoals Microsoft, Salesforce, Workday en Marketo om er een paar te noemen. Leer hoe je je workflows voor elektronische handtekeningen kunt vereenvoudigen in deze integratiehandleidingen en tutorials.
 
 >[!NOTE]
 > Als u problemen hebt met de toegang tot een van deze functies, neemt u contact op met de beheerder van uw organisatie om te controleren of de integratie is ingeschakeld.
@@ -81,12 +81,12 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Documentautomatisering met Adobe Sign for Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Documentautomatisering met Acrobat Sign voor Microsoft Power Platform" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Documentautomatisering met Adobe Sign for Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Documentautomatisering met Acrobat Sign voor Microsoft Power Platform</strong></a>
     </div>
-    <em>Leer hoe u de Adobe Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt</em>
+    <em>Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt</em>
     <br>
   </td>
 </tr>
@@ -98,10 +98,10 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Een documentsjabloon maken in Adobe Sign for Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Een documentsjabloon maken in Acrobat Sign voor Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Een documentsjabloon maken in Adobe Sign for Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Een documentsjabloon maken in Acrobat Sign voor Salesforce</strong></a>
     </div>
     <em>Maak een herbruikbare documentsjabloon die snel en consistent is</em>
     <br>
@@ -157,12 +157,12 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="Adobe Sign configureren met Workday" src="../assets/WD-Configure.png" />
+      <img alt="Acrobat Sign configureren met Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Adobe Sign configureren met Workday</strong></a>
+    <a href="workday.md"><strong>Acrobat Sign configureren met Workday</strong></a>
     </div>
-    <em>Leer hoe u Adobe Sign zo configureert dat deze direct in Workday werkt voor een naadloos beheer van al uw HR-documenten</em>
+    <em>Leer hoe u Acrobat Sign configureert om rechtstreeks in Workday te werken om naadloos al uw HR-documenten te beheren</em>
     <br>
   </td>
   <td>
@@ -184,30 +184,30 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Meldingen verzenden met Adobe Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Meldingen verzenden met Adobe Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo</strong></a>
     </div>
     <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo</strong></a>
     </div>
     <em>Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Herinneringen verzenden met de configuratiegids Adobe Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Herinneringen verzenden met de configuratiegids Adobe Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo</strong></a>
     </div>
     <em>Lees hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
@@ -216,20 +216,20 @@ U kunt Adobe Sign gebruiken in andere toepassingen die uw organisatie al gebruik
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Herinneringen verzenden met Adobe Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Herinneringen verzenden met Adobe Sign for Microsoft Dynamics en Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo</strong></a>
     </div>
     <em>Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Meldingen verzenden met Adobe Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Meldingen verzenden met Adobe Sign for Microsoft Dynamics en Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo</strong></a>
     </div>
     <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
     <br>

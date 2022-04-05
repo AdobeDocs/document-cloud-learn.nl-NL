@@ -1,13 +1,13 @@
 ---
 title: Overzicht van digitale id
-description: Leer hoe je digitale ID’s van over de hele wereld gebruikt met Adobe Sign
+description: Leer hoe je digitale ID’s van over de hele wereld gebruikt met Acrobat Sign
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ![Digitale-id-afbeelding ondertekenen](../assets/Hero-DigitalID.png)
 
-Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op een veilige manier bewijzen dat u bent wie u zegt dat u bent. En als u zich elektronisch aanmeldt in Adobe Sign, biedt het gebruik van een digitale id een hogere mate van zekerheid dat u uw elektronische handtekening hebt geautoriseerd voor dat specifieke document. De volgende zelfstudies tonen hoe u digitale id&#39;s van over de hele wereld kunt gebruiken met Adobe Sign.
+Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op een veilige manier bewijzen dat u bent wie u zegt dat u bent. En als u zich elektronisch aanmeldt in Acrobat Sign, biedt het gebruik van een digitale id een hogere mate van zekerheid dat u uw elektronische handtekening hebt geautoriseerd voor dat specifieke document. De volgende zelfstudies tonen hoe u digitale id&#39;s van over de hele wereld kunt gebruiken met Acrobat Sign.
 
 >[!NOTE]
 >
->Voordat u een digitale id kunt gebruiken met een cloudhandtekening, moet u contact opnemen met de beheerder van uw organisatie om te bevestigen dat de oplossing van de provider is ingeschakeld in Adobe Sign.
+>Voordat u een digitale id kunt gebruiken met een cloudhandtekening, moet u contact opnemen met de beheerder van uw organisatie om te bevestigen dat de oplossing van de provider is ingeschakeld in Acrobat Sign.
 
 ## [!DNL Aadhaar]
 
@@ -35,7 +35,7 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
     <div>
     <a href="aadhaar-sign.md"><strong>Ondertekenen met [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Leer hoe je je [!DNL Aadhaar] digitale id met Adobe Sign</em>
+    <em>Leer hoe je je [!DNL Aadhaar] digitale id met Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
     <div>
     <a href="digidentity-sign.md"><strong>Ondertekenen met [!DNL Digidentity]</strong></a>
     </div>
-    <em>Leer hoe je je [!DNL Digidentity] digitale id met Adobe Sign</em>
+    <em>Leer hoe je je [!DNL Digidentity] digitale id met Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -114,7 +114,7 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
     <div>
     <a href="intesi-sign.md"><strong>Ondertekenen met [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Leer hoe je je [!DNL Intesi Group] digitale id met Adobe Sign</em>
+    <em>Leer hoe je je [!DNL Intesi Group] digitale id met Acrobat Sign</em>
     <br>
   </td>
 </tr>

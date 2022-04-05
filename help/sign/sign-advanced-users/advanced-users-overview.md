@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Geavanceerde afbeelding ondertekenen](../assets/Hero-Advanced.png)
 
-Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Adobe Sign voor hen kan werken.
+Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer wil weten over de manieren waarop Acrobat Sign voor hen kan werken.
 
 ## Verzenden
 
@@ -78,12 +78,12 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign-tekstlabels</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
     </div>
-    <em>Adobe Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+    <em>Acrobat Sign-formuliervelden maken met behulp van tekstlabels met Adobe Acrobat</em>
     <br>
   </td> 
 </table>

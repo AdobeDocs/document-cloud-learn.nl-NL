@@ -1,6 +1,6 @@
 ---
 title: Ondertekenen met [!DNL Intesi Group]
-description: Leer hoe je je [!DNL Intesi Group] digitale id met Adobe Sign
+description: Leer hoe je je [!DNL Intesi Group] digitale id met Acrobat Sign
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8703.jpg
 kt: 8703
 exl-id: 43e7d19f-f1e8-47ec-8e30-1aba7a467d01
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

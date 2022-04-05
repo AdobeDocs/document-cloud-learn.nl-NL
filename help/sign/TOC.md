@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Tutorials
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Acrobat Sign Tutorials
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe Sign Tutorials {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Overzicht](overview.md)
 + Aan de slag {#getting-started}
    + [Overzicht](sign-beginner-tutorials/beginner-users-overview.md)
    + Verzenden {#getting-started-sending}
-      + [Snelle rondleiding door Adobe Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Snelle rondleiding door Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [Verzenden naar één ontvanger](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Verzenden naar meerdere ontvangers](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Aan de slag met Adobe Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
+      + [Aan de slag met Acrobat Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [Een document elektronisch ondertekenen](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Een document invullen en ondertekenen](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [Een fiatteur toevoegen](sign-advanced-users/add-an-approver.md)
       + [Handtekeningen bulksgewijs verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Beheer {#advanced-tasks-managing}
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
 + Beheer {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [Toegang tot accounts delen](admin/share-account-access.md)
       + [Geavanceerd delen van accounts](admin/advanced-account-sharing.md)
       + [Bio-Pharma-instellingen gebruiken](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign-tekstlabels](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign-tekstlabels](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digitale id {#digital-id}
    + [Overzicht](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [Verzenden ter ondertekening in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Tekstspatiëring in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Documentautomatisering met Adobe Sign for Microsoft Power Platform](integrations/documentautomation.md)
+      + [Documentautomatisering met Acrobat Sign voor Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Een documentsjabloon maken](integrations/create-an-agreement-template.md)
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
       + [Samenvoegingstoewijzing instellen](integrations/set-up-merging-map.md)
       + [Een aangepaste knop maken](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Adobe Sign configureren met Workday](integrations/workday.md)
+      + [Acrobat Sign configureren met Workday](integrations/workday.md)
    + Marketo {#marketo}
-      + [Meldingen verzenden met Adobe Sign for Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
-      + [Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Herinneringen verzenden met de configuratiegids Adobe Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Meldingen verzenden met Adobe Sign for Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
-      + [Herinneringen verzenden met Adobe Sign for Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
+      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
+      + [Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
 + Industrie en diensten {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
    + Mobile-zelfstudies {#mobile-tutorials}
-      + [Vloeiende modus in Adobe Sign](mobile/liquidmode.md)
+      + [Vloeiende modus in Acrobat Sign](mobile/liquidmode.md)

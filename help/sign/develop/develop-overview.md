@@ -1,13 +1,13 @@
 ---
 title: Overzicht ontwikkelen
-description: Leer hoe u Adobe Sign API's kunt gebruiken om aangepaste toepassingen te maken voor uw teams, partners en klanten
+description: Leer hoe u Acrobat Sign-API's kunt gebruiken om aangepaste toepassingen te maken voor uw teams, partners en klanten
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 ![Ontwikkelafbeelding ondertekenen](../assets/Hero-Develop.png)
 
-40% van de overeenkomsten in Adobe Sign wordt gemaakt met behulp van API&#39;s. Gebruik API’s om aangepaste toepassingen te maken voor je teams, partners en klanten.
+40% van de overeenkomsten in Acrobat Sign wordt gemaakt met behulp van API&#39;s. Gebruik API’s om aangepaste toepassingen te maken voor je teams, partners en klanten.
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,7 +39,7 @@ ht-degree: 12%
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Ontdek wat je kunt doen</strong></a>
     </div>
-    <em>Leer hoe u de functionaliteit van Adobe Sign kunt opnemen in elke externe toepassing</em>
+    <em>Leer hoe u de functionaliteit van Acrobat Sign kunt integreren in elke externe toepassing</em>
     <br>
   </td>  
   <td>
@@ -61,7 +61,7 @@ ht-degree: 12%
     <div>
     <a href="embeddedesignature.md"><strong>Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren</strong></a>
     </div>
-    <em>Leer hoe u Adobe Sign API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen</em>
+    <em>Leer hoe u Acrobat Sign-API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen</em>
     <br>
   </td>
   <td>

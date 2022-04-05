@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Afbeelding Beheerders ondertekenen](../assets/Hero-Admin.png)
 
-Lees meer over het toevoegen van gebruikers aan uw account, het instellen van groepen, het delen van toegang en het instellen van een workflow, een extern archief en gedeelde gebeurtenissen en waarschuwingen. Deze zelfstudies zijn ontworpen voor beheerders die de installatiefase hebben doorlopen en die klaar zijn om Adobe Sign te gaan beheren. De geavanceerde taken behandelen onderwerpen die zich voorbij het de opstellingsgedeelte van de beheerder uitbreiden en zich in het bepalen van globale montages, accounttoegang en het delen, en tekst het etiketteren bewegen.
+Lees meer over het toevoegen van gebruikers aan uw account, het instellen van groepen, het delen van toegang en het instellen van een workflow, een extern archief en gedeelde gebeurtenissen en waarschuwingen. Deze zelfstudies zijn ontworpen voor beheerders die de installatiefase hebben doorlopen en die klaar zijn om Acrobat Sign te beheren. De geavanceerde taken behandelen onderwerpen die zich voorbij het de opstellingsgedeelte van de beheerder uitbreiden en zich in het bepalen van globale montages, accounttoegang en het delen, en tekst het etiketteren bewegen.
 
 ## Aan de slag
 
@@ -31,7 +31,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <div>
     <a href="up-and-running-admin.md"><strong>Aan de slag voor beheerders</strong></a>
     </div>
-    <em>Overzicht van 7 belangrijke gebieden waarop beheerders snel aan de slag kunnen in Adobe Sign</em>
+    <em>Overzicht van 7 belangrijke gebieden voor beheerders om snel aan de slag te gaan in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <div>
     <a href="add-users-to-your-account.md"><strong>Gebruikers toevoegen</strong></a>
     </div>
-    <em>Gebruikers afzonderlijk of in bulk toevoegen aan uw Adobe Sign-account</em>
+    <em>Gebruikers afzonderlijk of in bulk toevoegen aan uw Acrobat Sign-account</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <div>
     <a href="create-a-report.md"><strong>Een rapport maken</strong></a>
     </div>
-    <em>Maak en plan rapporten om inzicht te krijgen in het gebruik van Adobe Sign door je organisatie</em>
+    <em>Maak en plan rapporten om inzicht te krijgen in het gebruik van Acrobat Sign door uw organisatie</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign-tekstlabels</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
     <div>
-    <em>Adobe Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+    <em>Acrobat Sign-formuliervelden maken met behulp van tekstlabels met Adobe Acrobat</em>
     <br>
   </td>
   <td>

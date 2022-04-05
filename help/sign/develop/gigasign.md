@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 5%
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 # Verzamel grote documenten met GigaSign
 
-Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Adobe Sign API om dezelfde functionaliteit te bieden als MegaSign, en biedt ondersteuning voor meerdere ondertekenaars, groepen ontvangers, rollen van ontvangers, overeenkomstnamen, koolstofkopie en meer.
+Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign-API om dezelfde functionaliteit te bieden als MegaSign en biedt ondersteuning voor meerdere ondertekenaars, groepen met ontvangers, rollen met ontvangers, overeenkomstnamen, koolstofkopie en meer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -30,9 +30,9 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 
 ## Basisinstallatie-instructies
 
-1. Meld u aan bij uw Adobe Sign-account.
+1. Meld u aan bij uw Acrobat Sign-account.
 
-1. Klik op **[!UICONTROL Groep]** of **[!UICONTROL Account]**, afhankelijk van wat u bovenaan ziet.
+1. Klikken **[!UICONTROL Groep]** of **[!UICONTROL Account]**, al wat je bovenaan ziet.
 
 1. Typ &quot;Toegangstokens&quot; in het zoekveld links in het scherm.
 
@@ -44,7 +44,7 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 
 1. Open GigaSign.
 
-1. Klik op het pictogram **[!UICONTROL Instellingen]** rechtsboven.
+1. Klik op **[!UICONTROL Instellingen]** aan de rechterbovenhoek.
 
 1. Plak de integratiesleutel in de eerste regel.
 

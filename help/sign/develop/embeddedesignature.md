@@ -1,13 +1,13 @@
 ---
 title: Ingesloten e-handtekeningen en documentervaringen maken
-description: Leer hoe u Adobe Sign API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
+description: Leer hoe u Acrobat Sign-API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: f015bd7ea1a25772a12cd0852d452d120f205a5c
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '928'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren
 
-Leer hoe u Adobe Sign API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
+Leer hoe u Acrobat Sign-API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,7 +59,7 @@ Leer hoe u Adobe Sign API&#39;s kunt gebruiken om ervaringen voor elektronische 
 
 In deel 1 leert u aan de slag te gaan met alles wat u nodig hebt voor de onderdelen 2-4. Laten we beginnen met het ophalen van API-referenties.
 
-* [Adobe Sign-ontwikkelaarsaccount](https://acrobat.adobe.com/nl/nl/sign/developer-form.html)
+* [Acrobat Sign-ontwikkelaarsaccount](https://acrobat.adobe.com/nl/nl/sign/developer-form.html)
 * [Eenvoudige code](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS-code (of editor van uw keuze)](https://code.visualstudio.com)
 * Python 3.x
@@ -72,10 +72,10 @@ In deel 1 leert u aan de slag te gaan met alles wat u nodig hebt voor de onderde
 
 In deel 2 gaat u de optie Low/no-code gebruiken bij het gebruik van webformulieren. Het is altijd een goed idee om te zien of je kunt voorkomen dat je eerst code schrijft.
 
-1. Open Adobe Sign met uw ontwikkelaarsaccount.
-1. Klik op **Een webformulier publiceren** op de startpagina.
+1. Open Acrobat Sign met uw ontwikkelaarsaccount.
+1. Klikken **Een webformulier publiceren** op de startpagina.
 
-   ![Schermafbeelding Adobe Sign-startpagina](assets/embeddedesignature/embed_1.png)
+   ![Schermafbeelding Acrobat Sign-startpagina](assets/embeddedesignature/embed_1.png)
 
 1. Maak uw overeenkomst.
 
@@ -90,17 +90,17 @@ In deel 2 gaat u de optie Low/no-code gebruiken bij het gebruik van webformulier
 
 In deel 3 gaat u dynamisch overeenkomsten maken.
 
-Eerst, zult u toegang moeten vestigen. Met Adobe Sign kunt u op twee manieren verbinding maken via een API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zult u eerst de Sleutels van de Integratie willen onderzoeken.
+Eerst, zult u toegang moeten vestigen. Met Acrobat Sign kunt u op twee manieren verbinding maken via een API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zult u eerst de Sleutels van de Integratie willen onderzoeken.
 
-1. Selecteer **Integratiesleutel** in het menu **API-informatie** onder het tabblad **Account** in Adobe Sign.
+1. Selecteren **Integratiesleutel** op de **API-informatie** onder het menu **Account** in Acrobat Sign.
 
    ![Screenshot van de integratiesleutel](assets/embeddedesignature/embed_4.png)
 
 Nu u toegang hebt tot de API en deze kunt gebruiken, kunt u zien wat u kunt doen met de API.
 
-1. Navigeer naar de [Adobe Sign REST API versie 6 Methods](http://adobesign.com/public/docs/restapi/v6).
+1. Navigeer naar de [Methoden voor Acrobat Sign REST API versie 6](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot van navigatie Adobe Sign REST API versie 6 Methods](assets/embeddedesignature/embed_5.png)
+   ![Screenshot van navigatie Acrobat Sign REST API versie 6 Methodes](assets/embeddedesignature/embed_5.png)
 
 1. Gebruik het token als een &quot;toonder&quot;-waarde.
 
@@ -131,13 +131,11 @@ Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica to
 ![Screenshot van de Base URI-logica](assets/embeddedesignature/embed_10.png)
 
 Houd rekening met de plaats waar overgangsdocs aankomen binnen het grootse schema van het Sign-ecosysteem.
-Overgang -> Overeenkomst
-Overgang -> Sjabloon -> Overeenkomst
-Overgang -> Widget -> Overeenkomst
+Overgang -> Overgangsovereenkomst -> Sjabloon -> Overgangsovereenkomst -> Widget -> Overeenkomst
 
 In dit voorbeeld wordt een sjabloon als documentbron gebruikt. Dit is meestal de beste manier, tenzij u een solide reden hebt om documenten dynamisch te genereren ter ondertekening (bijvoorbeeld het genereren van verouderde code of documenten).
 
-De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De status `IN_PROCESS` betekent dat het document direct wordt verzonden. `mergeFieldInfo` wordt ook gebruikt om velden dynamisch te vullen.
+De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De `IN_PROCESS` staat betekent dat het document onmiddellijk wordt verzonden. Ook `mergeFieldInfo` wordt gebruikt om velden dynamisch te vullen.
 
 ![Screenshot van code om handtekeningen dynamisch toe te voegen](assets/embeddedesignature/embed_11.png)
 
@@ -170,7 +168,7 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
 * [JS-gebeurtenissen](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-gebeurtenissen
    * [REST-API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Webhooks in Adobe Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+   * [Webhooks in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Verzoek-e-mails opnieuw activeren (met gebeurtenissen)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Time-out vervangen door opnieuw proberen](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 
@@ -180,15 +178,15 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
 
       ![Screenshot van navigatie naar Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Of voeg een [in-flight](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) toe
+   * Of voeg er een toe [tijdens de vlucht](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
 
 ## Extra bronnen
 
 http://bit.ly/Summit21-T126
 
 Omvat:
-* Adobe Sign-ontwikkelaarsaccount
-* Adobe Sign API-documenten
+* Acrobat Sign-ontwikkelaarsaccount
+* Acrobat Sign API-documenten
 * Voorbeeldcode
 * Visual Studio Code
 * Python

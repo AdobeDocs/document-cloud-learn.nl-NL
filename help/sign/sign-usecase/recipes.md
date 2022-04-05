@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
     <div>
     <a href="usecasegovpaycheck.md"><strong>Paycheck-beveiliging</strong></a>
     </div>
-    <em>Zie hoe u Adobe Sign kunt gebruiken om het formulier Betalingsbeschermingsprogramma om te zetten in een online interactief formulier</em>
+    <em>Zie hoe u het formulier Betalingsbeschermingsprogramma kunt converteren naar een online interactief formulier met Acrobat Sign</em>
     <br>
   </td>
   <td>

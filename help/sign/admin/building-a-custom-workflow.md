@@ -3,11 +3,10 @@ title: Een aangepaste workflow maken
 description: Leer hoe je documentworkflows kunt aanpassen en automatiseren om snel elektronische handtekeningen te verkrijgen en formuliergegevens te verzamelen
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -27,4 +26,4 @@ Bekijk deze aanvullende gebruiksscenario’s in de praktijk:
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Adobe Sign voor beheerders](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van de cursus [Aan de slag met Acrobat Sign voor beheerders](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) dat is gratis beschikbaar op Experience League !

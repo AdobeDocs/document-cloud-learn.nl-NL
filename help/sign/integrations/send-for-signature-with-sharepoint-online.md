@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Leer hoe u documentworkflows kunt stroomlijnen door een document ter ondertekeni
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) gebruiken die gratis beschikbaar is op Experience League!
+>Deze video maakt deel uit van de cursus [Acrobat Sign gebruiken in Microsoft-apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !
