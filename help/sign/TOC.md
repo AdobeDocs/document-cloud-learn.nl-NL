@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -39,7 +39,7 @@ ht-degree: 6%
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](sign-advanced-users/advanced-users-overview.md)
    + Verzenden {#advanced-tasks-sending}
-      + [Het verpletteren van de orde van vestiging](sign-advanced-users/setting-up-routing.md)
+      + [Ondertekeningsvolgorde instellen](sign-advanced-users/setting-up-routing.md)
       + [Delegeren naar iemand anders](sign-advanced-users/delegate-signature.md)
       + [Een fiatteur toevoegen](sign-advanced-users/add-an-approver.md)
       + [Handtekeningen bulksgewijs verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
@@ -95,7 +95,7 @@ ht-degree: 6%
       + [Acrobat Sign configureren met Workday](integrations/workday.md)
    + Marketo {#marketo}
       + [Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
-      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
       + [Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
       + [Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [Overzicht](deploy-overview.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + Mobile-zelfstudies {#mobile-tutorials}
+   + Mobiele zelfstudies {#mobile-tutorials}
       + [Vloeiende modus in Acrobat Sign](mobile/liquidmode.md)

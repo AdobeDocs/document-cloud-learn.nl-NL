@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Geavanceerde afbeelding ondertekenen](../assets/Hero-Advanced.png)
 
-Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer wil weten over de manieren waarop Acrobat Sign voor hen kan werken.
+Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
 
 ## Verzenden
 
@@ -26,12 +26,12 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Het verpletteren van de orde van vestiging" src="../assets/Routing.png">
+      <img alt="Ondertekeningsvolgorde instellen" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Het verpletteren van de orde van vestiging</strong></a>
+    <a href="setting-up-routing.md"><strong>Ondertekeningsvolgorde instellen</strong></a>
     </div>
-    <em>Stel de routeringsvolgorde in voor meerdere ondertekenaars</em>
+    <em>De ondertekeningsvolgorde voor meerdere ondertekenaars instellen</em>
     <br>
   </td>
   <td>
