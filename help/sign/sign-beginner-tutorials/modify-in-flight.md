@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Een document wijzigen na het verzenden
 
-Leer hoe u een document wijzigt dat al ter ondertekening is verzonden, bijvoorbeeld wanneer het verkeerde document per ongeluk is verzonden.
+Leer hoe u een document wijzigt dat al ter ondertekening is verzonden, bijvoorbeeld wanneer het verkeerde document per ongeluk is verzonden. Het wijzigen van overeenkomsten kan alleen worden gebruikt voor documenten die aan de volgende criteria voldoen:
+
+* Het document is niet ondertekend, goedgekeurd of gedelegeerd
+* Het document bevat geen digitale handtekening of geschreven handtekening
+* Het document is niet gestart vanuit een aangepaste workflow
+
 
 >[!NOTE]
 >
