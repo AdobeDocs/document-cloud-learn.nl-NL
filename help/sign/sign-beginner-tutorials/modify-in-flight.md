@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Leer hoe u een document wijzigt dat al ter ondertekening is verzonden, bijvoorbe
 
 >[!NOTE]
 >
->Het wijzigen van een document na het verzenden is alleen beschikbaar voor lidmaatschappen op ondernemingsniveau. Mogelijk moet uw Acrobat Sign-beheerder de instelling Overeenkomsten wijzigen in het gedeelte Verzendinstellingen van de accountinstellingen inschakelen om deze functie te kunnen gebruiken.
+>Het wijzigen van een document na het verzenden is alleen beschikbaar voor lidmaatschappen op ondernemingsniveau. Mogelijk moet uw Acrobat Sign-beheerder het **Overeenkomsten wijzigen** in het dialoogvenster **Verzendinstellingen** van de **Accountinstellingen** om deze functie te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
