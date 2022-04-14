@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -65,10 +65,15 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Een document wijzigen na het verzenden" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Een document wijzigen na het verzenden</strong></a>
+    </div>
     <br>
+    <em>Een document wijzigen dat al in uitvoering is</em>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -89,7 +94,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="electronically-sign-a-document.md"><strong>Een document elektronisch ondertekenen</strong></a>
     </div>
-    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat naar u is verzonden met Acrobat Sign</em>
+    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat u met Acrobat Sign hebt ontvangen</em>
     <br>
   </td>
   <td>
@@ -167,14 +172,9 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Een document wijzigen dat al ter ondertekening is verzonden" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Een document wijzigen dat al ter ondertekening is verzonden</strong></a>
-    </div>
     <br>
-    <em>De workflow wijzigen voor een document dat al in uitvoering is</em>
   </td>
 </tr>
 </table>
