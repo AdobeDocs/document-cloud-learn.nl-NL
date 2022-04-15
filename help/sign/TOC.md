@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '421'
 ht-degree: 6%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 6%
       + [Verzenden naar meerdere ontvangers](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Aan de slag met Acrobat Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
       + [Een document wijzigen na het verzenden](sign-beginner-tutorials/modify-in-flight.md)
+      + [Ondertekenaars vervangen](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
       + [Een document elektronisch ondertekenen](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Een document invullen en ondertekenen](sign-beginner-tutorials/fill-and-sign.md)
@@ -97,7 +98,7 @@ ht-degree: 6%
       + [Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
       + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
+      + [Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
       + [Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
 + Industrie en diensten {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
@@ -127,5 +128,5 @@ ht-degree: 6%
    + [Overzicht](deploy-overview.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + Mobile-zelfstudies {#mobile-tutorials}
+   + Mobiele zelfstudies {#mobile-tutorials}
       + [Vloeiende modus in Acrobat Sign](mobile/liquidmode.md)

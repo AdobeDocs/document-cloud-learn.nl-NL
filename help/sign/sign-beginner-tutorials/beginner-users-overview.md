@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Aan de slag-afbeelding ondertekenen](../assets/Hero-GettingStarted.png)
 
-Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en ga vervolgens door met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
+Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en begin met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
 
 ## Verzenden
 
@@ -75,10 +75,15 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <br>
     <em>Een document wijzigen dat al in uitvoering is</em>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Ondertekenaars vervangen" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Ondertekenaars vervangen</strong></a>
+    </div>
     <br>
+    <em>Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is</em>
   </td>
 </tr>
 </table>
@@ -94,7 +99,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="electronically-sign-a-document.md"><strong>Een document elektronisch ondertekenen</strong></a>
     </div>
-    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat u met Acrobat Sign hebt ontvangen</em>
+    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat naar u is verzonden met Acrobat Sign</em>
     <br>
   </td>
   <td>
