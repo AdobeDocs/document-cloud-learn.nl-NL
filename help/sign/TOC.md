@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + Aan de slag {#getting-started}
    + [Overzicht](sign-beginner-tutorials/beginner-users-overview.md)
    + Verzenden {#getting-started-sending}
-      + [Snelle rondleiding door Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Beginselen van de werkruimte](sign-beginner-tutorials/quick-tour.md)
       + [Verzenden naar één ontvanger](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Verzenden naar meerdere ontvangers](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Aan de slag met Acrobat Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
@@ -86,7 +86,7 @@ ht-degree: 6%
       + [Verzenden ter ondertekening in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Tekstspatiëring in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Documentautomatisering met Acrobat Sign voor Microsoft Power Platform](integrations/documentautomation.md)
+      + [Documentautomatisering met Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Een documentsjabloon maken](integrations/create-an-agreement-template.md)
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
@@ -96,9 +96,9 @@ ht-degree: 6%
       + [Acrobat Sign configureren met Workday](integrations/workday.md)
    + Marketo {#marketo}
       + [Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
-      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
+      + [Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
       + [Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
 + Industrie en diensten {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
