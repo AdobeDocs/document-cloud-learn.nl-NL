@@ -1,23 +1,23 @@
 ---
-title: Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
+title: Meldingen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is
 role: Admin
-product: adobe sign
+product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
+source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# Meldingen verzenden met Adobe Sign for Microsoft Dynamics 365 en Marketo
+# Meldingen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 
-Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is met Adobe Sign, Adobe Sign for Microsoft Dynamic, Marketo en Marketo Microsoft Dynamics Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar er zijn andere Marketo SMS-oplossingen beschikbaar.
+Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is met Acrobat Sign, Acrobat Sign for Microsoft Dynamic, Marketo en Marketo Microsoft Dynamics Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar er zijn andere Marketo SMS-oplossingen beschikbaar.
 
 ## Vereisten
 
@@ -25,13 +25,13 @@ Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar 
 
    Informatie en de nieuwste insteekmodule voor Microsoft Dynamics Sync zijn beschikbaar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installeer Adobe Sign for Microsoft Dynamics.
+1. Installeer Acrobat Sign for Microsoft Dynamics.
 
    Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
-Als de Marketo Microsoft Dynamics Sync en Adobe Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
+Nadat de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
 ![Beheerder](assets/adminTerminal.png)
 
@@ -152,4 +152,4 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 1. Je SMS-meldingscampagne voor leads die aan een overeenkomst worden toegevoegd, is nu ingesteld.
 >[!TIP]
 >
->Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Adobe Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !
+>Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Acrobat Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !
