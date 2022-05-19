@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -29,15 +29,15 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Acrobat Sign beheren op de Admin Console</strong></a>
     </div>
-    <em>Leer hoe u Acrobat Sign-gebruikers en -licenties beheert op het bedrijfsplatform van Adobe de Adobe Admin Console</em>
+    <em>Leer hoe u Acrobat Sign-gebruikers en licenties beheert op het bedrijfsplatform van Adobe de Adobe Admin Console</em>
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/nl/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Best practices" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best practices</strong></a>
     </div>
     <em>Bekijk waardevolle inzichten en kennis die zijn opgedaan door het werk van onze Customer Success Manager met onze klanten bij het implementeren van Acrobat Sign</em>
     <br>

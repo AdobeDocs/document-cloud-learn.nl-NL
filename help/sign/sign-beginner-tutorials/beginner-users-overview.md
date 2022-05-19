@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![Aan de slag-afbeelding ondertekenen](../assets/Hero-GettingStarted.png)
 
-Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en begin met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
+Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en ga vervolgens door met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
 
 ## Verzenden
 
@@ -72,8 +72,8 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="modify-in-flight.md"><strong>Een document wijzigen na het verzenden</strong></a>
     </div>
-    <br>
     <em>Een document wijzigen dat al in uitvoering is</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="replace-signer.md"><strong>Ondertekenaars vervangen</strong></a>
     </div>
-    <br>
     <em>Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is</em>
+     <br>
   </td>
 </tr>
 </table>
