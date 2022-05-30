@@ -9,7 +9,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -81,10 +81,10 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Documentautomatisering met Acrobat Sign voor Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Documentautomatisering met Acrobat Sign for Microsoft Power Platform" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Documentautomatisering met Acrobat Sign voor Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Documentautomatisering met Acrobat Sign for Microsoft Power Platform</strong></a>
     </div>
     <em>Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt</em>
     <br>
@@ -98,7 +98,7 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Een documentsjabloon maken in Acrobat Sign voor Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Een documentsjabloon maken in Acrobat Sign for Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
     <a href="create-an-agreement-template.md"><strong>Een documentsjabloon maken in Acrobat Sign for Salesforce</strong></a>
@@ -162,7 +162,7 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
     <div>
     <a href="workday.md"><strong>Acrobat Sign configureren met Workday</strong></a>
     </div>
-    <em>Leer hoe u Acrobat Sign configureert om rechtstreeks in Workday te werken om naadloos al uw HR-documenten te beheren</em>
+    <em>Leer hoe u Acrobat Sign zo configureert dat deze direct in Workday werkt voor een naadloos beheer van al uw HR-documenten</em>
     <br>
   </td>
   <td>
@@ -184,10 +184,10 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Meldingen verzenden met Acrobat Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Meldingen verzenden met Acrobat Sign for Salesforce en Marketo</strong></a>
     </div>
     <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
     <br>
@@ -204,10 +204,10 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Herinneringen verzenden met de configuratiegids Acrobat Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Herinneringen verzenden met de configuratiegids Acrobat Sign for Salesforce en Marketo</strong></a>
     </div>
     <em>Lees hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
@@ -219,7 +219,7 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
       <img alt="Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo</strong></a>
     </div>
     <em>Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>

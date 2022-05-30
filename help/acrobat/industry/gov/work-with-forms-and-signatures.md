@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 5 tips voor het overal werken met Acrobat—Werken met formulieren en handtekeningen
+# 5 Tips voor het overal werken met Acrobat—Werken met formulieren en handtekeningen
 
 Iedereen moet op een bepaald moment formulieren invullen. Leer hoe u digitaal kunt blijven bij het invullen van formulieren, omdat u niet altijd toegang hebt tot een printer.
 

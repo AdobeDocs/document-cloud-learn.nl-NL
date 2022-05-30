@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Overheidscontracten en aanvraagformulieren
 
-Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Leer hoe u het Workflow Designer-gereedschap van Acrobat Sign kunt gebruiken om het hele proces te stroomlijnen.
+Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Leer hoe u het Workflow Designer-hulpprogramma van Acrobat Sign kunt gebruiken om het hele proces te stroomlijnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

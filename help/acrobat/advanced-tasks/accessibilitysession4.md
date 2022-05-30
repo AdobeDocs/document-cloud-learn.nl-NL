@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Deze on-demand sessie behandelt de complexere problemen die mensen vaak tegenkomen, zoals gescande documenten en complexe lijsten.
 
-Klik [hier](../assets/accessibilitysession4.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
+Klikken [hier](../assets/accessibilitysession4.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Sessie 4 video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Sessie 4-video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

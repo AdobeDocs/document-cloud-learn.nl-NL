@@ -9,7 +9,7 @@ thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Leer hoe u documentworkflows stroomlijnt door een formulier rechtstreeks in Micr
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Acrobat Sign gebruiken in Microsoft-apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van de cursus [Acrobat Sign Inside Microsoft-apps gebruiken](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !

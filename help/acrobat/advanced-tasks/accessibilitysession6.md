@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Deze sessie op aanvraag gaat dieper in op het maken van handmatige formuliervelden en aanvullende eigenschappen voor formuliervelden.
 
-Klik [hier](../assets/accessibilitysession6.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
+Klikken [hier](../assets/accessibilitysession6.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Sessie 6 video](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
+[![Video sessie 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

@@ -1,5 +1,5 @@
 ---
-title: Herinneringen verzenden met Acrobat Sign voor Salesforce en Marketo Configuration Guide
+title: Herinneringen verzenden met Acrobat Sign for Salesforce en Marketo Configuration Guide
 description: Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 role: Admin
 product: adobe sign
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ---
 
-# Herinneringen verzenden met Acrobat Sign voor Salesforce en Marketo Configuration Guide
+# Herinneringen verzenden met Acrobat Sign for Salesforce en Marketo Configuration Guide
 
 Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Salesforce, Marketo en de Marketo- en Salesforce-synchronisatie.
 
@@ -31,7 +31,7 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst
 
 ## Het aangepaste object zoeken
 
-Als de Marketo Salesforce Sync en Acrobat Sign voor Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
+Als de Marketo Salesforce Sync en Acrobat Sign for Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
 
 ![Beheerder](assets/adminTab.png)
 

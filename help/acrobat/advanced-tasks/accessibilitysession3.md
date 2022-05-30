@@ -1,6 +1,6 @@
 ---
 title: Complexe tabellen
-description: 'Deze on-demand-sessie verhelpt een van de meer voorkomende en uitdagende problemen bij het verhelpen van een PDF voor toegankelijkheid: complexe tabellen'
+description: 'Deze on-demand sessie behandelt een van de meer voorkomende en uitdagende problemen bij het oplossen van een PDF voor toegankelijkheid: complexe tabellen'
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Complexe tabellen
 
-Deze on-demand sessie verhelpt een van de meer voorkomende en uitdagende problemen bij het herstellen van een PDF voor toegankelijkheid: complexe tabellen.
+Deze on-demand sessie behandelt een van de meer voorkomende en uitdagende problemen bij het oplossen van een PDF voor toegankelijkheid: complexe tabellen.
 
-Klik [hier](../assets/accessibilitysession3.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
+Klikken [hier](../assets/accessibilitysession3.zip) om een zip-bestand te downloaden van de hands-on bestanden voor deze sessie.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Session 3 Video](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Video sessie 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

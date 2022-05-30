@@ -31,7 +31,7 @@ Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar 
 
 ## Het aangepaste object zoeken
 
-Nadat de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
+Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
 ![Beheerder](assets/adminTerminal.png)
 

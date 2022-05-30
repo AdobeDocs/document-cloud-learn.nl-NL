@@ -1,5 +1,5 @@
 ---
-title: Overzicht van Mobile
+title: Overzicht van mobiel
 description: Verzend documenten ter ondertekening, volg de voortgang van elektronische ondertekening en krijg real-time updates op je mobiele apparaat
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Overzicht van Mobile
+# Overzicht van mobiel
 
-![Mobile-afbeelding ondertekenen](../assets/Hero-Mobile.png)
+![Mobiele afbeelding ondertekenen](../assets/Hero-Mobile.png)
 
 Verzend documenten ter ondertekening, volg de voortgang van elektronische ondertekening en krijg real-time updates op je mobiele apparaat.
 
@@ -37,7 +37,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
       <img alt="Downloaden voor iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign Mobile-app voor iOS downloaden</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign Mobile-app downloaden voor iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
       <img alt="Downloaden voor Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Download de Acrobat Sign Mobile-app voor Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Acrobat Sign Mobile-app downloaden voor Android</strong></a>
     <br>
   </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Meerdere PDF-bestanden tegelijk zoeken
-description: Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een volledige map met PDF-bestanden doorzoeken
+description: Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een hele map met PDF-bestanden doorzoeken
 role: User
 product: adobe acrobat
 level: Beginner

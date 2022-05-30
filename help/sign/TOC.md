@@ -95,11 +95,11 @@ ht-degree: 7%
    + Workday {#workday}
       + [Acrobat Sign configureren met Workday](integrations/workday.md)
    + Marketo {#marketo}
-      + [Meldingen verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
-      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Herinneringen verzenden met de configuratiegids Acrobat Sign voor Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Meldingen verzenden met Acrobat Sign voor Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
-      + [Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Meldingen verzenden met Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-sms.md)
+      + [Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Herinneringen verzenden met de configuratiegids Acrobat Sign for Salesforce en Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo](integrations/marketo-dynamics-sms.md)
+      + [Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo](integrations/marketo-dynamics-reminder.md)
 + Industrie en diensten {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}

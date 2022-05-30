@@ -22,4 +22,4 @@ Leer hoe u documentworkflows stroomlijnt door een document ter ondertekening rec
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Acrobat Sign gebruiken in Microsoft-apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van de cursus [Acrobat Sign Inside Microsoft-apps gebruiken](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !

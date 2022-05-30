@@ -73,7 +73,7 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
     <div>
     <a href="usecasegovpaycheck.md"><strong>Paycheck-beveiliging</strong></a>
     </div>
-    <em>Zie hoe u het formulier Betalingsbeschermingsprogramma kunt converteren naar een online interactief formulier met Acrobat Sign</em>
+    <em>Zie hoe u Acrobat Sign kunt gebruiken om het formulier Betalingsbeschermingsprogramma om te zetten in een online interactief formulier</em>
     <br>
   </td>
   <td>

@@ -8,14 +8,14 @@ thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Aan de slag voor Acrobat Sign-beheerders
 
-Leer de zeven belangrijkste gebieden waarop beheerders zich moeten richten om snel aan de slag te gaan in Acrobat Sign.
+Ontdek de zeven belangrijkste gebieden waarop beheerders zich moeten richten om snel aan de slag te gaan in Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

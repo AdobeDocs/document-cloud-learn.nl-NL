@@ -9,7 +9,7 @@ thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Leer hoe u documentworkflows kunt stroomlijnen door een document ter ondertekeni
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Acrobat Sign gebruiken in Microsoft-apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van de cursus [Acrobat Sign Inside Microsoft-apps gebruiken](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) dat is gratis beschikbaar op Experience League !

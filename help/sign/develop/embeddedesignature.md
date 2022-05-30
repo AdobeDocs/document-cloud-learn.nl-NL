@@ -1,6 +1,6 @@
 ---
 title: Ingesloten e-handtekeningen en documentervaringen maken
-description: Leer hoe u Acrobat Sign-API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
+description: Leer hoe u Acrobat Sign API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren
 
-Leer hoe u Acrobat Sign-API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
+Leer hoe u Acrobat Sign API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
 
 <table style="table-layout:fixed">
 <tr>
@@ -100,7 +100,7 @@ Nu u toegang hebt tot de API en deze kunt gebruiken, kunt u zien wat u kunt doen
 
 1. Navigeer naar de [Methoden voor Acrobat Sign REST API versie 6](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot van navigatie Acrobat Sign REST API versie 6 Methodes](assets/embeddedesignature/embed_5.png)
+   ![Screenshot van navigatie Acrobat Sign REST API versie 6 Methods](assets/embeddedesignature/embed_5.png)
 
 1. Gebruik het token als een &quot;toonder&quot;-waarde.
 

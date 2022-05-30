@@ -10,14 +10,14 @@ kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Overzicht van Mobile
+# Overzicht van mobiel
 
-![Acrobat Mobile Image](../assets/Hero-Mobile.png)
+![Acrobat Mobile-afbeelding](../assets/Hero-Mobile.png)
 
 Creëer, vul en onderteken PDF op je mobiele apparaat.
 

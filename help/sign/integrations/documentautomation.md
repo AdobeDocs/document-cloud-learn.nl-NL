@@ -1,5 +1,5 @@
 ---
-title: Documentautomatisering met Acrobat Sign voor Microsoft Power Platform
+title: Documentautomatisering met Acrobat Sign for Microsoft Power Platform
 description: Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt. Bouw workflows waarmee je snel en veilig processen voor bedrijfsgoedkeuring en -ondertekening kunt automatiseren zonder code te schrijven
 role: User, Developer
 level: Intermediate
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# Documentautomatisering met Acrobat Sign voor Microsoft Power Platform
+# Documentautomatisering met Acrobat Sign for Microsoft Power Platform
 
 Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt. Bouw workflows waarmee je snel en veilig bedrijfsgoedkeurings- en ondertekeningsprocessen kunt automatiseren zonder code te schrijven. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
 
@@ -59,8 +59,8 @@ Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power A
 
 * Microsoft 365 en Power Automate vertrouwdheid
 * Acrobat Sign-kennis
-* Microsoft 365-account met toegang tot SharePoint en Power Automate (Basic for Acrobat Sign, Premium for Adobe PDF Tools)
-* Acrobat Sign voor ondernemingen of Acrobat Sign-ontwikkelaarsaccount
+* Microsoft 365-account met toegang tot SharePoint en Power Automate (basis voor Acrobat Sign, Premium voor Adobe PDF Tools)
+* Acrobat Sign for enterprise of Acrobat Sign developer account
 
 **Oefeningen 1 en 2**
 
@@ -83,16 +83,16 @@ In deel één gebruikt u een Power Automate Flow-sjabloon om een geautomatiseerd
 
 1. Kies **Een Acrobat Sign-overeenkomst opslaan naar een SharePoint-bibliotheek**.
 
-   ![Screenshot van handeling Acrobat Sign voltooid overeenkomst opslaan in SharePoint-bibliotheek](assets/documentautomation/automation_2.png)
+   ![Screenshot van handeling Acrobat Sign-overeenkomst opslaan in SharePoint-bibliotheek](assets/documentautomation/automation_2.png)
 
 1. Bekijk het scherm en configureer eventuele benodigde verbindingen. Schakel de Acrobat Sign-verbinding in.
 1. Klik op blauw `+` symbool.
 
-   ![Screenshot van de Acrobat Sign- en SharePoint-flowverbinding](assets/documentautomation/automation_3.png)
+   ![Screenshot van Acrobat Sign- en SharePoint-stroomverbinding](assets/documentautomation/automation_3.png)
 
 1. Voer de e-mail naar uw Acrobat Sign-account in en klik op het wachtwoordveld in het nieuwe venster.
 
-   ![Screenshot van Acrobat Sign in-scherm](assets/documentautomation/automation_4.png)
+   ![Schermafbeelding van Acrobat Sign-aanmeldingsscherm](assets/documentautomation/automation_4.png)
 
    Wacht even totdat Adobe uw account heeft gecontroleerd.
 
@@ -195,7 +195,7 @@ In deel twee bouwen we het eerste deel af met een robuustere flow en testen we b
 
    ![Screenshot van hoe het scherm Dynamische inhoud eruit moet zien](assets/documentautomation/automation_18.png)
 
-1. Zoek naar &#39;maken&#39; in het zoekgebied van Acrobat Sign om nog een Acrobat Sign-handeling toe te voegen.
+1. Zoek naar &#39;maken&#39; in het zoekgebied van Acrobat Sign om nog een Acrobat Sign-actie toe te voegen.
 1. Selecteren **Maken en overeenkomst vanuit een geüpload document en verzenden voor ondertekening**.
 
    ![Schermafbeelding van zoeken naar maken](assets/documentautomation/automation_19.png)

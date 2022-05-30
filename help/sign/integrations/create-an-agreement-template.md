@@ -1,5 +1,5 @@
 ---
-title: Een documentsjabloon maken in Acrobat Sign voor Salesforce
+title: Een documentsjabloon maken in Acrobat Sign for Salesforce
 description: Leer hoe u een herbruikbare documentsjabloon kunt maken voor snelheid en consistentie
 role: User, Admin
 product: adobe sign
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Een documentsjabloon maken in Acrobat Sign voor Salesforce
+# Een documentsjabloon maken in Acrobat Sign for Salesforce
 
-Leer hoe u een documentsjabloon maakt voor Acrobat Sign in Salesforce. Documentsjablonen bieden snelheid en consistentie in uw ondertekeningstransacties en de mogelijkheid om documentrevisies en wijzigingen te beheren.
+Leer hoe u een documentsjabloon voor Acrobat Sign maakt in Salesforce. Documentsjablonen bieden snelheid en consistentie in uw ondertekeningstransacties en de mogelijkheid om documentrevisies en wijzigingen te beheren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
