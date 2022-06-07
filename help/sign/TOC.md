@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 7%
@@ -52,7 +52,7 @@ ht-degree: 7%
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor beheerders](admin/up-and-running-admin.md)
-      + [Gedeelde gebeurtenissen en waarschuwingen instellen](admin/set-up-shared-events-and-alert.md)
+      + [Meldingen voor gebeurtenissen en waarschuwingen configureren](admin/set-up-shared-events-and-alert.md)
       + [Gebruikers toevoegen](admin/add-users-to-your-account.md)
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)

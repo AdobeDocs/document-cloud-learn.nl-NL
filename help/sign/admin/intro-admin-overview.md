@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -36,12 +36,12 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/SharedEvents.png" />
+      <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Gedeelde gebeurtenissen en waarschuwingen instellen</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Meldingen voor gebeurtenissen en waarschuwingen configureren</strong></a>
     </div>
-    <em>Instellingen voor gebeurtenissen en waarschuwingen voor uw organisatie configureren</em>
+    <em>Meldingen voor gebeurtenissen en waarschuwingen voor onze account configureren</em>
     <br>
   </td>
   <td>
