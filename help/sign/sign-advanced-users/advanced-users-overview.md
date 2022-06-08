@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
       <img alt="Delegeren naar iemand anders" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delegeren naar iemand anders</strong></a>
+    <a href="delegate-signature.md"><strong>Het gebruik van de Delegatiegever-rol</strong></a>
     </div>
     <em>De rol van delegeerder gebruiken om een document te verzenden naar een tussenpersoon die het document vervolgens kan doorsturen ter ondertekening</em>
     <br>
@@ -83,7 +83,7 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
     </div>
-    <em>Acrobat Sign-formuliervelden maken met behulp van tekstlabels met Adobe Acrobat</em>
+    <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
     <br>
   </td> 
 </table>
