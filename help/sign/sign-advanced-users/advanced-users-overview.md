@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="Handtekeningen bulksgewijs verzamelen" src="../assets/Megasign.png" />
+      <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>Handtekeningen bulksgewijs verzamelen</strong></a>
+    <a href="megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
     </div>
     <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
     <br>

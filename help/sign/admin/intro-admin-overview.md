@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---
@@ -110,10 +110,10 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Handtekeningen in bulk verzamelen" src="../assets/Megasign.png" />
+      <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Handtekeningen bulksgewijs verzamelen</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
     </div>
     <em>honderden handtekeningen tegelijk verzamelen voor elk document</em>
     <br>
