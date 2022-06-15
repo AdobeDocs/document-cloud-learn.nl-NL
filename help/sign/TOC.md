@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [Een document elektronisch ondertekenen](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Een document invullen en ondertekenen](sign-beginner-tutorials/fill-and-sign.md)
       + [Een persoonlijke handtekening verkrijgen](sign-beginner-tutorials/sign-in-person.md)
+      + [Ondertekening delegeren aan iemand anders](sign-beginner-tutorials/delegate-signing.md)
       + [Wat is een digitale handtekening?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Beheer {#getting-started-managing}
