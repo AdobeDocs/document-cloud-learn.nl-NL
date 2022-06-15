@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -46,10 +46,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Een fiatteur toevoegen" src="../assets/Approver.png" />
+      <img alt="De rol fiatteur gebruiken" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Een fiatteur toevoegen</strong></a>
+    <a href="add-an-approver.md"><strong>De rol fiatteur gebruiken</strong></a>
     </div>
     <em>Een rol van fiatteur toevoegen aan uw goedkeuringsproces voor contracten</em>
     <br>

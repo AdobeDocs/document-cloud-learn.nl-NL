@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '421'
 ht-degree: 8%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 8%
    + Verzenden {#advanced-tasks-sending}
       + [Ondertekeningsvolgorde instellen](sign-advanced-users/setting-up-routing.md)
       + [Het gebruik van de Delegatiegever-rol](sign-advanced-users/delegate-signature.md)
-      + [Een fiatteur toevoegen](sign-advanced-users/add-an-approver.md)
+      + [De rol fiatteur gebruiken](sign-advanced-users/add-an-approver.md)
       + [Handtekeningen bulksgewijs verzenden en verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
