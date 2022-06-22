@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
+source-git-commit: 0241cf9189ec43ba3e216423049091226b0172a6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <div>
     <a href="electronically-sign-a-document.md"><strong>Een document elektronisch ondertekenen</strong></a>
     </div>
-    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat u met Acrobat Sign hebt ontvangen</em>
+    <em>Leer hoe eenvoudig het is om een document te ondertekenen dat naar u is verzonden met Acrobat Sign</em>
     <br>
   </td>
   <td>
