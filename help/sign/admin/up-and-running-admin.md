@@ -3,12 +3,12 @@ title: Aan de slag voor Acrobat Sign-beheerders
 description: Overzicht van zeven belangrijke gebieden waarop beheerders snel aan de slag kunnen in Acrobat Sign
 role: Admin
 product: adobe sign
-level: Intermediate
+level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aae60046431de366214addf8514646f2b61a59d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Aan de slag voor Acrobat Sign-beheerders
 
 Ontdek de zeven belangrijkste gebieden waarop beheerders zich moeten richten om snel aan de slag te gaan in Acrobat Sign.
+
+>[!NOTE]
+>
+>Rapportage is alleen beschikbaar voor bedrijfs- en ondernemingslidmaatschappen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
