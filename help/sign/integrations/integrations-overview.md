@@ -1,5 +1,5 @@
 ---
-title: Overzicht van Sign-integraties
+title: Overzicht van integraties
 description: Leer hoe u Acrobat Sign kunt toevoegen aan uw bestaande systemen, processen en toepassingen
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---

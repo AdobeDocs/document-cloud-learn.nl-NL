@@ -1,14 +1,14 @@
 ---
-title: Zelfstudies
-description: Een verzameling zelfstudies, webinars en gebruiksscenario’s die zijn ontworpen om zowel beginners als beheerders snel op weg te helpen bij Acrobat Sign
+title: Acrobat Sign Tutorials
+description: Een verzameling zelfstudies, webinars en gebruiksscenario’s die zijn ontworpen om zowel beginners als beheerders snel op Acrobat Sign te laten kennismaken
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Sign-hoofdafbeelding](assets/Hero_Sign.jpg)
 
-Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als beheerders snel up-to-date te brengen op Acrobat Sign.
+Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om snel zowel beginners als beheerders op Acrobat Sign up-to-date te brengen.
 
 ## Leerpaden
 
@@ -72,7 +72,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integraties</strong></a>
     </div>
-    <em>Voeg Acrobat Sign rechtstreeks toe binnen andere toepassingen die uw organisatie al gebruikt</em>
+    <em>Acrobat Sign rechtstreeks toevoegen binnen andere toepassingen die uw organisatie al gebruikt</em>
     <br>
   </td>
   <td>
@@ -94,7 +94,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
     <a href="develop/develop-overview.md"><strong>Ontwikkelen</strong></a>
     </div>
-    <em>Ontwikkelbronnen ophalen voor Acrobat Sign I/O</em>
+    <em>Ontwikkelingsbronnen ophalen voor Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
