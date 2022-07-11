@@ -9,14 +9,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Hoofdletterrecepten gebruiken
+
+![Hoofdletterbanner gebruiken](../assets/Hero-Recipe.png)
 
 Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen. Klik om een PDF te bekijken met bronnen en informatie over hoe u deze specifieke gebruiksscenario&#39;s voor elektronische handtekeningen instelt.
 
