@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor on
    * Windows — Chocolade
    * Alle — https://www.python.org/downloads/
 
++++
+
 ## Deel 2: Low/No Code — de kracht van webformulieren
 
 In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of geen code. Het is altijd een goed idee om te zien of je kunt voorkomen dat je eerst code schrijft.
@@ -54,6 +56,8 @@ In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of
 1. Experimenteer met het dynamisch toevoegen van queryparameters.
 
    ![Screenshot van het toevoegen van queryparameters](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Deel 3: Overeenkomst verzenden met een formulier en gegevens samenvoegen
 
@@ -110,6 +114,8 @@ De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt 
 
 ![Screenshot van code om handtekeningen dynamisch toe te voegen](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Deel 4: Ondertekeningservaring, omleidingen en meer insluiten
 
 In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een overeenkomst te ondertekenen. Dit is handig voor klantgerichte toepassingen en kiosken.
@@ -135,6 +141,8 @@ Na het bijwerken van het maken van de overeenkomst genereert de laatste stap de 
 ![Screenshot zegt dat het de beste manier is om een herhalingslus tot stand te brengen](assets/embeddedesignature/embed_15.png)
 
 Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenkomst en genereert vervolgens een ondertekenings-URL waarmee de ondertekenaar op het ondertekeningsritueel kan klikken en beginnen.
+
++++
 
 ## Aanvullende onderwerpen
 
