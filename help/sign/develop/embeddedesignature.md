@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren
 
-Leer hoe u Acrobat Sign API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze zelfstudie bevat vier onderdelen die in de onderstaande koppelingen worden beschreven:
+Leer hoe u Acrobat Sign API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze praktische zelfstudie bevat vier onderdelen.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="Wat je nodig hebt" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Deel 1: Wat je nodig hebt</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Deel 2: Low/No Code — de kracht van webformulieren" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Deel 2: Low/No Code — de kracht van webformulieren</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Deel 3: Overeenkomst verzenden met een formulier, gegevens samenvoegen" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Deel 3: Overeenkomst verzenden met een formulier en gegevens samenvoegen</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Deel 4: Ondertekeningservaring, omleidingen en meer insluiten" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Deel 4: Ondertekeningservaring, omleidingen en meer insluiten</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## Deel 1: Wat je nodig hebt
 
-## Deel 1: Wat je nodig hebt {#part1}
+In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor onderdelen 2-4. Laten we beginnen met het ophalen van API-referenties.
 
-In deel 1 leert u aan de slag te gaan met alles wat u nodig hebt voor de onderdelen 2-4. Laten we beginnen met het ophalen van API-referenties.
++++Bekijk details over het ophalen van API-referenties
 
 * [Acrobat Sign-ontwikkelaarsaccount](https://acrobat.adobe.com/nl/nl/sign/developer-form.html)
 * [Eenvoudige code](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ In deel 1 leert u aan de slag te gaan met alles wat u nodig hebt voor de onderde
    * Windows — Chocolade
    * Alle — https://www.python.org/downloads/
 
-## Deel 2: Low/No Code — de kracht van webformulieren {#part2}
+## Deel 2: Low/No Code — de kracht van webformulieren
 
-In deel 2 gaat u de optie Low/no-code gebruiken bij het gebruik van webformulieren. Het is altijd een goed idee om te zien of je kunt voorkomen dat je eerst code schrijft.
+In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of geen code. Het is altijd een goed idee om te zien of je kunt voorkomen dat je eerst code schrijft.
+
++++Bekijk details over het maken van een webformulier
 
 1. Open Acrobat Sign met uw ontwikkelaarsaccount.
-1. Klikken **Een webformulier publiceren** op de startpagina.
+
+1. Selecteren **Een webformulier publiceren** op de startpagina.
 
    ![Schermafbeelding Acrobat Sign-startpagina](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ In deel 2 gaat u de optie Low/no-code gebruiken bij het gebruik van webformulier
    ![Screenshot van hoe u een webformulier kunt maken](assets/embeddedesignature/embed_2.png)
 
 1. Sluit uw overeenkomst in op een platte HTML-pagina.
+
 1. Experimenteer met het dynamisch toevoegen van queryparameters.
 
    ![Screenshot van het toevoegen van queryparameters](assets/embeddedesignature/embed_3.png)
 
-## Deel 3: Overeenkomst verzenden met een formulier en gegevens samenvoegen {#part3}
+## Deel 3: Overeenkomst verzenden met een formulier en gegevens samenvoegen
 
-In deel 3 gaat u dynamisch overeenkomsten maken.
+In deel 3 maakt u dynamisch overeenkomsten.
 
-Eerst, zult u toegang moeten vestigen. Met Acrobat Sign kunt u op twee manieren verbinding maken via een API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zult u eerst de Sleutels van de Integratie willen onderzoeken.
++++Bekijk details over het dynamisch maken van overeenkomsten
+
+Ten eerste moet u toegang tot de computer tot stand brengen. Met Acrobat Sign kunt u op twee manieren verbinding maken via een API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zou u de Sleutels van de Integratie eerst moeten onderzoeken.
 
 1. Selecteren **Integratiesleutel** op de **API-informatie** onder het menu **Account** in Acrobat Sign.
 
@@ -139,9 +110,11 @@ De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt 
 
 ![Screenshot van code om handtekeningen dynamisch toe te voegen](assets/embeddedesignature/embed_11.png)
 
-## Deel 4: Ondertekeningservaring, omleidingen en meer insluiten {#part4}
+## Deel 4: Ondertekeningservaring, omleidingen en meer insluiten
 
 In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een overeenkomst te ondertekenen. Dit is handig voor klantgerichte toepassingen en kiosken.
+
++++Bekijk details over het insluiten van de ondertekeningservaring
 
 Als u niet wilt dat de eerste verzendende e-mail wordt geactiveerd, kunt u het gedrag eenvoudig beheren door de API-aanroep aan te passen.
 
@@ -163,7 +136,7 @@ Na het bijwerken van het maken van de overeenkomst genereert de laatste stap de 
 
 Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenkomst en genereert vervolgens een ondertekenings-URL waarmee de ondertekenaar op het ondertekeningsritueel kan klikken en beginnen.
 
-### Aanvullende onderwerpen
+## Aanvullende onderwerpen
 
 * [JS-gebeurtenissen](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-gebeurtenissen
@@ -179,14 +152,3 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
       ![Screenshot van navigatie naar Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Of voeg er een toe [tijdens de vlucht](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Extra bronnen
-
-http://bit.ly/Summit21-T126
-
-Omvat:
-* Acrobat Sign-ontwikkelaarsaccount
-* Acrobat Sign API-documenten
-* Voorbeeldcode
-* Visual Studio Code
-* Python
