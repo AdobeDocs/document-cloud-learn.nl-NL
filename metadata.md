@@ -7,7 +7,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/document-cloud-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.nl-NL
 index: true
 type: Tutorial
 source-git-commit: 95764e25c3d393b751f52eea5c475add8528ac38
