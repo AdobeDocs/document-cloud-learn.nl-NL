@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 8%
+source-wordcount: '429'
+ht-degree: 9%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 8%
       + [De rol fiatteur gebruiken](sign-advanced-users/add-an-approver.md)
       + [Handtekeningen bulksgewijs verzenden en verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier instellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Beheer {#advanced-tasks-managing}
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)

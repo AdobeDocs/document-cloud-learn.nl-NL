@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="Online betalingen instellen" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>Online betalingen instellen</strong></a>
+    </div>
+    <em>Leer hoe u online betalingen in uw documenten instelt en accepteert</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     </div>
     <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     </div>
     <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Beheer
