@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 4%
 
 ---
@@ -25,12 +25,22 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/Workspace_1280.png" />
+      <img alt="Beginselen van de werkruimte" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
     </div>
     <em>Kijk hoe je in de Acrobat-werkruimte gemakkelijk toegang hebt tot bestanden en tools op desktops, het web en mobiele apparaten</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Nieuwe werkruimte-ervaring" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nieuwe werkruimte-ervaring</strong></a>
+    </div>
+    <em>Meer informatie over de nieuwe werkruimtervaring die u kunt activeren in Acrobat</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files naar PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Vele verschillende bestandstypen combineren tot één PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Opmerkingen toevoegen aan een PDF-bestand en vervolgens delen met anderen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="Een PDF exporteren naar bewerkbare indelingen" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Een in een andere toepassing gemaakt document omzetten in een invulbaar PDF-formulier</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan en OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="Pagina's indelen" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Een wachtwoord aan uw PDF toevoegen om te voorkomen dat anderen het bestand openen of bewerken</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Snel een PDF-formulier invullen en ondertekenen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="Handtekeningen ophalen" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Weet altijd welke bestanden wachten op handtekeningen en welke zijn ondertekend</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
     </div>
     <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
