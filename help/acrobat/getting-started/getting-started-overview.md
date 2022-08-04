@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 4%
@@ -25,7 +25,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/NewWorkspace.png" />
+      <img alt="Beginselen van de werkruimte" src="../assets/Workspace_1280.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
@@ -35,7 +35,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
   </td>
   <td>
     <a href="new-workspace.md">
-      <img alt="Nieuwe werkruimte-ervaring" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Nieuwe werkruimte-ervaring" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="new-workspace.md"><strong>Nieuwe werkruimte-ervaring</strong></a>
