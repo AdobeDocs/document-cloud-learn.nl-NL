@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,16 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <a href="quick-tour.md"><strong>Beginselen van de werkruimte</strong></a>
     </div>
     <em>Volg een korte rondleiding door de Acrobat Sign-werkruimte om aan de slag te gaan</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Aan de slag met Acrobat Sign voor nieuwe afzenders" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Aan de slag met Acrobat Sign voor nieuwe afzenders</strong></a>
+    </div>
+    <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -56,13 +66,13 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Aan de slag met Acrobat Sign voor nieuwe afzenders" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Velden toevoegen aan uw documenten" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Aan de slag met Acrobat Sign voor nieuwe afzenders</strong></a>
+    <a href="adding-fields.md"><strong>Velden toevoegen aan uw documenten</strong></a>
     </div>
-    <em>Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign</em>
+    <em>Leer hoe u verschillende typen velden aan uw documenten kunt toevoegen</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     </div>
     <em>Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is</em>
      <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Persoonlijk iemands handtekening verkrijgen met de mobiele Acrobat Sign-app</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Ondertekening delegeren aan iemand anders" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Leer hoe u het ondertekenen van een document kunt delegeren aan iemand anders</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Wat is een digitale handtekening" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Stempels gebruiken om een goedgekeurd of voltooid document te markeren</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Ondertekenen met een stempel" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Ondertekenen met een stempel</strong></a>
+    </div>
+    <em>Stempels gebruiken om een goedgekeurd of voltooid document te markeren</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <a href="../sign-advanced-users/create-a-template.md"><strong>Een documentsjabloon maken</strong></a>
     </div>
     <em>Maak een herbruikbare documentsjabloon die snel en consistent is voor uw organisatie</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

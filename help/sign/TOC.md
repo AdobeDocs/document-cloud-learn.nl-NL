@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '433'
 ht-degree: 9%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 9%
    + [Overzicht](sign-beginner-tutorials/beginner-users-overview.md)
    + Verzenden {#getting-started-sending}
       + [Beginselen van de werkruimte](sign-beginner-tutorials/quick-tour.md)
+      + [Aan de slag met Acrobat Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
       + [Verzenden naar één ontvanger](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Verzenden naar meerdere ontvangers](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Aan de slag met Acrobat Sign voor nieuwe afzenders](sign-beginner-tutorials/new-sender.md)
+      + [Velden toevoegen aan uw documenten](sign-beginner-tutorials/adding-fields.md)
       + [Een document wijzigen na het verzenden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ondertekenaars vervangen](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
