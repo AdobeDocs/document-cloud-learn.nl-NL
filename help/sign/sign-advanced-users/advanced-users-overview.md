@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <em>Een rol van fiatteur toevoegen aan uw goedkeuringsproces voor contracten</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Online betalingen instellen" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <em>Leer hoe u online betalingen in uw documenten instelt en accepteert</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
     </div>
     <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <a href="edit-a-template.md"><strong>Documentsjablonen beheren</strong></a>
     </div>
     <em>Een sjabloon uit uw bibliotheek bewerken of verwijderen</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Een bestaand webformulier wijzigen" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Een bestaand webformulier wijzigen</strong></a>
+    </div>
+    <em>Leer hoe u een bestaand webformulier kunt uitschakelen, bewerken en opnieuw inschakelen</em>
     <br>
   </td>  
   <td>
