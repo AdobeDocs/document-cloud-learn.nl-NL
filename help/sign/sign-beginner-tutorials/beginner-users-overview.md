@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '422'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,16 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Verzendopties configureren" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Verzendopties configureren</strong></a>
+    </div>
+    <em>Leer hoe u verschillende opties kunt configureren bij het verzenden van een document ter ondertekening</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Velden toevoegen aan uw documenten" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Leer hoe u verschillende typen velden aan uw documenten kunt toevoegen</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Een document wijzigen na het verzenden" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     <em>Een document wijzigen dat al in uitvoering is</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Ondertekenaars vervangen" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
     </div>
     <em>Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is</em>
      <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
