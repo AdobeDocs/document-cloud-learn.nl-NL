@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + Beheer {#advanced-tasks-managing}
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
+      + [Een rapport maken](sign-advanced-users/creating-a-report.md)
 + Beheer {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een sjabloon maken](sign-advanced-users/create-a-template.md)
-      + [Een rapport maken](admin/create-a-report.md)
+      + [Een rapportdiagram maken](admin/create-a-report.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
       + [Een bestaand webformulier wijzigen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Handtekeningen bulksgewijs verzenden en verzamelen](sign-advanced-users/megasign.md)

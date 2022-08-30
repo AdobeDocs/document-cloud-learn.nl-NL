@@ -1,15 +1,15 @@
 ---
 title: Overzicht van geavanceerde taken
-description: Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren
+description: Leer hoe u een document ter ondertekening naar honderd ontvangers tegelijk verzendt, een document maakt dat klaar is voor ondertekening voor uw website, de transacties voor handtekeningen beheert en documentsjablonen maakt en beheert
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '305'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ![Geavanceerde afbeelding ondertekenen](../assets/Hero-Advanced.png)
 
-Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken waarin u klaar bent voor ondertekening, handtekeningtransacties kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
+Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken dat klaar is voor ondertekening, de transacties voor handtekeningen kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
 
 ## Verzenden
 
@@ -129,10 +129,15 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <br>
   </td>  
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="Een rapport maken" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>Een rapport maken</strong></a>
+    </div>
+    <em>Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proces voor het ondertekenen van documenten</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>

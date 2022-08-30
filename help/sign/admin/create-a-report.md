@@ -1,27 +1,26 @@
 ---
-title: Een rapport maken
-description: Leer hoe u rapporten in Acrobat Sign kunt uitvoeren, opslaan en plannen
+title: Een rapportdiagram maken
+description: Leer hoe je eigen aangepaste rapporten en dataexports bouwt, opslaat en beheert
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Een rapport maken
+# Een rapportdiagram maken
 
-Leer hoe u rapporten in Acrobat Sign uitvoert, opslaat en plant.
+Leer hoe je je eigen aangepaste rapporten en dataexport bouwt, opslaat en beheert in een gepersonaliseerd overzicht met de nieuwe rapportage-ervaring. De beschikbaarheid van rapportgrafieken is afhankelijk van het toestemmingsniveau van de gebruiker in het Acrobat Sign-systeem.
 
 >[!NOTE]
 >
 >Rapportage is alleen beschikbaar voor bedrijfs- en ondernemingslidmaatschappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >
