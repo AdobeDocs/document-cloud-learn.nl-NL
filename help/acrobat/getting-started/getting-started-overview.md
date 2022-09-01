@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
+source-git-commit: d25f441ba55bd24fe854a19eb04a301712723a07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '478'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beveiligen van uw PDF-bestanden, deze inhoud is ontworpen om u te laten werken in PDF-workflows.
 
-## Acrobat-zelfstudies
+## Aan de slag - zelfstudies
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="productivity.md">
       <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
     </a>
@@ -65,80 +63,171 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
     <br>
   </td>
-  <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-    </a>
-    <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
-    </div>
-    <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
-    <br>
-  </td>
-  <td>
-    <a href="collaborate.md">
-      <img alt="Samenwerken in real-time" src="../assets/Collaborate_1280.png" />
-    </a>
-    <div>
-     <a href="collaborate.md"><strong>Samenwerken in real-time</strong></a>
-    </div>
-    <em>Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen</em>
-    <br>
-  </td>
 </tr>
 <tr>
-  <td>
-    <a href="combine-to-pdf.md">
-      <img alt="Combine Files naar PDF" src="../assets/Combine.jpg" />
-    </a>
-    <div>
-     <a href="combine-to-pdf.md"><strong>Bestanden combineren tot PDF</strong></a>
-    </div>
-    <em>Vele verschillende bestandstypen combineren tot één PDF</em>
-    <br>
-  </td>
- <td>
-    <a href="create-pdf.md">
-      <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
-    </a>
-    <div>
-    <a href="create-pdf.md"><strong>Een PDF maken</strong></a>
-    </div>
-    <em>PDF maken van alle verschillende soorten documenten</em>
-    <br>
-  </td>
- <td>
-    <a href="comment-on-pdf-files.md">
-      <img alt="Opmerkingen over een PDF" src="../assets/Comment.jpg" />
-    </a>
-    <div>
-    <a href="comment-on-pdf-files.md"><strong>Opmerkingen over een PDF</strong></a>
-    </div>
-    <em>Opmerkingen toevoegen aan een PDF-bestand en vervolgens delen met anderen</em>
-    <br>
-  </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
+      </div>
+      <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
+      </div>
+      <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
+      </div>
+      <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Zelfstudies maken, combineren en ordenen
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="create-pdf.md">
+        <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
+      </a>
+      <div>
+      <a href="create-pdf.md"><strong>Een PDF maken</strong></a>
+      </div>
+      <em>PDF maken van alle verschillende soorten documenten</em>
+      <br>
+    </td>
+    <td>
+      <a href="combine-to-pdf.md">
+        <img alt="Combine Files naar PDF" src="../assets/Combine.jpg" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>Bestanden combineren tot PDF</strong></a>
+      </div>
+      <em>Vele verschillende bestandstypen combineren tot één PDF</em>
+      <br>
+    </td>
+    <td>
+      <a href="organize.md">
+        <img alt="Pagina's indelen" src="../assets/Organize.jpg" />
+      </a>
+      <div>
+      <a href="organize.md"><strong>Pagina's indelen</strong></a>
+      </div>
+      <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en verplaatsen</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Zelfstudies bewerken en exporteren
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="edit-pdf.md">
+        <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
+      </a>
+      <div>
+      <a href="edit-pdf.md"><strong>Een PDF-bestand bewerken</strong></a>
+      </div>
+      <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
+      <br>
+    </td>
+    <td>
+      <a href="auto-adjust-layout.md">
+        <img alt="Lay-out automatisch aanpassen" src="../assets/Autoadjust.png" />
+      </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>Lay-out automatisch aanpassen</strong></a>
+      </div>
+      <em>Meer informatie over de nieuwe bewerkingsmodus waarmee inhoud automatisch wordt aangepast</em>
+      <br>
+    </td>
+    <td>
+      <a href="export-pdf.md">
+        <img alt="Een PDF exporteren naar bewerkbare indelingen" src="../assets/Export.jpg" />
+      </a>
+      <div>
+      <a href="export-pdf.md"><strong>Een PDF exporteren naar bewerkbare indelingen</strong></a>
+      </div>
+      <em>Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Zelfstudies voor samenwerking
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="collaborate.md">
+        <img alt="Samenwerken in real-time" src="../assets/Collaborate_1280.png" />
+      </a>
+      <div>
+      <a href="collaborate.md"><strong>Samenwerken in real-time</strong></a>
+      </div>
+      <em>Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen</em>
+      <br>
+    </td>
+    <td>
+      <a href="comment-on-pdf-files.md">
+        <img alt="Opmerkingen over een PDF" src="../assets/Comment.jpg" />
+      </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>Opmerkingen over een PDF</strong></a>
+      </div>
+      <em>Opmerkingen toevoegen aan een PDF-bestand en vervolgens delen met anderen</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
+</table>
+
+## Aanvullende zelfstudies
+
+<table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="edit-pdf.md">
-      <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
-    </a>
-    <div>
-    <a href="edit-pdf.md"><strong>Een PDF-bestand bewerken</strong></a>
-    </div>
-    <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
-    <br>
-  </td>
-  <td>
-    <a href="export-pdf.md">
-      <img alt="Een PDF exporteren naar bewerkbare indelingen" src="../assets/Export.jpg" />
-    </a>
-    <div>
-    <a href="export-pdf.md"><strong>Een PDF exporteren naar bewerkbare indelingen</strong></a>
-    </div>
-    <em>Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen</em>
-    <br>
-  </td>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Invulbare formulieren maken" src="../assets/Form_1280.png" />
@@ -149,9 +238,17 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Een in een andere toepassing gemaakt document omzetten in een invulbaar PDF-formulier</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
+    <a href="fill-and-sign.md">
+      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
+    </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
+    </div>
+    <em>Snel een PDF-formulier invullen en ondertekenen</em>
+    <br>
+  </td>
+  <td>
     <a href="scan-and-ocr.md">
       <img alt="Scan en OCR" src="../assets/Scan.jpg" />
     </a>
@@ -159,16 +256,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <a href="scan-and-ocr.md"><strong>Scan en OCR</strong></a>
     </div>
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
-    <br>
-  </td>
-  <td>
-    <a href="organize.md">
-      <img alt="Pagina's indelen" src="../assets/Organize.jpg" />
-    </a>
-    <div>
-    <a href="organize.md"><strong>Pagina's indelen</strong></a>
-    </div>
-    <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en verplaatsen</em>
     <br>
   </td>
   <td>
@@ -183,16 +270,6 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
   </td>
 </tr>
 <tr>
-  <td>
-    <a href="fill-and-sign.md">
-      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
-    </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
-    </div>
-    <em>Snel een PDF-formulier invullen en ondertekenen</em>
-    <br>
-  </td>
   <td>
     <a href="signatures.md">
       <img alt="Handtekeningen ophalen" src="../assets/Signatures_1280.png" />
@@ -213,24 +290,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     <em>Weet altijd welke bestanden wachten op handtekeningen en welke zijn ondertekend</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
-    </a>
-    <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
-    </div>
-    <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
-    <br>
-  </td>
-  </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
-  </td>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />

@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Productiviteit onderweg](getting-started/productivity.md)
    + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Samenwerken in real-time](getting-started/collaborate.md)
-   + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
+   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
    + [Een PDF maken](getting-started/create-pdf.md)
-   + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
-   + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
-   + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
-   + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
-   + [Scan en OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
    + [Pagina&#39;s indelen](getting-started/organize.md)
-   + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
+   + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
+   + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
+   + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
+   + [Samenwerken in real-time](getting-started/collaborate.md)
+   + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
+   + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [Scan en OCR](getting-started/scan-and-ocr.md)
+   + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
-   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
    + [Bladwijzers en hyperlinks toevoegen](advanced-tasks/bookmarks.md)
