@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>Word-bestanden en -formulieren converteren naar PDF en automatisch formuliervelden maken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Acrobat helpen bij het maken van toegankelijke PDF" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ ht-degree: 0%
     <em>Controleren of een PDF toegankelijk is</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF aan Word van uw telefoon" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ ht-degree: 0%
     <em>Een gescande PDF omzetten zodat u naar tekst in de PDF kunt zoeken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Bestanden combineren tot één PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ ht-degree: 0%
     <em>Eenvoudige bewerkingen uitvoeren op tekst en afbeeldingen zonder zelfs de PDF te downloaden</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Meerdere PDF-bestanden tegelijk zoeken" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ ht-degree: 0%
     <em>Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een hele map met PDF-bestanden doorzoeken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="In een oogwenk een PDF van foto's maken" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ ht-degree: 0%
     </div>
     <em>Leer Adobe Scan gebruiken om een afgedrukt formulier te ondertekenen</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ ht-degree: 0%
     </div>
     <em>Leer hoe u geavanceerde bewerkingen kunt uitvoeren op een afbeelding in uw PDF met Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Pagina's in een oogwenk ordenen" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ ht-degree: 0%
     <em>Leer hoe u het gereedschap Pagina's indelen gebruikt om een totaalbeeld van uw PDF te krijgen</em>
     <br>
   </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
 
-## Acrobat-zelfstudies
+## Geavanceerde taakzelfstudies
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verbeter de productiviteit van de documentworkflow met behulp van aangepaste opdrachten en tools</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Geavanceerde formuliervelden" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Leer geavanceerde technieken voor het opbouwen van professionele PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF voor SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Verschillende typen formuliervelden toevoegen, eigenschappen van formuliervelden instellen en beveiliging toevoegen om professionele formulieren van hoge kwaliteit te maken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Verbeter je PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Snel en nauwkeurig de verschillen tussen twee PDF-bestanden detecteren</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <em>Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Redigeren en ontsmetten" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
