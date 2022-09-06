@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 4%
+source-wordcount: '484'
+ht-degree: 5%
 
 ---
 
@@ -133,8 +133,13 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
       <br>
     </td>
     <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="add-custom-page.md">
+        <img alt="Aangepaste pagina toevoegen" src="../assets/Custompage.png" />
+      </a>
       <div>
+      <a href="add-custom-page.md"><strong>Aangepaste pagina toevoegen</strong></a>
+      </div>
+      <em>Leer hoe u aangepaste pagina's aan uw PDF kunt toevoegen met de geïntegreerde Adobe Express-app</em>
       <br>
     </td>
   </tr>
