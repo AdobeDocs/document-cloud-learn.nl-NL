@@ -6,14 +6,14 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 2%
 
 ---
 
-# Pagina&#39;s indelen
+# Pagina’s indelen
 
 Gebruik **[!UICONTROL Pagina&#39;s indelen]** in Acrobat om pagina&#39;s in uw PDF toe te voegen, te vervangen, uit te nemen, te roteren, te verwijderen en te verplaatsen.
 

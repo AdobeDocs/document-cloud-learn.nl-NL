@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 5%
@@ -124,10 +124,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Pagina's indelen" src="../assets/Organize.jpg" />
+        <img alt="Pagina’s indelen" src="../assets/Organize.jpg" />
       </a>
       <div>
-      <a href="organize.md"><strong>Pagina's indelen</strong></a>
+      <a href="organize.md"><strong>Pagina’s indelen</strong></a>
       </div>
       <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en verplaatsen</em>
       <br>
