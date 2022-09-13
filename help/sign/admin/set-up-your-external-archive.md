@@ -1,58 +1,20 @@
 ---
 title: Een extern archief instellen
-description: Leer hoe u een extern archief kunt maken voor back-ups van verzonden overeenkomsten
+description: Leer hoe u een extern archief kunt maken voor back-ups van ondertekende overeenkomsten
 role: Admin
 product: adobe sign
 level: Beginner
-team: DC Product Marketing Retention and Engagement
+thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 11%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
 # Een extern archief instellen
 
-Leer hoe u een extern archief kunt maken voor back-ups van verzonden overeenkomsten. U kunt kopieën van ondertekende overeenkomsten archiveren naar elk e-mailadres of naar Box en Evernote. Een kopie van de e-mail Ondertekend en gearchiveerd wordt verzonden naar het e-mailadres of de service die u hebt ingesteld.
+Leer hoe u een extern archief kunt maken voor back-ups van overeenkomsten die zijn ondertekend. U kunt kopieën archiveren naar elk e-mailadres of naar [!DNL Box] en Evernote. Een kopie van de ondertekende en voltooide e-mail wordt verzonden naar het e-mailadres of de cloudservice die u hebt toegewezen.
 
-## Extern archief: e-mailadres
-
-1. Meld u aan als accountbeheerder.
-
-1. Klik op **[!UICONTROL Accountinstellingen]** > **[!UICONTROL Extern archiveren]** onder het tabblad [!UICONTROL Account].
-
-   ![archiveren via e-mail](../assets/archiveemail1.png)
-
-1. Voer het e-mailadres van het archief in en klik op **[!UICONTROL Wijzigingen opslaan]**.
-
-   ![archiveren via e-mail](../assets/archiveemail2.png)
-
-## Extern archiveren: Box.com
-
-1. Meld u aan als accountbeheerder.
-
-1. Klik op **[!UICONTROL Accountinstellingen]** > **[!UICONTROL Extern archiveren]** onder het tabblad [!UICONTROL Account].
-
-1. Selecteer de koppeling [!UICONTROL hier] rechts van het Box-logo.
-
-   ![archiveren via Box](../assets/archivebox1.png)
-
-1. Volg de Box-specifieke aanwijzingen in het pop-upvenster.
-
-   ![archiveren via Box](../assets/archivebox2.png)
-
-## Extern archiveren: Evernote
-
-1. Meld u aan als accountbeheerder.
-
-1. Klik op **[!UICONTROL Accountinstellingen]** > **[!UICONTROL Extern archiveren]** onder het tabblad [!UICONTROL Account].
-
-1. Selecteer de koppeling **[!UICONTROL hier]** rechts van het Evernote-logo.
-
-   ![archiveren via Evernote](../assets/archiveevernote1.png)
-
-1. Volg de Evernote-specifieke aanwijzingen in het pop-upvenster.
-
-   ![archiveren via Evernote](../assets/archiveevernote2.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409072?hidetitle=true)

@@ -7,16 +7,16 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Uw overeenkomsten beheren en volgen
 
-Leer hoe u documenten die ter ondertekening zijn verzonden, kunt beheren en volgen in Acrobat Sign. Krijg real-time statusupdates en meldingen voor elk document waarmee je werkt.
+Leer hoe u documenten die ter ondertekening zijn verzonden in Acrobat Sign beheert en bijhoudt. Krijg real-time statusupdates en meldingen voor elk document dat je ondertekent of verzendt ter ondertekening.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
