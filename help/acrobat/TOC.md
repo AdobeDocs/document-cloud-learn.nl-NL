@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 7%
 
 ---
@@ -114,3 +114,4 @@ ht-degree: 7%
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
    + [Productiviteit onderweg](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Alles naar PDF scannen](mobile/scan-mobile-app.md)

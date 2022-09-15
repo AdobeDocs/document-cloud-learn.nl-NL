@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ Creëer, vul en onderteken PDF op je mobiele apparaat.
      <a href="../getting-started/productivity.md"><strong>Productiviteit onderweg</strong></a>
     </div>
     <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Zelfstudies voor mobiele apps van Adobe Scan
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="Alles naar PDF scannen" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>Alles naar PDF scannen</strong></a>
+    </div>
+    <em>Leer hoe u elk papieren document kunt omzetten in een PDF met de gratis mobiele Adobe Scan-app</em>
     <br>
   </td>
   <td>
