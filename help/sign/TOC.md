@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Documentautomatisering met Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [Een documentsjabloon maken](integrations/create-an-agreement-template.md)
+      + [Document Builder voor Salesforce](integrations/create-an-agreement-template.md)
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
       + [Samenvoegingstoewijzing instellen](integrations/set-up-merging-map.md)
       + [Een aangepaste knop maken](integrations/create-a-custom-button.md)

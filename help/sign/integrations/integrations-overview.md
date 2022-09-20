@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Een documentsjabloon maken in Acrobat Sign for Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Een documentsjabloon maken in Acrobat Sign for Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor [!DNL Salesforce]</strong></a>
     </div>
-    <em>Maak een herbruikbare documentsjabloon die snel en consistent is</em>
+    <em>Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
