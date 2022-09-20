@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ Leer hoe je sneller meer kunt doen met essentiële PDF- en e-handtekeningtools b
 </tr>
 </table>
 
+## Dropbox
+
+Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Werken met bestanden van [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Werken met bestanden van [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Leer hoe je wijzigingen opent, maakt, bewerkt, ondertekent en opslaat in je [!DNL Dropbox] bestanden vanuit Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Lees hoe Acrobat en [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} maakt het voor iedereen in je organisatie eenvoudiger om zaken te doen.
-
-## Dropbox
-
-Leer hoe eenvoudig het is om toegang te krijgen tot en te werken met PDF die zijn opgeslagen in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.

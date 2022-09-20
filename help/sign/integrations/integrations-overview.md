@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -140,12 +140,12 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Samenvoegingstoewijzing instellen" src="../assets/SF-MergeMapping.png" />
+      <img alt="Samenvoegingstoewijzing instellen in Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Samenvoegingstoewijzing instellen</strong></a>
+    <a href="set-up-merging-map.md"><strong>Samenvoegingstoewijzing instellen in Salesforce</strong></a>
     </div>
-    <em>Salesforce-gegevens rechtstreeks samenvoegen in een overeenkomst</em>
+    <em>Leer hoe u gegevens rechtstreeks vanuit Salesforce kunt samenvoegen in een Acrobat Sign-document</em>
     <br>
   </td>
 </tr>

@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 7%
+source-wordcount: '408'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 7%
    + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
    + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Scan en OCR](getting-started/scan-and-ocr.md)
+   + [Scannen &amp; OCR](getting-started/scan-and-ocr.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
@@ -85,10 +85,11 @@ ht-degree: 7%
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
    + [PDF samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Werken met uw SharePoint-bestanden](integrate/acrobatandsp.md)
-   + [E-mailberichten en bijlagen omzetten naar PDF in Outlook](integrate/outlook.md)
-   + [PDF-inhoud maken tijdens bladeren met Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
+   + [Werk met je [!DNL SharePoint] bestanden](integrate/acrobatandsp.md)
+   + [E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]](integrate/outlook.md)
+   + [PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Werken met bestanden van [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industrie en diensten {#by-industry}
    + [Overzicht](industry/industry-overview.md)
    + Overheid {#gov}
