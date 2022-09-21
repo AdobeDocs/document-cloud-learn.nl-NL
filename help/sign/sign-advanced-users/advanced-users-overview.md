@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
+source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 4%
+source-wordcount: '327'
+ht-degree: 3%
 
 ---
 
@@ -97,8 +97,13 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="text-tagging-word.md">
+      <img alt="Tekstlabels gebruiken in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+  </a>
     <div>
+    <a href="text-tagging-word.md"><strong>Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
+    </div>
+    <em>Leer hoe u een herbruikbare documentsjabloon kunt maken door Acrobat Sign-tekstlabels toe te voegen in [!DNL Microsoft Word]</em>
     <br>
   </td>
 </tr>
