@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Leer hoe je gegevens bijhoudt, beheert en exporteert vanuit een [webformulier](w
 
 >[!NOTE]
 >
->Uw Acrobat Sign-beheerder moet **Extra deelnemers toestaan** in de **Webformulieren** van de **Algemene instellingen** om de extra workflow voor deelnemers te gebruiken.
+>Alleen bedrijfs- en ondernemingsgerichte lidmaatschappen hebben de mogelijkheid om toegang tot en ondertekenaarsopties voor webformulieren te configureren. De opties voor toegang tot webformulieren en ondertekenaars zijn in- of uitgeschakeld op account- of groepsniveau onder Account > Accountinstellingen > Algemene instellingen > Webformulieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
