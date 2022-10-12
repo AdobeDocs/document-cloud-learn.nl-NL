@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Aan de slag met nieuwe beheerders" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Aan de slag met nieuwe beheerders</strong></a>
+    </div>
+    <em>In deze uitgebreide videohandleiding leert u alles over de tools die u nodig hebt om uw organisatie aan de slag te krijgen met Acrobat Sign</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Aan de slag voor beheerders" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <em>Gebruikers afzonderlijk of in bulk toevoegen aan uw Acrobat Sign-account</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <em>Groepen maken, gebruikers toevoegen aan groepen en groepsinstellingen bewerken</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Een extern archief instellen" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <em>Leer hoe je eigen aangepaste rapporten en dataexports bouwt, opslaat en beheert</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Een webformulier maken" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Een bestaand webformulier wijzigen" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <em>honderden handtekeningen tegelijk verzamelen voor elk document</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Een workflow instellen" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
     <a href="building-a-custom-workflow.md"><strong>Een workflow instellen</strong></a>
     </div>
     <em>Automatiseer documentworkflows om snel elektronische handtekeningen en data te verkrijgen</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
