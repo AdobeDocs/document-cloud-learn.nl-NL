@@ -5,9 +5,9 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
+source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -20,43 +20,139 @@ Deze uitgebreide videohandleiding is speciaal ontworpen voor nieuwe Acrobat Sign
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Toegang tot de Admin Console" src="../assets/Stepforward_18.png" />
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Toegang tot de Admin Console</strong></a>
          <br>
-        <em>1:00</em>
+        <em>Te 13:00 beginnen</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="Acrobat Sign-rechten aan een gebruiker geven" src="../assets/Stepforward_18.png" />
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Acrobat Sign-rechten aan een gebruiker geven</strong></a>
         <br>
-        <em>13:45</em>
+        <em>Te 13:45 beginnen</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Overzicht van Acrobat Sign-webportal" src="../assets/Stepforward_18.png" />
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Overzicht van Acrobat Sign-webportal</strong></a>
         <br>
-        <em>03:11</em>
+        <em>Begin om 3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="Algemene instellingen en configuraties" src="../assets/Stepforward_18.png" />
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Algemene instellingen en configuraties</strong></a>
         <br>
-        <em>05:58</em>
+        <em>Te beginnen om 5:58</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Branding en installatie van accounts</strong></a>
+         <br>
+        <em>Te beginnen om 7:40</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>Handtekeningvoorkeuren</strong></a>
+        <br>
+        <em>Te beginnen om 8:22</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>Beveiligingsinstellingen</strong></a>
+        <br>
+        <em>Te beginnen om 9:03</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>Verzendinstellingen</strong></a>
+        <br>
+        <em>Te beginnen om 9:55</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>Berichtsjablonen</strong></a>
+         <br>
+        <em>Begin om 12:00</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755"><strong>E-mailinstellingen</strong></a>
+        <br>
+        <em>Begin om 12:35</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>Beheer van gebruikers en groepen</strong></a>
+        <br>
+        <em>Te 13:03 beginnen</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>Workflows maken en activeren</strong></a>
+        <br>
+        <em>Te 15:17 beginnen</em>
+  </td>
+</tr>
+<tr>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
+      <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
+    </a>
+    </td>
+    <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>Toegang tot ondersteuning en aanvullende bronnen</strong></a>
+        <br>
+        <em>Begin om 19:05</em>
     </td>
   </tr>
   </table>
