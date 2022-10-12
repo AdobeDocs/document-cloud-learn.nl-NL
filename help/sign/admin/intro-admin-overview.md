@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Aan de slag met nieuwe beheerders" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Aan de slag voor nieuwe beheerders" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>Aan de slag met nieuwe beheerders</strong></a>
+    <a href="get-started-admin.md"><strong>Aan de slag voor nieuwe beheerders</strong></a>
     </div>
-    <em>In deze uitgebreide videohandleiding leert u alles over de tools die u nodig hebt om uw organisatie aan de slag te krijgen met Acrobat Sign</em>
+    <em>In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign</em>
     <br>
   </td>
   <td>

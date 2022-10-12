@@ -1,20 +1,20 @@
 ---
 title: Aan de slag voor nieuwe beheerders
-description: In deze uitgebreide videohandleiding leert u alles over de tools die u nodig hebt om uw organisatie aan de slag te krijgen met Acrobat Sign
+description: In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Aan de slag voor nieuwe beheerders
 
-Deze uitgebreide videohandleiding is speciaal ontworpen voor nieuwe Acrobat Sign-beheerders. Lees meer over alle tools die je nodig hebt om je organisatie aan de slag te krijgen met Acrobat Sign. Deze gedetailleerde gids behandelt de volgende onderwerpen:
+Deze uitgebreide videohandleiding is speciaal ontworpen voor nieuwe Acrobat Sign-beheerders. Leer meer over alle tools die nodig zijn om je organisatie aan de slag te laten gaan met Acrobat Sign. Deze gedetailleerde gids behandelt de volgende onderwerpen:
 
 <table style="table-layout:auto">
 <tr>
