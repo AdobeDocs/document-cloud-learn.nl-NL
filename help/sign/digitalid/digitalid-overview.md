@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
 >[!NOTE]
 >
 >Voordat u een digitale id kunt gebruiken met een cloudhandtekening, moet u contact opnemen met de beheerder van uw organisatie om te bevestigen dat de oplossing van de provider is ingeschakeld in Acrobat Sign.
+
+## Nieuwe functies
+
+* [Registreren en ondertekenen met D-Trust](d-trust.md)
+Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign
 
 ## [!DNL Aadhaar]
 

@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Aan de slag-afbeelding ondertekenen](../assets/Hero-GettingStarted.png)
 
 Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en begin met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
+
+## Nieuwe functies
+
+* [Ondertekenen met een stempel](sign-with-a-stamp.md)
+Leer hoe u stempels kunt gebruiken om een goedgekeurd of voltooid document te markeren
+* [Ondertekenaars vervangen](replace-signer.md)
+Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is
 
 ## Verzenden
 

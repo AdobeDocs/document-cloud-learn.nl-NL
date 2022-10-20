@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![Geavanceerde afbeelding ondertekenen](../assets/Hero-Advanced.png)
 
 Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken dat klaar is voor ondertekening, de transacties voor handtekeningen kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
+
+## Nieuwe functies
+
+* [Online betalingen instellen](set-up-online-payments.md)
+Leer hoe u online betalingen in uw documenten instelt en accepteert
+* [Een rapport maken](creating-a-report.md)
+Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proces voor het ondertekenen van documenten
 
 ## Verzenden
 
