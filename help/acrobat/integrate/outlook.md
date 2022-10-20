@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-8494.jpg
 kt: 8494
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -22,6 +22,8 @@ Leer hoe u e-mailberichten en bijlagen kunt archiveren voor PDF in [!DNL Outlook
 >[!TIP]
 >
 >Bekijk deze andere Microsoft [integraties](../integrate/integrate-overview.md#microsoft).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
 

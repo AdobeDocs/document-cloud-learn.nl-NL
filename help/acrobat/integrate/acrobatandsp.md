@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat met de [Adobe Ac
 >[!NOTE]
 >
 >Adobe Acrobat for [!DNL SharePoint], [!DNL OneDrive], en [!DNL Office 365] bevat gratis functies (zoals weergeven en zoeken in PDF) die beschikbaar zijn voor alle gebruikers. Voor sommige functies (zoals het maken en combineren van PDF) is een betaald lidmaatschap van Acrobat voor teams of een lidmaatschap van Acrobat voor ondernemingen vereist.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 

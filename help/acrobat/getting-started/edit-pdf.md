@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 6%
@@ -20,6 +20,8 @@ Leer hoe u tekst en afbeeldingen in PDF-bestanden kunt bewerken. Klik of tik om 
 >[!TIP]
 >
 >Meer informatie over de nieuwe bewerkingsmodus die [inhoud automatisch aanpassen](auto-adjust-layout.md).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 

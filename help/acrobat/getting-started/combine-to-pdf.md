@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -20,6 +20,8 @@ Leer hoe u een groot aantal verschillende bestandstypen kunt combineren (PDF, Wo
 >[!TIP]
 >
 >Meer informatie over het toevoegen van een merk [nieuwe aangepaste pagina](add-custom-page.md) combineren van bestanden.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
 

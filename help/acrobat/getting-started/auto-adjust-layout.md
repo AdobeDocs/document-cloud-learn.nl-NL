@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -19,5 +19,7 @@ Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst 
 >[!NOTE]
 >
 >De lay-out voor automatisch aanpassen biedt nog geen ondersteuning voor alle typen PDF-inhoud of -talen.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)

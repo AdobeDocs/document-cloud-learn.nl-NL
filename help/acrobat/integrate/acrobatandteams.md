@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -27,6 +27,8 @@ Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door
 >[!TIP]
 >
 >Bekijk deze andere Microsoft [integraties](../integrate/integrate-overview.md#microsoft).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 

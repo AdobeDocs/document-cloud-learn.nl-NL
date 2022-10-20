@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Leer hoe u rijke, krachtige PDF-bestanden maakt met hyperlinktabellen en kruisve
 >[!TIP]
 >
 >Gebruik de [!DNL Microsoft Office] webapps? Ontdek hoe je [PDF maken in [!DNL Office] voor het web](../integrate/createofficeweb.md).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 

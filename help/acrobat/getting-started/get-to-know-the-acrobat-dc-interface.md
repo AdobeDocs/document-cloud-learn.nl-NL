@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%
@@ -20,5 +20,7 @@ Leer hoe je met de Acrobat-interface eenvoudig bestanden en tools kunt openen op
 >[!TIP]
 >
 >Wilt u meer weten over de nieuwe werkruimtervaring die u kunt activeren in Acrobat? Uitchecken [Nieuwe werkruimte-ervaring](new-workspace.md).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
