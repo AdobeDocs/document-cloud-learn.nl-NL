@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Micro
 1. Selecteren **[!UICONTROL Bewerken]** om verder te werken, of selecteer **[!UICONTROL Bestand]** **>** **[!UICONTROL Opslaan als]** om het PDF-formulier op te slaan.
 
    ![Formulierstap 4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>Ga dieper in op het bouwen van formulieren met deze [geavanceerde technieken](../advanced-tasks/advancedforms.md).

@@ -1,21 +1,25 @@
 ---
-title: Een PDF-bestand bewerken
+title: Een PDF bewerken
 description: Leer hoe u tekst en afbeeldingen bewerkt in PDF-bestanden
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 6%
 
 ---
 
-# Een PDF-bestand bewerken
+# Een PDF bewerken
 
 Leer hoe u tekst en afbeeldingen in PDF-bestanden kunt bewerken. Klik of tik om een nieuwe alinea toe te voegen, een typefout te corrigeren of de PDF-pagina&#39;s opnieuw te rangschikken. Je kunt zelfs afbeeldingen toevoegen of een foto uitsnijden.
+
+>[!TIP]
+>
+>Meer informatie over de nieuwe bewerkingsmodus die [inhoud automatisch aanpassen](auto-adjust-layout.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 
