@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # Action Wizard
 
-Bespaar tijd en toetsaanslagen door met een handeling automatisch een set opdrachten toe te passen op een of meerdere bestanden.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Bespaar tijd en toetsaanslagen door met een handeling automatisch een set opdrachten toe te passen op een of meerdere bestanden.
 
 >[!NOTE]
 >

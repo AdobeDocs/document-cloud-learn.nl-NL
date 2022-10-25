@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '80'
+ht-degree: 5%
 
 ---
 
 # Pagina&#39;s indelen
 
-Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. Voeg onderbroken pagina&#39;s in, vervang, splits ze, rangschik ze, roteer ze en extraheer ze zelfs om een professioneel ogende PDF te maken. Deze videozelfstudie gebruikt de [nieuwe werkruimte](new-workspace.md).
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. Voeg onderbroken pagina&#39;s in, vervang, splits ze, rangschik ze, roteer ze en extraheer ze zelfs om een professioneel ogende PDF te maken. Deze videozelfstudie gebruikt de [nieuwe werkruimte](new-workspace.md).
 
 >[!TIP]
 >

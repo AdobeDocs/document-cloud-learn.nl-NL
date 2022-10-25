@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Bestanden combineren tot één PDF
 
-Leer hoe u een groot aantal verschillende bestandstypen kunt combineren (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. Door bestanden te combineren tot één PDF, kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. Door bestanden te combineren tot één PDF, kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
 
 >[!TIP]
 >
