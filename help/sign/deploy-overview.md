@@ -7,9 +7,9 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
+source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 10%
 
 ---
@@ -29,7 +29,7 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Acrobat Sign beheren op de Admin Console</strong></a>
     </div>
-    <em>Leer hoe u Acrobat Sign-gebruikers en licenties beheert op het bedrijfsplatform van Adobe de Adobe Admin Console</em>
+    <em>Leer hoe u Acrobat Sign-gebruikers en -licenties beheert op het Adobe Admin Console-platform voor Adobe</em>
     <br>
   </td>
   <td>
@@ -50,6 +50,11 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Study Guide</strong></a>
     </div>
     <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

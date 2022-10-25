@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     </div>
     <em>Leer hoe je PDF-bestanden maakt zonder dat je je hoeft te verlaten [!DNL Microsoft Office] voor webapps</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Werk met je [!DNL SharePoint] bestanden" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     </div>
     <em>Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <em>Leer hoe u webpagina's met de Adobe Acrobat-extensie kunt archiveren voor PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Leer hoe je sneller meer kunt doen met essentiële PDF- en e-handtekeningtools b
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox].
     <a href="acrobat-dropbox.md"><strong>Werken met bestanden van [!DNL Dropbox]</strong></a>
     </div>
     <em>Leer hoe je wijzigingen opent, maakt, bewerkt, ondertekent en opslaat in je [!DNL Dropbox] bestanden vanuit Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

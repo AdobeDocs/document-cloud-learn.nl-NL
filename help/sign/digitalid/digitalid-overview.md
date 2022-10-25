@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
     <a href="aadhaar-sign.md"><strong>Ondertekenen met [!DNL Aadhaar]</strong></a>
     </div>
     <em>Leer hoe je je [!DNL Aadhaar] digitale id met Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
     <a href="d-trust.md"><strong>Registreren en ondertekenen met D-Trust</strong></a>
     </div>
     <em>Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
     <a href="intesi-sign.md"><strong>Ondertekenen met [!DNL Intesi Group]</strong></a>
     </div>
     <em>Leer hoe je je [!DNL Intesi Group] digitale id met Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

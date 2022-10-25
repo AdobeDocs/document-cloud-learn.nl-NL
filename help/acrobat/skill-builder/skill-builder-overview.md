@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Voorbereiden voor ondertekening</strong></a>
     </div>
     <em>PDF maken met velden voor elektronische handtekeningen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <em>Tekst, afbeeldingen, koppelingen en watermerken toevoegen aan uw PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Uw werk ondertekenen" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <em>Documenten rechtstreeks ondertekenen in Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Uw PDF converteren" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <em>Formulieren elektronisch invullen, ondertekenen en verzenden op elk apparaat</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Optimaliseer uw PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimaliseer uw PDF</strong></a>
     </div>
     <em>PDF voorbereiden voor verspreiding</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ Ga snel aan de slag op Acrobat met deze interactieve vaardigheidsbuilders. Of sl
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Uw PDF beveiligen</strong></a>
     </div>
     <em>Vertrouwelijke informatie in uw PDF redigeren en beschermen</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

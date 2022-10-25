@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     </div>
     <em>Creëer eenvoudige en moeiteloze workflows voor het samenwerken aan documenten</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Tip: 3Protect digitale documenten" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     <em>Een wachtwoord aan uw PDF toevoegen om te voorkomen dat bestanden worden gekopieerd, bewerkt of afgedrukt</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Tip 4: Werken met formulieren en handtekeningen" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: Scannen en bewerken op mobiele apparaten</strong></a>
     </div>
     <em>Leer hoe je kunt werken met mobiele apps van Adobe Scan en Acrobat Reader om vanaf elke locatie werk gedaan te krijgen</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     </div>
     <em>Leer de beste werkwijzen voor het maken van PDF-bestanden die zijn gemaakt in [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="PDF toegankelijk maken: Voltooien in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     <em>Leer hoe u uw PDF-bestand kunt openen met de tools in Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="PDF-stembiljetten toegankelijker maken" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
     <em>Dit webinar behandelt belangrijke gebieden van de toegankelijkheid van de PDF noodzakelijk om gebruikers van hulptechnologieën, zoals het schermlezers, toe te staan om hun stempels te lezen en te voltooien</em>
     <br>
   </td>  
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Spacer" src="../../assets/Grayspacer.png" />
     <div>

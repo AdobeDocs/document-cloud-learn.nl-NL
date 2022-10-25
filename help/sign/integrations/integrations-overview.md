@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>Een document rechtstreeks verzenden ter ondertekening binnen SharePoint Online</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Tekstspatiëring in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>De voortgang van een overeenkomst rechtstreeks volgen in Microsoft Sharepoint</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>Leer hoe u ondertekende documenten automatisch kunt archiveren naar een [!DNL SharePoint] bibliotheek gebruiken [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <a href="documentautomation.md"><strong>Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Leer hoe u de [!DNL Acrobat Sign] en [!DNL Adobe PDF Tools] connectoren voor [!DNL Microsoft Power] apps</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>Leer hoe u gegevens rechtstreeks vanuit Salesforce kunt samenvoegen in een Acrobat Sign-document</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Een aangepaste knop maken" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <a href="create-a-custom-button.md"><strong>Een aangepaste knop maken</strong></a>
     </div>
     <em>Een aangepaste knop maken waarmee het verzendproces wordt gestart en automatisch een overeenkomst wordt ingevuld in Salesforce</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <a href="workday.md"><strong>Acrobat Sign configureren met Workday</strong></a>
     </div>
     <em>Leer hoe u Acrobat Sign zo configureert dat deze direct in Workday werkt voor een naadloos beheer van al uw HR-documenten</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>Lees hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <em>Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <a href="marketo-dynamics-sms.md"><strong>Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo</strong></a>
     </div>
     <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
