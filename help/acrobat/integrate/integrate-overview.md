@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -56,8 +56,6 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <em>Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF samenwerking in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <em>Werk samen met collega’s door PDF te bekijken, van notities te voorzien en te reviseren zonder dat je hoeft te vertrekken [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="E-mailberichten en bijlagen omzetten naar PDF in Outlook" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <a href="edge.md"><strong>PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Leer hoe u webpagina's met de Adobe Acrobat-extensie kunt archiveren voor PDF [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
