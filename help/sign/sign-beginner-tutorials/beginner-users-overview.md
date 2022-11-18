@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 ## Nieuwe functies
 
+* [Deadlines en herinneringen instellen](set-deadlines-reminders.md)
+Leer hoe u regelmatig e-mailherinneringen en deadlines kunt verzenden, zodat uw documenten snel kunnen worden ondertekend
 * [Ondertekenen met een stempel](sign-with-a-stamp.md)
 Leer hoe u stempels kunt gebruiken om een goedgekeurd of voltooid document te markeren
-* [Ondertekenaars vervangen](replace-signer.md)
-Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is
 
 ## Verzenden
 
@@ -112,6 +112,33 @@ Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is
     <em>Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Deadlines en herinneringen instellen" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Deadlines en herinneringen instellen</strong></a>
+      </div>
+      <em>Leer hoe u regelmatig e-mailherinneringen en deadlines kunt verzenden, zodat uw documenten snel kunnen worden ondertekend</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
