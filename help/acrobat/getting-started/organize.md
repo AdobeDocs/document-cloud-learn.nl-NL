@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '115'
+ht-degree: 25%
 
 ---
 
 # Pagina&#39;s indelen
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. Voeg onderbroken pagina&#39;s in, vervang, splits ze, rangschik ze, roteer ze en extraheer ze zelfs om een professioneel ogende PDF te maken. Deze videozelfstudie gebruikt de [nieuwe werkruimte](new-workspace.md).
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. [Invoegen](https://www.adobe.com/nl/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;} vervangen, [splitsen](https://www.adobe.com/nl/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [herordenen](https://www.adobe.com/nl/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [roteren](https://www.adobe.com/nl/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;} en even [onderbroken pagina&#39;s extraheren](https://www.adobe.com/nl/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} om een professioneel ogende PDF te maken. Deze videozelfstudie gebruikt de [nieuwe werkruimte](new-workspace.md).
 
 >[!TIP]
 >

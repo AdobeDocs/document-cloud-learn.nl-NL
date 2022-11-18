@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '833'
+ht-degree: 1%
 
 ---
 
@@ -30,10 +30,10 @@ Datum: 17 november 2022 Deze Vaardigheidbouwer gaat allemaal over samenwerking m
 Datum: 27 oktober 2022 Leer hoe u uw bestaande PDF kunt wijzigen: bewerk tekst en afbeeldingen, voeg hyperlinks en bladwijzers toe, converteer naar Microsoft Word-, PowerPoint- en Excel-bestanden, en meer.
 
 * **[Aan de slag met Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-Datum: 22 september 2022 Ga aan de slag met Adobe Acrobat en PDF. We introduceren je de interface van Acrobat en laten zien hoe je: * Creëer PDF van afbeeldingsbestanden en -documenten, zoals Word, Excel en PowerPoint. * Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF. * Werk overal en altijd klaar met Acrobat Web en Mobile.
+Datum: 22 september 2022 Ga aan de slag met Adobe Acrobat en PDF. We introduceren je de interface van Acrobat en laten zien hoe je: * [PDF maken van afbeeldingsbestanden](https://www.adobe.com/nl/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} en documenten — inclusief Word, Excel en PowerPoint. * Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF. * Werk overal en altijd klaar met Acrobat Web en Mobile.
 
 * **[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-Datum: 25 augustus 2022 Krijg alle informatie die je nodig hebt om je PDF-content te beschermen. In deze sessie worden technieken gebruikt voor het toevoegen van wachtwoorden om te voorkomen dat een PDF wordt weergegeven, bewerkt of afgedrukt en wordt uitgelegd hoe u gevoelige informatie permanent kunt verwijderen - zelfs uit niet-zichtbare metagegevens!
+Datum: 25 augustus 2022 Krijg alle informatie die je nodig hebt op [beschermen van uw PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} inhoud. In deze sessie worden technieken gebruikt voor het toevoegen van wachtwoorden om te voorkomen dat een PDF wordt weergegeven, bewerkt of afgedrukt en wordt uitgelegd hoe u gevoelige informatie permanent kunt verwijderen - zelfs uit niet-zichtbare metagegevens!
 
 * **[Eenvoudige automatisering met Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
 Datum: 28 juli 2022 Stop met het herhalen van eenvoudige handmatige taken! Deze sessie leert u hoe u Action Wizard in Acrobat kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren.
