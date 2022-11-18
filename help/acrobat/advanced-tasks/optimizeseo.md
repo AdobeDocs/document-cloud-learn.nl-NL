@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +49,7 @@ Sleutel toevoegen **[!UICONTROL Documenteigenschappen]** als volgt:
 
 1. Selecteren **[!UICONTROL Bestand > Eigenschappen]** of gebruik de sneltoets *Ctrl + D* in Windows of *Cmd + D* op Mac en selecteer de **[!UICONTROL Beschrijving]** tabblad.
 1. Voer een titel die is geoptimaliseerd voor trefwoorden in het dialoogvenster **[!UICONTROL Titel:]** veld.
-1. Zorg ervoor dat de **[!UICONTROL Auteur:]** een specifieke persoon in uw organisatie niet herkent.
+1. Zorg ervoor dat de **[!UICONTROL Auteur:]** veld identificeert geen specifieke persoon binnen uw organisatie.
 1. Voer in het dialoogvenster **[!UICONTROL Betreft:]** veld.
 Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekken, Verkennen, enz.
 1. Selecteren **[!UICONTROL Aanvullende metagegevens]** om, indien van toepassing, copyrightinformatie of informatie uit het publieke domein toe te voegen.
@@ -86,7 +86,7 @@ Een PDF als volgt labelen:
 
 ## 4. Voorbereiden voor web
 
-Optimaliseer de interactie met uw PDF door deze voor te bereiden op webweergave en de bestandsgrootte te reduceren.
+Optimaliseer de ervaring van interactie met uw PDF door deze voor te bereiden op webweergave en [verkleinen, grootte van PDF-bestand](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++Bekijk details over hoe u uw PDF voorbereidt voor het web
 
@@ -122,7 +122,7 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 ## 6. Uw PDF beveiligen
 
-De laatste stap is het beschermen van uw PDF om ongeoorloofde wijzigingen te voorkomen.
+De laatste stap is: [bescherm je PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} om ongeoorloofde wijzigingen te voorkomen.
 
 +++Bekijk details over het beveiligen van je PDF
 

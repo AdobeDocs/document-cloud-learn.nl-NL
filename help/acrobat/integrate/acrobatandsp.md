@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 # Werk met je [!DNL SharePoint] bestanden
 
-Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat met de [Adobe Acrobat voor Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Veilig converteren [!DNL Microsoft 365] bestanden naar PDF, documenten combineren in één bestand, opmerkingen plaatsen en pagina&#39;s opnieuw rangschikken - rechtstreeks vanuit [!DNL SharePoint] online.
+Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat met de [Adobe Acrobat voor Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Veilig converteren [!DNL Microsoft 365] bestanden naar PDF, [PDF-documenten combineren](https://www.adobe.com/nl/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} in één bestand plaatsen, opmerkingen plaatsen en pagina&#39;s opnieuw rangschikken - rechtstreeks vanuit [!DNL SharePoint] online.
 
 >[!NOTE]
 >

@@ -6,15 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9752.jpg
 KT: 9752
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: ae31afe3-e2e4-4e1c-8eb4-13dcc7cc9e05
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 14%
 
 ---
 
 # Protect uw PDF-bestanden met een wachtwoord
 
-In deze videozelfstudie van 60 seconden leert u hoe u een PDF kunt beschermen, zodat een wachtwoord is vereist om de PDF te openen of te bewerken.
+Leer in deze videozelfstudie van 60 seconden hoe u [PDF beschermen](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} zodat een wachtwoord vereist is om te openen of te openen [de PDF bewerken](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340075?hidetitle=true)

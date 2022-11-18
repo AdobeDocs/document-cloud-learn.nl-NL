@@ -1,20 +1,21 @@
 ---
-title: Word naar PDF converteren, inclusief velden
+title: Word converteren naar PDF Formuliervelden opnemen
 description: Word-bestanden en -formulieren converteren naar PDF en automatisch formuliervelden maken
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9704.jpg
 KT: 9704
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 2b24426b-2c7d-4c84-b8bc-4ea7a1313598
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 0%
+source-wordcount: '53'
+ht-degree: 16%
 
 ---
 
 # Word converteren naar PDF, inclusief formuliervelden
 
-In deze videozelfstudie van 60 seconden leert u hoe u Word-bestanden en -formulieren omzet in PDF en automatisch formuliervelden maakt.
+Leer in deze videozelfstudie van 60 seconden hoe u [Word-bestanden en -formulieren converteren naar PDF](https://www.adobe.com/nl/acrobat/online/word-to-pdf.html){target=&quot;_blank&quot;} en automatisch formuliervelden maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340082?hidetitle=true)

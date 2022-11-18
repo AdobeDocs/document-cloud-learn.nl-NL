@@ -6,15 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9753.jpg
 KT: 9753
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 8ab6c2ba-8cc0-460d-9f31-c406ddb8f0b3
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 
 # Export PDF aan Word van uw telefoon
 
-In deze videozelfstudie van 60 seconden leert u hoe u een PDF-bestand kunt converteren naar een volledig bewerkbaar Microsoft Word-document met de mobiele Acrobat-app.
+Leer in deze videozelfstudie van 60 seconden hoe u [een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Word-document](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html){target=&quot;_blank&quot;} met de mobiele Acrobat-app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340214?hidetitle=true)

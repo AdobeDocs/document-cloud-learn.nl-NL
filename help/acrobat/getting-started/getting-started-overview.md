@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 5%
+source-wordcount: '493'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Aan de slag met Acrobat](../assets/Hero-GettingStarted.png)
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beveiligen van uw PDF-bestanden, deze inhoud is ontworpen om u te laten werken in PDF-workflows.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beschermen of [bewerken van PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, is deze inhoud ontworpen om u te laten werken in PDF-workflows.
 
 ## Aan de slag - zelfstudies
 
@@ -124,10 +124,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Pagina’s indelen" src="../assets/Organize.png" />
+        <img alt="Pagina's indelen" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Pagina’s indelen</strong></a>
+      <a href="organize.md"><strong>Pagina's indelen</strong></a>
       </div>
       <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en opnieuw rangschikken</em>
       <br>
@@ -151,10 +151,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
+        <img alt="Een PDF bewerken" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Een PDF-bestand bewerken</strong></a>
+      <a href="edit-pdf.md"><strong>Een PDF bewerken</strong></a>
       </div>
       <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
       <br>
@@ -250,10 +250,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scan en OCR" src="../assets/Scan.jpg" />
+      <img alt="Scannen &amp; OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Scan en OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Scannen &amp; OCR</strong></a>
     </div>
     <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
     <br>

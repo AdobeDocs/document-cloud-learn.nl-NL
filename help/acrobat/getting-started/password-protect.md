@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 9%
 
 ---
 
 # Protect een PDF-bestand met een wachtwoord
 
-Leer hoe u een wachtwoord aan uw PDF toevoegt om te voorkomen dat anderen het bestand openen of bewerken.
+Leer hoe je [een wachtwoord toevoegen aan uw PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} om anderen te beschermen tegen openen of openen [bewerken van het PDF-bestand](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
