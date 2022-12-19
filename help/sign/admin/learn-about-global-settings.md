@@ -7,18 +7,18 @@ level: Intermediate, Experienced
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 8bf47e73f9bc1c82467e7567069bca406b357725
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Algemene instellingen
 
-Leer hoe u instellingen globaal kunt bewerken voor uw hele organisatie of voor specifieke groepen.
+De sectie Internationale instellingen van het tabblad Account bevat vele functies en alle instellingen gelden specifiek voor een bepaald gebruik. Leer hoe u instellingen globaal kunt bewerken voor uw hele organisatie of voor specifieke groepen.
 
->[!VIDEO](https://video.tv.adobe.com/v/17358?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412507?hidetitle=true)
 
 >[!TIP]
 >
