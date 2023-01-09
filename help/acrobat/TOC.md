@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 8%
    + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
    + [Pagina&#39;s indelen](getting-started/organize.md)
    + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
-   + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
+   + [Een PDF bewerken](getting-started/edit-pdf.md)
    + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Samenwerken in real-time](getting-started/collaborate.md)
@@ -88,6 +88,7 @@ ht-degree: 8%
    + [Werk met je [!DNL SharePoint] bestanden](integrate/acrobatandsp.md)
    + [E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]](integrate/outlook.md)
    + [PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF gebruiken [!DNL Microsoft Purview Information] gevoeligheidslabels](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Werken met bestanden van [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industrie en diensten {#by-industry}
