@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 5f505e95db7bd069f81e810978c8de67ebad0549
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 6%
 
 ---
 
-# 5 Tips voor het overal werken met Acrobat—Werken met formulieren en handtekeningen
+# 5 tips voor het overal werken met Acrobat—Werken met formulieren en handtekeningen
 
-Iedereen moet op een bepaald moment formulieren invullen. Leer hoe u digitaal kunt blijven bij het invullen van formulieren, omdat u niet altijd toegang hebt tot een printer.
+Iedereen moet op een bepaald moment [formulieren invullen](https://www.adobe.com/nl/acrobat/online/sign-pdf.html). Leer hoe u digitaal kunt blijven bij het invullen van formulieren, omdat u niet altijd toegang hebt tot een printer.
 
 ## Tip #4 - Werken met formulieren en handtekeningen (7:03)
 

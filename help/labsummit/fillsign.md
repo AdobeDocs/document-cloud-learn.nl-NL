@@ -3,10 +3,10 @@ title: Elk formulier invullen en ondertekenen op desktop of mobiel
 description: Snel formulieren invullen, ondertekenen en verzenden vanaf je desktop, browser of mobiele app
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Hier zijn de [demo-bestanden](assets/03_FillSignScan.zip) voor deze oefening.
 
 **Stap 4:** Gebruik de witte knop om een foto te maken en tik vervolgens op **[!UICONTROL Foto gebruiken]**. Tikken **[!UICONTROL Gereed]** in de rechterbovenhoek.
 
-**Stap 5:** Tik onder aan de app op de knop **[!UICONTROL Uitsnijden]** en de hulplijnen gebruiken om de afbeelding uit te snijden. Tikken **[!UICONTROL Gereed]** als u klaar bent.
+**Stap 5:** Tik onder aan de app op de knop **[!UICONTROL Uitsnijden]** en gebruikt de hulplijnen om [de afbeelding uitsnijden](https://www.adobe.com/nl/acrobat/online/crop-pdf.html). Tikken **[!UICONTROL Gereed]** als u klaar bent.
 
 ![lokale documentafbeelding](assets/localdoc.jpg)
 

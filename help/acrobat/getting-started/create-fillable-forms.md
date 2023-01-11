@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
 # Invulbare formulieren maken
 
-Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Microsoft Word, Excel of een andere toepassing om in een invulbaar PDF formulier.
+Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Microsoft Word, Excel of een andere toepassing om in een [invulbaar PDF-formulier](https://www.adobe.com/nl/acrobat/online/sign-pdf.html).
 
 1. Selecteren **[!UICONTROL Prepare Form]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
 

@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
 # Een PDF exporteren naar Microsoft Office-indelingen
 
-Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen, zoals Microsoft Word, PowerPoint en Excel. Door te exporteren naar een andere bestandsindeling kunt u uw documenten aanzienlijk reviseren en bijwerken.
+Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen, zoals [Microsoft Word](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/nl/acrobat/online/pdf-to-ppt.html), en [Excel](https://www.adobe.com/nl/acrobat/online/pdf-to-excel.html). Door te exporteren naar een andere bestandsindeling kunt u uw documenten aanzienlijk reviseren en bijwerken.
 
 >[!TIP]
 >
