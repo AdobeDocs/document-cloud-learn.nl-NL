@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 ## Nieuwe functies
 
+* [Aan de slag met Acrobat Sign](new-sender.md)
+Bent u nog niet eerder met Acrobat Sign begonnen? Deze zelfstudie is een fantastisch beginpunt.
 * [Deadlines en herinneringen instellen](set-deadlines-reminders.md)
 Leer hoe u regelmatig e-mailherinneringen en deadlines kunt verzenden, zodat uw documenten snel kunnen worden ondertekend
-* [Ondertekenen met een stempel](sign-with-a-stamp.md)
-Leer hoe u stempels kunt gebruiken om een goedgekeurd of voltooid document te markeren
 
 ## Verzenden
 
