@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
+source-git-commit: efc55a167156f713d5ef6d23a45cb74f7567f223
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,14 +38,14 @@ Deze gedetailleerde zelfstudie behandelt de volgende onderwerpen:
         <em>Beginnen om 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Startpagina</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Startpagina</strong></a>
          <br>
-        <em>Beginnen om 0:55</em>
+        <em>Beginnen om 0:56</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -77,7 +77,7 @@ Deze gedetailleerde zelfstudie behandelt de volgende onderwerpen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Invulbare velden toevoegen</strong></a>
          <br>
-        <em>Te beginnen om 8:22</em>
+        <em>Te beginnen om 9:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
