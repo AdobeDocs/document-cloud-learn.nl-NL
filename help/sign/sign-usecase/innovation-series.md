@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,9 @@ Datum: 18 mei 2023 Volg ons om meer te weten te komen over de basisbeginselen va
 **[Geavanceerde training voor ontwerpomgeving](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Datum: 20 april 2023 Bekijk de opties die beschikbaar zijn in de Acrobat Sign-ontwerpomgeving. De volgende onderwerpen worden behandeld:
 
-    * Overzicht van het voorbereiden van uw Acrobat Sign-documentsjablonen met Acrobat, tekstcodering en de Acrobat Sign-ontwerpomgeving.
-    * Ga dieper in op de ontwerpomgeving, met betrekking tot klonen versus het kopiëren van velden, het toevoegen van speciale velden, het toewijzen van velden en het instellen van voorwaardelijke en berekeningsvelden.
-    * Hoe u uw sjablonen ter ondertekening verzendt, waarbij u de documentsjabloon vergelijkt met de formulierveldsjabloon.
+* Overzicht van het voorbereiden van uw Acrobat Sign-documentsjablonen met Acrobat, tekstcodering en de Acrobat Sign-ontwerpomgeving.
+* Ga dieper in op de ontwerpomgeving, met betrekking tot klonen versus het kopiëren van velden, het toevoegen van speciale velden, het toewijzen van velden en het instellen van voorwaardelijke en berekeningsvelden.
+* Hoe u uw sjablonen ter ondertekening verzendt, door de documentsjabloon te vergelijken met de formulierveldsjabloon.
 
 **[Een invulbaar, ondertekenbaar webformulier plaatsen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Datum: 16 maart 2023 Leer hoe u een webformulier kunt maken waarmee iedereen het formulier kan invullen en ondertekenen - zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar hoeft te kennen. U leert ook hoe u een documentsjabloon voorbereidt die kan worden gebruikt voor afzonderlijke handtekeningtransacties, en hoe u naar een unieke URL kunt posten om deze breed te delen.
@@ -44,9 +44,9 @@ Datum: 16 februari 2023 Leer hoe u tijd kunt besparen met de functie Verzenden i
 **[Uw overeenkomsten voorbereiden voor elektronische ondertekening](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Datum: 19 januari 2023 Meer informatie over drie eenvoudige manieren om uw documenten in te stellen voor elektronische ondertekening. Of het nu gaat om PDF-, Microsoft 365-bestanden of zelfs om een eenvoudig afbeeldingsbestand, deze sessie biedt je de tools die je nodig hebt om dat document te laten ondertekenen. We behandelen drie methoden:
 
-    * Adobe Acrobat Sign, eenvoudige ontwerpomgeving voor slepen en neerzetten
-    * Een PDF-formulier instellen in Adobe Acrobat
-    * Tekstlabels gebruiken om documenten snel te ontwerpen
+* Adobe Acrobat Sign, eenvoudige ontwerpomgeving voor slepen en neerzetten
+* Een PDF-formulier instellen in Adobe Acrobat
+* Tekstlabels gebruiken om documenten snel te ontwerpen
 
 **[Werken met elektronische handtekeningen in uw Microsoft-apps](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Datum: 8 december 2022 Breid de manier uit waarop je je Microsoft-apps zoals Word, Outlook en SharePoint gebruikt door Adobe Acrobat Sign toe te voegen aan je bestaande workflows. In deze sessie leert u hoe u documentprocessen kunt stroomlijnen in algemene Microsoft-apps, zodat u niet hoeft over te schakelen naar de context om alleen een handtekening te krijgen of een status te controleren.

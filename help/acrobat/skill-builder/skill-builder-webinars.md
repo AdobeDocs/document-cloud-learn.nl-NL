@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om j
 **[PDF forms 101: Invulbare Forms maken](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Datum: 29 juni 2023 Zet je oude formulieren en papieren documenten met gemak om in digitale, invulbare PDF. Acrobat biedt verschillende methoden en tools waarmee je op weg bent naar digitale documenttransformatie. In deze sessie wordt het volgende besproken:
 
-    * Een formuliersjabloon maken van diverse bestanden (PDF, gescande afbeelding, Word)
-    * Werken met beschikbare veldtypen (tekst, selectievakjes, keuzerondjes, vervolgkeuzelijsten, kalender)
-    * Werken met veldeigenschappen en productiviteitsgereedschappen (weergave, opmaak, berekeningen, validaties)
+* Een formuliersjabloon maken van diverse bestanden (PDF, gescande afbeelding, Word)
+* Werken met beschikbare veldtypen (tekst, selectievakjes, keuzerondjes, vervolgkeuzelijsten, kalender)
+* Werken met veldeigenschappen en productiviteitsgereedschappen (weergave, opmaak, berekeningen, validaties)
 
 **[Interactiviteit toevoegen aan uw PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 Datum: 25 mei 2023 Maak je PDF eenvoudiger en boeiender voor je doelgroep om mee te werken. Word lid van deze sessie en ontdek hoe eenvoudig het is om interactiviteit aan uw PDF toe te voegen door:
 
-    * Hyperlinks en bladwijzers toevoegen om de documentnavigatie te vereenvoudigen
-    * Inclusief video, geluid, 3D en meer in uw PDF
-    * Verschillende typen inhoud in één document ordenen
+* Hyperlinks en bladwijzers toevoegen om de documentnavigatie te vereenvoudigen
+* Inclusief video, geluid, 3D en meer in je PDF
+* Verschillende typen inhoud in één document ordenen
 
 **[PDF-inhoud opnieuw gebruiken: Bewerken en exporteren](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Datum: 27 april 2023 Waarom het wiel opnieuw maken wanneer je eenvoudig PDF kunt bewerken en exporteren? In deze sessie leren we u hoe u uw bestaande PDF kunt wijzigen met bewerkings- en exporttools van Acrobat. U leert het volgende:
 
-    * Tekst en afbeeldingen bewerken
-    * Hyperlinks en bladwijzers toevoegen om documentnavigatie te vereenvoudigen
-    * Exporteren naar vertrouwde indelingen zoals Microsoft Word, PowerPoint en Excel
-    * Een volledig document exporteren of specifieke tekst, afbeeldingen of tabellen kiezen
+* Tekst en afbeeldingen bewerken
+* Hyperlinks en bladwijzers toevoegen om documentnavigatie te vereenvoudigen
+* Exporteren naar vertrouwde indelingen zoals Microsoft Word, PowerPoint en Excel
+* Een volledig document exporteren of specifieke tekst, afbeeldingen of tabellen kiezen
 
 **[PDF Samenwerking: Delen, reviewen en samenwerken](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 Datum: 23 maart 2023 Ga aan de slag met Adobe Acrobat en PDF. Ontdek de grondbeginselen met een inleiding op de Acrobat-interface en belangrijke functies die je helpen productiever te zijn. We laten u zien hoe u:
 
-    * Maak PDF van afbeeldingsbestanden en documenten, zoals Word, Excel en PowerPoint
-    * Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF
-    * Werk overal en op elk moment gedaan met Acrobat Web en Acrobat Mobile
+* Maak PDF van afbeeldingsbestanden en documenten, zoals Word, Excel en PowerPoint
+* Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF
+* Werk overal en altijd met Acrobat Web en Acrobat Mobile
 
 **[Aan de slag met Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 Datum: 23 februari 2023 Ga aan de slag met Adobe Acrobat en PDF. Ontdek de grondbeginselen met een inleiding op de Acrobat-interface en belangrijke functies die je helpen productiever te zijn. We laten u zien hoe u:
 
-    * Maak PDF van afbeeldingsbestanden en documenten, zoals Word, Excel en PowerPoint
-    * Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF
-    * Werk overal en op elk moment gedaan met Acrobat Web en Acrobat Mobile
+* Maak PDF van afbeeldingsbestanden en documenten, zoals Word, Excel en PowerPoint
+* Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF
+* Werk overal en altijd met Acrobat Web en Acrobat Mobile
 
 **[Productiviteit, waar je ook bent](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Datum: 26 januari 2023 Deze sessie leert u hoe u uw favoriete Acrobat-tools kunt openen vanuit elke webbrowser of vanaf uw mobiele apparaat. Acrobat op het web biedt je de mogelijkheid om overal te werken, en de mobiele app van Acrobat breidt je productiviteit uit naar mobiele omgevingen.
