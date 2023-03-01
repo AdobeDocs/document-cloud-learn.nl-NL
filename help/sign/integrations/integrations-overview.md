@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 >[!NOTE]
 > Als u problemen hebt met de toegang tot een van deze functies, neemt u contact op met de beheerder van uw organisatie om te controleren of de integratie is ingeschakeld.
 
-## Nieuwe functies
+## Nieuw
 
+* [Documenten verzenden voor notariatie](send-document-notarize.md)
+In deze driedelige zelfstudie leert u hoe u een document kunt verzenden voor notarisering, de ervaring van de ondertekenaar kunt bekijken en de resultaten kunt ontvangen
 * [Bestanden automatisch archiveren in SharePoint met Power Automate](auto-archive-sharepoint-power-automate.md)
 Leer hoe u ondertekende documenten automatisch archiveert naar een SharePoint-bibliotheek met behulp van Power Automate
-* [Document Builder voor Salesforce](create-an-agreement-template.md)
-Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Salesforce
 
 ## Zelfstudies voor Microsoft-integraties
 
@@ -104,6 +104,38 @@ Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor Sal
     <a href="documentautomation.md"><strong>Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Leer hoe u de [!DNL Acrobat Sign] en [!DNL Adobe PDF Tools] connectoren voor [!DNL Microsoft Power] apps</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] integratiezelfstudies
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="Documenten verzenden voor notariatie" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>Documenten verzenden voor notariatie</strong></a>
+    </div>
+    <em>Leer hoe u een document verzendt voor notarisering</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
