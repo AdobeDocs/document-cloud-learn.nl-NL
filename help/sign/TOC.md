@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Een document wijzigen na het verzenden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ondertekenaars vervangen](sign-beginner-tutorials/replace-signer.md)
       + [Deadlines en herinneringen instellen](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Ondertekenen {#getting-started-signing}
       + [Een document elektronisch ondertekenen](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Een document invullen en ondertekenen](sign-beginner-tutorials/fill-and-sign.md)
       + [Een persoonlijke handtekening verkrijgen](sign-beginner-tutorials/sign-in-person.md)
@@ -87,7 +87,7 @@ ht-degree: 9%
       + [Ondertekenen met Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registreren en ondertekenen met [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi-groep {#intesi}
       + [Een digitale id ophalen van Intesi Group (geavanceerd)](digitalid/intesi-advanced.md)
       + [Een digitale id ophalen van Intesi Group (gekwalificeerd)](digitalid/intesi-qualified.md)
       + [Ondertekenen met Intesi Group](digitalid/intesi-sign.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Verzenden ter ondertekening in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Documentautomatisering met Acrobat Sign for Microsoft Power Platform](integrations/documentautomation.md)
+   + notariseren {#notarize}
+      + [Documenten verzenden voor notariatie](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder voor Salesforce](integrations/create-an-agreement-template.md)
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
