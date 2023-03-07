@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 0%
       + [Ondertekenen met Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registreren en ondertekenen met [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi-groep {#intesi}
+   + Intesi Group {#intesi}
       + [Een digitale id ophalen van Intesi Group (geavanceerd)](digitalid/intesi-advanced.md)
       + [Een digitale id ophalen van Intesi Group (gekwalificeerd)](digitalid/intesi-qualified.md)
       + [Ondertekenen met Intesi Group](digitalid/intesi-sign.md)
