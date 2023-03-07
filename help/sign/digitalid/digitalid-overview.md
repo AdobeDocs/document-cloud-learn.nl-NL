@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
 >
 >Voordat u een digitale id kunt gebruiken met een cloudhandtekening, moet u contact opnemen met de beheerder van uw organisatie om te bevestigen dat de oplossing van de provider is ingeschakeld in Acrobat Sign.
 
-## Nieuwe functies
+## Nieuw
 
 * [Registreren en ondertekenen met D-Trust](d-trust.md)
 Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign
@@ -65,24 +65,19 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="Een digitale id ophalen van [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="Registreren en ondertekenen met een [!DNL Digidentity] digitale id" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Een digitale id ophalen van [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Registreren en ondertekenen met een [!DNL Digidentity] digitale id</strong></a>
     </div>
-    <em>Leer hoe u een digitaal ondertekeningscertificaat kunt verkrijgen van [!DNL Digidentity]</em>
+    <em>Leer hoe je je kunt registreren en gebruiken [!DNL Digidentity] digitale id met Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="Ondertekenen met [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>Ondertekenen met [!DNL Digidentity]</strong></a>
-    </div>
-    <em>Leer hoe je je [!DNL Digidentity] digitale id met Acrobat Sign</em>
     <br>
   </td>
   <td>
