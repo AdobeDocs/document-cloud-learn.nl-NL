@@ -8,17 +8,17 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Registreren en ondertekenen met [!DNL Digidentity]
 
-Digidentity is een gekwalificeerde verlener van vertrouwensdiensten in de EU (QTSP). Digitale identificatie en onboardingproces zijn afhankelijk van de mobiele app Digidentity en vereisen het gebruik van een identiteitsdocument met een ingesloten NFC-chip en een mobiel apparaat dat compatibel is met NFC. Het Digidentity-proces is volledig zelfservice en is 24/7/365 beschikbaar, zonder &#39;human in the loop&#39;. In de meeste gevallen duurt het maar 5 tot 10 minuten om de registratie te voltooien.
+Digidentity is een gekwalificeerde verlener van vertrouwensdiensten in de EU (QTSP). Het proces voor identificatie en onboarding van Digidentity is afhankelijk van de mobiele app Digidentity en vereist het gebruik van een identiteitsdocument met een ingesloten NFC-chip en een mobiel apparaat dat compatibel is met NFC. Het Digidentity-proces is volledig zelfservice en is 24/7/365 beschikbaar, zonder &#39;human in the loop&#39;. In de meeste gevallen duurt het maar 5 tot 10 minuten om de registratie te voltooien.
 
-In deze videozelfstudie wordt het gebruikerstraject beschreven van de ontvangst van de e-mail met de registratieuitnodiging tot het gebruik van een digitale id voor het verifiëren en toepassen van een cloudhandtekening in Adobe Acrobat Sign.
+In deze videozelfstudie wordt het gebruikerstraject beschreven van de ontvangst van de e-mail met de registratieuitnodiging tot het gebruik van een digitale id voor het verifiëren en toepassen van een cloudhandtekening in Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
