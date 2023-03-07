@@ -1,5 +1,5 @@
 ---
-title: Registreren en ondertekenen met een [!DNL Digidentity] digitale id
+title: Registreren en ondertekenen met [!DNL Digidentity]
 description: Leer hoe je je kunt registreren en gebruiken [!DNL Digidentity] digitale id met Acrobat Sign
 role: User
 product: adobe sign
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Registreren en ondertekenen met een [!DNL Digidentity] digitale id
+# Registreren en ondertekenen met [!DNL Digidentity]
 
 Digidentity is een gekwalificeerde verlener van vertrouwensdiensten in de EU (QTSP). Digitale identificatie en onboardingproces zijn afhankelijk van de mobiele app Digidentity en vereisen het gebruik van een identiteitsdocument met een ingesloten NFC-chip en een mobiel apparaat dat compatibel is met NFC. Het Digidentity-proces is volledig zelfservice en is 24/7/365 beschikbaar, zonder &#39;human in the loop&#39;. In de meeste gevallen duurt het maar 5 tot 10 minuten om de registratie te voltooien.
 
