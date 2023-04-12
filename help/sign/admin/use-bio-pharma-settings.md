@@ -6,7 +6,7 @@ product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Meer informatie over Bio-pharma-instellingen waarmee u Acrobat Sign kunt configureren om te voldoen aan de FDA 21 CFR Part 11-vereisten.
 
->[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/21748?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

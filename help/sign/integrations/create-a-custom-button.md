@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%
@@ -19,4 +19,4 @@ ht-degree: 16%
 
 Leer hoe u een aangepaste knop maakt in een standaardobject in Salesforce.com. In dit voorbeeld wordt een aangepaste knop toegevoegd aan een **Contact** in [!DNL Salesforce]. Wanneer op de knop wordt geklikt, wordt het verzendproces gestart en worden de gegevens van het **Contact** rechtstreeks in de overeenkomst.
 
->[!VIDEO](https://video.tv.adobe.com/v/17352?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

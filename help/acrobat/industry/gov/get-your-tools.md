@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -19,6 +19,6 @@ De eerste stap om vanaf elke locatie aan de slag te gaan, is het verkrijgen van 
 
 ## Tip 1 - Download je tools (2:59)
 
->[!VIDEO](https://video.tv.adobe.com/v/34290?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34290?quality=12&learn=on&hidetitle=true)
 
 [Ga naar Tip #2 - Samenwerken aan documenten](collaborate-on-documents.md)

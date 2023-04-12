@@ -7,19 +7,19 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Commercial telework agreement
+# Overeenkomst inzake commerciële telewerken
 
-Learn how to efficiently collect signatures from all your employees on telework agreements, policy updates, and more. Eerst maakt u een herbruikbare documentsjabloon die snel toegankelijk is vanuit uw documentbibliotheek. Ten tweede verzendt u de nieuwe documentsjabloon ter ondertekening naar honderden werknemers tegelijk met Mega Sign.
+Leer hoe je op een efficiënte manier handtekeningen van al je medewerkers verzamelt op telewerkovereenkomsten, beleidsupdates en meer. Eerst maakt u een herbruikbare documentsjabloon die snel toegankelijk is vanuit uw documentbibliotheek. Ten tweede verzendt u de nieuwe documentsjabloon ter ondertekening naar honderden werknemers tegelijk met Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
-Click to download step-by-step PDF recipe for telework agreements.
+Klik om het PDF-recept voor telewerkovereenkomsten stap voor stap te downloaden.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

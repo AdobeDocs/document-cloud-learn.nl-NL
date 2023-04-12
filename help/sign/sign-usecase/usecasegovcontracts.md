@@ -7,19 +7,19 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Overheidscontracten en aanvraagformulieren
 
-Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Leer hoe u het Workflow Designer-hulpprogramma van Acrobat Sign kunt gebruiken om het hele proces te stroomlijnen.
+Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Leer hoe u het hele proces kunt stroomlijnen met het gereedschap Acrobat Sign Workflow Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 Klik hierop om het stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

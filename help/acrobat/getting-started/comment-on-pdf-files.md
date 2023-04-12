@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Naadloze samenwerking is essentieel voor het snel en op grote schaal leveren van content. Leer hoe u opmerkingen toevoegt aan een PDF-bestand. Vervolgens deelt u het bestand met anderen om in real-time aanvullende opmerkingen te verzamelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)

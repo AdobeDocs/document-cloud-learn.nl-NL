@@ -6,7 +6,8 @@ level: Intermediate
 topic: Integrations
 thumbnail: KT-11109.jpg
 kt: 11109
-source-git-commit: cc4c327da064cd0c49545803cf339892d88f6390
+exl-id: fc760380-a8bd-40aa-a190-e6f773608a2f
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u ondertekende documenten automatisch kunt archiveren naar een [!DNL SharePoint] bibliotheek gebruiken [!DNL Power Automate].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

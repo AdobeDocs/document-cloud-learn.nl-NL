@@ -1,12 +1,13 @@
 ---
 title: Een afbeelding in uw PDF bewerken
-description: Leer geavanceerde bewerkingen uit te voeren op een afbeelding in uw PDF met Illustrator
+description: Leer hoe u geavanceerde bewerkingen kunt uitvoeren op een afbeelding in uw PDF met Illustrator
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9277.jpg
 KT: 9277
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u geavanceerde bewerkingen uit te voeren op een afbeelding in uw PDF met Illustrator! Nadat u PDF hebt geselecteerd, klikt u met de rechtermuisknop op een afbeelding en kiest u deze in Illustrator te bewerken. Als je klaar bent, kies je gewoon Opslaan in Illustrator en Acrobat om de illustratie in de PDF bij te werken.
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)

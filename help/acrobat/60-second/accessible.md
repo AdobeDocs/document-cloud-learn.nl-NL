@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9749.jpg
 KT: 9749
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u kunt controleren of een PDF toegankelijk is.
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

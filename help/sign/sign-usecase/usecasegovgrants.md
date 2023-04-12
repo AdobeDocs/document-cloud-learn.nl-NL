@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Geef snel hulp aan bedrijven door zelfservice toegang te bieden tot aanvraagformulieren voor subsidies, leningen en belastinguitstel. Leer hoe u een online webformulier kunt maken dat u kunt invullen **en** ondertekend zonder afdrukken of posten.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Klik om het stapsgewijze PDF recept voor bedrijfskredieten en -leningen te downloaden.
 
-[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

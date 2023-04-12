@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 kt: 8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -23,9 +23,9 @@ Leer hoe u webpagina&#39;s met de Adobe Acrobat-extensie kunt archiveren voor PD
 >
 >Bekijk deze andere Microsoft [integraties](../integrate/integrate-overview.md#microsoft).
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

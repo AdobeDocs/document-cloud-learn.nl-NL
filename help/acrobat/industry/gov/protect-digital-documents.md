@@ -6,19 +6,19 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 8%
 
 ---
 
 # 5 Tips voor het overal werken met digitale Acrobat-Protect-documenten
 
-[Een wachtwoord toevoegen aan uw PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} om kopiëren, bewerken of afdrukken te voorkomen.
+[Een wachtwoord toevoegen aan uw PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"}  om kopiëren, bewerken of afdrukken te voorkomen.
 
 ## Tip 3 - Protect digitale documenten (1:23)
 
->[!VIDEO](https://video.tv.adobe.com/v/34510?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34510?quality=12&learn=on&hidetitle=true)
 
 [Ga naar Tip #4 - Werken met formulieren en handtekeningen](work-with-forms-and-signatures.md)

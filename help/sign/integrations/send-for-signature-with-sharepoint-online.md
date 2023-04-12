@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u documentworkflows kunt stroomlijnen door een document ter ondertekening rechtstreeks vanuit [!DNL Microsoft Sharepoint Online].
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

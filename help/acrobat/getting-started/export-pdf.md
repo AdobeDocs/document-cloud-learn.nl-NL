@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%
@@ -21,9 +21,9 @@ Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen, zoals [Micros
 >
 >Als u meerdere PDF-bestanden naar een andere indeling wilt exporteren, kunt u de opdracht [Action Wizard](../advanced-tasks/action.md).
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

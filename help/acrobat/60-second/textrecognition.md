@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9750.jpg
 KT: 9750
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u een gescande PDF kunt omzetten zodat u naar tekst in de PDF kunt zoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)

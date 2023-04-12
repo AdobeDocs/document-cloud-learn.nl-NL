@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
+exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Leer hoe je gegevens bijhoudt, beheert en exporteert vanuit een [webformulier](w
 >
 >Alleen bedrijfs- en ondernemingsgerichte lidmaatschappen hebben de mogelijkheid om toegang tot en ondertekenaarsopties voor webformulieren te configureren. De opties voor toegang tot webformulieren en ondertekenaars zijn in- of uitgeschakeld op account- of groepsniveau onder Account > Accountinstellingen > Algemene instellingen > Webformulieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)

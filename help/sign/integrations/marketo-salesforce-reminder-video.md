@@ -1,5 +1,5 @@
 ---
-title: Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo
+title: Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo
 description: In deze videozelfstudie leert u hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 role: Admin
 product: adobe sign
@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Videozelfstudie om herinneringen te verzenden met Acrobat Sign voor Salesforce en Marketo
+# Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo
 
 Leer hoe u een e-mailherinnering van Marketo kunt verzenden voor niet-ondertekende overeenkomsten. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Salesforce, Marketo en de Marketo Salesforce Sync.
 
@@ -29,7 +29,7 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden voor niet-onderteken
 
    Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

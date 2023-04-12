@@ -7,26 +7,26 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '264'
 ht-degree: 5%
 
 ---
 
 # Verzamel grote documenten met GigaSign
 
-Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign-API om dezelfde functionaliteit te bieden als MegaSign en biedt ondersteuning voor meerdere ondertekenaars, groepen met ontvangers, rollen met ontvangers, overeenkomstnamen, koolstofkopie en meer.
+Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign API om dezelfde functionaliteit te bieden als MegaSign, en biedt ondersteuning voor meerdere ondertekenaars, groepen ontvangers, rollen van ontvangers, overeenkomstnamen, koolstofkopie en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Download en installeer de GigaSign-app
 
 [GigaSign Zip-bestand downloaden](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Java 1.8-downloadkoppeling (alleen indien nodig)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Java 1.8-downloadkoppeling (alleen indien nodig)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[IP-adressen naar witte lijst (alleen indien nodig)](https://helpx.adobe.com/nl/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[IP-adressen naar witte lijst (alleen indien nodig)](https://helpx.adobe.com/nl/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Basisinstallatie-instructies
 

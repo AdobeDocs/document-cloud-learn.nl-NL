@@ -5,7 +5,8 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10781.jpg
-source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
+exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -16,4 +17,4 @@ ht-degree: 0%
 
 Leer meer over de nieuwe werkruimtervaring die u in Acrobat kunt activeren, zodat u naadloos kunt schakelen tussen tools en bestanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/345949?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/345949?quality=12&learn=on&hidetitle=true)

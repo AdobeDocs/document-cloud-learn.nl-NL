@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
 kt: 9346
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -17,19 +18,19 @@ ht-degree: 7%
 
 In deze praktische zelfstudie leert u hoe u berekeningen instelt, een knop voor het verzenden van e-mail maakt en snel formulierpagina&#39;s bijwerkt zonder al uw bestaande formuliervelden opnieuw samen te stellen.
 
-<br> 
+<br>
 
 ## Wat je nodig hebt
 
 [![Bestanden ophalen](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
 Voorbeeldbestanden om mee te oefenen (ZIP, 1,7 MB)
 
-<br> 
+<br>
 
 >[!TIP]
 >
 >Schakel in uw Voorkeuren onder de categorie Algemeen de sneltoetsen van één toets in.
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)

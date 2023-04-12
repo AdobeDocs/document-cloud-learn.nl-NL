@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 14%
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,6 @@ Leer hoe je [PDF maken van alle verschillende typen documenten](https://www.adob
 >
 >Gebruik je altijd Microsoft Office? Bekijk deze [integraties](../integrate/integrate-overview.md#microsoft) waarmee u rechtstreeks binnen uw favoriete Office-toepassingen PDF kunt maken.
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?quality=12&learn=on&hidetitle=true)

@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Leer hoe u geavanceerd delen van accounts instelt, zodat beheerders en gebruiker
 >
 >Geavanceerd delen van accounts is alleen beschikbaar voor lidmaatschappen op Enterprise-niveau. Technische ondersteuning kan Geavanceerd delen inschakelen, maar als deze optie is ingeschakeld, veranderen de relaties van de gezamenlijke objecten op een manier die niet kan worden omgekeerd. Daarom wordt u aangeraden contact op te nemen met uw Adobe-accountteam en een proefaccount in te stellen waarmee u de functionaliteit kunt testen en kunt controleren of alles wat u wilt bereiken, is toegestaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

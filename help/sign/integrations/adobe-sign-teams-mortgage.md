@@ -8,9 +8,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 74c1d80d2a165240218b9538aee90662634ba35a
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Leer hoe u overeenkomsten ter ondertekening kunt verzenden, de status van overeenkomsten kunt controleren en herinneringen kunt verzenden vanuit [!DNL Microsoft Teams]. Dit voorbeeld doorloopt een hypotheekmakelaar die een aanvraag voor een lening ter ondertekening indient, rechtstreeks binnen Teams. Deze nauwe integratie versnelt het proces van hypotheekleningen, zelfs wanneer er wordt gewerkt met hypotheekaanvragers in een afgelegen werkomgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

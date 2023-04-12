@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -17,14 +18,14 @@ ht-degree: 0%
 
 In deze praktische zelfstudie leert u hoe u verschillende typen formuliervelden kunt toevoegen, eigenschappen van formuliervelden kunt instellen en beveiliging kunt toevoegen om professionele formulieren van hoge kwaliteit te maken.
 
-<br> 
+<br>
 
 ## Wat je nodig hebt
 
 [![Bestand ophalen](../assets/Getfiles.svg)](../assets/Questionnaire.pdf)
 Voorbeeldbestand om mee te oefenen (PDF, 934 KB)
 
-<br> 
+<br>
 
 ## Leren werken met formuliervelden
 
@@ -34,11 +35,11 @@ Gebruik het gereedschap Prepare Form om automatisch formuliervelden toe te voege
 >
 >Schakel in uw Voorkeuren onder de categorie Algemeen de sneltoetsen van één toets in.
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
-<br> 
+<br>
 
 ## Wat je hebt geleerd: Werken met formuliervelden
 
@@ -46,7 +47,7 @@ Verschillende typen formuliervelden toevoegen en de eigenschappen ervan instelle
 
 1. Downloaden en openen *Questionnaire.pdf*.
 1. Selecteren **Prepare Form** in het Gereedschappencentrum.
-1. Selecteer **Start**.
+1. Selecteren **Starten**.
 1. Selecteren **Tekst en afbeeldingen bewerken** in de werkbalk om de typefout te corrigeren.
 1. Kies **Selecteren** in de werkbalk om de bewerkingsmodus af te sluiten.
 1. Selecteer en verwijder het bovenste formulierveld.
@@ -91,11 +92,11 @@ Comb-eigenschappen worden gebruikt om tekst gelijkmatig te verspreiden over de b
 
 ## Leer hoe u eigenschappen voor meerdere velden tegelijk instelt, de tabvolgorde en een formulier beveiligt
 
-<br> 
+<br>
 
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
-<br> 
+<br>
 
 ## Wat je hebt geleerd: Eigenschappen voor meerdere velden tegelijk instellen, tabvolgorde en een formulier beveiligen
 

@@ -1,13 +1,13 @@
 ---
 title: PDF-opmerkingen laden in InDesign
-description: Leer hoe u PDF-opmerkingen weer in InDesign laadt na een gedeelde revisie van Acrobat
+description: Leer hoe u PDF-opmerkingen weer in InDesign kunt laden na een gedeelde Acrobat-revisie
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8816.jpg
 KT: 8816
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: 2dc395a9495f71742b19a843a72e2efb387c1f89
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # PDF-opmerkingen laden in InDesign
 
-Leer in deze videozelfstudie van 60 seconden hoe u PDF-opmerkingen weer in InDesign laadt na een gedeelde revisie door Acrobat. Met deze digitale workflow kunt u revisies voltooien in recordtijd.
+In deze videozelfstudie van 60 seconden leert u hoe u PDF-opmerkingen weer in InDesign laadt na een gedeelde revisie van Acrobat. Met deze digitale workflow kunt u revisies voltooien in recordtijd.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)

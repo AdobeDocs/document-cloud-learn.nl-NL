@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-5326.jpg
 kt: 5326
 exl-id: 8d3e3cdc-e9f6-41bf-8937-1a53aab681b3
-source-git-commit: eea3b68c4659fedf9b1de319a6d30ce87ec030ef
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer meer over op certificaten gebaseerde digitale handtekeningen, die voldoen aan de strengste wettelijke voorschriften ter wereld en de hoogste mate van zekerheid bieden over de identiteit van een ondertekenaar.
 
->[!VIDEO](https://video.tv.adobe.com/v/343648?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343648?quality=12&learn=on&hidetitle=true)

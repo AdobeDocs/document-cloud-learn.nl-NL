@@ -6,24 +6,24 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # Bestanden combineren tot één PDF
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [Bestanden combineren tot één PDF](https://www.adobe.com/nl/acrobat/online/merge-pdf.html)Met {target=&quot;_blank&quot;} kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [Bestanden combineren tot één PDF](https://www.adobe.com/nl/acrobat/online/merge-pdf.html){target="_blank"} Hiermee kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
 
 >[!TIP]
 >
 >Meer informatie over het toevoegen van een merk [nieuwe aangepaste pagina](add-custom-page.md) combineren van bestanden.
 
-<br> 
+<br>
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
