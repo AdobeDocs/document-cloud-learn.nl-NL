@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Leer hoe u ondertekende documenten automatisch archiveert naar een SharePoint-bi
       <img alt="Acrobat Sign configureren met Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Acrobat Sign configureren met Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign configureren met Workday</strong></a>
     </div>
     <em>Leer hoe u Acrobat Sign zo configureert dat deze direct in Workday werkt voor een naadloos beheer van al uw HR-documenten</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign + Workday nieuwe werving" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday nieuwe werving</strong></a>
+    </div>
+    <em>Leer hoe je onboarding-workflows stroomlijnt met Acrobat Sign + Workday</em>
     <br>
   </td>
   <td>
