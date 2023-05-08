@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen o
 
 ## Maandelijkse sessies
 
-**[Werken met elektronische handtekeningen in uw Microsoft-apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Werken met elektronische handtekeningen in uw Microsoft-apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 Datum: 19 oktober 2023 Breid de manier uit waarop je je Microsoft-apps zoals Word, Outlook en SharePoint gebruikt door Adobe Acrobat Sign toe te voegen aan je bestaande workflows. In deze sessie leert u hoe u documentprocessen kunt stroomlijnen in algemene Microsoft-apps, zodat u niet hoeft over te schakelen naar de context om alleen een handtekening te krijgen of een status te controleren.
 
-**[Overeenkomsten beheren: Realtime zichtbaarheid in overeenkomststatus krijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[Overeenkomsten beheren: Realtime zichtbaarheid in overeenkomststatus krijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 Datum: 21 september 2023 Kom meer te weten over de ins en outs van tools en best practices voor overeenkomstbeheer, zodat je op elk moment de status van je overeenkomsten kunt kennen. Deze sessie heeft betrekking op:
 
 * Welke handelingen u kunt uitvoeren op documenten op het tabblad Beheren
 * Gegevens uit webformulieren verwerken en gebruiken en bulksgewijs verzenden
 * Zoeken en filteren om de benodigde documenten te vinden
 
-**[Geavanceerde tips voor het verzenden van documenten ter ondertekening](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[Geavanceerde tips voor het verzenden van documenten ter ondertekening](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 Datum: 17 augustus 2023 Sluit u aan bij ons als we dieper ingaan op alle opties die beschikbaar zijn bij het verzenden van overeenkomsten ter ondertekening. In deze sessie leert u over:
 
 * Verzenden naar meerdere ontvangers
@@ -40,7 +40,7 @@ Datum: 17 augustus 2023 Sluit u aan bij ons als we dieper ingaan op alle opties 
 * Een CC-veld toevoegen
 * Wachtwoordbeveiliging, en meer
 
-**[Acrobat Sign-integraties: Salesforce en Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Sign-integraties: Salesforce en Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 Datum: 20 juli 2023 Sluit u aan bij onze beoordeling van enkele van de meest gangbare en krachtige Acrobat Sign-integraties met Salesforce en Workday. Deze sessie gaat na hoe je bedrijfstransacties kunt versnellen door handmatige, inefficiënte taken te elimineren en 100% digitale workflows en processen voor elektronische handtekeningen te creëren, rechtstreeks binnen de tools die je al gebruikt.
 
 **[Geavanceerde rapportage voor Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
