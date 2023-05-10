@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 3%
 
 Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken dat klaar is voor ondertekening, de transacties voor handtekeningen kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
 
-## Nieuwe functies
+## Nieuw
 
+* [Verificatiemethoden in Acrobat Sign](authentication-methods.md)
+Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
 * [Online betalingen instellen](set-up-online-payments.md)
 Leer hoe u online betalingen in uw documenten instelt en accepteert
-* [Een rapport maken](creating-a-report.md)
-Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proces voor het ondertekenen van documenten
 
 ## Verzenden
 
@@ -62,6 +62,18 @@ Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proce
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Verificatiemethoden in Acrobat Sign" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Verificatiemethoden in Acrobat Sign</strong></a>
+    </div>
+    <em>Meer informatie over het bereik van identiteitsverificatiemethoden in Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Online betalingen instellen" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proce
     <em>Leer hoe u online betalingen in uw documenten instelt en accepteert</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
+      </div>
+      <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Een webformulier maken" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Een webformulier maken</strong></a>
+      </div>
+      <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
+      </div>
+      <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
-    </div>
-    <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Een webformulier maken" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Een webformulier maken</strong></a>
-    </div>
-    <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
-    </div>
-    <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Tekstlabels gebruiken in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proce
     <a href="text-tagging-word.md"><strong>Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Leer hoe u een herbruikbare documentsjabloon kunt maken door Acrobat Sign-tekstlabels toe te voegen in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
