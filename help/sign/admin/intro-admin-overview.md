@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Lees meer over het toevoegen van gebruikers aan uw account, het instellen van groepen, het delen van toegang en het instellen van een workflow, een extern archief en gedeelde gebeurtenissen en waarschuwingen. Deze zelfstudies zijn ontworpen voor beheerders die de installatiefase hebben doorlopen en die klaar zijn om Acrobat Sign te gaan beheren. De geavanceerde taken omvatten onderwerpen die zich voorbij de beheerderopstelling uitbreiden en zich in het bepalen van globale montages, accounttoegang en het delen, en tekst het etiketteren bewegen.
 
-## Nieuwe functies
+## Nieuw
 
 * [Aan de slag voor nieuwe beheerders](get-started-admin.md)
 In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign
@@ -63,7 +63,7 @@ Automatiseer documentworkflows om snel elektronische handtekeningen en data te v
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Zensers toevoegen" src="../assets/Adding-Users.png" />
+      <img alt="Gebruikers toevoegen" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Gebruikers toevoegen</strong></a>
@@ -116,6 +116,16 @@ Automatiseer documentworkflows om snel elektronische handtekeningen en data te v
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Rapportopties voor gebruikers" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Rapportopties voor gebruikers</strong></a>
+    </div>
+    <em>Leer hoe u rapportopties instelt voor gebruikers</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Een webformulier maken" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatiseer documentworkflows om snel elektronische handtekeningen en data te v
     <em>honderden handtekeningen tegelijk verzamelen voor elk document</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Een workflow instellen" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatiseer documentworkflows om snel elektronische handtekeningen en data te v
     <em>Automatiseer documentworkflows om snel elektronische handtekeningen en data te verkrijgen</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Geavanceerde taken
