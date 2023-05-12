@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 * [Rapportopties](report-options.md)
 Leer hoe u rapportopties instelt voor gebruikers
-* [Aan de slag voor nieuwe beheerders](get-started-admin.md)
-In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign
+* [Gebruikers toevoegen](add-users-to-your-account.md)
+Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
 
 ## Aan de slag
 
