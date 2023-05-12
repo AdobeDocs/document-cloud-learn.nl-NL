@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 * [Verificatiemethoden in Acrobat Sign](authentication-methods.md)
 Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
-* [Online betalingen instellen](set-up-online-payments.md)
-Leer hoe u online betalingen in uw documenten instelt en accepteert
+* [Formuliergegevens beheren](manage-form-data.md)
+Leer hoe u formuliergegevens uit uw documenten kunt consolideren
 
 ## Verzenden
 
@@ -74,6 +74,16 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="Formuliergegevens beheren" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Formuliergegevens beheren</strong></a>
+      </div>
+      <em>Leer hoe u formuliergegevens uit uw documenten kunt consolideren</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Online betalingen instellen" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
       </div>
       <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="Een webformulier maken" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>Een webformulier maken</strong></a>
-      </div>
-      <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>Een webformulier maken</strong></a>
+    </div>
+    <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
       <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Tekstlabels gebruiken in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
     <a href="text-tagging-word.md"><strong>Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Leer hoe u een herbruikbare documentsjabloon kunt maken door Acrobat Sign-tekstlabels toe te voegen in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

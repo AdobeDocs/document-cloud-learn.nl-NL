@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
+source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 10%
+source-wordcount: '501'
+ht-degree: 9%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 10%
       + [Het gebruik van de Delegatiegever-rol](sign-advanced-users/delegate-signature.md)
       + [De rol fiatteur gebruiken](sign-advanced-users/add-an-approver.md)
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Formuliergegevens beheren](sign-advanced-users/manage-form-data.md)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
       + [Handtekeningen bulksgewijs verzenden en verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
