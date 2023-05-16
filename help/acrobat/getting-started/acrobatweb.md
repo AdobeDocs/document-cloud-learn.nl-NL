@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
 # Overal werken met Acrobat Web
 
-Met extern werk overal is het essentieel om content met snelheid en schaal te leveren. Leer hoe u vanaf elke locatie zakelijke documenten kunt afhandelen met de webtools van Acrobat in uw browser.
+Met extern werk overal is het essentieel om content met snelheid en schaal te leveren. Leer hoe u vanaf elke locatie zakelijke documenten kunt afhandelen met de webtools van Acrobat in uw browser. Probeer het bij [acrobat.adobe.com](https://acrobat.adobe.com/nl/nl).
 
 >[!TIP]
 >

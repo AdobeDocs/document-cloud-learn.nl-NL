@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Aan de slag met Acrobat](../assets/Hero-GettingStarted.png)
 
 Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beschermen of [bewerken van PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, is deze inhoud ontworpen om u te laten werken in PDF-workflows.
+
+## Nieuw
+
+* [Overal werken met Acrobat Web](acrobatweb.md)
+Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser
 
 ## Aan de slag - zelfstudies
 
