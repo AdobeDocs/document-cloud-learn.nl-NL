@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 * [Overal werken met Acrobat Web](acrobatweb.md)
 Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser
+* [Samenwerken in real-time](collaborate.md)
+Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen
 
 ## Aan de slag - zelfstudies
 
