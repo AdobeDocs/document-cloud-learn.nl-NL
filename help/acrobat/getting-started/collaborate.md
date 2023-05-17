@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 6b91460e712f3c2cf78e52bf6dda79793fdc30cb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Samenwerken in real-time
 
-Naadloze samenwerking is essentieel voor het snel en op grote schaal leveren van content, omdat je overal op afstand kunt werken. Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen.
+Naadloze samenwerking is essentieel voor het snel en op grote schaal leveren van content, omdat je overal op afstand kunt werken. Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen. Deze videozelfstudie gebruikt de [nieuwe werkruimte](new-workspace.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
