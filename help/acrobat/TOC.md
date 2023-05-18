@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
@@ -23,16 +23,16 @@ ht-degree: 8%
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
-   + [Pagina&#39;s indelen](getting-started/organize.md)
+   + [Pagina’s indelen](getting-started/organize.md)
    + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
-   + [Een PDF bewerken](getting-started/edit-pdf.md)
+   + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
    + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Samenwerken in real-time](getting-started/collaborate.md)
    + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
    + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Scannen &amp; OCR](getting-started/scan-and-ocr.md)
+   + [Scan en OCR](getting-started/scan-and-ocr.md)
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
@@ -61,22 +61,22 @@ ht-degree: 8%
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
 + Acrobat van 60 seconden {#60-second}
    + [Overzicht](60-second/60-second-overview.md)
-   + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
-   + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
-   + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
-   + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
-   + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
+   + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Tekst in een gescand PDF-bestand herkennen](60-second/textrecognition.md)
    + [Bestanden combineren tot één PDF](60-second/combine-to-one-pdf.md)
-   + [PDF bewerken met Acrobat-web](60-second/edit.md)
-   + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
-   + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
-   + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
-   + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
-   + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
+   + [Pagina&#39;s in een oogwenk ordenen](60-second/organize.md)
    + [Een foto bewerken in uw PDF](60-second/editphoto.md)
    + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
-   + [Pagina&#39;s in een oogwenk ordenen](60-second/organize.md)
+   + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
+   + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
+   + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
+   + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
+   + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
+   + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
+   + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
+   + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
+   + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
+   + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
 + Vaardigingenbouwers {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integraties {#integrations}
