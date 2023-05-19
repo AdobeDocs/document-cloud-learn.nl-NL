@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Een PDF naar Word converteren" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Een PDF naar Word converteren</strong></a>
+    </div>
+    <em>Een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Word-document</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Een PDF converteren naar Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Een PDF converteren naar Excel</strong></a>
+    </div>
+    <em>Een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Excel-document</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="Een PDF omzetten in PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Een PDF omzetten in PowerPoint</strong></a>
+    </div>
+    <em>Een PDF-bestand omzetten in een volledig bewerkbaar Microsoft PowerPoint-document</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF aan Word van uw telefoon" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>Een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Word-document met de mobiele Acrobat-app</em>
     <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>Controleren of een PDF toegankelijk is</em>
     <br>
   </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="Een PDF omzetten in een standaardindeling" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>Een PDF omzetten in een standaardindeling</strong></a>
+    </div>
+    <em>Leer hoe u PDF-inhoud kunt valideren aan de hand van standaardcriteria voor PDF, zoals PDF/X, PDF/A of PDF/E</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />

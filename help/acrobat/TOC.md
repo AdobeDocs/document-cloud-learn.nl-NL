@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '434'
 ht-degree: 6%
 
 ---
@@ -67,6 +67,9 @@ ht-degree: 6%
    + [Pagina&#39;s in een oogwenk ordenen](60-second/organize.md)
    + [Een foto bewerken in uw PDF](60-second/editphoto.md)
    + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
+   + [Een PDF naar Word converteren](60-second/convert-pdf-word.md)
+   + [Een PDF converteren naar Excel](60-second/convert-pdf-excel.md)
+   + [Een PDF omzetten in PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
    + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 6%
    + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
    + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
    + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
+   + [Een PDF omzetten in een standaardindeling](60-second/conform.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
 + Vaardigingenbouwers {#skill-builders}
