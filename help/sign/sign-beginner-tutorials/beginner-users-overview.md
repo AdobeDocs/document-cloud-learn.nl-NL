@@ -19,7 +19,7 @@ ht-degree: 5%
 
 Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, ondertekent en bijhoudt. Bekijk een korte rondleiding door Acrobat Sign en begin met het verzenden van een document naar een of meer personen. Deze content is ontworpen om je te laten werken in workflows voor elektronische handtekeningen.
 
-## Nieuwe functies
+## Nieuw
 
 * [Aan de slag met Acrobat Sign](new-sender.md)
 Bent u nog niet eerder met Acrobat Sign begonnen? Deze zelfstudie is een fantastisch beginpunt.
@@ -142,7 +142,7 @@ Leer hoe u regelmatig e-mailherinneringen en deadlines kunt verzenden, zodat uw 
 </tr>
 </table>
 
-## Signing
+## Ondertekenen
 
 <table style="table-layout:fixed">
 <tr>

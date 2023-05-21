@@ -8,7 +8,7 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 
 +++
 
-<br> 
+<br>
 
 ## 2. Documenteigenschappen toevoegen
 
@@ -58,7 +58,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 +++
 
-<br> 
+<br>
 
 ## 3. Tag uw PDF
 
@@ -82,11 +82,11 @@ Een PDF als volgt labelen:
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-<br> 
+<br>
 
 ## 4. Voorbereiden voor web
 
-Optimaliseer de ervaring van interactie met uw PDF door deze voor te bereiden op webweergave en [verkleinen, grootte van PDF-bestand](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
+Optimaliseer de ervaring van interactie met uw PDF door deze voor te bereiden op webweergave en [verkleinen, grootte van PDF-bestand](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Bekijk details over hoe u uw PDF voorbereidt voor het web
 
@@ -106,7 +106,7 @@ Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de 
 
 +++
 
-<br> 
+<br>
 
 ## 5. Een trefwoordbestandsnaam maken
 
@@ -118,11 +118,11 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 +++
 
-<br> 
+<br>
 
 ## 6. Uw PDF beveiligen
 
-De laatste stap is: [bescherm je PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} om ongeoorloofde wijzigingen te voorkomen.
+De laatste stap is: [bescherm je PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} om ongeoorloofde wijzigingen te voorkomen.
 
 +++Bekijk details over het beveiligen van je PDF
 

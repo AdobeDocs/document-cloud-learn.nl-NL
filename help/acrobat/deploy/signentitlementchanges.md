@@ -8,8 +8,8 @@ thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] (ook wel Adobe Sign Pro genoemd) wordt met ingang van augustus 2020 deprovisioning toegepast op alle Acrobat DC-rechten die zijn opgenomen in de ETLA (Enterprise Term License Agreement) en loopt door tot 20 november 2020. [!DNL Adobe Sign Individual] biedt geen bedrijfsbrede functionaliteit en moet worden vervangen door Adobe Sign Enterprise for Enterprise-klanten. Dit geldt ook voor Acrobat DC dat een licentie heeft voor een zelfstandige app en Acrobat DC dat een licentie heeft als onderdeel van Creative Cloud for enterprise - Alle apps.
 
-Toegang tot [!DNL Adobe Sign Individual] is beschikbaar in Acrobat via de **Adobe Sign** of de **Fill &amp; Sign** tool ([Handtekeningen aanvragen](https://www.adobe.com/nl/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
+Toegang tot [!DNL Adobe Sign Individual] is beschikbaar in Acrobat via de **Adobe Sign** of de **Fill &amp; Sign** tool ([Handtekeningen aanvragen](https://www.adobe.com/nl/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] toegang tot Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -72,7 +72,7 @@ Gebruikers kunnen zich aanmelden bij https://documentcloud.adobe.com/ om alle ov
 * [Aanmelden in Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [Bestanden beheren (Waar zijn mijn bestanden?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Gebruiken [!UICONTROL Acrobat Customization Wizard] voor configuratie](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Overzicht van [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html)
-* [Adobe Sign beheren op de [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [Overzicht van [!UICONTROL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
+* [Adobe Sign beheren op de [!UICONTROL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Revisies** 20 mei 2020; oorspronkelijk bericht - augustus 2019

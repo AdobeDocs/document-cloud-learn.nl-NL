@@ -9,7 +9,7 @@ thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +176,4 @@ Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox].
 
 ## Box
 
-Lees hoe Acrobat en [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} maakt het voor iedereen in je organisatie eenvoudiger om zaken te doen.
+Lees hoe Acrobat en [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} het voor iedereen in je organisatie eenvoudiger maken om zaken te doen.

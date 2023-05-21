@@ -1,5 +1,5 @@
 ---
-title: Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
+title: Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 role: Admin
 product: adobe sign
@@ -11,11 +11,11 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
-# Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
+# Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 
 Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Microsoft Dynamics, Marketo en de Marketo Microsoft Dynamics Sync.
 
@@ -31,9 +31,9 @@ Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepa
 
 ## Het aangepaste object zoeken
 
-Nadat de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
+Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
-![Beheerder](assets/adminTerminal.png)
+![Beheer](assets/adminTerminal.png)
 
 1. Klikken **[!UICONTROL Dynamics-entiteiten synchroniseren]**.
 
@@ -153,7 +153,7 @@ Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van d
 
    Er wordt een koppeling naar de URL weergegeven met de overeenkomstnaam als label.
 
-   ![Koppeling e-mailen](assets/emailLink.png)
+   ![E-mailkoppeling](assets/emailLink.png)
 
 ## Het filter Slimme campagne instellen
 

@@ -33,7 +33,7 @@ Leer hoe u een tekstbericht, e-mail of pushmelding verstuurt om de ondertekenaar
 
 Als de Marketo Salesforce-synchronisatie en Acrobat Sign for Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
 
-![Beheerder](assets/adminTab.png)
+![Beheer](assets/adminTab.png)
 
 ![Objectsynchronisatie](assets/salesforceAdmin.png)
 
@@ -99,7 +99,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
 1. Klik op **Beheerder** rechtsboven.
 
-   ![Beheerder](assets/adminTab.png)
+   ![Beheer](assets/adminTab.png)
 
 1. Klik op **Webhooks** dan **Nieuwe webhook**.
 

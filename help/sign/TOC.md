@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
 workflow-type: tm+mt
 source-wordcount: '501'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 

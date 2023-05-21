@@ -9,7 +9,7 @@ kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
 source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Klikken [hier](../assets/accessibilitysession1.zip) om een ZIP-map met de hands-
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Video sessie 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}
+[![Video sessie 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

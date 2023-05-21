@@ -27,7 +27,7 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Acrobat Sign beheren op de Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Acrobat Sign beheren op de Admin Console</strong></a>
     </div>
     <em>Leer hoe u Acrobat Sign-gebruikers en -licenties beheert op het Adobe Admin Console-platform voor Adobe</em>
     <br>

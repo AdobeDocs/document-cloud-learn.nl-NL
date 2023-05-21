@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Ga digitaal met Adobe Scan
 
-Maak je werk overzichtelijker, orden of deel! There’s no need to keep piles of paper on your desk or stuff receipts in your wallet. De mobiele app van Adobe Scan scant papieren documenten rechtstreeks in PDF en herkent automatisch tekst.
+Maak je werk overzichtelijker, orden of deel! Het is niet nodig om stapels papier op je bureau te houden of bonnetjes in je portemonnee. De mobiele app van Adobe Scan scant papieren documenten rechtstreeks in PDF en herkent automatisch tekst.
 
 In deze oefening, uploadt u inhoud van een bedrijfskaart rechtstreeks in uw contacten. Scan en sla een kwitantie op.
 
@@ -53,7 +53,7 @@ De Adobe Scan-app kan ook handig zijn om een kwitantie die u later nodig hebt, t
 
 ![B-kaartafbeelding](assets/receiptoutput.jpg)
 
-**Step 3:** Tap **[!UICONTROL Save PDF]** at the upper-right hand corner to store the receipt in your phone.
+**Stap 3:** Tikken **[!UICONTROL PDF opslaan]** in de rechterbovenhoek om het ontvangstbewijs op te slaan op uw telefoon.
 
 
 ## Recap:

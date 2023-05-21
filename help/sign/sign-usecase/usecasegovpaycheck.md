@@ -1,6 +1,6 @@
 ---
 title: Paycheck-beveiliging
-description: Zie hoe u het formulier Betalingsbeschermingsprogramma kunt converteren naar een online interactief formulier met Acrobat Sign
+description: Zie hoe u Acrobat Sign kunt gebruiken om het formulier Betalingsbeschermingsprogramma om te zetten in een online interactief formulier
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Paycheck-beveiliging
 
-Klik op de onderstaande afbeelding om te zien hoe u het formulier van het Betalingsbeschermingsprogramma met Acrobat Sign kunt converteren naar een online, interactief formulier.
+Klik op de onderstaande afbeelding om te zien hoe u Acrobat Sign kunt gebruiken om het formulier Betalingsbeschermingsprogramma om te zetten in een interactief online formulier.
 
 [![Interactieve doorloop voor betalingsvastlegging](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

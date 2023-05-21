@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de AP
 
 ![Screenshot van het maken van een tijdelijk document](assets/embeddedesignature/embed_7.png)
 
-Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om een aantal hulpstoffen in te stellen om herhaling te minimaliseren. Hier volgen een paar voorbeelden:
+Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om een aantal hulpstoffen in te stellen om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
 
 **Validatie**
 

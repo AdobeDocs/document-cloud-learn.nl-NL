@@ -33,7 +33,7 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst
 
 Als de Marketo Salesforce Sync en Acrobat Sign for Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
 
-![Beheerder](assets/adminTab.png)
+![Beheer](assets/adminTab.png)
 
 ![Objectsynchronisatie](assets/salesforceAdmin.png)
 
@@ -155,7 +155,7 @@ Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van d
 
 1. Voorvertonen met een profiel waaraan een overeenkomst is toegewezen. Er wordt een koppeling naar de URL weergegeven met de overeenkomstnaam als label.
 
-   ![Koppeling e-mailen](assets/emailLink.png)
+   ![E-mailkoppeling](assets/emailLink.png)
 
 ## Het filter Slimme campagne instellen
 

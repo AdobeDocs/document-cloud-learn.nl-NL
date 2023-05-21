@@ -9,7 +9,7 @@ kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -18,22 +18,22 @@ ht-degree: 1%
 
 Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafische verbeteringen en automatische nummering toe te voegen.
 
-<br> 
+<br>
 
 ## Wat je nodig hebt
 
 [![Bestanden ophalen](../assets/Getfiles.svg)](../assets/Enhance.zip)
 Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
 
-<br> 
+<br>
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
-Gebruik de [Gereedschap PDF bewerken](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;} om achtergrondafbeeldingen aan uw PDF toe te voegen.
+Gebruik de [Gereedschap PDF bewerken](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} om achtergrondafbeeldingen aan uw PDF toe te voegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
-<br> 
+<br>
 
 ## Wat je hebt geleerd: Achtergrondafbeeldingen aan uw PDF toevoegen
 
@@ -53,7 +53,7 @@ Gebruik het gereedschap Bewerken om een nieuwe voettekst aan uw PDF toe te voege
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
-<br> 
+<br>
 
 ## Wat je hebt geleerd: Een nieuwe voettekst toevoegen aan uw PDF
 

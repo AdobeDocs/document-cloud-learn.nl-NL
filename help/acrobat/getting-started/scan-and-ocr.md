@@ -1,5 +1,5 @@
 ---
-title: Scannen & OCR
+title: Scan en OCR
 description: Zet scans of afbeeldingen van documenten om in doorzoekbare, bewerkbare PDF-bestanden en pas de kwaliteit van het resulterende bestand aan
 role: User
 product: adobe acrobat
@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
-# Scannen &amp; OCR
+# Scan en OCR
 
-Houd je bedrijf vooruit door scans of afbeeldingen van documenten om te zetten in doorzoekbaar, [bewerkbare PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
+Houd je bedrijf vooruit door scans of afbeeldingen van documenten om te zetten in doorzoekbaar, [bewerkbare PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ Houd je bedrijf vooruit door scans of afbeeldingen van documenten om te zetten i
 
    ![Scan Stap 1](../assets/Scan_1.png)
 
-1. Selecteer een bestand.
+1. Een bestand selecteren.
 
    Dit bestand kan een foto zijn van een document of een bestand dat al is gescand en dat is gemaakt met een scanner of de mobiele Adobe Scan-app. U kunt ook een document scannen om een nieuw bestand te maken met een aangesloten scanner.
 

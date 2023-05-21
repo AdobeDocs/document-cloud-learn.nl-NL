@@ -6,18 +6,18 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 26%
+ht-degree: 8%
 
 ---
 
 # PDF-bestanden delen en online reviewen
 
-Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat-bureaubladtoepassing, het Document Cloud web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging op hun computer klikken, kunnen ze eenvoudig feedback geven in een browser, zonder zich te hoeven aanmelden of extra software te hoeven gebruiken.
+Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat-bureaubladtoepassing, het Document Cloud web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging van hun computer klikken, kunnen ze gemakkelijk feedback geven in een browser zonder dat ze zich hoeven aan te melden of extra software hoeven te installeren.
 
 In deze exercitie bekijken we hoe
 
 * Persoonlijke uitnodigingen verzenden voor opmerkingen
-* Een anonieme of openbare koppeling verzenden in een e-mailbericht
+* Een openbare of anonieme koppeling verzenden in een e-mail
 
 Hier zijn de [demo-bestanden](assets/01_Review.zip) voor deze oefening.
 
@@ -39,13 +39,13 @@ U ontvangt een e-mailbericht zodra de ontvangers uw bestand hebben bekeken.
 
 ## Reviewer-ervaring
 
-De revisoren ontvangen een uitnodiging per e-mail met daarin een koppeling naar de revisie-PDF. Wanneer ze klikken op de knop **[!UICONTROL Reviseren]** in de uitnodiging, wordt de PDF in een webbrowser geopend. Ze kunnen de gereedschappen voor opmerkingen gebruiken om commentaar toe te voegen in de PDF. Ze kunnen ook de bureaubladtoepassing Acrobat Reader of Acrobat openen om opmerkingen toe te voegen.
+Revisoren ontvangen een e-mailuitnodiging met een koppeling naar de revisie-PDF. Wanneer ze op de koppeling of op de knop **[!UICONTROL Revisie]** in de uitnodiging wordt de PDF in een webbrowser geopend. Ze kunnen de gereedschappen voor opmerkingen gebruiken om opmerkingen toe te voegen aan de PDF. Ze kunnen ook Acrobat Reader- of Acrobat-bureaubladtoepassingen gebruiken om opmerkingen toe te voegen.
 
-## Een anonieme of openbare koppeling verzenden in een e-mailbericht
+## Een openbare of anonieme koppeling verzenden in een e-mail
 
 **Stap 1:** Open de `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
 
-**Stap 2:** Klikken **[!UICONTROL Een koppeling delen]** ![koppelingspictogram](assets/sendlinkicon.png). De gedeelde koppeling wordt meteen gegenereerd. U hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard worden de [!UICONTROL Opmerkingen toestaan] switch is aan.
+**Stap 2:** Klikken **[!UICONTROL Een koppeling delen]** ![koppelingspictogram](assets/sendlinkicon.png). De gedeelde koppeling wordt onmiddellijk gegenereerd; u hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard worden de [!UICONTROL Opmerkingen toestaan] switch is aan.
 
 ![Stap 2L-afbeelding](assets/Step2L.png)
 
