@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Een PDF maken van Microsoft Word" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Een PDF maken van Microsoft Word</strong></a>
+    </div>
+    <em>Een PDF maken van Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="PDF maken van Acrobat" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>PDF maken van Acrobat</strong></a>
+    </div>
+    <em>Maak PDF vanuit Microsoft 365-bestanden rechtstreeks vanuit de Acrobat-desktopapp</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Word converteren naar PDF, inclusief formuliervelden" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ ht-degree: 0%
       <em>Leer hoe je een paar JPG naar het Acrobat-pictogram sleept om een PDF te maken</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="Zet een PPT-bestand om in PDF op uw telefoon" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ ht-degree: 0%
       </div>
       <em>Gebruik de Optimize PDF-tool om de grootte van uw PDF-bestanden aanzienlijk te verkleinen</em>
       <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Breng de verschillen met PDF bij Vergelijken" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Breng de verschillen met PDF bij Vergelijken</strong></a>
+    </div>
+    <em>Leer hoe u de verschillen tussen twee PDF-bestanden kunt vaststellen met het gereedschap Bestanden vergelijken in Acrobat</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Meerdere PDF-bestanden tegelijk zoeken" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ ht-degree: 0%
     </div>
     <em>Een zoekopdracht starten in een PDF-bestand, vervolgens Geavanceerd zoeken openen en een hele map met PDF-bestanden doorzoeken</em>
     <br>
-  </td>
- <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
