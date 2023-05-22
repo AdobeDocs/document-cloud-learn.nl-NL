@@ -1,10 +1,10 @@
 ---
-user-guide-title: Acrobat Tutorials
+user-guide-title: Acrobat-zelfstudies
 solution: Acrobat
-breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+breadcrumb-title: Acrobat-zelfstudies
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 6%
    + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Samenwerken in real-time](getting-started/collaborate.md)
-   + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
+   + [Een opmerking toevoegen aan een PDF](getting-started/comment-on-pdf-files.md)
    + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
-   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Scan en OCR](getting-started/scan-and-ocr.md)
-   + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
+   + [Invullen > Sign PDF-formulieren](getting-started/fill-and-sign.md)
+   + [Scannen &amp; OCR](getting-started/scan-and-ocr.md)
+   + [Een PDF-bestand beveiligen met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
 + Geavanceerde taken {#advanced-tasks}
@@ -45,16 +45,16 @@ ht-degree: 6%
    + [Optimize PDF voor SEO](advanced-tasks/optimizeseo.md)
    + [Werken met formuliervelden](advanced-tasks/workforms.md)
    + [Verbeter je PDF](advanced-tasks/enhance.md)
-   + [Verschillen tussen twee PDF vaststellen](advanced-tasks/compare.md)
+   + [Verschillen tussen twee Pdf&#39;s detecteren](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
    + [Redigeren en ontsmetten](advanced-tasks/redact.md)
    + [Bestanden verkleinen en optimaliseren](advanced-tasks/reduce.md)
    + [Werken met formuliergegevens](advanced-tasks/formdata.md)
    + [Toegankelijkheid PDF controleren](advanced-tasks/accessibility.md)
-   + Acrobat Accessibility-reeks {#accessibility-series}
+   + Acrobat-serie voor toegankelijkheid {#accessibility-series}
       + [Overzicht](advanced-tasks/accessibility-series.md)
-      + [Inleiding tot toegankelijkheid PDF](advanced-tasks/accessibilitysession1.md)
-      + [Een ontoegankelijke PDF herstellen](advanced-tasks/accessibilitysession2.md)
+      + [Inleiding tot PDF-toegankelijkheid](advanced-tasks/accessibilitysession1.md)
+      + [Een niet-toegankelijke PDF herstellen](advanced-tasks/accessibilitysession2.md)
       + [Complexe tabellen](advanced-tasks/accessibilitysession3.md)
       + [Gescande documenten en complexe lijsten](advanced-tasks/accessibilitysession4.md)
       + [Formuliervelden toevoegen aan een gecodeerde PDF](advanced-tasks/accessibilitysession5.md)
@@ -69,14 +69,18 @@ ht-degree: 6%
    + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
    + [Een PDF naar Word converteren](60-second/convert-pdf-word.md)
    + [Een PDF converteren naar Excel](60-second/convert-pdf-excel.md)
-   + [Een PDF omzetten in PowerPoint](60-second/convert-pdf-powerpoint.md)
-   + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
+   + [Een PDF converteren naar PowerPoint](60-second/convert-pdf-powerpoint.md)
+   + [PDF exporteren naar Word vanaf uw telefoon](60-second/exportwordphone.md)
    + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
    + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
    + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
    + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
    + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
    + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
+   + [Redactie: De juiste weg](60-second/redaction.md)
+   + [Delen voor opmerkingen](60-second/share-comment.md)
+   + [Delen en opmerkingen plaatsen over PDF-bestanden in teams](60-second/share-comment-teams.md)
+   + [PDF-opmerkingen met overzicht](60-second/summarize-comments.md)
    + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
    + [Een PDF omzetten in een standaardindeling](60-second/conform.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
@@ -86,9 +90,9 @@ ht-degree: 6%
 + Integraties {#integrations}
    + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
-   + [PDF samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Werk met je [!DNL SharePoint] bestanden](integrate/acrobatandsp.md)
+   + [Pdf&#39;s  [!DNL Office]  maken voor het web](integrate/createofficeweb.md)
+   + [PDF&#39;S samen te werken in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Werken met uw  [!DNL SharePoint]  bestanden](integrate/acrobatandsp.md)
    + [E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]](integrate/outlook.md)
    + [PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]](integrate/edge.md)
    + [Protect PDF gebruiken [!DNL Microsoft Purview Information] gevoeligheidslabels](integrate/microsoftsensitivitylabels.md)
@@ -102,11 +106,11 @@ ht-degree: 6%
          + [5 tips voor het overal werken met Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
-         + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
-         + [Tip 4 - Werken met formulieren en handtekeningen](industry/gov/work-with-forms-and-signatures.md)
-         + [Tip 5 - Scannen en bewerken op mobiele apparaten](industry/gov/scan-and-edit-on-mobile.md)
+         + [Tip #3 – digitale documenten beschermen](industry/gov/protect-digital-documents.md)
+         + [Tip #4 – werken met formulieren en handtekeningen](industry/gov/work-with-forms-and-signatures.md)
+         + [Tip #5 – scannen en bewerken op mobiele apparaten](industry/gov/scan-and-edit-on-mobile.md)
       + Toegankelijkheid {#pdfs}
-         + [PDF toegankelijk maken](industry/gov/making-pdfs-accessible.md)
+         + [Pdf&#39;s toegankelijk maken](industry/gov/making-pdfs-accessible.md)
          + [#1 - Toegankelijkheid begrijpen](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [Nr. 3 - Voltooien in Acrobat](industry/gov/finishing-in-acrobat.md)
