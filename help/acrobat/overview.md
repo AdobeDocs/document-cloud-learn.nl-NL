@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
+source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '73'
 ht-degree: 6%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 6%
 ![Acrobat-hoofdafbeelding](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen door PDF te converteren, bewerken, delen en ondertekenen. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als geavanceerde gebruikers snel op Adobe Acrobat te laten kennismaken.
-
-## Aanbevolen cursussen
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
+source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 5%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 5%
 ![Acrobat Sign-hoofdafbeelding](assets/Hero_Sign.jpg)
 
 Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om snel zowel beginners als beheerders op Acrobat Sign up-to-date te brengen.
-
-## Aanbevolen cursussen
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
