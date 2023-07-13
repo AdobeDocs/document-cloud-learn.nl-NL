@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ In deze driedelige zelfstudie leert u hoe u een document kunt verzenden voor not
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Een webformulier integreren met [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Verzenden ter ondertekening in [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Een webformulier integreren met [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Verzend documenten ter ondertekening, rechtstreeks vanuit [!DNL Microsoft Teams]</em>
+    <em>Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan een [!DNL SharePoint] list</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ In deze driedelige zelfstudie leert u hoe u een document kunt verzenden voor not
     <em>Leer hoe u de [!DNL Acrobat Sign] en [!DNL Adobe PDF Tools] connectoren voor [!DNL Microsoft Power] apps</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Verzenden ter ondertekening in [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Verzend documenten ter ondertekening, rechtstreeks vanuit [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
