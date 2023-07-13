@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
+* [Een webformulier integreren met [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
+Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan een [!DNL SharePoint] list
 * [Acrobat Sign + Workday nieuwe werving](acrobat-sign-workday-onboarding.md)
 Leer hoe je onboarding-workflows stroomlijnt met Acrobat Sign + Workday
-* [Documenten verzenden voor notariatie](send-document-notarize.md)
-In deze driedelige zelfstudie leert u hoe u een document kunt verzenden voor notarisering, de ervaring van de ondertekenaar kunt bekijken en de resultaten kunt ontvangen
 
 ## Zelfstudies voor Microsoft-integraties
 
