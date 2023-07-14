@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ Leer hoe u formuliergegevens uit uw documenten kunt consolideren
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Een webformulier maken" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Een webformulier maken met meerdere onbekende ondertekenaars" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Een webformulier maken</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Een webformulier maken met meerdere onbekende ondertekenaars</strong></a>
     </div>
-    <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
+    <em>Leer hoe u een complex webformulier kunt maken met meerdere onbekende deelnemers</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
+      </div>
+      <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ Leer hoe u formuliergegevens uit uw documenten kunt consolideren
     <a href="text-tagging-word.md"><strong>Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Leer hoe u een herbruikbare documentsjabloon kunt maken door Acrobat Sign-tekstlabels toe te voegen in [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
