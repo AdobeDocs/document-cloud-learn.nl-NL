@@ -4,10 +4,11 @@ description: Leer hoe u Acrobat Sign API's kunt gebruiken om ervaringen voor ele
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -91,7 +92,7 @@ Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de AP
 
 ![Screenshot van het maken van een tijdelijk document](assets/embeddedesignature/embed_7.png)
 
-Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om een aantal hulpstoffen in te stellen om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
+Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om wat hulpverleners op te richten om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
 
 **Validatie**
 
@@ -136,7 +137,7 @@ Na het bijwerken van het maken van de overeenkomst genereert de laatste stap de 
 
 >[!NOTE]
 >
->De aanroep van de overeenkomst is technisch asynchroon. Dit betekent dat er een &#39;POST&#39;-overeenkomstaanroep kan worden gedaan, maar dat de overeenkomst nog niet klaar is. De beste manier is om een herhalingslus tot stand te brengen. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
+>De aanroep van de overeenkomst is technisch asynchroon. Dit betekent dat er een &#39;POST&#39;-overeenkomst kan worden aangeroepen, maar de overeenkomst is nog niet gereed. De beste manier is om een herhalingslus tot stand te brengen. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
 
 ![Screenshot zegt dat het de beste manier is om een herhalingslus tot stand te brengen](assets/embeddedesignature/embed_15.png)
 
@@ -155,6 +156,6 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
 * Aangepaste herinneringen
    * Met het eerste ontwerp
 
-      ![Screenshot van navigatie naar Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Screenshot van navigatie naar Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Of voeg er een toe [tijdens de vlucht](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

@@ -5,9 +5,10 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -36,9 +37,9 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 * Klikken **[!UICONTROL Dynamics-entiteiten synchroniseren]**.
 
-   Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klikken **[!UICONTROL Schema synchroniseren]** als dit uw eerste keer is. Anders klikt u op **[!UICONTROL Schema vernieuwen]**.
+  Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klikken **[!UICONTROL Schema synchroniseren]** als dit uw eerste keer is. Anders klikt u op **[!UICONTROL Schema vernieuwen]**.
 
-   ![Vernieuwen](assets/refreshSchema.png)
+  ![Vernieuwen](assets/refreshSchema.png)
 
 ## Het aangepaste object synchroniseren
 

@@ -4,10 +4,11 @@ description: Leer de grondbeginselen van het toevoegen van gebruikers aan uw acc
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

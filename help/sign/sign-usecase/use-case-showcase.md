@@ -5,10 +5,11 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Hieronder ziet u opnamen of registratiekoppelingen voor de meest recente sessies
 ## 2021 sessies
 
 * **[Het pad van AbbVideo naar digitale transformatie](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
-Datum: De strategie van AbbVie van 4 augustus 2021 is innovatieve geneesmiddelen te leveren en een opmerkelijke impact op het leven van mensen te hebben. Om de flexibiliteit en de vrijheid van werknemers te vergroten om zich op complexer werk te concentreren, werkt het bedrijf aan het automatiseren van een aantal van hun bedrijfsprocessen - en het overstappen van pen en papier is een cruciale eerste stap. Word lid van ons voor een gesprek met AbbVideo over hun doelen, strategie en processen voor het bereiken van succes bij digitale transformatie.
+Datum: De strategie van AbbVie van 4 augustus 2021 is innovatieve geneesmiddelen te leveren en een opmerkelijke impact te hebben op het leven van mensen. Om de flexibiliteit en de vrijheid van werknemers te vergroten om zich op complexer werk te concentreren, werkt het bedrijf aan het automatiseren van een aantal van hun bedrijfsprocessen - en het overstappen van pen en papier is een cruciale eerste stap. Word lid van ons voor een gesprek met AbbVideo over hun doelen, strategie en processen voor het bereiken van succes bij digitale transformatie.
 
 * **[Met Volvo Auto’s on demand-opnamen](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
 Hoe ziet de toekomst van autowinkelen eruit? Voor Zweedse auto&#39;s, Volvo Cars, brengen ze wijzigingen in hun bedrijfsmodel die de klantverwachtingen voor de volgende generatie autokopers zullen beïnvloeden. Centraal in hun proces staat de mogelijkheid om een hoogwaardige klantervaring te bieden die aansluit bij hun premium aanbiedingen.
