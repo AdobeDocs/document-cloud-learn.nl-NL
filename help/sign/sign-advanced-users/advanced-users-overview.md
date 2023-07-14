@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 ## Nieuw
 
+* [Een webformulier maken met meerdere onbekende ondertekenaars](webform-multiple-signers.md)
+Leer hoe u een complex webformulier kunt maken met meerdere onbekende deelnemers
 * [Verificatiemethoden in Acrobat Sign](authentication-methods.md)
 Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
-* [Formuliergegevens beheren](manage-form-data.md)
-Leer hoe u formuliergegevens uit uw documenten kunt consolideren
 
 ## Verzenden
 
