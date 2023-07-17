@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 10%
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
       + [Handtekeningen bulksgewijs verzenden en verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Een webformulier maken met meerdere onbekende ondertekenaars](sign-advanced-users/webform-multiple-signers.md)
       + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Tekstlabels gebruiken in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheer {#advanced-tasks-managing}
@@ -128,6 +127,7 @@ ht-degree: 10%
    + Hoofdletters en kleine letters gebruiken {#recipes}
       + [Overzicht](sign-usecase/recipes.md)
       + Overheid {#gov}
+         + [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](sign-usecase/webform-multiple-signers.md)
          + [Bedrijfssubsidies en leningen](sign-usecase/usecasegovgrants.md)
          + [Telovereenkomst](sign-usecase/usecasegovtelework.md)
          + [Contracten en aanvraagformulieren](sign-usecase/usecasegovcontracts.md)

@@ -8,7 +8,7 @@ level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Handelsovereenkomsten en aanvraagformulieren
 
-Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Lees meer over het Acrobat Sign Workflow Designer-hulpprogramma om het hele proces te stroomlijnen.
+Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Meer informatie over de [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) om het hele proces te helpen stroomlijnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

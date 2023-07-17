@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen. Klik om een PDF te bekijken met bronnen en informatie over hoe u deze specifieke gebruiksscenario&#39;s voor elektronische handtekeningen instelt.
 
+* [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](webform-multiple-signers.md)
+Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn
+
 ## Gebruiksscenario’s voor de overheid
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars</strong></a>
+    </div>
+    <em>Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Bedrijfssubsidies en leningen" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
     <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Herwerkgelegenheidssteun" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
     <em>Help burgers om de hulp te krijgen die ze nodig hebben zonder zich aan te sluiten bij volledig digitale aanvraagformulieren die binnen enkele dagen kunnen worden gebruikt</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Paycheck-beveiliging" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
     <a href="usecasegovremote.md"><strong>Verzoek om extern bevel</strong></a>
     </div>
     <em>Gebruik samen elektronische handtekeningen en webconferenties om rechters sneller om verzoeken te ontvangen en om warrants te beveiligen</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

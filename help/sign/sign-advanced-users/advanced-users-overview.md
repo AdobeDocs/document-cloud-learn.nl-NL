@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 ## Nieuw
 
-* [Een webformulier maken met meerdere onbekende ondertekenaars](webform-multiple-signers.md)
-Leer hoe u een complex webformulier kunt maken met meerdere onbekende deelnemers
 * [Verificatiemethoden in Acrobat Sign](authentication-methods.md)
 Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
+* [Online betalingen instellen](set-up-online-payments.md)
+Leer hoe u online betalingen in uw documenten instelt en accepteert
 
 ## Verzenden
 
@@ -104,19 +104,7 @@ Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign vo
       <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Een webformulier maken met meerdere onbekende ondertekenaars" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Een webformulier maken met meerdere onbekende ondertekenaars</strong></a>
-    </div>
-    <em>Leer hoe u een complex webformulier kunt maken met meerdere onbekende deelnemers</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign vo
       </div>
       <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign vo
     <a href="text-tagging-word.md"><strong>Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Leer hoe u een herbruikbare documentsjabloon kunt maken door Acrobat Sign-tekstlabels toe te voegen in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
