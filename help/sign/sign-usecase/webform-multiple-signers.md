@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Een webformulier maken met meerdere onbekende ondertekenaars
+# Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars
 
 Lees hoe een [webformulier](../sign-advanced-users/webform.md) wordt gebruikt voor een complexe workflow voor de toepassing van overheidsleningen waarbij meerdere onbekende deelnemers betrokken zijn. Deze formulieren kunnen worden ingesloten in een website of worden verzonden als een koppeling in een e-mail. Ze kunnen ook op elk apparaat, op elke locatie, worden ingevuld, waardoor processen en de levering van services sneller verlopen.
 

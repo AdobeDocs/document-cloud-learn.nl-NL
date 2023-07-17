@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="Een webformulier maken" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
+      <a href="webform.md"><strong>Een webformulier maken</strong></a>
       </div>
-      <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+      <em>Leer hoe u een document maakt dat elektronisch kan worden ondertekend op uw website</em>
       <br>
   </td>
 </tr>
