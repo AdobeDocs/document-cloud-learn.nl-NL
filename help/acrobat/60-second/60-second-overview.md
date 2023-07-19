@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
-KT: 8493
+jira: KT-8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
   </td>
    <td>
     <a href="organize.md">
-      <img alt="Pagina's in een oogwenk ordenen" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Pagina&apos;s in een oogwenk ordenen" src="../assets/60sec_Organize_1280.jpg" />
     </a>
     <div>
     <a href="organize.md"><strong>Pagina's in een oogwenk ordenen</strong></a>
@@ -184,7 +184,7 @@ ht-degree: 0%
   </td>
   <td>
       <a href="photo.md">
-        <img alt="In een oogwenk een PDF van foto's maken" src="../assets/60sec_Photo_1280.jpg" />
+        <img alt="In een oogwenk een PDF van foto&apos;s maken" src="../assets/60sec_Photo_1280.jpg" />
       </a>
       <div>
       <a href="photo.md"><strong>In een oogwenk een PDF van foto's maken</strong></a>

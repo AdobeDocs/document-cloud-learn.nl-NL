@@ -3,8 +3,10 @@ title: De verschillen aanbrengen met PDF vergelijken
 description: Leer hoe u de verschillen tussen twee PDF-bestanden kunt vaststellen met het gereedschap Bestanden vergelijken in Acrobat
 role: User
 product: adobe acrobat
-level: Beginner
-source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
+level: Intermediate
+jira: KT-13297
+exl-id: aeddfbba-e5c6-4a4d-a187-6b925d8a31af
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

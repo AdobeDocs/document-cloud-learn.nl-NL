@@ -3,11 +3,11 @@ title: Acrobat Help u Toegankelijke PDF maken
 description: Controleren of een PDF toegankelijk is
 role: User
 product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9749.jpg
-KT: 9749
+jira: KT-9749
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

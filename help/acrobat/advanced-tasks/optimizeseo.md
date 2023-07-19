@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 * Uitvoeren [tekstherkenning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) op alle gescande documenten
 * Bouw PDF die mobiel vriendelijk zijn Om de mobiele kijkervaring van uw PDF te controleren, opent u het bestand in het [Acrobat Reader mobiele app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en schakel de Vloeiende modus in. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
 
-   ![Schermafbeelding van de vloeiende modus in de mobiele Acrobat Reader-app](../assets/optimizeseo1.png)
+  ![Schermafbeelding van de vloeiende modus in de mobiele Acrobat Reader-app](../assets/optimizeseo1.png)
 
 +++
 
