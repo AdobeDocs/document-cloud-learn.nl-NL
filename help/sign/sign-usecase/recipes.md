@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
 
 * [Onderwijswebformulierinternatietoepassing](usecase-edu-intern.md)
 Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
+* [Een educatieve webtoepassing voor formulierinternatie maken](usecase-edu-intern-create.md)
+Leer hoe u een interactieve webformulier maakt
 * [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](webform-multiple-signers.md)
 Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn
 
@@ -170,10 +172,15 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Een educatieve webtoepassing voor formulierinternatie maken" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Een educatieve webtoepassing voor formulierinternatie maken</strong></a>
+    </div>
+    <em>Leer hoe u een interactieve webformulier maakt</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>

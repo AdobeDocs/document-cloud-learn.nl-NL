@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ec0a3c86e42a185d22c623911274b823886d261c
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '508'
 ht-degree: 10%
 
 ---
@@ -140,6 +140,7 @@ ht-degree: 10%
          + [Telovereenkomst](sign-usecase/usecasecomtelework.md)
       + Onderwijs {#edu}
          + [Onderwijswebformulierinternatietoepassing](sign-usecase/usecase-edu-intern.md)
+         + [Een educatieve webtoepassing voor formulierinternatie maken](sign-usecase/usecase-edu-intern-create.md)
    + Praktijkvoorbeelden gebruiken {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Ontwikkelen {#develop}
