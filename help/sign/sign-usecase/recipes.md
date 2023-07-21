@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
 
 ## Nieuw
 
+* [Onderwijswebformulierinternatietoepassing](usecase-edu-intern.md)
+Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
 * [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](webform-multiple-signers.md)
 Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn
 
@@ -152,3 +154,36 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
   </td>
 </tr>
 </table>
+
+## Gebruiksscenario’s voor onderwijsinstellingen
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="Onderwijswebformulierinternatietoepassing" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>Onderwijswebformulierinternatietoepassing</strong></a>
+    </div>
+    <em>Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
