@@ -2,13 +2,11 @@
 title: Handtekeningen in bulk verzenden en verzamelen
 description: Leer hoe je in een paar korte stappen honderden handtekeningen tegelijk verzamelt voor elk document
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%

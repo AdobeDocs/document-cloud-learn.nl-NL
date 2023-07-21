@@ -2,12 +2,11 @@
 title: Samenwerken in real-time
 description: Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8255.jpg
 jira: KT-8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

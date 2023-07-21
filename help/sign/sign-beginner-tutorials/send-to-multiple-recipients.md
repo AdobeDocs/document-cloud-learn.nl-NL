@@ -2,13 +2,11 @@
 title: Verzenden naar meerdere ontvangers
 description: Leer hoe u een document voor elektronische ondertekening naar meerdere personen kunt verzenden in precies de gewenste volgorde
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 9%

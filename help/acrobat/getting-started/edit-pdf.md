@@ -2,12 +2,11 @@
 title: Een PDF-bestand bewerken
 description: Leer hoe u tekst en afbeeldingen bewerkt in PDF-bestanden
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 jira: KT-5528
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 11%

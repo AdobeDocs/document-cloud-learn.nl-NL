@@ -2,13 +2,13 @@
 title: PDF Samenwerking in [!DNL Microsoft Teams]
 description: Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega's door PDF te bekijken, van notities te voorzien en te evalueren zonder dat ze hoeven te vertrekken [!DNL Microsoft Teams]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 jira: KT-7119
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

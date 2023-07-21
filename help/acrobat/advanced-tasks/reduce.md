@@ -2,12 +2,11 @@
 title: Bestand verkleinen en optimaliseren
 description: Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate
 thumbnail: KT-6827.jpg
 jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

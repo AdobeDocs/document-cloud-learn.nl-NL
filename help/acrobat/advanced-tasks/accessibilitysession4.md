@@ -2,12 +2,11 @@
 title: Gescande documenten en complexe lijsten
 description: Deze on-demand sessie behandelt de complexere problemen die mensen vaak tegenkomen, zoals gescande documenten en complexe lijsten
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8611.jpg
 jira: KT-8611
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

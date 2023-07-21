@@ -2,14 +2,12 @@
 title: Aan de slag met Acrobat Sign
 description: Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Adobe Sign
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: Overzicht industrie en afdeling
 description: Kijk hoe je klantervaringen en werknemerservaringen kunt transformeren door praktijkvoorbeelden en inspirerende ideeën te verkennen
 role: User
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%

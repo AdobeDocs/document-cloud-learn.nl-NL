@@ -1,11 +1,10 @@
 ---
 title: Interfacetoepassing voor webformulieren voor het onderwijs maken
 description: Leer hoe u een interactieve webformulier maakt
-product: adobe sign
-solution: Acrobat Sign
+role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

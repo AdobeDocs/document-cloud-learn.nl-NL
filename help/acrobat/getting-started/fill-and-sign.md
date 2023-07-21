@@ -2,12 +2,11 @@
 title: Fill & Sign PDF forms
 description: Leer hoe u snel en eenvoudig een PDF-formulier invult en ondertekent
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35495.jpg
 jira: KT-5530
 exl-id: 3ec14eda-755e-425d-bdd7-e3c1cac8f7af
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 11%

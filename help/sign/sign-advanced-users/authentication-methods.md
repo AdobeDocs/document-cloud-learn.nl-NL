@@ -2,12 +2,10 @@
 title: Verificatiemethoden in Acrobat Sign
 description: Meer informatie over het bereik van identiteitsverificatiemethoden in Acrobat Sign
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-10982
 exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

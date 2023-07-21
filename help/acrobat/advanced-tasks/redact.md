@@ -2,12 +2,11 @@
 title: Redigeren en ontsmetten
 description: Leer hoe u persoonlijke of vertrouwelijke informatie permanent uit uw PDF kunt verwijderen
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate
 thumbnail: KT-6804.jpg
 jira: KT-6804
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

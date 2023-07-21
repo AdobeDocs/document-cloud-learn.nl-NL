@@ -2,13 +2,11 @@
 title: Acrobat Sign-tekstlabels
 description: Leer hoe u Acrobat Sign-formuliervelden maakt met tekstlabels met Adobe Acrobat
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

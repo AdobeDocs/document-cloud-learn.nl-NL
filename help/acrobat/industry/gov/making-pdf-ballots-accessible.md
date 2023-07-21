@@ -2,13 +2,12 @@
 title: PDF-stempels toegankelijker maken
 description: Lees meer over de belangrijkste aspecten van de toegankelijkheid van PDF, die nodig zijn om gebruikers van ondersteunende hulpmiddelen, zoals schermlezers, in staat te stellen hun stembiljetten te lezen en te voltooien
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

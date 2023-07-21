@@ -2,8 +2,10 @@
 title: PDF-bestanden delen en online reviewen
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 8%

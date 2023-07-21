@@ -2,12 +2,11 @@
 title: Overal werken met Acrobat Web
 description: Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8498.jpg
 jira: KT-8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 1%

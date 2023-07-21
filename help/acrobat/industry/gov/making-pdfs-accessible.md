@@ -2,12 +2,11 @@
 title: PDF toegankelijk maken
 description: Meer informatie over de optimale workflow voor het maken van toegankelijke PDF-bestanden
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

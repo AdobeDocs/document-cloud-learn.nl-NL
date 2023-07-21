@@ -2,13 +2,11 @@
 title: Overzicht van geavanceerde taken
 description: Leer hoe u een document ter ondertekening naar honderd ontvangers tegelijk verzendt, een document maakt dat klaar is voor ondertekening voor uw website, de transacties voor handtekeningen beheert en documentsjablonen maakt en beheert
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%

@@ -1,12 +1,11 @@
 ---
 title: Webinars van Adobe Acrobat Skill Builder
 description: Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om je PDF-workflows naar een hoger niveau te tillen
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 thumb: KT-8199.jpg
 jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%

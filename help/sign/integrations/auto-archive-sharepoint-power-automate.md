@@ -3,12 +3,12 @@ title: Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Aut
 description: Leer hoe u ondertekende documenten automatisch kunt archiveren naar een [!DNL SharePoint] bibliotheek gebruiken [!DNL Power Automate]
 role: Admin, User
 level: Intermediate
-jira: KT-11109
 topic: Integrations
+jira: KT-11109
 thumbnail: KT-11109.jpg
 kt: 11109
 exl-id: fc760380-a8bd-40aa-a190-e6f773608a2f
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
