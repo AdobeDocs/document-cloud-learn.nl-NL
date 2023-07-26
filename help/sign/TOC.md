@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '508'
-ht-degree: 10%
+source-wordcount: '513'
+ht-degree: 9%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 10%
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
-+ Beheer {#admin-set-up}
++ Administer {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor nieuwe beheerders](admin/get-started-admin.md)
@@ -104,6 +104,7 @@ ht-degree: 10%
       + [Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Documentautomatisering met Acrobat Sign voor [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Verzenden ter ondertekening in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
    + notariseren {#notarize}
       + [Documenten verzenden voor notariatie](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
