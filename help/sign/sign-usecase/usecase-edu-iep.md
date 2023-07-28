@@ -1,0 +1,18 @@
+---
+title: Aangepaste workflow voor IEP-proces voor het onderwijs
+description: Leer hoe de Custom Workflow Designer wordt gebruikt om een proces voor een individueel onderwijsprogramma (IEP) te digitaliseren voor een basisschool
+role: User, Admin
+level: Intermediate
+jira: KT-13736
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 0%
+
+---
+
+# Aangepaste workflow voor IEP-onderwijsproces
+
+Leer hoe de Custom Workflow Designer wordt gebruikt om een proces voor een individueel onderwijsprogramma (IEP) te digitaliseren voor een basisschool. IEP&#39;s zijn schriftelijke onderwijsplannen die zijn ontworpen om te voldoen aan de behoeften van een student en die handtekeningen vereisen van meerdere IEP-teamleden.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)

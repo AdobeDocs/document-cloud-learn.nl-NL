@@ -1,5 +1,5 @@
 ---
-title: Ontvangers hoofdletters/kleine letters gebruiken
+title: Ontvangers hoofdletters gebruiken
 description: Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen
 role: User
 level: Beginner, Intermediate
@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Versnel de digitale workflows van je organisatie met deze voorbeelden van overhe
 
 ## Nieuw
 
+* [Aangepaste workflow voor IEP-onderwijsproces](usecase-edu-iep.md)
+Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van een IEP-proces (Individalized Education Program)
 * [Onderwijswebformulierinternatietoepassing](usecase-edu-intern.md)
 Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
 * [Een educatieve webtoepassing voor formulierinternatie maken](usecase-edu-intern-create.md)
@@ -70,7 +72,7 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
     <div>
     <a href="usecasegovcontracts.md"><strong>Contracten en aanvraagformulieren</strong></a>
     </div>
-    <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten</em>
+    <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met auditrapporten</em>
     <br>
   </td>
 </tr>
@@ -124,7 +126,7 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
     <div>
     <a href="usecasecomcontracts.md"><strong>Contracten en aanvraagformulieren</strong></a>
     </div>
-    <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten</em>
+    <em>Snel papierverwerking vervangen door compatibele digitale workflows, compleet met auditrapporten</em>
     <br>
   </td> 
   <td>
@@ -180,8 +182,13 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Aangepaste workflow voor IEP-onderwijsproces" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Aangepaste workflow voor IEP-onderwijsproces</strong></a>
+    </div>
+    <em>Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van een IEP-proces (Individalized Education Program)</em>
     <br>
   </td>
   <td>
