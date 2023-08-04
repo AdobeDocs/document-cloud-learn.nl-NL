@@ -1,13 +1,14 @@
 ---
 title: Acrobat Sign Skill Builder
 description: Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen om je elektronische handtekeningen te laten werken, zonder extra werk toe te voegen aan je dag
+feature: Skill Builder
 role: User
 level: Beginner, Intermediate
 jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%
@@ -20,20 +21,20 @@ ht-degree: 0%
 
 Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen om je elektronische handtekeningen te laten werken, zonder extra werk aan je dag toe te voegen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
-## Maandelijkse sessies
+## Maandelijkse vergaderingen
 
 **[Werken met elektronische handtekeningen in uw Microsoft-apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 Datum: 19 oktober 2023 Breid de manier uit waarop je je Microsoft-apps zoals Word, Outlook en SharePoint gebruikt door Adobe Acrobat Sign toe te voegen aan je bestaande workflows. In deze sessie leert u hoe u documentprocessen kunt stroomlijnen in algemene Microsoft-apps, zodat u niet hoeft over te schakelen naar de context om alleen een handtekening te krijgen of een status te controleren.
 
-**[Overeenkomsten beheren: Realtime zichtbaarheid in overeenkomststatus krijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
-Datum: 21 september 2023 Kom meer te weten over de ins en outs van tools en best practices voor overeenkomstbeheer, zodat je op elk moment de status van je overeenkomsten kunt kennen. Deze sessie heeft betrekking op:
+**[Overeenkomsten beheren: Realtime zichtbaarheid in de overeenkomststatus verkrijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+Datum: 21 september 2023 Ontdek de ins en outs van tools en best practices voor overeenkomstbeheer, zodat je op elk moment de status van je overeenkomsten kunt kennen. Deze sessie heeft betrekking op:
 
 * Welke handelingen u kunt uitvoeren op documenten op het tabblad Beheren
 * Gegevens uit webformulieren verwerken en gebruiken en bulksgewijs verzenden
 * Zoeken en filteren om de benodigde documenten te vinden
 
 **[Geavanceerde tips voor het verzenden van documenten ter ondertekening](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
-Datum: 17 augustus 2023 Sluit u aan bij ons als we dieper ingaan op alle opties die beschikbaar zijn bij het verzenden van overeenkomsten ter ondertekening. In deze sessie leert u over:
+Datum: 17 augustus 2023 Volg onze uitgebreide analyse van alle opties die beschikbaar zijn bij het verzenden van overeenkomsten ter ondertekening. In deze sessie leert u over:
 
 * Verzenden naar meerdere ontvangers
 * Beschikbare ontvangersrollen (ondertekenaar, invuller van formulier, delegeerder en anderen)
@@ -41,10 +42,10 @@ Datum: 17 augustus 2023 Sluit u aan bij ons als we dieper ingaan op alle opties 
 * Wachtwoordbeveiliging, en meer
 
 **[Acrobat Sign-integraties: Salesforce en Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
-Datum: 20 juli 2023 Sluit u aan bij onze beoordeling van enkele van de meest gangbare en krachtige Acrobat Sign-integraties met Salesforce en Workday. Deze sessie gaat na hoe je bedrijfstransacties kunt versnellen door handmatige, inefficiënte taken te elimineren en 100% digitale workflows en processen voor elektronische handtekeningen te creëren, rechtstreeks binnen de tools die je al gebruikt.
+Datum: 20 juli 2023 Kom bij ons als we een aantal van de meest gangbare en krachtige Acrobat Sign-integraties met Salesforce en Workday bekijken. Deze sessie gaat na hoe je bedrijfstransacties kunt versnellen door handmatige, inefficiënte taken te elimineren en 100% digitale workflows en processen voor elektronische handtekeningen te creëren, rechtstreeks binnen de tools die je al gebruikt.
 
 **[Geavanceerde rapportage voor Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
-Datum: 22 juni 2023 Meer informatie over de analytics en rapporten in Acrobat Sign - en bekijk hoe je data kunt bekijken om de inzichten te leveren die je nodig hebt om je bedrijf vooruit te helpen.
+Datum: 22 juni 2023 Meer informatie over de analytics en rapporten die beschikbaar zijn in Acrobat Sign - en bekijk hoe je data kunt bekijken om de inzichten te leveren die je nodig hebt om je bedrijf vooruit te helpen.
 
 **[Workflows maken en gebruiken - van begin tot eind](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
 Datum: 18 mei 2023 Alle Acrobat Sign-beheerders en eindgebruikers/individuele medewerkers aanroepen. Deze sessie heeft betrekking op het maken en gebruiken van workflows.
@@ -60,7 +61,7 @@ Datum: 20 april 2023 Bekijk de opties die beschikbaar zijn in de Acrobat Sign-on
 * Hoe u uw sjablonen ter ondertekening verzendt, door de documentsjabloon te vergelijken met de formulierveldsjabloon.
 
 **[Een invulbaar, ondertekenbaar webformulier plaatsen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
-Datum: 16 maart 2023 Leer hoe u een webformulier kunt maken waarmee iedereen het formulier kan invullen en ondertekenen - zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar hoeft te kennen. U leert ook hoe u een documentsjabloon voorbereidt die kan worden gebruikt voor afzonderlijke handtekeningtransacties, en hoe u naar een unieke URL kunt posten om deze breed te delen.
+Datum: 16 maart 2023 Leer hoe u een webformulier maakt waarmee iedereen de transactie kan invullen en ondertekenen - zonder dat u de transactie hoeft te starten of zelfs het e-mailadres van de ondertekenaar hoeft te kennen. U leert ook hoe u een documentsjabloon voorbereidt die kan worden gebruikt voor afzonderlijke handtekeningtransacties, en hoe u naar een unieke URL kunt posten om deze breed te delen.
 
 **[Vele handtekeningen met één klik verzamelen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/552e5165-8762-4c73-9d41-8215d48a62cc/9d88acde-96fa-4d83-89e3-1296b94f4d90){target="_blank"}**
 Datum: 16 februari 2023 Leer hoe u tijd kunt besparen met de functie Verzenden in bulk in Acrobat Sign. Als u meerdere personen nodig hebt om unieke kopieën van een beleidsupdate voor het hele bedrijf te ondertekenen, kunt u met een geheimhoudingsverklaring of een ander document het bestand eenmaal voorbereiden, met één klik naar meerdere ondertekenaars sturen en eenvoudig de reacties bijhouden.

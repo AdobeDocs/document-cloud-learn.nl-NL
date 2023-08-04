@@ -1,12 +1,13 @@
 ---
 title: Redigeren en ontsmetten
 description: Leer hoe u persoonlijke of vertrouwelijke informatie permanent uit uw PDF kunt verwijderen
+feature: Security
 role: User
 level: Intermediate
-thumbnail: KT-6804.jpg
 jira: KT-6804
+thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Redigeren en ontsmetten
 
-Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke informatie permanent uit uw PDF te verwijderen. Gebruik het gereedschap ontsmetten om informatie te verwijderen die niet zichtbaar is in het bestand, zoals opmerkingen, metagegevens of verborgen lagen.
+Leer hoe u met het gereedschap Redigeren persoonlijke of vertrouwelijke informatie permanent uit uw PDF verwijdert. Gebruik het gereedschap ontsmetten om informatie te verwijderen die niet zichtbaar is in het bestand, zoals opmerkingen, metagegevens of verborgen lagen.
 
 >[!NOTE]
 >
@@ -45,7 +46,7 @@ Leer hoe u het gereedschap Redigeren gebruikt om persoonlijke of vertrouwelijke 
 
    Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgroep.
 
-1. Selecteren **[!UICONTROL Patronen]** om bepaalde soorten informatie te vinden, dan de vakjes te controleren en te selecteren **[!UICONTROL Tekst zoeken en verwijderen]**.
+1. Selecteren **[!UICONTROL Patronen]** om bepaalde soorten informatie te vinden, dan de dozen controleren en selecteren **[!UICONTROL Tekst zoeken en verwijderen]**.
 
    ![Stap 5b redigeren](../assets/Redact_5.png)
 

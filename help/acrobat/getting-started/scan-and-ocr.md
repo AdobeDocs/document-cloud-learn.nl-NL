@@ -1,12 +1,13 @@
 ---
 title: Scan en OCR
-description: Zet scans of afbeeldingen van documenten om in doorzoekbare, bewerkbare PDF-bestanden en pas de kwaliteit van het resulterende bestand aan
+description: Scans of afbeeldingen van documenten omzetten in doorzoekbare, bewerkbare PDF-bestanden en de kwaliteit van het resulterende bestand aanpassen
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6830.jpg
 jira: KT-6830
+thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 4%

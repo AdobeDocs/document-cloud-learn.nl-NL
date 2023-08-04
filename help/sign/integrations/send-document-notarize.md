@@ -1,13 +1,14 @@
 ---
 title: Documenten verzenden voor notariatie
 description: Leer hoe u een document verzendt voor notarisering
+feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
 jira: KT-9357
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -26,4 +27,4 @@ Adobe Acrobat Sign is een partnerschap aangegaan met Notarize, Inc. om online no
 
 >[!TIP]
 >
->Wanneer notariatie is ingeschakeld voor een Acrobat Sign-account, kan de afzender **Notarisering vereist** door de ellips rechts van de ontvangersrecord te selecteren. De notarisoptie is alleen beschikbaar voor ontvangers met de rol Ondertekenaar.
+>Wanneer notariatie is ingeschakeld voor een Acrobat Sign-account, kan de afzender **Notarisering vereist** door de ellips te selecteren aan de rechterkant van de ontvangersrecord. De notarisoptie is alleen beschikbaar voor ontvangers met de rol Ondertekenaar.

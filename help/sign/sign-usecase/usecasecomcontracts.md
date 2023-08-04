@@ -1,12 +1,13 @@
 ---
 title: Commerciële contracten en Forms-aanvraag
-description: Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten
+description: Snel papierverwerking vervangen door compatibele digitale workflows, compleet met auditrapporten
+feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Vervang snel papierverwerking door compatibele digitale workflows, compleet met 
 
 Klik hierop om het stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

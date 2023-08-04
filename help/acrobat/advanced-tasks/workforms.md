@@ -1,12 +1,13 @@
 ---
 title: Werken met formuliervelden
 description: Leer hoe u verschillende typen formuliervelden kunt toevoegen, eigenschappen van formuliervelden kunt instellen en beveiliging kunt toevoegen om professionele formulieren van hoge kwaliteit te maken
+feature: Form, Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9345.jpg
 jira: KT-9345
+thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -40,7 +41,7 @@ Gebruik het gereedschap Prepare Form om automatisch formuliervelden toe te voege
 
 <br>
 
-## Wat je hebt geleerd: Werken met formuliervelden
+## Wat je hebt geleerd: werken met formuliervelden
 
 Verschillende typen formuliervelden toevoegen en de eigenschappen ervan instellen in een bestaande PDF.
 
@@ -55,7 +56,7 @@ Verschillende typen formuliervelden toevoegen en de eigenschappen ervan instelle
 
 Als u een lijstveld toevoegt, bestaat er minder kans op fouten in uw formuliergegevens.
 
-1. Selecteer en verwijder de *HQ-locatie* tekstveld.
+1. Selecteer en verwijder *HQ-locatie* tekstveld.
 1. Selecteren **Keuzelijst** op de werkbalk en plaatst u een nieuw veld op de locatie van het verwijderde tekstveld.
 1. Type *HQ-locatie* in de **Veldnaam:**.
 1. Selecteren **Alle eigenschappen** en kiest u **Opties** tabblad.
@@ -67,7 +68,7 @@ Als u een lijstveld toevoegt, bestaat er minder kans op fouten in uw formulierge
 
 Datumkiezers voegen interactiviteit toe en voorkomen fouten in een formulier.
 
-1. Selecteer en verwijder de *Projecttijdlijn* en *EINDDATUM* velden.
+1. Selecteer en verwijder *Projecttijdlijn* en *EINDDATUM* velden.
 1. Selecteren **Datumveld** op de werkbalk en plaats het nieuwe veld in het verwijderde *Projecttijdlijn* veldlocatie.
 1. Type *Start project* in de **Veldnaam:**.
 1. Selecteren **Alle eigenschappen** en kiest u **Indeling** tabblad.
@@ -75,7 +76,7 @@ Datumkiezers voegen interactiviteit toe en voorkomen fouten in een formulier.
 1. Houd Ctrl + Shift ingedrukt (Cmd + Shift op de Mac) om het veld te dupliceren.
 1. Dubbelklik op het nieuwe veld en selecteer de knop **Algemeen** en de naam van het veld wijzigen *Einde project*.
 1. Selecteren **Sluiten**.
-1. Houd de Shift-toets ingedrukt en selecteer alle drie de velden.
+1. Houd Shift ingedrukt en selecteer alle drie de velden.
 1. Selecteren **Identieke breedte en hoogte** in het rechterdeelvenster.
 1. Gebruik de pijltoetsen om elk veld indien nodig uit te lijnen.
 
@@ -87,7 +88,7 @@ Comb-eigenschappen worden gebruikt om tekst gelijkmatig te verspreiden over de b
 1. Selecteer de **Weergave** en kiest u een kleur in het dialoogvenster **Randkleur** doos.
 1. Selecteren **Sluiten**.
 1. Selecteren **Voorvertoning** en voer enkele getallen in om het combinatieveld te testen.
-1. Selecteren **Meer** > **Formulier wissen** om de gegevens in het rechterdeelvenster te verwijderen.
+1. Selecteren **Meer** > **Vorm wissen** om de gegevens in het rechterdeelvenster te verwijderen.
 
 ## Leer hoe u eigenschappen voor meerdere velden tegelijk instelt, de tabvolgorde en een formulier beveiligt
 
@@ -97,7 +98,7 @@ Comb-eigenschappen worden gebruikt om tekst gelijkmatig te verspreiden over de b
 
 <br>
 
-## Wat je hebt geleerd: Eigenschappen voor meerdere velden tegelijk instellen, tabvolgorde en een formulier beveiligen
+## Wat je hebt geleerd: eigenschappen voor meerdere velden tegelijk instellen, tabvolgorde en een formulier beveiligen
 
 Als u eigenschappen voor meerdere velden tegelijk wilt instellen, moet u de tabvolgorde instellen en een formulier beveiligen. Door de eigenschappen van tekstvelden in te stellen, bespaart u eenmaal tijd en krijgt u een formulier visueel consistent.
 

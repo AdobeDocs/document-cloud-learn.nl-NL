@@ -1,13 +1,13 @@
 ---
 title: Een digitale id ophalen van [!DNL Intesi Group] (Geavanceerd)
 description: Leer hoe u een geavanceerd digitaal ondertekeningscertificaat kunt verkrijgen van [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
-kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%

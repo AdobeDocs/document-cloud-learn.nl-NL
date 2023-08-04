@@ -1,12 +1,13 @@
 ---
 title: Acrobat Sign Tutorials
 description: Een verzameling zelfstudies, webinars en gebruiksscenario’s die zijn ontworpen om zowel beginners als beheerders snel op Acrobat Sign te laten kennismaken
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -42,7 +43,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="Beheer" src="assets/AS_Title_Administer.png" />
+      <img alt="Administer" src="assets/AS_Title_Administer.png" />
     </a>
   </td>
   <td>

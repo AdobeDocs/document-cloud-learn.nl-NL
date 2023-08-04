@@ -1,13 +1,14 @@
 ---
 title: Overzicht ontwikkelen
 description: Leer hoe u Acrobat Sign API's kunt gebruiken om aangepaste toepassingen te maken voor uw teams, partners en klanten
+feature: Workflow, Integrations
 role: Developer
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%

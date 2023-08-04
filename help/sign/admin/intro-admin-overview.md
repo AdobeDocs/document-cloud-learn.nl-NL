@@ -1,13 +1,14 @@
 ---
 title: Overzicht van beheerders
 description: Leer de grondbeginselen van het toevoegen van gebruikers aan uw account, het instellen van groepen, het delen van toegang en het instellen van een workflow, een extern archief en gedeelde gebeurtenissen en waarschuwingen
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

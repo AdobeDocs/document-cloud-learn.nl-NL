@@ -1,12 +1,13 @@
 ---
 title: Optimize PDF voor SEO (Search Engine Optimization)
 description: Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web.
 
-## 1. Unieke inhoud maken
+## 1. Maak unieke inhoud
 
 Maak PDF-inhoud die afwijkt van de informatie op uw webpagina&#39;s.
 
@@ -60,7 +61,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 <br>
 
-## 3. Tag uw PDF
+## 3. Tags toevoegen aan uw PDF
 
 Inhoud in uw PDF taggen maakt niet alleen uw bestand [Toegankelijk](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) voor mensen met een handicap: het verbetert ook de SEO.
 
@@ -72,7 +73,7 @@ Een PDF als volgt labelen:
 1. Selecteren **[!UICONTROL Automatisch labelen van document]** in het rechterdeelvenster.
 1. Volg de tips voor herstel in het linkerdeelvenster **[!UICONTROL Herkenningsrapport]**.
 1. Uitvoeren **[!UICONTROL Alternatieve tekst instellen]** indien nodig.
-1. Trefwoorden gebruiken om de afbeelding te beschrijven in het dialoogvenster **[!UICONTROL Alternatieve tekst]**.
+1. Trefwoorden gebruiken om de afbeelding te beschrijven in de **[!UICONTROL Alternatieve tekst]**.
 
    ![Screenshot van het instellen van alternatieve tekst in PDF](../assets/optimizeseo3.png)
 
@@ -84,7 +85,7 @@ Een PDF als volgt labelen:
 
 <br>
 
-## 4. Voorbereiden voor web
+## 4. Voorbereiden voor het web
 
 Optimaliseer de ervaring van interactie met uw PDF door deze voor te bereiden op webweergave en [verkleinen, grootte van PDF-bestand](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
 
@@ -108,7 +109,7 @@ Deze stap verkleint de bestandsgrootte en schakelt **Snelle webweergave** in de 
 
 <br>
 
-## 5. Een trefwoordbestandsnaam maken
+## 5. Maak een trefwoordbestandsnaam
 
 +++Bekijk details over het maken van een trefwoordbestandsnaam
 
@@ -120,7 +121,7 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 <br>
 
-## 6. Uw PDF beveiligen
+## 6. Beveilig uw PDF
 
 De laatste stap is: [bescherm je PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} om ongeoorloofde wijzigingen te voorkomen.
 

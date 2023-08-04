@@ -1,11 +1,12 @@
 ---
 title: PDF-bestanden maken met Acrobat
-description: Leer hoe u PDF kunt maken van Microsoft 365-bestanden, rechtstreeks binnen de Acrobat-desktopapp
+description: Leer hoe u PDF kunt maken van Microsoft 365-bestanden, rechtstreeks binnen de Acrobat-bureaubladtoepassing
+feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13293
 exl-id: 443e1119-3dcd-4686-8b31-be65af4ba9b1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

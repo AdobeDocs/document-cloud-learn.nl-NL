@@ -1,12 +1,13 @@
 ---
 title: Complexe tabellen
 description: 'Deze on-demand sessie behandelt een van de meer voorkomende en uitdagende problemen bij het oplossen van een PDF voor toegankelijkheid: complexe tabellen'
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8610.jpg
 jira: KT-8610
+thumbnail: KT-8610.jpg
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

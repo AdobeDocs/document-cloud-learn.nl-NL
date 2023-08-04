@@ -1,12 +1,13 @@
 ---
 title: Een aangepaste workflow maken
 description: Leer hoe je documentworkflows kunt aanpassen en automatiseren om snel elektronische handtekeningen te verkrijgen en formuliergegevens te verzamelen
+feature: Administration, Workflow
 role: User, Admin
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

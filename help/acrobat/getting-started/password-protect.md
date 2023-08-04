@@ -1,12 +1,13 @@
 ---
 title: Protect a PDF File with a Password
 description: Leer hoe u een wachtwoord aan uw PDF toevoegt om te voorkomen dat anderen het bestand openen of bewerken
+feature: Security
 role: User
 level: Beginner
-thumbnail: 35497.jpg
 jira: KT-5532
+thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

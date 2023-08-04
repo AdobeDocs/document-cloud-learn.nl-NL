@@ -1,12 +1,13 @@
 ---
 title: Een ondertekenaar vervangen
 description: Leer hoe u een ondertekenaar vervangt, zoals wanneer de verkeerde e-mail werd gebruikt bij het verzenden van een document ter ondertekening
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

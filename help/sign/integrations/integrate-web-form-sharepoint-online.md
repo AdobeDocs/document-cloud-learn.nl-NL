@@ -1,12 +1,13 @@
 ---
 title: Een webformulier integreren met [!DNL SharePoint Online]
 description: Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan een [!DNL SharePoint] list
+feature: Integrations, Web Forms
 role: User
 product: adobe sign
 topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

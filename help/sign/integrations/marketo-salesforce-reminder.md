@@ -1,6 +1,7 @@
 ---
 title: Herinneringen verzenden met Acrobat Sign for Salesforce en Marketo Configuration Guide
 description: Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
@@ -54,7 +55,7 @@ Als de Marketo Salesforce Sync en Acrobat Sign for Salesforce-configuraties zijn
 
 Aan de rechterkant zie Aangepaste objecten voor leads, Contactpersoon en Account.
 
-**Synchronisatie inschakelen** voor objecten onder Lead als u een herinnering wilt verzenden wanneer een lead geen overeenkomst in Salesforce heeft ondertekend.
+**Synchronisatie inschakelen** voor de objecten onder Lead als u een herinnering wilt verzenden wanneer een lead geen overeenkomst in Salesforce heeft ondertekend.
 
 **Synchronisatie inschakelen** voor de objecten onder Contact als u een herinnering wilt verzenden wanneer een contactpersoon geen overeenkomst heeft ondertekend in Salesforce.
 
@@ -136,7 +137,7 @@ Aan de rechterkant zie Aangepaste objecten voor leads, Contactpersoon en Account
 
 ## Maak een herinnering en voeg personalisatie toe
 
-Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van de overeenkomst, een koppeling naar de overeenkomst, enz.
+Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van de overeenkomst, een koppeling naar de overeenkomst, enzovoort.
 
 1. Klik met de rechtermuisknop op het programma dat u hebt gemaakt en klik op **Nieuw lokaal element** selecteert u vervolgens **E-mail**.
 

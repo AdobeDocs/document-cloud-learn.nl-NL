@@ -1,10 +1,11 @@
 ---
 title: Overheidslening voor toepassing met meerdere onbekende ondertekenaars
 description: Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn
+feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars
 
-Lees hoe een [webformulier](../sign-advanced-users/webform.md) wordt gebruikt voor een complexe workflow voor de toepassing van overheidsleningen waarbij meerdere onbekende deelnemers betrokken zijn. Deze formulieren kunnen worden ingesloten in een website of worden verzonden als een koppeling in een e-mail. Ze kunnen ook op elk apparaat, op elke locatie, worden ingevuld, waardoor processen en de levering van services sneller verlopen.
+Leer hoe een [webformulier](../sign-advanced-users/webform.md) wordt gebruikt voor een complexe workflow voor de toepassing van overheidsleningen waarbij meerdere onbekende deelnemers betrokken zijn. Deze formulieren kunnen worden ingesloten in een website of worden verzonden als een koppeling in een e-mail. Ze kunnen ook op elk apparaat, op elke locatie, worden ingevuld, waardoor processen en de levering van services sneller verlopen.
 
 Bekijk deze aanvullende praktijkvoorbeelden van het gebruik van webformulieren:
 

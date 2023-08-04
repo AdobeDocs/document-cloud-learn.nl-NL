@@ -1,12 +1,13 @@
 ---
 title: Action Wizard
 description: Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden
+feature: Action
 role: User
-level: Experienced
-thumbnail: KT-6803.jpg
+level: Intermediate
 jira: KT-6803
+thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Action Wizard
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Bespaar tijd en toetsaanslagen door met een handeling automatisch een set opdrachten toe te passen op een of meerdere bestanden.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden.
 
 >[!NOTE]
 >

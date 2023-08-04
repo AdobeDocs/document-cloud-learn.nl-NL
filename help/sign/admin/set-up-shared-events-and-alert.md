@@ -1,12 +1,13 @@
 ---
 title: Meldingen voor gebeurtenissen en waarschuwingen configureren
 description: Leer hoe u meldingen voor gebeurtenissen en waarschuwingen configureert
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5507
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

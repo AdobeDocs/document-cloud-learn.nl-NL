@@ -1,13 +1,13 @@
 ---
 title: Acrobat for Government
 description: Ontdek onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats- en lokale overheden
+feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-9910.jpg
 jira: KT-9910
+thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -34,10 +34,10 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
   </td>
   <td>
     <a href="get-your-tools.md">
-      <img alt="Tip 1: Verkrijg je tools" src="../../assets/Tip1.png" />
+      <img alt="Tip 1: Je tools ophalen" src="../../assets/Tip1.png" />
     </a>
     <div>
-    <a href="get-your-tools.md"><strong>Tip 1: Verkrijg je tools</strong></a>
+    <a href="get-your-tools.md"><strong>Tip 1: Je tools ophalen</strong></a>
     </div>
     <em>De eerste stap om vanaf elke locatie aan de slag te gaan, is het verkrijgen van je Acrobat-tools en mobiele apps</em>
     <br>
@@ -57,7 +57,7 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
       <img alt="Tip: 3Protect digitale documenten" src="../../assets/Tip3.png" />
     </a>
     <div>
-    <a href="protect-digital-documents.md"><strong>Tip 3: Protect digitale documenten</strong></a>
+    <a href="protect-digital-documents.md"><strong>Tip 3: digitale Protect-documenten</strong></a>
     </div>
     <em>Een wachtwoord aan uw PDF toevoegen om te voorkomen dat bestanden worden gekopieerd, bewerkt of afgedrukt</em>
     <br>
@@ -75,10 +75,10 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
   </td>
   <td>
     <a href="scan-and-edit-on-mobile.md">
-      <img alt="Tip 5: Scannen en bewerken op mobiele apparaten" src="../../assets/Tip5.png" />
+      <img alt="Tip 5: scannen en bewerken op mobiele apparaten" src="../../assets/Tip5.png" />
     </a>
     <div>
-    <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: Scannen en bewerken op mobiele apparaten</strong></a>
+    <a href="scan-and-edit-on-mobile.md"><strong>Tip 5: scannen en bewerken op mobiele apparaten</strong></a>
     </div>
     <em>Leer hoe je kunt werken met mobiele apps van Adobe Scan en Acrobat Reader om vanaf elke locatie werk gedaan te krijgen</em>
     <br>
@@ -122,20 +122,20 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="PDF toegankelijk maken: Ontwerpen in Word" src="../../assets/Accessibilityword.png" />
+      <img alt="PDF toegankelijk maken: ontwerpen in Word" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>PDF toegankelijk maken: Ontwerpen in Word</strong></a>
+    <a href="collaborate-on-documents.md"><strong>PDF toegankelijk maken: ontwerpen in Word</strong></a>
     </div>
     <em>Leer de beste werkwijzen voor het maken van PDF-bestanden die zijn gemaakt in [!DNL Microsoft Word]</em>
     <br>
   </td>
    <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="PDF toegankelijk maken: Voltooien in Acrobat" src="../../assets/Accessibilityacrobat.png" />
+      <img alt="PDF toegankelijk maken: voltooien in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>PDF toegankelijk maken: Voltooien in Acrobat</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>PDF toegankelijk maken: voltooien in Acrobat</strong></a>
     </div>
     <em>Leer hoe u uw PDF-bestand kunt openen met de tools in Acrobat Pro</em>
     <br>

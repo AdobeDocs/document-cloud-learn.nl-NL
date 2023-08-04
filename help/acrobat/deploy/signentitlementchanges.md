@@ -1,12 +1,13 @@
 ---
 title: Belangrijke Acrobat DC-productupdates voor ETLA-klanten
 description: Meer informatie over belangrijke wijzigingen in Acrobat DC-rechten die zijn opgenomen in de ETLA (Enterprise Term License Agreement)-aanbiedingen die van augustus 2020 tot november 2020 lopen
+feature: Deploy
 role: Admin
 level: Intermediate
-thumbnail: KT-7269.jpg
 jira: KT-7269
+thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%
@@ -25,7 +26,7 @@ Als u Acrobat DC niet hebt bijgewerkt naar de meest recente versie, kan het zijn
 
 ## Waarom deprovisioning?
 
-[In oktober 2018 hebben we een volledig nieuw Acrobat DC uitgebracht](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Deze nieuwste release bevat nieuwe tools en functies voor een betere samenwerking met PDF op verschillende mobiele apparaten, het web en de desktop, plus gloednieuwe samenwerkingstools. Als Acrobat DC-abonnee hebt u deze geweldige functies al beschikbaar. Een andere belangrijke update die we hebben uitgebracht, was onze oplossing voor elektronische handtekeningen Adobe Sign.
+[In oktober 2018 hebben we een volledig nieuw Acrobat DC uitgebracht](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Deze nieuwste release bevat nieuwe tools en functies voor een betere samenwerking met PDF op verschillende mobiele apparaten, het web en de desktop, plus gloednieuwe samenwerkingstools. Als Acrobat DC-abonnee hebt u deze fantastische functies al beschikbaar. Een andere belangrijke update die we hebben uitgebracht, was onze oplossing voor elektronische handtekeningen Adobe Sign.
 
 Voorafgaand aan de versie van oktober 2018 konden Acrobat DC-gebruikers documenten verzenden voor elektronische ondertekening met hulpprogramma&#39;s in Acrobat met het label &quot;Fill &amp; Sign&quot; (of &quot;Adobe Sign&quot; of &quot;Send for Signature&quot;) die waren ingericht met [!DNL Adobe Sign Individual] machtiging.
 
@@ -57,7 +58,7 @@ Gebruikers hebben via Adobe Document Cloud toegang tot alle overeenkomsten die v
 ## Acrobat DC-ervaring zonder [!DNL Sign Individual] aanspraak
 
 Gebruikers met Adobe Sign Enterprise-rechten kunnen via Adobe Sign of [!UICONTROL Fill &amp; Sign] (Handtekeningen aanvragen).
-Gebruikers die geen Adobe Sign Enterprise-rechten hebben, kunnen geen nieuwe overeenkomsten verzenden en ontvangen een foutbericht. De onderstaande afbeelding geeft een overzicht van mogelijke resultaten.
+Gebruikers die geen Adobe Sign Enterprise-rechten hebben, kunnen geen nieuwe overeenkomsten verzenden en ontvangen een foutbericht. De onderstaande afbeelding geeft een overzicht van de mogelijke resultaten.
 
 ![Foutbericht voor Acrobat DC-ervaring](../assets/Deploy_SignEntitle2.png)
 
@@ -75,4 +76,4 @@ Gebruikers kunnen zich aanmelden bij https://documentcloud.adobe.com/ om alle ov
 * [Overzicht van [!UICONTROL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
 * [Adobe Sign beheren op de [!UICONTROL Admin Console]](https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html)
 
-**Revisies** 20 mei 2020; oorspronkelijk bericht - augustus 2019
+**Revisies** 20 mei 2020; oorspronkelijk na - augustus 2019

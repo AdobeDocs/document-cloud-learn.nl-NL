@@ -1,12 +1,13 @@
 ---
 title: Verzoek om extern woordenboek
 description: Gebruik samen elektronische handtekeningen en webconferenties om rechters sneller om verzoeken te ontvangen en om warrants te beveiligen
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5334
 thumbnail: 33813.jpg
 exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Gebruik samen elektronische handtekeningen en webconferenties om rechters snelle
 
 Klik om het stap-voor-stap PDF-recept te downloaden voor een verzoek om een extern bevel.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

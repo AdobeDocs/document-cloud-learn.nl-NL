@@ -1,10 +1,11 @@
 ---
 title: Onderwijswebformulierinterneringstoepassing
 description: Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
+feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
 jira: KT-13607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

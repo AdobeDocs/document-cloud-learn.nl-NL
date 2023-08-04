@@ -1,6 +1,7 @@
 ---
 title: Send for Signature in SharePoint Online
 description: Een document rechtstreeks verzenden ter ondertekening binnen SharePoint Online
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate
@@ -8,7 +9,7 @@ jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

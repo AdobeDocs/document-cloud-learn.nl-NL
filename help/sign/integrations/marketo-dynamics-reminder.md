@@ -1,6 +1,7 @@
 ---
 title: Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
@@ -52,7 +53,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
    * **Synchronisatie inschakelen** voor de objecten onder **[!UICONTROL Account]** als u een herinnering wilt verzenden wanneer een [!UICONTROL Account] heeft geen overeenkomst ondertekend in Dynamics.
 
-   * **Synchronisatie inschakelen** voor het overeenkomstobject onder de gewenste **[!UICONTROL Bovenliggend]** ([!UICONTROL Lead], [!UICONTROL Contact], of [!UICONTROL Account]).
+   * **Synchronisatie inschakelen** voor het overeenkomstobject onder de gewenste **[!UICONTROL parent]** ([!UICONTROL Lead], [!UICONTROL Contact], of [!UICONTROL Account]).
 
    ![Aangepaste objecten](assets/enableSyncDynamics.png)
 
@@ -64,7 +65,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 1. Activeer de synchronisatie opnieuw nadat u synchronisatie voor de aangepaste objecten hebt ingeschakeld.
 
-   Ga terug naar de beheerterminal en klik op **Microsoft Dynamics** en klik op **Synchronisatie inschakelen**.
+   Ga terug naar de beheerterminal en klik op **Microsoft Dynamics** en klik vervolgens op **Synchronisatie inschakelen**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -128,7 +129,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 ## Maak een herinnering en voeg personalisatie toe
 
-Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van de overeenkomst, een koppeling naar de overeenkomst, enz.
+Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van de overeenkomst, een koppeling naar de overeenkomst, enzovoort.
 
 1. Klik met de rechtermuisknop op het programma dat u hebt gemaakt en klik op **[!UICONTROL Nieuw lokaal element]** selecteert u vervolgens **[!UICONTROL E-mail]**.
 
@@ -190,13 +191,13 @@ Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van d
 
 Omdat het campagnefilter **Dagen tot vervaldatum** is gebruikt, kunt u een geplande herhaling voor de campagne gebruiken.
 
-1. Klik op **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
+1. Klik op de knop **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
 
    Zoek en sleep de **E-mail verzenden** ga naar het canvas en selecteer de herinnerings-e-mail die u in de vorige sectie hebt gemaakt.
 
    ![E-mail verzenden](assets/sendEmail.png)
 
-1. Klik op **[!UICONTROL Planning]** in de slimme campagne. Zorg ervoor dat de flow van de campagne beperkt is tot één keer per persoon in de **Instellingen voor slimme campagnes**. Klik vervolgens op de knop **Herhaling plannen** tabblad.
+1. Klik op de knop **[!UICONTROL Planning]** in de slimme campagne. Zorg ervoor dat de flow van de campagne beperkt is tot één keer per persoon in de **Instellingen voor slimme campagnes**. Klik vervolgens op de knop **Herhaling plannen** tabblad.
 
    ![Tabblad Planning](assets/scheduleTab.png)
 

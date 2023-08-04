@@ -1,12 +1,13 @@
 ---
 title: Acrobat-overzicht van 60 seconden
-description: 60-Seconde Acrobat biedt tutorials ter grootte van een hap om je in één minuut of minder te helpen een nieuwe truc in Acrobat te leren
+description: 60-Seconde Acrobat biedt tutorials ter grootte van een hap waarmee je in Acrobat in één minuut of minder een nieuwe truc leert
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
-thumbnail: KT-8493.jpg
 jira: KT-8493
+thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -274,10 +275,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="redaction.md">
-      <img alt="Redactie: De juiste weg" src="../assets/60sec_redaction.png" />
+      <img alt="Redactie: de juiste weg" src="../assets/60sec_redaction.png" />
     </a>
     <div>
-    <a href="redaction.md"><strong>Redactie: De juiste weg</strong></a>
+    <a href="redaction.md"><strong>Redactie: de juiste weg</strong></a>
     </div>
     <em>Leer de juiste manier om gevoelige informatie uit een PDF te verwijderen</em>
     <br>
@@ -326,7 +327,7 @@ ht-degree: 0%
     <div>
     <a href="summarize-comments.md"><strong>PDF-opmerkingen met overzicht</strong></a>
     </div>
-    <em>Leer hoe u een overzicht maakt van alle opmerkingen en markeringen in uw PDF-bestand</em>
+    <em>Leer hoe u een overzicht kunt maken van alle opmerkingen en markeringen in uw PDF-bestand</em>
     <br>
   </td>
    <td>

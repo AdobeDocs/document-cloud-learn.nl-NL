@@ -1,12 +1,13 @@
 ---
 title: Teleovereenkomst van de overheid
 description: Verzamel op efficiënte wijze handtekeningen van al je medewerkers op telewerkovereenkomsten, beleidsupdates en meer
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Leer hoe je op een efficiënte manier handtekeningen van al je medewerkers verza
 
 Klik om het PDF-recept voor telewerkovereenkomsten stap voor stap te downloaden.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

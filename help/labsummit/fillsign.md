@@ -1,11 +1,12 @@
 ---
 title: Elk formulier invullen en ondertekenen op desktop of mobiel
 description: Snel formulieren invullen, ondertekenen en verzenden vanaf je desktop, browser of mobiele app
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Elk formulier invullen en ondertekenen op desktop of mobiel
 
-Vul formulieren snel in, onderteken ze en verzend ze vanaf je desktop, browser of mobiele app. Adobe Sensei herkent en slaat veelgebruikte gegevens op voor gebruik in een PDF-formulier. Maak een handtekening door te tekenen, te scannen of uw naam te typen en deze vervolgens veilig toe te passen op een document.
+Vul formulieren snel in, onderteken ze en verzend ze vanaf je desktop, browser of mobiele app. Adobe Sensei herkent en slaat veelgebruikte gegevens op voor gebruik in een PDF-formulier. Maak een handtekening door te tekenen, te scannen of door uw naam te typen en deze vervolgens veilig toe te passen op een document.
 
 In deze oefening, zult u invoeren, zult, ondertekenen, en zult een van uw mobiele apparaat verzenden.
 
@@ -55,7 +56,7 @@ Hier zijn de [demo-bestanden](assets/03_FillSignScan.zip) voor deze oefening.
 
 ![gevuld](assets/filled.jpg)
 
-![pop](assets/prepop.jpg)
+![voorpop](assets/prepop.jpg)
 
 **Stap 11:** Als het formulier is voltooid, tikt u rechtsonder op de knop Delen om een e-mail te sturen.
 

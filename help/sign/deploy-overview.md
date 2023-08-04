@@ -1,12 +1,13 @@
 ---
 title: Overzicht implementeren
 description: Artikelen met best practices en waardevol inzicht in de implementatie van Acrobat Sign
+feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 10%

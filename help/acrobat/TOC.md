@@ -2,8 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
+feature-set: Document Cloud
 role: User
-source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
+type: Tutorial
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -80,7 +82,7 @@ ht-degree: 5%
    + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
    + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
    + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
-   + [Redactie: De juiste weg](60-second/redaction.md)
+   + [Redactie: de juiste weg](60-second/redaction.md)
    + [Delen voor opmerkingen](60-second/share-comment.md)
    + [Delen en opmerkingen plaatsen over PDF-bestanden in teams](60-second/share-comment-teams.md)
    + [PDF-opmerkingen met overzicht](60-second/summarize-comments.md)

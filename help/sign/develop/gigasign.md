@@ -1,13 +1,14 @@
 ---
 title: Hoog volume documenten verzamelen met GigaSign
 description: Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk
+feature: Workflow
 role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 5%
@@ -16,7 +17,7 @@ ht-degree: 5%
 
 # Verzamel grote documenten met GigaSign
 
-Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign API om dezelfde functionaliteit te bieden als MegaSign, en biedt ondersteuning voor meerdere ondertekenaars, groepen ontvangers, rollen van ontvangers, overeenkomstnamen, koolstofkopie en meer.
+Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign API om dezelfde functionaliteit te bieden als MegaSign en biedt ondersteuning voor meerdere ondertekenaars, groepen met ontvangers, rollen met ontvangers, overeenkomstnamen, koolstofkopie en meer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
@@ -44,7 +45,7 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 
 1. Open GigaSign.
 
-1. Klik op **[!UICONTROL Instellingen]** aan de rechterbovenhoek.
+1. Klik op de knop **[!UICONTROL Instellingen]** aan de rechterbovenhoek.
 
 1. Plak de integratiesleutel in de eerste regel.
 

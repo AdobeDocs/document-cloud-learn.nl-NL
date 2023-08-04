@@ -1,12 +1,13 @@
 ---
 title: Overeenkomst voor commerciële telewerken
 description: Efficiënt handtekeningen verzamelen van al je medewerkers op telewerkovereenkomsten
+feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Leer hoe je op een efficiënte manier handtekeningen van al je medewerkers verza
 
 Klik om het PDF-recept voor telewerkovereenkomsten stap voor stap te downloaden.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

@@ -1,11 +1,12 @@
 ---
 title: PDF-bestanden delen en online reviewen
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
+feature: Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 8%
@@ -14,7 +15,7 @@ ht-degree: 8%
 
 # PDF-bestanden delen en online reviewen
 
-Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat-bureaubladtoepassing, het Document Cloud web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging van hun computer klikken, kunnen ze gemakkelijk feedback geven in een browser zonder dat ze zich hoeven aan te melden of extra software hoeven te installeren.
+Gebruik de Adobe Document Cloud-revisieservice om eenvoudig PDF-bestanden te delen voor revisie vanuit de Acrobat-bureaubladtoepassing, het Document Cloud-web of de mobiele Acrobat Reader-app. Wanneer revisoren op de URL in de e-mailuitnodiging van hun computer klikken, kunnen ze gemakkelijk feedback geven in een browser zonder dat ze zich hoeven aan te melden of extra software hoeven te installeren.
 
 In deze exercitie bekijken we hoe
 
@@ -29,7 +30,7 @@ Hier zijn de [demo-bestanden](assets/01_Review.zip) voor deze oefening.
 
 ![Afbeelding stap 1](assets/Step1.png)
 
-**Stap 2:** Klik op **[!UICONTROL Send for Comments]** in het rechterdeelvenster of in het **[!UICONTROL Dit bestand delen met anderen]** ![commentaarsicon](assets/sendforcommentsicon.png)  in de rechterbovenhoek.
+**Stap 2:** Klik op **[!UICONTROL Send for Comments]** in het rechterdeelvenster of in het **[!UICONTROL Dit bestand delen met anderen]** ![commentaarsicon](assets/sendforcommentsicon.png)  rechtsboven.
 
 **Stap 3:** Voer de e-mailadressen van de ontvangers in. U kunt een bericht aan de ontvangers invoeren of een deadline voor de revisie toevoegen.
 
@@ -47,7 +48,7 @@ Revisoren ontvangen een e-mailuitnodiging met een koppeling naar de revisie-PDF.
 
 **Stap 1:** Open de `localFoodTruckmenu_start.pdf` bestand in Adobe Acrobat.
 
-**Stap 2:** Klikken **[!UICONTROL Een koppeling delen]** ![koppelingspictogram](assets/sendlinkicon.png). De gedeelde koppeling wordt onmiddellijk gegenereerd; u hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard worden de [!UICONTROL Opmerkingen toestaan] switch is aan.
+**Stap 2:** Klikken **[!UICONTROL Een koppeling delen]** ![linkicon](assets/sendlinkicon.png). De gedeelde koppeling wordt onmiddellijk gegenereerd. U hoeft niet te wachten totdat het bestand is geüpload naar de cloud. Standaard worden de [!UICONTROL Opmerkingen toestaan] switch is aan.
 
 ![Stap 2L-afbeelding](assets/Step2L.png)
 
@@ -55,7 +56,7 @@ Revisoren ontvangen een e-mailuitnodiging met een koppeling naar de revisie-PDF.
 
 ## Opmerkingen maken
 
-**Stap 1:** Klik op **[!UICONTROL Opmerking]** in het rechterdeelvenster.
+**Stap 1:** Klik op de knop **[!UICONTROL Opmerking]** in het rechterdeelvenster.
 
 ![Opmerking klikken](assets/Cselect.jpg)
 

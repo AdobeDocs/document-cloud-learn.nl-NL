@@ -1,12 +1,13 @@
 ---
 title: Aan de slag voor nieuwe beheerders
 description: In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -47,7 +48,7 @@ Deze uitgebreide videohandleiding is speciaal ontworpen voor nieuwe Acrobat Sign
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Overzicht van Acrobat Sign-webportal</strong></a>
         <br>
-        <em>Begin om 3:11</em>
+        <em>Te beginnen om 3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">

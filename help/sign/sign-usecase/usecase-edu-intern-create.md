@@ -1,10 +1,11 @@
 ---
 title: Interfacetoepassing voor webformulieren voor het onderwijs maken
 description: Leer hoe u een interactieve webformulier maakt
+feature: Use Cases, Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-13695
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

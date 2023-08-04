@@ -1,12 +1,13 @@
 ---
 title: Productiviteit onderweg
 description: Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app
+feature: Mobile
 role: User
 level: Beginner
-thumbnail: KT-9155.jpg
 jira: KT-9155
+thumbnail: KT-9155.jpg
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Productiviteit onderweg
 
-Met extern werk overal is het essentieel om content met snelheid en schaal te leveren. Leer hoe u meer rechtstreeks kunt doen vanaf uw tablet of mobiele telefoon met de mobiele Acrobat Reader-app.
+Met extern werk overal, is het essentieel om content met snelheid en schaal te leveren. Leer hoe u meer rechtstreeks kunt doen vanaf uw tablet of mobiele telefoon met de mobiele Acrobat Reader-app.
 
 >[!TIP]
 >

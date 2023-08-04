@@ -1,12 +1,13 @@
 ---
 title: Een document wijzigen na verzending
 description: Leer hoe u de workflow wijzigt voor een document dat al in uitvoering is
+feature: Workflow, Sign
 role: User
 level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

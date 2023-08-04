@@ -1,12 +1,13 @@
 ---
 title: Protect your PDF Files with a Password
 description: Protect a PDF zodat er een wachtwoord vereist is om de PDF te openen of te bewerken
+feature: Security
 role: User
 level: Beginner
-thumbnail: KT-9752.jpg
 jira: KT-9752
+thumbnail: KT-9752.jpg
 exl-id: ae31afe3-e2e4-4e1c-8eb4-13dcc7cc9e05
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 19%

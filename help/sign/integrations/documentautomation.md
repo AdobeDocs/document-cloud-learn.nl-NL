@@ -1,13 +1,14 @@
 ---
 title: Documentautomatisering met Acrobat Sign for Microsoft Power Platform
 description: Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power Apps activeert en gebruikt. Bouw workflows waarmee je snel en veilig processen voor bedrijfsgoedkeuring en -ondertekening kunt automatiseren zonder code te schrijven
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -64,7 +65,7 @@ Leer hoe u de Acrobat Sign- en Adobe PDF Tools-connectors voor Microsoft Power A
 
 **Oefeningen 1 en 2**
 
-* Acrobat Sign-account met toegang tot de API. Een ontwikkelaarsaccount of een Enterprise-account.
+* Acrobat Sign-account met toegang tot de API. Een ontwikkelingsaccount of een Enterprise-account.
 * SharePoint-site toegankelijk via Power Automate waarop u bewerkingsmachtigingen hebt. Volledige beheertoegang wordt aanbevolen.
 * Voorbeelddocument voor het goedkeuringsverzoek en de ondertekening van de handtekening.
 
@@ -76,7 +77,7 @@ Materialen downloaden [hier](https://github.com/benvanderberg/adobe-sign-pdftool
 
 In deel één gebruikt u een Power Automate Flow-sjabloon om een geautomatiseerde workflow in te stellen waarmee alle ondertekende overeenkomsten op uw SharePoint-site worden opgeslagen.
 
-1. Navigeer naar Power Automate.
+1. Navigeer naar Automatisch.
 1. Zoek naar Acrobat Sign.
 
    ![Screenshot van navigatie naar Power Automate](assets/documentautomation/automation_1.png)
@@ -101,7 +102,7 @@ In deel één gebruikt u een Power Automate Flow-sjabloon om een geautomatiseerd
    >Deze controle leidt u naar de juiste aanmelding als u een Adobe ID of onze SSO gebruikt.
 
 1. Voltooi de aanmelding.
-1. Klikken **Doorgaan** om naar het Flow-bewerkingsscherm te gaan.
+1. Klikken **Doorgaan** naar het Flow-bewerkingsscherm gaan.
 1. Geef de trigger een naam.
 
    ![Screenshot van de naam van de trigger](assets/documentautomation/automation_5.png)
@@ -117,7 +118,7 @@ In deel één gebruikt u een Power Automate Flow-sjabloon om een geautomatiseerd
 
 1. De workflow opslaan.
 
-   ![Schermafbeelding van het pictogram Opslaan](assets/documentautomation/automation_7.png)
+   ![Screenshot van het pictogram Save](assets/documentautomation/automation_7.png)
 
 1. Navigeer met de blauwe pijl terug naar het scherm met het stroomoverzicht. U zult deze stroom in deel 2 testen.
 
@@ -178,7 +179,7 @@ In deel twee bouwen we het eerste deel af met een robuustere flow en testen we b
    ![Schermafbeelding van de configuratie Bestandsinhoud ophalen](assets/documentautomation/automation_15.png)
 
    **Site-adres:** Uw SharePoint-site.
-   **Bestands-id:** Zoek naar &quot;id&quot; en kies Id in het menu **Bestandseigenschappen ophalen** stap.
+   **Bestands-id:** Zoek naar &quot;id&quot; en kies Identifier in het menu **Bestandseigenschappen ophalen** stap.
 1. Zoek naar &quot;Adobe&quot; en kies **Acrobat Sign** om een andere handeling toe te voegen.
 
    ![Schermafbeelding van zoekmenu](assets/documentautomation/automation_16.png)
@@ -214,7 +215,7 @@ Kies **Ondertekenaar** van vervolgkeuzelijst in **Deelnemerrol**.
 
 Ga naar de documentrepository van uw SharePoint-site om deze uit te testen.
 
-1. Selecteer het document en kies **Automatiseren** en de **Stroom** die je zojuist hebt gemaakt.
+1. Selecteer het document en kies **Automatisch** en de **Stroom** die je zojuist hebt gemaakt.
 
    ![Screenshot van het selecteren van het menu Automate en flow](assets/documentautomation/automation_21.png)
 
@@ -249,7 +250,7 @@ Ga naar Microsoft SharePoint waar u documenten wilt opslaan.
 
 Naar deze mappen wordt nu verwezen als onderdeel van uw Power Automate-flow.
 
-### Een flow maken van een sjabloon
+### Een flow maken op basis van een sjabloon
 
 1. Meld u aan bij https://flow.microsoft.com.
 1. Klikken **Sjablonen** in de zijbalk.
@@ -257,7 +258,7 @@ Naar deze mappen wordt nu verwezen als onderdeel van uw Power Automate-flow.
    ![Screenshot van het selecteren van sjablonen](assets/documentautomation/automation_26.png)
 
 1. Selecteren **Nieuwe bestanden in SharePoint converteren naar doorzoekbare tekst-PDF**.
-1. Klik op **+** symbool naast Adobe PDF Tools.
+1. Klik op de knop **+** symbool naast Adobe PDF Tools.
 
    ![Screenshot van het selecteren van het +-symbool](assets/documentautomation/automation_27.png)
 
@@ -324,7 +325,7 @@ Bovendien indexeert SharePoint het document, zodat u de inhoud van uw documenten
 In deel vier leert u hoe u een groot aantal documenten kunt samenvoegen op basis van de verstrekte informatie tijdens het selecteren en starten van een flow vanuit Microsoft SharePoint. In dit scenario zal de flow:
 
 * Vraag om informatie om te kiezen wat u in een pakket voor een klant wilt opnemen.
-* Op basis van de verstrekte informatie worden veel documenten samengevoegd. Deze documenten bevatten een voorblad en optionele whitepapers.
+* Op basis van de verstrekte informatie worden veel documenten samengevoegd. Deze documenten bevatten een omslagpagina en optionele whitepapers.
 * Het samengevoegde document wordt opgeslagen in SharePoint.
 
 ### Exportbestanden importeren in SharePoint
@@ -431,12 +432,12 @@ Herhaal dezelfde stappen voor **Voorwaarde: Whitepaper 2 toevoegen**.
 
 ### Uw flow testen
 
-1. Navigeer naar de map met het voorstel in SharePoint.
+1. Navigeer naar de map Voorstel in SharePoint.
 1. Selecteer de map Request.docx.
 
    ![Screenshot van het selecteren van de map met voorstellen](assets/documentautomation/automation_49.png)
 
-1. Selecteer uw flow onder de **Automatiseren** -menu.
+1. Selecteer uw flow onder de **Automatisch** -menu.
 
    ![Screenshot van het menu Automatisch selecteren](assets/documentautomation/automation_50.png)
 
@@ -458,7 +459,7 @@ Navigeer naar de map Generate Docs. U moet nu uw gegenereerde PDF-bestand bekijk
 Nu u een flow hebt gemaakt, gaat u uw flow bewerken om het PDF-document te versleutelen met een wachtwoord. Dit doorloopt ook hoe u andere acties kunt gebruiken.
 
 1. Ga terug naar het einde van de flow.
-1. Klik op **+** symbool tussen **PDF samenvoegen** en **Bestand maken**.
+1. Klik op de knop **+** symbool tussen **PDF samenvoegen** en **Bestand maken**.
 
    ![Screenshot van het te selecteren + symbool](assets/documentautomation/automation_54.png)
 
@@ -474,7 +475,7 @@ Nu u een flow hebt gemaakt, gaat u uw flow bewerken om het PDF-document te versl
 
    In de trigger is er een veld Wachtwoord dat deel uitmaakt van het initiëringsformulier. We kunnen dat hier gebruiken.
 
-1. Zoeken naar **Wachtwoordveld** met Dynamische inhoud en plaats deze in het veld Wachtwoord.
+1. Zoeken naar **Wachtwoordveld** dynamische inhoud gebruiken en in het veld Wachtwoord plaatsen.
 
    ![Schermafbeelding van zoeken naar wachtwoord](assets/documentautomation/automation_57.png)
 
@@ -482,16 +483,16 @@ Nu u een flow hebt gemaakt, gaat u uw flow bewerken om het PDF-document te versl
 1. Wijzig de **Bestand maken** om de bestandsinhoud op te halen uit Protect PDF in plaats van PDF samenvoegen.
 1. Uitbreiden **Bestand maken**.
 1. Wis het veld Bestandsinhoud.
-1. Dynamische inhoud gebruiken om te plaatsen **Inhoud PDF-bestand** van **Protect PDF van weergave**.
+1. Dynamische inhoud plaatsen **Inhoud PDF-bestand** van **Protect PDF van weergave**.
 
 ### Uw flow testen
 
-1. Navigeer naar de map met het voorstel in SharePoint.
+1. Navigeer naar de map Voorstel in SharePoint.
 1. Selecteer Voorstel.docx.
 
    ![Screenshot van het selecteren van de map Voorstel](assets/documentautomation/automation_58.png)
 
-1. Selecteren **Automatiseren** om uw flow te kiezen.
+1. Selecteren **Automatisch** om uw flow te kiezen.
 
    ![Screenshot van het selecteren Automatisch in het menu](assets/documentautomation/automation_59.png)
 

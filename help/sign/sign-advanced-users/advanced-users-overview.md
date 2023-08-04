@@ -1,12 +1,13 @@
 ---
 title: Overzicht van geavanceerde taken
 description: Leer hoe u een document ter ondertekening naar honderd ontvangers tegelijk verzendt, een document maakt dat klaar is voor ondertekening voor uw website, de transacties voor handtekeningen beheert en documentsjablonen maakt en beheert
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
@@ -17,7 +18,7 @@ ht-degree: 3%
 
 ![Geavanceerde afbeelding ondertekenen](../assets/Hero-Advanced.png)
 
-Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken dat klaar is voor ondertekening, de transacties voor handtekeningen kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer manieren wil leren waarop Acrobat Sign voor hen kan werken.
+Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers tegelijk, een document voor uw website kunt maken dat klaar is voor ondertekening, de transacties voor handtekeningen kunt beheren en documentsjablonen kunt maken en beheren. Deze zelfstudies zijn bedoeld voor iedereen die al vertrouwd is met de basisbeginselen van het verzenden en aanvragen van handtekeningen, en die meer wil weten over de manieren waarop Acrobat Sign voor hen kan werken.
 
 ## Nieuw
 

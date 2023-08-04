@@ -1,12 +1,13 @@
 ---
 title: Zet een PPT-bestand om in een PDF op uw telefoon
 description: Leer hoe u een PowerPoint-e-mailbijlage kunt converteren naar PDF op uw telefoon
+feature: Convert PDF, Mobile
 role: User
 level: Beginner
-thumbnail: KT-8576.jpg
 jira: KT-8576
+thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%

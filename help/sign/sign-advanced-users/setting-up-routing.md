@@ -1,12 +1,13 @@
 ---
 title: Ondertekeningsvolgorde instellen
 description: Leer hoe u de ondertekeningsvolgorde instelt voor meerdere ondertekenaars
+feature: Workflow, Sign
 role: User
 level: Intermediate
 jira: KT-9942
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

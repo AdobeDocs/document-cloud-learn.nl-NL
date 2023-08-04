@@ -1,12 +1,13 @@
 ---
 title: Overheidscontracten en -aanvraag Forms
-description: Snel papierverwerking vervangen door compatibele digitale workflows, compleet met controlerapporten
+description: Snel papierverwerking vervangen door compatibele digitale workflows, compleet met auditrapporten
+feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
 jira: KT-5302
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Vervang snel papierverwerking door compatibele digitale workflows, compleet met 
 
 Klik hierop om het stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

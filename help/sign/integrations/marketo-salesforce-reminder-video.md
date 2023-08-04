@@ -1,6 +1,7 @@
 ---
 title: Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo
-description: In deze videozelfstudie leert u hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
+description: Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
+feature: Integrations
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
@@ -10,9 +11,9 @@ jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

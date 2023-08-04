@@ -1,12 +1,13 @@
 ---
 title: Werken met formuliergegevens
 description: Formulierveldgegevens samenvoegen tot één spreadsheet in Acrobat
+feature: Form, Workflow
 role: User
 level: Experienced
-thumbnail: KT-6828.jpg
 jira: KT-6828
+thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: Acrobat Accessibility Series
 description: Serie met zes sessies on-demand toegankelijkheid
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8364.jpg
 jira: KT-8364
+thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -60,7 +61,7 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
     <div>
     <a href="accessibilitysession4.md"><strong>Gescande documenten en complexe lijsten</strong></a>
     </div>
-    <em>Deze on-demand sessie behandelt de complexere problemen die mensen vaak tegenkomen, zoals gescande documenten en complexe lijsten</em>
+    <em>Deze on-demand-sessie behandelt de complexere problemen die mensen vaak tegenkomen, zoals gescande documenten en complexe lijsten</em>
     <br>
   </td>
   <td>
@@ -78,7 +79,7 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Formuliervelden toevoegen aan een niet-gecodeerde PDF" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Formuliervelden toevoegen aan een niet-gecodeerde PDF</strong></a>
+    <a href="accessibilitysession6.md"><strong>Formuliervelden toevoegen aan een PDF zonder codes</strong></a>
     </div>
     <em>Deze sessie op verzoek gaat dieper in op het maken van handmatige formuliervelden en aanvullende eigenschappen voor formuliervelden</em>
     <br>

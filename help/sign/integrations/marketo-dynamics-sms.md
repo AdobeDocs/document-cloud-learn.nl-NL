@@ -1,6 +1,7 @@
 ---
 title: Meldingen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -66,7 +67,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 1. Activeer de synchronisatie opnieuw nadat u synchronisatie voor de aangepaste objecten hebt ingeschakeld.
 
-   Ga terug naar de [!UICONTROL Admin Terminal]en klik vervolgens op **[!UICONTROL Microsoft Dynamics]** en klik op **[!UICONTROL Synchronisatie inschakelen]**.
+   Ga terug naar de [!UICONTROL Admin Terminal]en klik vervolgens op **[!UICONTROL Microsoft Dynamics]** en klik vervolgens op **[!UICONTROL Synchronisatie inschakelen]**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -88,7 +89,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 ## Instellen [!DNL Twilio] SMS
 
-Zorg er eerst voor dat u een actieve [!DNL Twilio] en hebt u de SMS-functies aangeschaft die u nodig hebt.
+Zorg er eerst voor dat u een actieve [!DNL Twilio] en hebt u de gewenste SMS-functies aangeschaft.
 
 Marketo instellen - [!DNL Twilio] Voor SMS-webhook zijn drie [!DNL Twilio] parameters van uw account.
 
@@ -132,7 +133,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
    ![Slimme campagne 1](assets/smartCampaign1.png)
 
-1. Geef de naam op en klik op **[!UICONTROL Maken]**.
+1. Geef de naam op en klik vervolgens op **[!UICONTROL Maken]**.
 
    ![Slimme campagne 2](assets/smartCampaign3.png)
 
@@ -144,7 +145,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
 ## De slimme-campagnestroom instellen
 
-1. Klik op **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
+1. Klik op de knop **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
 
    Zoek en sleep de **Bel webhook** Ga naar het canvas en selecteer de webhook die u in de vorige sectie hebt gemaakt.
 

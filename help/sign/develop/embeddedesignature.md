@@ -1,6 +1,7 @@
 ---
 title: Ingesloten e-handtekeningen en documentervaringen maken
 description: Leer hoe u Acrobat Sign API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -19,7 +20,7 @@ ht-degree: 2%
 
 Leer hoe u Acrobat Sign API&#39;s kunt gebruiken om ervaringen voor elektronische ondertekening en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen. Deze praktische zelfstudie bevat vier onderdelen.
 
-## Deel 1: Wat je nodig hebt
+## Deel 1: Wat u nodig hebt
 
 In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor onderdelen 2-4. Laten we beginnen met het ophalen van API-referenties.
 
@@ -36,7 +37,7 @@ In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor on
 
 +++
 
-## Deel 2: Low/No Code — de kracht van webformulieren
+## Deel 2: Weinig/Geen code — de kracht van webformulieren
 
 In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of geen code. Het is altijd een goed idee om te zien of je kunt voorkomen dat je eerst code schrijft.
 
@@ -74,7 +75,7 @@ Ten eerste moet u toegang tot de computer tot stand brengen. Met Acrobat Sign ku
 
 Nu u toegang hebt tot de API en deze kunt gebruiken, kunt u zien wat u kunt doen met de API.
 
-1. Navigeer naar de [Methoden voor Acrobat Sign REST API versie 6](http://adobesign.com/public/docs/restapi/v6).
+1. Ga naar de [Methoden voor Acrobat Sign REST API versie 6](http://adobesign.com/public/docs/restapi/v6).
 
    ![Screenshot van navigatie Acrobat Sign REST API versie 6 Methods](assets/embeddedesignature/embed_5.png)
 
@@ -88,7 +89,7 @@ Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de AP
 
 >[!NOTE]
 >
->Op JSON gebaseerde aanvraagaanroepen hebben een optie &quot;Model&quot; en &quot;Minimaal Modelschema&quot;. Dit geeft specs en een minimumladingsreeks.
+>Op JSON gebaseerde aanvraagaanroepen hebben een optie &quot;Model&quot; en &quot;Minimaal Modelschema&quot;. Dit geeft specs en een minimale ladingsreeks.
 
 ![Screenshot van het maken van een tijdelijk document](assets/embeddedesignature/embed_7.png)
 
@@ -111,13 +112,13 @@ Overgang -> Overgangsovereenkomst -> Sjabloon -> Overgangsovereenkomst -> Widget
 
 In dit voorbeeld wordt een sjabloon als documentbron gebruikt. Dit is meestal de beste manier, tenzij u een solide reden hebt om documenten dynamisch te genereren ter ondertekening (bijvoorbeeld het genereren van verouderde code of documenten).
 
-De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De `IN_PROCESS` staat betekent dat het document onmiddellijk wordt verzonden. Ook `mergeFieldInfo` wordt gebruikt om velden dynamisch te vullen.
+De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De `IN_PROCESS` staat betekent dat het document onmiddellijk wordt verzonden. Ook: `mergeFieldInfo` wordt gebruikt om velden dynamisch te vullen.
 
 ![Screenshot van code om handtekeningen dynamisch toe te voegen](assets/embeddedesignature/embed_11.png)
 
 +++
 
-## Deel 4: Ondertekeningservaring, omleidingen en meer insluiten
+## Deel 4: Ondertekeningservaring insluiten, omleidingen en meer
 
 In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een overeenkomst te ondertekenen. Dit is handig voor klantgerichte toepassingen en kiosken.
 
@@ -137,9 +138,9 @@ Na het bijwerken van het maken van de overeenkomst genereert de laatste stap de 
 
 >[!NOTE]
 >
->De aanroep van de overeenkomst is technisch asynchroon. Dit betekent dat er een &#39;POST&#39;-overeenkomst kan worden aangeroepen, maar de overeenkomst is nog niet gereed. De beste manier is om een herhalingslus tot stand te brengen. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
+>De aanroep van de overeenkomst is technisch asynchroon. Dit betekent dat er een &#39;POST&#39;-overeenkomst kan worden aangeroepen, maar de overeenkomst is nog niet gereed. De beste manier is om een herhalingslus te creëren. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
 
-![Screenshot zegt dat het de beste manier is om een herhalingslus tot stand te brengen](assets/embeddedesignature/embed_15.png)
+![Screenshot zegt dat het de beste manier is om een herhalingslus te creëren](assets/embeddedesignature/embed_15.png)
 
 Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenkomst en genereert vervolgens een ondertekenings-URL waarmee de ondertekenaar op het ondertekeningsritueel kan klikken en beginnen.
 

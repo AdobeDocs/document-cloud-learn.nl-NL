@@ -1,12 +1,13 @@
 ---
 title: Overzicht van geavanceerde taken in Acrobat
 description: Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -24,7 +25,7 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 * [Optimize PDF voor SEO (Search Engine Optimization)](optimizeseo.md)
 Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web
 
-## Geavanceerde taakzelfstudies
+## Zelfstudies voor geavanceerde taken
 
 <table style="table-layout:fixed">
 <tr>
@@ -65,7 +66,7 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
     <div>
     <a href="advancedforms.md"><strong>Geavanceerde formuliervelden</strong></a>
     </div>
-    <em>Leer geavanceerde technieken voor het opbouwen van professionele PDF forms</em>
+    <em>Leer geavanceerde technieken om professionele PDF forms te bouwen</em>
     <br>
   </td>
 </tr>
@@ -102,7 +103,7 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/Compare_1280.png" />
+      <img alt="Verschillen tussen twee PDF detecteren" src="../assets/Compare_1280.png" />
     </a>
     <div>
     <a href="compare.md"><strong>Verschillen tussen twee PDF vaststellen</strong></a>

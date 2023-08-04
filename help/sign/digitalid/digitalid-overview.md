@@ -1,13 +1,13 @@
 ---
 title: Overzicht van digitale id
 description: Leer hoe je digitale ID’s van over de hele wereld gebruikt met Acrobat Sign
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
-kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

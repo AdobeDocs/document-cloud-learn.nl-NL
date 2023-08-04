@@ -1,12 +1,13 @@
 ---
 title: Een PDF exporteren naar Microsoft Office-indelingen
 description: Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen zoals Microsoft Word, Excel of PowerPoint
+feature: Convert PDF
 role: User
 level: Beginner
-thumbnail: 35494.jpg
 jira: KT-5529
+thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%

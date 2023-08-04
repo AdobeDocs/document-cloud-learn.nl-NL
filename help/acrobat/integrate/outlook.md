@@ -1,14 +1,15 @@
 ---
 title: E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]
-description: Leer hoe je op een professionelere en veiligere manier informatie levert binnen het [!DNL Outlook]
+description: Leer hoe je op een professionelere en veiligere manier informatie kunt leveren binnen het [!DNL Outlook]
+feature: Integrations
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8494.jpg
 jira: KT-8494
+thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

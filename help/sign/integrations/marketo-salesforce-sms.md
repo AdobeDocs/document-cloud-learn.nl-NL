@@ -1,6 +1,7 @@
 ---
 title: Meldingen verzenden met Acrobat Sign for Salesforce en Marketo
 description: Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -54,7 +55,7 @@ Als de Marketo Salesforce-synchronisatie en Acrobat Sign for Salesforce-configur
 
 Aan de rechterkant zie Aangepaste objecten voor leads, Contactpersoon en Account.
 
-**Synchronisatie inschakelen** voor de objecten onder Lead als u wilt activeren wanneer een lead aan een overeenkomst in Salesforce wordt toegevoegd.
+**Synchronisatie inschakelen** voor de objecten onder Lead als u wilt activeren wanneer een lead wordt toegevoegd aan een overeenkomst in Salesforce.
 
 **Synchronisatie inschakelen** voor de objecten onder Contactpersoon als u wilt activeren wanneer een Contactpersoon wordt toegevoegd aan een overeenkomst in Salesforce.
 
@@ -88,7 +89,7 @@ Aan de rechterkant zie Aangepaste objecten voor leads, Contactpersoon en Account
 
 ## Twilio SMS instellen
 
-Zorg er eerst voor dat je een actief Twilio-account hebt en de SMS-functies hebt aangeschaft die je nodig hebt.
+Zorg er eerst voor dat u een actief Twilio-account hebt en de gewenste SMS-functies hebt aangeschaft.
 
 Voor het instellen van de Marketo - Twilio SMS-webhook hebt u drie Twilio-parameters van uw account nodig.
 
@@ -102,7 +103,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
    ![Beheer](assets/adminTab.png)
 
-1. Klik op **Webhooks** dan **Nieuwe webhook**.
+1. Klik op **Webhooks**, dan **Nieuwe webhook**.
 
    ![Webhooks](assets/webhooks.png)
 
@@ -122,7 +123,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. Stel de aanvraagtoken-codering in op Formulier/URL.
+1. Stel de aanvraagtoken-codering in op formulier/URL.
 
 1. Stel het reactietype in op JSON en klik vervolgens op **Opslaan**.
 
@@ -132,13 +133,13 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
    ![Slimme campagne 1](assets/smartCampaign1.png)
 
-1. Geef de naam op en klik op **Maken**.
+1. Geef de naam op en klik vervolgens op **Maken**.
 
    ![Slimme campagne 2](assets/smartCampaign3.png)
 
    Als de configuratie voor de aangepaste objectsynchronisatie correct is voltooid, ziet u de volgende triggers die beschikbaar zijn voor gebruik in de Salesforce-map.
 
-1. Klik op Toegevoegd aan overeenkomst en sleep deze naar de slimme lijst. Voeg eventuele beperkingen toe die u op de trigger wilt hebben.
+1. Klik en sleep Toegevoegd aan overeenkomst aan de slimme lijst. Voeg eventuele beperkingen toe die u op de trigger wilt hebben.
 
    ![Toegevoegd aan overeenkomst 2](assets/addedToAgreement2.png)
 

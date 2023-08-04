@@ -1,14 +1,15 @@
 ---
 title: Overzicht Acrobat-integraties
 description: Integreer Acrobat met Box-, Dropbox-, Google Drive-, OneDrive- en Microsoft-apps
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -23,7 +24,7 @@ Integreer Acrobat met [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL One
 
 ## Microsoft
 
-Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstreeks vanuit je team [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstreeks binnen [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -76,7 +77,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <div>
     <a href="outlook.md"><strong>E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]</strong></a>
     </div>
-    <em>Leer hoe je op een professionelere en veiligere manier informatie levert binnen het [!DNL Outlook]</em>
+    <em>Leer hoe je op een professionelere en veiligere manier informatie kunt leveren binnen het [!DNL Outlook]</em>
     <br>
   </td>
   <td>
@@ -86,7 +87,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
     <div>
     <a href="edge.md"><strong>PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Leer hoe u webpagina's met de Adobe Acrobat-extensie kunt archiveren voor PDF [!DNL Microsoft Edge]</em>
+    <em>Leer hoe u webpagina's met de Adobe Acrobat-extensie voor PDF kunt archiveren voor [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
@@ -109,7 +110,7 @@ Ontdek hoe iedereen in je team naadloos kan werken met PDF-bestanden, rechtstree
 
 ## Google Drive
 
-Leer hoe je sneller meer kunt doen met essentiële PDF- en e-handtekeningtools binnen [!DNL Google Drive].
+Leer hoe je in minder tijd meer gedaan krijgt met essentiële PDF- en e-handtekeningtools binnen [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>

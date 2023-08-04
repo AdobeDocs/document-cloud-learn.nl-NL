@@ -1,12 +1,13 @@
 ---
 title: Overeenkomsten inzake handelsbeleid
 description: Verzamel op efficiënte wijze handtekeningen van al je medewerkers op beleidsovereenkomsten, updates en meer
+feature: Use Cases, Form
 role: User
 level: Intermediate
 jira: KT-5296
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Verzamel op een efficiënte manier handtekeningen van al je medewerkers op belei
 
 Klik om het PDF-recept voor beleidsovereenkomsten stap voor stap te downloaden.
 
-[![PDF-ontvanger downloaden](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

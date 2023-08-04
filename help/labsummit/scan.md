@@ -1,11 +1,12 @@
 ---
 title: Ga digitaal met Adobe Scan
 description: Ontdek enkele trucs en tips voor het gebruik van Adobe Document Cloud
+feature: Create PDF
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -33,7 +34,7 @@ Verzamel een visitekaartje, kwitantie of ander papier waarmee u wilt werken.
 
 **Stap 4:** Als het scannen is voltooid, voert u de aanpassingen uit om ervoor te zorgen dat uw kaart zich binnen het selectiekader bevindt.
 
-**Stap 5:** Tikken **[!UICONTROL PDF opslaan]** in de rechterbovenhoek. Tik vervolgens op **[!UICONTROL Contactpersoon opslaan]**.
+**Stap 5:** Tikken **[!UICONTROL PDF opslaan]** rechtsboven. Tik vervolgens op **[!UICONTROL Contactpersoon opslaan]**.
 
 
 ![opslaan op kaartafbeelding](assets/savecontact.jpg)
