@@ -8,9 +8,9 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,34 @@ Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen o
 
 ## Maandelijkse vergaderingen
 
-**[Werken met elektronische handtekeningen in uw Microsoft-apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
-Datum: 19 oktober 2023 Breid de manier uit waarop je je Microsoft-apps zoals Word, Outlook en SharePoint gebruikt door Adobe Acrobat Sign toe te voegen aan je bestaande workflows. In deze sessie leert u hoe u documentprocessen kunt stroomlijnen in algemene Microsoft-apps, zodat u niet hoeft over te schakelen naar de context om alleen een handtekening te krijgen of een status te controleren.
-
-**[Overeenkomsten beheren: Realtime zichtbaarheid in de overeenkomststatus verkrijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
-Datum: 21 september 2023 Ontdek de ins en outs van tools en best practices voor overeenkomstbeheer, zodat je op elk moment de status van je overeenkomsten kunt kennen. Deze sessie heeft betrekking op:
+**[Overeenkomsten beheren: Realtime zichtbaarheid in de overeenkomststatus verkrijgen](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/aad26d3c-699b-4d99-a272-30bcbfbc1bf2/e1b6dd21-c94a-4c1b-9eeb-abec464e3cbd){target="_blank"}**
+Datum: 9 november 2023 Kom meer te weten over de ins en outs van tools en best practices voor overeenkomstbeheer, zodat je op elk moment de status van je overeenkomsten kunt kennen. Deze sessie heeft betrekking op:
 
 * Welke handelingen u kunt uitvoeren op documenten op het tabblad Beheren
 * Gegevens uit webformulieren verwerken en gebruiken en bulksgewijs verzenden
 * Zoeken en filteren om de benodigde documenten te vinden
 
-**[Geavanceerde tips voor het verzenden van documenten ter ondertekening](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
-Datum: 17 augustus 2023 Volg onze uitgebreide analyse van alle opties die beschikbaar zijn bij het verzenden van overeenkomsten ter ondertekening. In deze sessie leert u over:
+**[Werken met elektronische handtekeningen in uw Microsoft-apps](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
+Datum: 19 oktober 2023 Breid de manier uit waarop je je Microsoft-apps zoals Word, Outlook en SharePoint gebruikt door Adobe Acrobat Sign toe te voegen aan je bestaande workflows. In deze sessie leert u hoe u documentprocessen kunt stroomlijnen in algemene Microsoft-apps, zodat u niet hoeft over te schakelen naar de context om alleen een handtekening te krijgen of een status te controleren.
+
+**[Geavanceerde tips voor het verzenden van documenten ter ondertekening](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+Datum: 21 september 2023 Volg ons om dieper in te gaan op alle opties die beschikbaar zijn bij het verzenden van overeenkomsten ter ondertekening. In deze sessie leert u over:
 
 * Verzenden naar meerdere ontvangers
 * Beschikbare ontvangersrollen (ondertekenaar, invuller van formulier, delegeerder en anderen)
 * Een CC-veld toevoegen
 * Wachtwoordbeveiliging, en meer
 
-**[Acrobat Sign-integraties: Salesforce en Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
-Datum: 20 juli 2023 Kom bij ons als we een aantal van de meest gangbare en krachtige Acrobat Sign-integraties met Salesforce en Workday bekijken. Deze sessie gaat na hoe je bedrijfstransacties kunt versnellen door handmatige, inefficiënte taken te elimineren en 100% digitale workflows en processen voor elektronische handtekeningen te creëren, rechtstreeks binnen de tools die je al gebruikt.
+**[Document Builder voor Acrobat Sign in Salesforce](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
+Datum: 17 augustus 2023 Geef je verkoopteam een voorsprong met vooraf ingevulde voorstellen, contracten, facturen en meer in enkele seconden door alledaagse taken te automatiseren, zoals het rechtstreeks in Salesforce voorbereiden van datagestuurde documenten. Met Document Builder kunt u dynamisch een document genereren met Salesforce-gegevens voordat u het ter ondertekening verzendt. Dit maakt een eens omslachtig proces eenvoudiger en gestroomlijnder. We doorlopen het stapsgewijze proces, zodat je tijd en moeite bespaart.
+
+**[Workflowautomatisering Aangestuurd door Microsoft Power Automate](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
+Datum: 20 juli 2023 Benut alle automatiseringsmogelijkheden met de Microsoft-oplossing met lage code/geen code, Power Automate, rechtstreeks in Adobe Acrobat Sign. Ontdek hoe niet-ontwikkelaars de kracht en flexibiliteit hebben om workflows van de volgende generatie te creëren. In deze sessie leert u hoe u:
+
+* De workflowintegratie instellen om aan de slag te gaan
+* Geef je workflow een vliegende start met kant-en-klare sjablonen
+* Benut een uitgebreid ecosysteem van connectoren om Acrobat Sign te integreren in je verpakte en aangepaste applicaties
+* De productiviteit verhogen en de mogelijkheden van Acrobat Sign uitbreiden
 
 **[Geavanceerde rapportage voor Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 Datum: 22 juni 2023 Meer informatie over de analytics en rapporten die beschikbaar zijn in Acrobat Sign - en bekijk hoe je data kunt bekijken om de inzichten te leveren die je nodig hebt om je bedrijf vooruit te helpen.
