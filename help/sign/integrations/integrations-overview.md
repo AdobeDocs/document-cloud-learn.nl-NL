@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
+* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
+Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Ontdek hoe Acrobat Sign [!DNL Power Automate], en [!DNL Microsoft Dynamics 365] voor Field Service worden gebruikt om on-site klantinteracties te stroomlijnen
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
@@ -144,8 +146,13 @@ Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan ee
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    </div>
+    <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren</em>
     <br>
   </td>
   <td>
