@@ -1,28 +1,29 @@
 ---
-title: Webinars van Adobe Acrobat Skill Builder
-description: Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om je PDF-workflows naar een hoger niveau te tillen
+title: Adobe Acrobat Skill Builder-webinars
+description: Adobe Acrobat Skill Builders zijn ontworpen om uw PDf-workflows naar een hoger niveau te tillen
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
+role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%
 
 ---
 
-# Webinars van Adobe Acrobat Skill Builder
+# Webinars over Adobe Acrobat Skill Builder
 
 ![Acrobat Skill Builder-afbeelding](../assets/sbacrobatwebinars.png)
 
-Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om je PDF-workflows naar een hoger niveau te tillen. Elke maand wordt een nieuw onderwerp gemarkeerd.
+Met Adobe Acrobat Skill Builders kunt u uw PDF-workflows naar een hoger niveau tillen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
 ## Maandelijkse vergaderingen
 
 **[Eenvoudige automatisering met Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-Datum: 16 november 2023 Stop met het herhalen van eenvoudige handmatige taken. Deze sessie leert u hoe u Action Wizard in Acrobat Pro kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren, zoals documenten toegankelijk maken, documenten beveiligen, bestanden optimaliseren, archiveren en meer. U leert:
+Datum: 16 november 2023 Stop met het herhalen van eenvoudige handmatige taken. Met deze sessie leert u hoe u Action Wizard-in Acrobat Pro kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren, zoals documenten toegankelijk maken, documenten beveiligen, bestanden optimaliseren, archiveren en meer. U leert:
 
 * Wat voor handelingen zijn
 * Vooraf gebouwde handelingen gebruiken
@@ -45,13 +46,13 @@ Datum: 24 augustus 2023 Verkort de tijd die nodig is om ervoor te zorgen dat jur
 
 * PDF-beveiliging in Microsoft 365-apps (Word, Excel, PPT, Outlook)
 * PDF-beveiliging in Adobe-apps (InDesign, Illustrator, Photoshop, InCopy)
-* Wachtwoord toevoegen voor weergave, bewerken, enz.
+* Voeg een wachtwoord toe voor weergave, bewerking, enzovoort.
 * Handelingen die beschikbaar zijn voor de ontvanger
-* Protect meerdere bestanden (in bulk)
-* Vertrouwelijke informatie uit PDF verwijderen (vertrouwelijke informatie redigeren, ontsmetten, verbergen)
+* Meerdere bestanden (tegelijk) beveiligen
+* Gevoelige informatie verwijderen uit PDF (redigeren, desinfecteren, gevoelige informatie verbergen)
 
 **[PDF forms 201: Verbeter uw formuliervaardigheden](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
-Datum: 27 juli 2023 Breng je PDF forms naar het volgende niveau terwijl we dieper ingaan op de meer geavanceerde opties die Acrobat te bieden heeft. Deze sessie heeft betrekking op:
+Datum: 27 juli 2023 Breng je PDF forms naar een hoger niveau als we dieper ingaan op de meer geavanceerde opties die Acrobat te bieden heeft. Deze sessie heeft betrekking op:
 
 * Onlineformulieren maken om eenvoudig data en handtekeningen overal te verzamelen
 * Werken met JavaScript voor complexere handelingen
@@ -67,12 +68,13 @@ Datum: 29 juni 2023 Zet je oude formulieren en papieren documenten met gemak om 
 **[Toegankelijke PDF maken](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 Datum: 25 mei 2023 Help ervoor te zorgen dat uw PDF-inhoud toegankelijker en boeiender is voor alle gebruikers om te communiceren met anderen. Of je nu begint met een toegankelijk document of toegankelijkheidsfuncties moet toepassen in Acrobat, we laten je zien hoe je conforme PDF maakt die universele toegang tot je documenten bieden. Deze sessie heeft betrekking op:
 
-* Controleren op en tags toevoegen aan uw PDF
-* Toegankelijke PDF maken vanuit Microsoft Word of Adobe InDesign
-* Een rondleiding door de mogelijkheden binnen het toegankelijkheidshulpmiddel Acrobat
+* Controleren op codes en ze toevoegen aan uw PDF
+* Toegankelijke PDF&#39;s maken vanuit Microsoft Word of Adobe InDesign
+* Een rondleiding door de mogelijkheden van het Acrobat-gereedschap voor toegankelijkheid
 
 **[PDF-inhoud opnieuw gebruiken: bewerken en exporteren](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
-Datum: 27 april 2023 Waarom het wiel opnieuw maken wanneer je gewoon PDF kunt bewerken en exporteren? In deze sessie leren we u hoe u uw bestaande PDF kunt wijzigen met bewerkings- en exporttools van Acrobat. U leert het volgende:
+Datum: 27 april 2023
+Waarom zou u het wiel opnieuw maken als u PDF&#39;s gewoon kunt bewerken en exporteren? In deze sessie leren we u hoe u uw bestaande PDF&#39;s kunt wijzigen met de bewerkings- en exportgereedschappen van Acrobat. U leert hoe u:
 
 * Tekst en afbeeldingen bewerken
 * Hyperlinks en bladwijzers toevoegen om documentnavigatie te vereenvoudigen
@@ -80,7 +82,7 @@ Datum: 27 april 2023 Waarom het wiel opnieuw maken wanneer je gewoon PDF kunt be
 * Een volledig document exporteren of specifieke tekst, afbeeldingen of tabellen kiezen
 
 **[PDF-samenwerking: delen, reviseren en samenwerken](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
-Datum: 23 maart 2023 Aan de slag met Adobe Acrobat en PDF. Ontdek de grondbeginselen met een inleiding op de interface van Acrobat en belangrijke functies die je helpen productiever te zijn. We laten u zien hoe u:
+Datum: 23 maart 2023 Aan de slag met Adobe Acrobat en PDF. Word lid van ons en leer de grondbeginselen van een inleiding in de Acrobat-interface en de belangrijkste functies die u helpen productiever te werken. We laten u zien hoe u:
 
 * Maak PDF van afbeeldingsbestanden en documenten, zoals Word, Excel en PowerPoint
 * Combineer meerdere bestanden — PDF, Word, afbeeldingen en nog veel meer — tot één bewerkbare PDF
