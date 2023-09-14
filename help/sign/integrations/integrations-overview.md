@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
+* [Maak een eenvoudige workflow met [!DNL Power Automate]](simple-workflow-power-automate.md)
+Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Ontdek hoe Acrobat Sign [!DNL Power Automate], en [!DNL Microsoft Dynamics 365] voor Field Service worden gebruikt om on-site klantinteracties te stroomlijnen
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor klantenservice wordt gebruikt om de klanttevredenheid op een zelfservicewebportal voor klanten te verbeteren
-* [Een webformulier integreren met [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan een [!DNL SharePoint] list
+
 
 ## Zelfstudies voor Microsoft-integraties
 
@@ -126,6 +125,16 @@ Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan ee
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Creëer een eenvoudige workflow met Power Automate" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Creëer een eenvoudige workflow met Power Automate</strong></a>
+    </div>
+    <em>Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan ee
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
