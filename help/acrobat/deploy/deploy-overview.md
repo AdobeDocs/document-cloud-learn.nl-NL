@@ -7,20 +7,18 @@ level: Intermediate
 jira: KT-6862
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 4%
 
 ---
 
 # Overzicht implementeren
 
-![Acrobat Deployment Image](../assets/Hero-Deploy.png)
-
 Implementatie- en best practices-artikelen met waardevolle inzichten en kennis die zijn opgedaan door met onze klanten te werken.
 
-* Leer hoe je [Adobe Acrobat implementeren](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} als u Adobe® Creative Cloud™ voor teams of voor ondernemingen gebruikt.
+* Leer hoe je [Adobe Acrobat implementeren](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} als u Adobe® Creative Cloud™ voor teams of ondernemingen gebruikt.
 
 * Meer informatie over de [Enterprise Toolkit voor Acrobat-producten](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} om aangepaste producten in uw organisatie te implementeren, gevirtualiseerde installaties op te zetten en bedrijfsworkflows voor PDF te maken.
 

@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # Acrobat-overzicht van 60 seconden
-
-![Acrobat-afbeelding van 60 seconden](../assets/Hero-60sec.png)
 
 60-Seconde Acrobat biedt tutorials ter grootte van een hapje om je te helpen in Acrobat in één minuut of minder een nieuwe truc te leren. Met deze taakgebaseerde tips kun je nieuwe vaardigheden voor het werken met PDF-bestanden opdoen door enkele verborgen Acrobat-elementen te ontgrendelen. Je kunt er een bekijken om snel antwoord te krijgen, of vijf bekijken om je documentproductiviteit te verhogen - en nog steeds tijd hebben om van je koffiepauze te genieten.
 
@@ -337,7 +335,7 @@ ht-degree: 0%
     <div>
     <a href="indesign.md"><strong>PDF-opmerkingen laden in InDesign</strong></a>
     </div>
-    <em>Leer hoe u PDF-opmerkingen weer in InDesign kunt laden na een gedeelde Acrobat-revisie</em>
+    <em>Leer hoe u PDF-opmerkingen weer in InDesign laadt na een gedeelde Acrobat-revisie</em>
     <br>
   </td>
 </tr>

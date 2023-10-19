@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # Overzicht van beheerders
-
-![Afbeelding Beheerders ondertekenen](../assets/Hero-Admin.png)
 
 Lees meer over het toevoegen van gebruikers aan uw account, het instellen van groepen, het delen van toegang en het instellen van een workflow, een extern archief en gedeelde gebeurtenissen en waarschuwingen. Deze zelfstudies zijn ontworpen voor beheerders die de installatiefase hebben doorlopen en die klaar zijn om Acrobat Sign te gaan beheren. De geavanceerde taken omvatten onderwerpen die zich voorbij de beheerderopstelling uitbreiden en zich in het bepalen van globale montages, accounttoegang en het delen, en tekst het etiketteren bewegen.
 
@@ -211,10 +209,10 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Geavanceerd delen van accounts" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Geavanceerde deelfuncties voor accounts" src="../assets/AdvancedSharing_1280.png" />
     </a>
     <div>
-    <a href="advanced-account-sharing.md"><strong>Geavanceerd delen van accounts</strong></a>
+    <a href="advanced-account-sharing.md"><strong>Geavanceerde deelfuncties voor accounts</strong></a>
     </div>
     <em>Stel het delen van accounts in zodat beheerders en gebruikers hun machtigingen voor verzenden, wijzigen en bekijken kunnen delegeren</em>
     <br>

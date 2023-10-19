@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # Praktijkvoorbeelden gebruiken
-
-![use case banner](../assets/UCSC_Rebrand.png)
 
 De praktijkvoorbeelden zijn een livestreamsessie waarbij je kennis maakt met nieuwe Acrobat Sign-gebruiksscenario’s, trends en het laten zien hoe je organisatie ze kan implementeren en er voordeel van kan hebben. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
@@ -47,7 +45,7 @@ Focus: Onze expertpanelisten behandelen best practices en een verscheidenheid aa
 Focus: Onze panelleden bespreken hoe juridische afdelingen de overstap naar volledig externe documentprocessen beheren. Of je nu pas begint of al een aantal workflows hebt gedigitaliseerd, Acrobat Sign kan de productiviteit van je team in elke fase van digitale transformatie vergroten.
 
 * **[Verkoop](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
-Focus: experts van Adobe benadrukken best practices voor succesvolle digitale transformatie bij aanbestedingen, en de discussie gaat over trends in de sector en vereisten voor het bieden van uitstekende gebruikerservaringen.
+Focus: experts op het gebied van Adobe wijzen op best practices voor een succesvolle digitale transformatie bij aanbestedingen, en de discussie gaat over trends in de sector en vereisten voor het bieden van uitstekende gebruikerservaringen.
 
 * **[Inkoop en logistiek](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target="_blank"}**
 Focus: Hoe Acrobat Sign werkt bij inkoop en logistiek.

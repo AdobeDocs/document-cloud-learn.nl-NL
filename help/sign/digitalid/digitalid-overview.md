@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Overzicht van digitale id
-
-![Digitale-id-afbeelding ondertekenen](../assets/Hero-DigitalID.png)
 
 Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op een veilige manier bewijzen dat u bent wie u zegt dat u bent. En als u zich elektronisch aanmeldt in Acrobat Sign, biedt het gebruik van een digitale id een hogere mate van zekerheid dat u uw elektronische handtekening hebt geautoriseerd voor dat specifieke document. De volgende zelfstudies tonen hoe u digitale id&#39;s van over de hele wereld kunt gebruiken met Acrobat Sign.
 

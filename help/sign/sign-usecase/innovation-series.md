@@ -8,16 +8,14 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '1049'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
 
 # Acrobat Sign Skill Builder
-
-![Vaardigheidbouwer, banner](../assets/SB_Hero.png)
 
 Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen om je elektronische handtekeningen te laten werken, zonder extra werk aan je dag toe te voegen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 

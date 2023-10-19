@@ -7,16 +7,14 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '364'
 ht-degree: 2%
 
 ---
 
 # Overzicht van geavanceerde taken
-
-![Aan de slag met Acrobat](../assets/Hero-AdvancedTasks.png)
 
 Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
 
@@ -66,7 +64,7 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
     <div>
     <a href="advancedforms.md"><strong>Geavanceerde formuliervelden</strong></a>
     </div>
-    <em>Leer geavanceerde technieken om professionele PDF forms te bouwen</em>
+    <em>Leer geavanceerde technieken voor het bouwen van professionele PDF forms</em>
     <br>
   </td>
 </tr>

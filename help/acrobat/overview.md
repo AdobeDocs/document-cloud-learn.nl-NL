@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Acrobat-zelfstudies
-
-![Acrobat-hoofdafbeelding](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat, een Adobe Document Cloud-oplossing, helpt zaken te blijven doen door PDF te converteren, bewerken, delen en ondertekenen. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om zowel beginners als geavanceerde gebruikers snel op Adobe Acrobat te laten kennismaken.
 

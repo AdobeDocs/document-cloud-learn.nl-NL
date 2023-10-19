@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Acrobat Sign-zelfstudies
-
-![Acrobat Sign-hoofdafbeelding](assets/Hero_Sign.jpg)
 
 Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de behoeften van je organisatie te voldoen, dankzij integraties, API’s, geavanceerde verificatie, extra beheerfuncties en meer. Hier vind je een breed scala aan leerervaringen die zijn ontworpen om snel zowel beginners als beheerders op Acrobat Sign up-to-date te brengen.
 
