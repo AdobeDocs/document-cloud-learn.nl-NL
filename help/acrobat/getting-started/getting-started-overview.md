@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
@@ -20,10 +20,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [Deze PDF stileren](stylize-this-PDF.md)
+Leer hoe je professioneel ogende PDF maakt met de geïntegreerde, gebruiksvriendelijke ontwerptools in Adobe Express
 * [Overal werken met Acrobat Web](acrobatweb.md)
 Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser
-* [Samenwerken in real-time](collaborate.md)
-Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen
 
 ## Aan de slag - zelfstudies
 
@@ -166,6 +166,16 @@ Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken a
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Deze PDF stileren" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Deze PDF stileren</strong></a>
+      </div>
+      <em>Meer informatie over de nieuwe bewerkingsmodus waarmee inhoud automatisch wordt aangepast</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Lay-out automatisch aanpassen" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken a
       <a href="export-pdf.md"><strong>Een PDF exporteren naar bewerkbare indelingen</strong></a>
       </div>
       <em>Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>

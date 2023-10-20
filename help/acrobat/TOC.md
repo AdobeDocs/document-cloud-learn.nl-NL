@@ -5,9 +5,9 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
    + [Pagina’s indelen](getting-started/organize.md)
    + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
    + [Een PDF-bestand bewerken](getting-started/edit-pdf.md)
+   + [Deze PDF stileren](getting-started/stylize-this-PDF.md)
    + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
    + [Een PDF exporteren naar bewerkbare indelingen](getting-started/export-pdf.md)
    + [Samenwerken in real-time](getting-started/collaborate.md)
