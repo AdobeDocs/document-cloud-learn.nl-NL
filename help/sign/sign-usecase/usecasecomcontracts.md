@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Vervang snel papierverwerking door compatibele digitale workflows, compleet met 
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
-Klik hierop om het stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden.
+Selecteer deze optie om een stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden of te openen.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

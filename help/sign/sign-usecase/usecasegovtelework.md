@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Leer hoe je op een efficiënte manier handtekeningen van al je medewerkers verza
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?quality=12&learn=on&hidetitle=true)
 
-Klik om het PDF-recept voor telewerkovereenkomsten stap voor stap te downloaden.
+Selecteer deze optie om een stapsgewijze PDF-recept voor telewerkovereenkomsten te downloaden of te openen.
 
 [![Download PDF Recipe](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

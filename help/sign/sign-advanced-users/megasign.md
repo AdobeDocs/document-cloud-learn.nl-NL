@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 0%
 
 Leer hoe je honderden handtekeningen verzamelt in slechts een paar korte stappen. In dit gebruiksgeval krijgt iedereen zijn of haar eigen aansprakelijkheidsontheffing ter ondertekening en kunt u de voortgang van elke individuele ontheffing volgen, zodat u precies weet wie of wie niet heeft ondertekend. Elke online handtekening die u vastlegt, is veilig en rechtsgeldig.
 
-Bekijk deze aanvullende realiteit [Telovereenkomst](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) gebruiksscenario.
+[!BADGE Gebruiksscenario&#39;s]
+
+* [Telovereenkomst](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [Beleidsovereenkomst](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!NOTE]
 >
