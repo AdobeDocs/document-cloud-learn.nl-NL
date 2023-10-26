@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
-* [Live Sign voor [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering
 * [Maak een geavanceerde workflow met [!DNL Power Automate]](advanced-workflow-power-automate.md)
 Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connectoren
@@ -123,10 +123,10 @@ Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="Live aanmelden [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Live aanmelden [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering</em>
     <br>
