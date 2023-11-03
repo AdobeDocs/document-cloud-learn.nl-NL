@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -132,11 +132,21 @@ Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
     <br>
   </td>
    <td>
+    <a href="acrobat-sign-teams-documents-tab.md">
+      <img alt="Creëer een eenvoudige workflow met Power Automate" src="../assets/Documents-tab.png" />
+    </a>
+    <div>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integratie van documenten op het tabblad [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+ <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Creëer een eenvoudige workflow met Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Creëer een eenvoudige workflow met Power Automate</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>Maak een eenvoudige workflow met [!DNL Power Automate]</strong></a>
     </div>
     <em>Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren</em>
     <br>
@@ -151,6 +161,7 @@ Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
     <em>Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connectoren</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
@@ -161,7 +172,6 @@ Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
     <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor klantenservice wordt gebruikt om de klanttevredenheid op een zelfservicewebportal voor klanten te verbeteren</em>
     <br>
   </td>
-<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -180,11 +190,6 @@ Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
