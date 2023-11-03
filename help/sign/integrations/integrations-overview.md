@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
-* [Integratie van documenten op het tabblad [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]
 * [Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering
@@ -133,10 +133,10 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Creëer een eenvoudige workflow met Power Automate" src="../assets/Documents-tab.png" />
+      <img alt="Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integratie van documenten op het tabblad [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]</em>
     <br>
