@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
+* [Integratie van documenten op het tabblad [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]
 * [Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering
 * [Maak een geavanceerde workflow met [!DNL Power Automate]](advanced-workflow-power-automate.md)
 Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connectoren
-* [Maak een eenvoudige workflow met [!DNL Power Automate]](simple-workflow-power-automate.md)
-Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren
 
 ## Zelfstudies voor Microsoft-integraties
 

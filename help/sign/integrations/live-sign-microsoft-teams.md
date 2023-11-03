@@ -1,5 +1,5 @@
 ---
-title: Live Sign in Adobe Acrobat Sign for NL Microsoft Teams]
+title: Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]
 description: Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering
 feature: Integrations
 role: User
@@ -7,9 +7,10 @@ topic: Integrations
 level: Intermediate
 jira: KT-14239
 topic-revisit: Integrations
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+exl-id: 82241266-bcf8-49bd-96e8-aa788607f079
+source-git-commit: 638c4cc000455d74dd815248d917a188830a5bfd
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
