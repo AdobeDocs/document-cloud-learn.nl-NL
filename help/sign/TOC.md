@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 10%
       + [Ondertekening delegeren aan iemand anders](sign-beginner-tutorials/delegate-signing.md)
       + [Wat is een digitale handtekening?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Beheer {#getting-started-managing}
+   + Beheren {#getting-started-managing}
       + [Uw overeenkomsten beheren en volgen](sign-beginner-tutorials/manage-and-track.md)
       + [Een documentsjabloon maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Geavanceerde taken {#advanced-tasks}
@@ -54,16 +54,16 @@ ht-degree: 10%
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Formuliergegevens beheren](sign-advanced-users/manage-form-data.md)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
-      + [Handtekeningen bulksgewijs verzenden en verzamelen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [In bulk verzenden](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Een webformulier maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Tekstlabels gebruiken in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
-   + Beheer {#advanced-tasks-managing}
+   + Beheren {#advanced-tasks-managing}
       + [Een rapport maken](sign-advanced-users/creating-a-report.md)
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
-+ Administer {#admin-set-up}
++ Beheerder {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor nieuwe beheerders](admin/get-started-admin.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
       + [Een bestaand webformulier wijzigen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [Handtekeningen bulksgewijs verzenden en verzamelen](sign-advanced-users/megasign.md)
+      + [In bulk verzenden](sign-advanced-users/megasign.md)
       + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
    + Geavanceerde taken {#advanced-tasks-admins}
       + [Algemene instellingen](admin/learn-about-global-settings.md)

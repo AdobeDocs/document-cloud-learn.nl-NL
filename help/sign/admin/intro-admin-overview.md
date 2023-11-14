@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 ## Nieuw
 
+* [In bulk verzenden](../sign-advanced-users/megasign.md)
+Leer hoe je in een paar korte stappen duizenden handtekeningen tegelijk verzamelt voor elk document
 * [Rapportopties](report-options.md)
 Leer hoe u rapportopties instelt voor gebruikers
 * [Gebruikers toevoegen](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
+      <img alt="In bulk verzenden" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>In bulk verzenden</strong></a>
     </div>
-    <em>honderden handtekeningen tegelijk verzamelen voor elk document</em>
+    <em>Verzamel duizenden handtekeningen tegelijk voor elk document</em>
     <br>
   </td>
 </tr>

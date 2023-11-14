@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,10 +20,10 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 ## Nieuw
 
+* [In bulk verzenden](megasign.md)
+Leer hoe je in een paar korte stappen duizenden handtekeningen tegelijk verzamelt voor elk document
 * [Verificatiemethoden in Acrobat Sign](authentication-methods.md)
 Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
-* [Online betalingen instellen](set-up-online-payments.md)
-Leer hoe u online betalingen in uw documenten instelt en accepteert
 
 ## Verzenden
 
@@ -93,12 +93,12 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Handtekeningen bulksgewijs verzenden en verzamelen" src="../assets/Megasign.png" />
+        <img alt="In bulk verzenden" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Handtekeningen bulksgewijs verzenden en verzamelen</strong></a>
+      <a href="megasign.md"><strong>In bulk verzenden</strong></a>
       </div>
-      <em>Verzamel honderden handtekeningen tegelijk voor elk document in een paar korte stappen</em>
+      <em>Verzamel in een paar korte stappen duizenden handtekeningen tegelijk voor elk document</em>
       <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Leer hoe u online betalingen in uw documenten instelt en accepteert
 </tr>
 </table>
 
-## Beheer
+## Beheren
 
 <table style="table-layout:fixed">
 <tr>
