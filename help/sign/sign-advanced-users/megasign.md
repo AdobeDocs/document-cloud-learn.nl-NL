@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 3%
 
 ---
 
 # In bulk verzenden
 
-Ontdek hoe je honderden handtekeningen verzendt en verzamelt in slechts een paar korte stappen, waardoor je organisatie uren tijd bespaart. Iedereen krijgt zijn eigen document ter ondertekening en u kunt de voortgang bijhouden van elke persoon naar wie u het document hebt verzonden, zodat u precies weet wie het document heeft verzonden of wie het niet heeft ondertekend. Elke online handtekening die u vastlegt, is veilig en rechtsgeldig.
+Leer hoe je honderden handtekeningen verzendt en verzamelt (tot 1000 ontvangers met elke bulkverzending) in slechts een paar korte stappen, waardoor je organisatie uren tijd bespaart. Iedereen krijgt zijn eigen document ter ondertekening en u kunt de voortgang bijhouden van elke persoon naar wie u het document hebt verzonden, zodat u precies weet wie het document heeft verzonden of wie het niet heeft ondertekend. Elke online handtekening die u vastlegt, is veilig en rechtsgeldig.
 
 [!BADGE Gebruiksscenario&#39;s]
 
