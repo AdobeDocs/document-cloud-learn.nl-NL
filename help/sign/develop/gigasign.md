@@ -8,22 +8,22 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 5%
+source-wordcount: '244'
+ht-degree: 1%
 
 ---
 
 # Verzamel grote documenten met GigaSign
 
-Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign API om dezelfde functionaliteit te bieden als MegaSign en biedt ondersteuning voor meerdere ondertekenaars, groepen met ontvangers, rollen met ontvangers, overeenkomstnamen, koolstofkopie en meer.
+Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen aan duizenden mensen tegelijk. Het wordt ontworpen voor hoog-volume communicatie met uw werknemers en klanten-ondersteunend tot 2.500 ontvangers met elke bulk verzendt. GigaSign gebruikt de Acrobat Sign API om dezelfde functionaliteit te bieden als MegaSign, en biedt ondersteuning voor meerdere ondertekenaars, groepen ontvangers, rollen van ontvangers, overeenkomstnamen, koolstofkopie en meer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Download en installeer de GigaSign-app
 
-[GigaSign Zip-bestand downloaden](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
+[GigaSign Zip-bestand downloaden](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
 
 [Java 1.8-downloadkoppeling (alleen indien nodig)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
