@@ -1,5 +1,5 @@
 ---
-title: Ontvangers hoofdletters gebruiken
+title: Gebruiksscenario's
 description: Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Hoofdletterrecepten gebruiken
+# Gebruiksscenario&#39;s
 
-Versnel de digitale workflows van je organisatie met deze voorbeelden van overheid en commerciële elektronische handtekeningen. Klik om een PDF te bekijken met bronnen en informatie over hoe u deze specifieke gebruiksscenario&#39;s voor elektronische handtekeningen instelt.
+Ontdek hoe verschillende organisaties Acrobat Sign gebruiken om de digitale workflows van hun organisatie te transformeren met deze praktijkvoorbeelden.
 
 ## Nieuw
 

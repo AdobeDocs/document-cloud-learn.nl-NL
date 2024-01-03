@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Ontdek hoe je de e-ondertekeningservaringen van je organisatie kunt transformere
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Hoofdletterrecepten gebruiken" src="../assets/Expand_RecipeR.png" />
+      <img alt="Gebruiksscenario&apos;s" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Hoofdletterrecepten gebruiken</strong></a>
+    <a href="recipes.md"><strong>Gebruiksscenario's</strong></a>
     </div>
-    <em>Download de bronnen die u nodig hebt om snel verschillende workflows voor de afdeling e-handtekeningen op uw eigen niveau te implementeren</em>
+    <em>Ontdek hoe verschillende organisaties Acrobat Sign gebruiken met deze praktijkvoorbeelden</em>
     <br>
   </td>
   <td>
