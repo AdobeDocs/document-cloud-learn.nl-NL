@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 11%
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
-+ Beheerder {#admin-set-up}
++ Administer {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor nieuwe beheerders](admin/get-started-admin.md)
@@ -135,7 +135,7 @@ ht-degree: 11%
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
-   + Hoofdletters en kleine letters gebruiken {#recipes}
+   + Gebruiksscenario&#39;s {#recipes}
       + [Overzicht](sign-usecase/recipes.md)
       + Overheid {#gov}
          + [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](sign-usecase/webform-multiple-signers.md)
