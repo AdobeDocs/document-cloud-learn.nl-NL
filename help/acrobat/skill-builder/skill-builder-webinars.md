@@ -7,7 +7,7 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
+source-git-commit: f245b71242d37319be5bd7c4faa5d0b6467c2f2a
 workflow-type: tm+mt
 source-wordcount: '1015'
 ht-degree: 0%
