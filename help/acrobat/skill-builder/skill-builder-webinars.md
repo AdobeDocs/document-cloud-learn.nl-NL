@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: f07f19cd96b9615a4f5fdf8ddf4d7eec51ed5fe0
+source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,26 @@ ht-degree: 0%
 Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om je PDF-workflows naar een hoger niveau te tillen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
 ## Maandelijkse vergaderingen
+
+**[Ontdek 6 essentiële Adobe Acrobat-tools](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
+Datum: 24 januari 2024 Ontdek wat brancherapporten zeggen over de belangrijkste trends in de wereld van digitaal werk en hoe Acrobat documentworkflows eenvoudig consolideert om elk team kostbare tijd te besparen.
+We laten u zien hoe u:
+
+* Navigeren door Acrobat probleemloos op meerdere oppervlakken
+* Eenvoudig documenten combineren en bewerken
+* Werk moeiteloos samen — zelfs in Microsoft Teams
+* Protect-documenten met beveiliging van wereldklasse
+* CQoch documenten snel verzenden en elektronisch ondertekenen
+
+**[Aan de slag met Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
+Datum: 18 januari 2024 Leer hoe Adobe Acrobat het zware opheffen van alledaagse documenttaken doet om snelle, veilige zakelijke activiteiten te ondersteunen.
+U leert het volgende:
+
+* Navigeren door Acrobat probleemloos op meerdere oppervlakken
+* Snel documenten combineren en bewerken
+* Werk eenvoudig samen - zelfs in Microsoft Teams
+* Protect waardevolle informatie in enkele eenvoudige stappen
+* Creëer moeiteloze workflows voor elektronische handtekeningen met Adobe Acrobat Sign
 
 **[Eenvoudige automatisering met Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 Datum: 16 november 2023 Stop met het herhalen van eenvoudige handmatige taken. Met deze sessie leert u hoe u Action Wizard-in Acrobat Pro kunt gebruiken om uw PDF-bestanden in batches te verwerken en om automatisch periodieke, herhalende taken uit te voeren, zoals documenten toegankelijk maken, documenten beveiligen, bestanden optimaliseren, archiveren en meer. U leert:
