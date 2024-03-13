@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
+source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 
 >[!IMPORTANT]
 >
->GigaSign wordt niet meer bijgewerkt naar de nieuwste versie van Java of Acrobat Sign en biedt slechts beperkte ondersteuning. De functies van GigaSign worden toegevoegd aan het product onder de [In bulk verzenden](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) functionaliteit. Gebruik Verzenden in bulk voor alle gevallen waarin het gebruik van GigaSign niet expliciet is vereist.
+>GigaSign wordt niet meer bijgewerkt naar de nieuwste versie van Java of Acrobat Sign en biedt slechts beperkte ondersteuning. De functies van GigaSign worden toegevoegd aan het product onder de [In bulk verzenden](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) functionaliteit. Gebruik Verzenden in bulk voor alle gevallen waarin het gebruik van GigaSign niet expliciet is vereist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
