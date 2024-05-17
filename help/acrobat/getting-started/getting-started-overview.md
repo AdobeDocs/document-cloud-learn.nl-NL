@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -110,7 +110,7 @@ Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de 
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="PDF-bestanden maken" src="../assets/Create.jpg" />
+        <img alt="PDF-bestanden maken" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Een PDF maken</strong></a>
@@ -133,7 +133,7 @@ Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de 
         <img alt="Pagina’s indelen" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Pagina’s indelen</strong></a>
+      <a href="organize.md"><strong>Pagina's indelen</strong></a>
       </div>
       <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en opnieuw rangschikken</em>
       <br>
@@ -160,7 +160,7 @@ Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de 
         <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Een PDF-bestand bewerken</strong></a>
+      <a href="edit-pdf.md"><strong>Een PDF bewerken</strong></a>
       </div>
       <em>Tekst en afbeeldingen bewerken in PDF-bestanden</em>
       <br>
