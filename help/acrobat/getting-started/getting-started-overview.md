@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [Een PDF maken](create-pdf.md)
+Leer hoe u PDF kunt maken van alle verschillende typen documenten
+
 * [Deze PDF stileren](stylize-this-PDF.md)
 Leer hoe je professioneel ogende PDF maakt met de geïntegreerde, gebruiksvriendelijke ontwerptools in Adobe Express
-* [Overal werken met Acrobat Web](acrobatweb.md)
-Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser
 
 ## Aan de slag - zelfstudies
 
