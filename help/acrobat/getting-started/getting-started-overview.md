@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 64302c2088c88610c4a855d3599bce3f9420a247
+source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
 workflow-type: tm+mt
 source-wordcount: '539'
 ht-degree: 1%
@@ -32,7 +32,7 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/Workspace_1280.png" />
+      <img alt="Beginselen van de werkruimte" src="../assets/workspace_acrobat.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
