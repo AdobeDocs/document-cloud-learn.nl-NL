@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [Tekst in een PDF bewerken](edit-pdf.md)
+Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken
+
 * [Een PDF maken](create-pdf.md)
 Leer hoe u PDF kunt maken van alle verschillende typen documenten
-
-* [Deze PDF stileren](stylize-this-PDF.md)
-Leer hoe je professioneel ogende PDF maakt met de geïntegreerde, gebruiksvriendelijke ontwerptools in Adobe Express
 
 ## Aan de slag - zelfstudies
 
@@ -158,7 +158,7 @@ Leer hoe je professioneel ogende PDF maakt met de geïntegreerde, gebruiksvriend
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Een PDF-bestand bewerken" src="../assets/Edit.jpg" />
+        <img alt="Tekst in een PDF bewerken" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Een PDF bewerken</strong></a>

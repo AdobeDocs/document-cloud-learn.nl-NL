@@ -1,22 +1,22 @@
 ---
-title: Een PDF-bestand bewerken
-description: Leer hoe u tekst en afbeeldingen bewerkt in PDF-bestanden
+title: Tekst in een PDF bewerken
+description: Leer hoe u woorden, woordgroepen of zelfs hele pagina's in uw PDF kunt bewerken
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 11%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# Een PDF-bestand bewerken
+# Tekst in een PDF bewerken
 
-Leer hoe je [tekst en afbeeldingen bewerken in PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}. Klik of tik om een nieuwe alinea toe te voegen of een typefout te corrigeren. Je kunt zelfs afbeeldingen toevoegen [of een foto uitsnijden](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken. Door tekst rechtstreeks in Acrobat te bewerken, kun je content nauwkeurig en professioneel bijwerken zonder dat je heen en weer hoeft te springen tussen apps. Deze videozelfstudie gebruikt de [nieuwe werkruimte-ervaring](new-workspace.md).
 
 >[!TIP]
 >
