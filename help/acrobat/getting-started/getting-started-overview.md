@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beschermen of [bewerken van PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, is deze inhoud ontworpen om u te laten werken in PDF-workflows.
 
 ## Nieuw
+
+* [PDF omzetten in verschillende bestandsindelingen](export-pdf.md)
+Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint
 
 * [Tekst in een PDF bewerken](edit-pdf.md)
 Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken
@@ -188,12 +191,12 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Een PDF exporteren naar bewerkbare indelingen" src="../assets/Export.jpg" />
+        <img alt="PDF omzetten in verschillende bestandsindelingen" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Een PDF exporteren naar bewerkbare indelingen</strong></a>
+      <a href="export-pdf.md"><strong>PDF omzetten in verschillende bestandsindelingen</strong></a>
       </div>
-      <em>Leer hoe u uw PDF-bestanden exporteert naar bewerkbare indelingen</em>
+      <em>Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint</em>
       <br>
     </td>
   </tr>
