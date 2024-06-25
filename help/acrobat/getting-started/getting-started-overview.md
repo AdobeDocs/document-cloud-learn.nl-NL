@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beschermen of [bewerken van PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, is deze inhoud ontworpen om u te laten werken in PDF-workflows.
 
 ## Nieuw
+
+* [Ontdek PDF-inzichten met de AI Assistant](ai-assistant.md)
+Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
 
 * [PDF omzetten in verschillende bestandsindelingen](export-pdf.md)
 Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint
@@ -54,6 +57,16 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="Ontdek PDF-inzichten met de AI Assistant" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Ontdek PDF-inzichten met de AI Assistant</strong></a>
+    </div>
+    <em>Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Overal werken met Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
     <em>Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
     <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
       <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
       </div>
       <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
