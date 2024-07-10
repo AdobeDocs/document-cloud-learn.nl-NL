@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [Nieuwe werkruimte-ervaring](new-workspace.md)
+Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien
+
 * [Ontdek PDF-inzichten met de AI Assistant](ai-assistant.md)
 Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
 
@@ -29,13 +32,21 @@ Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, z
 * [Tekst in een PDF bewerken](edit-pdf.md)
 Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken
 
-* [Een PDF maken](create-pdf.md)
-Leer hoe u PDF kunt maken van alle verschillende typen documenten
 
 ## Aan de slag - zelfstudies
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Nieuwe werkruimte-ervaring" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nieuwe werkruimte-ervaring</strong></a>
+    </div>
+    <em>Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Beginselen van de werkruimte" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ Leer hoe u PDF kunt maken van alle verschillende typen documenten
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
     </div>
     <em>Kijk hoe je in de Acrobat-werkruimte gemakkelijk toegang hebt tot bestanden en tools op desktops, het web en mobiele apparaten</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="Nieuwe werkruimte-ervaring" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>Nieuwe werkruimte-ervaring</strong></a>
-    </div>
-    <em>Meer informatie over de nieuwe werkruimtervaring die u kunt activeren in Acrobat</em>
     <br>
   </td>
   <td>
