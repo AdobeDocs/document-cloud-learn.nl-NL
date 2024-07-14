@@ -8,16 +8,16 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 2%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
 # Overzicht van mobiel
 
-Maken, vullen en [sign PDF](https://www.adobe.com/nl/acrobat/online/sign-pdf.html){target="_blank"}  op uw mobiele apparaat.
+Creeer, vul, en [ teken PDF ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) {target="_blank"} op uw mobiel apparaat.
 
 ## Zelfstudies voor mobiele apps van Acrobat Reader
 
@@ -25,13 +25,8 @@ Maken, vullen en [sign PDF](https://www.adobe.com/nl/acrobat/online/sign-pdf.htm
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
+      <img alt="Productiviteit onderweg" src="../assets/productivity.png" />
     </a>
-    <div>
-     <a href="../getting-started/productivity.md"><strong>Productiviteit onderweg</strong></a>
-    </div>
-    <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -60,9 +55,9 @@ Maken, vullen en [sign PDF](https://www.adobe.com/nl/acrobat/online/sign-pdf.htm
       <img alt="Alles naar PDF scannen" src="../assets/Scanmobile.png" />
     </a>
     <div>
-     <a href="scan-mobile-app.md"><strong>Alles naar PDF scannen</strong></a>
+     <a href="scan-mobile-app.md"><strong> Scan om het even wat aan PDF </strong></a>
     </div>
-    <em>Leer hoe u elk papieren document kunt omzetten in een PDF met de gratis mobiele Adobe Scan-app</em>
+    <em> Leer hoe te om het even welk document in een PDF te veranderen gebruikend de vrije mobiele app van Adobe Scan </em>
     <br>
   </td>
   <td>
@@ -83,14 +78,14 @@ Maken, vullen en [sign PDF](https://www.adobe.com/nl/acrobat/online/sign-pdf.htm
 </tr>
 </table>
 
-Downloaden [Adobe Acrobat Reader mobiele app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} de gratis wereldwijde standaard voor het op een betrouwbare manier bekijken, annoteren en ondertekenen van PDF.
+Download [ mobiele app van Adobe Acrobat Reader ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target="_blank"} de vrije globale norm voor het betrouwbaar bekijken, het annoteren, en het ondertekenen PDF.
 
-[Acrobat Reader for iOS mobiele gids](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
-[Handleiding voor Acrobat Reader for Android voor mobiele apparaten](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
+[ Acrobat Reader voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target="_blank"}
+[ Acrobat Reader voor mobiele gids Android ](https://www.adobe.com/devnet-docs/acrobat/android/en/) {target="_blank"}
 
-Downloaden [Adobe Scan mobiele app](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} om elk papieren document vast te leggen en het te transformeren in een hoogwaardige PDF met tekst die je kunt doorzoeken.
+De mobiele app van Adobe Scan van de download ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target="_blank"} om het even welk document te vangen en het in een kwalitatief hoogstaande PDF met tekst om te zetten u kunt zoeken.[
 
-[Adobe Scan for iOS mobiele gids](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Handleiding voor Adobe Scan for Android voor mobiele apparaten](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[ Adobe Scan voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target="_blank"}
+[ Adobe Scan voor mobiele gids Android ](https://www.adobe.com/devnet-docs/adobescan/android/en/) {target="_blank"}
 
-Downloaden [Adobe Fill &amp; Sign mobiele app](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} om vanaf elke locatie en op elk apparaat elk formulier in te vullen, te ondertekenen en te verzenden, met behulp van alleen je vinger of een stylus.
+De mobiele app van Adobe Fill &amp; Sign van de download ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target="_blank"} om te vullen, te ondertekenen, en om het even welke vorm van overal, op om het even welk apparaat te verzenden, gebruikend niets meer dan uw vinger of een naald.[
