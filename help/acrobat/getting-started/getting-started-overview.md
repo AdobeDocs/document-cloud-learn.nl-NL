@@ -7,31 +7,27 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
+source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
 # Aan de slag - overzicht
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het maken van een document tot het beschermen of [bewerken van PDF-bestanden](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, is deze inhoud ontworpen om u te laten werken in PDF-workflows.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten.
 
 ## Nieuw
 
-* [Nieuwe werkruimte-ervaring](new-workspace.md)
+* [ Nieuwe werkruimteervaring ](new-workspace.md)
 Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien
-
-* [Ontdek PDF-inzichten met de AI Assistant](ai-assistant.md)
+* [ Ontdek de inzichten van de PDF met de Medewerker van AI ](ai-assistant.md)
 Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
-
-* [PDF omzetten in verschillende bestandsindelingen](export-pdf.md)
+* [ zet PDF in verschillende dossierformaten ](export-pdf.md) om
 Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint
-
-* [Tekst in een PDF bewerken](edit-pdf.md)
+* [ geef tekst in a PDF ](edit-pdf.md) uit
 Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken
-
 
 ## Aan de slag - zelfstudies
 
@@ -41,73 +37,36 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
     <a href="new-workspace.md">
       <img alt="Nieuwe werkruimte-ervaring" src="../assets/new-workspace.png" />
     </a>
-    <div>
-    <a href="new-workspace.md"><strong>Nieuwe werkruimte-ervaring</strong></a>
-    </div>
-    <em>Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien</em>
-    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/workspace_acrobat.png" />
+      <img alt="Beginselen van de werkruimte" src="../assets/workspace-basics.png" />
     </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Beginselen van de werkruimte</strong></a>
-    </div>
-    <em>Kijk hoe je in de Acrobat-werkruimte gemakkelijk toegang hebt tot bestanden en tools op desktops, het web en mobiele apparaten</em>
-    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="Ontdek PDF-inzichten met de AI Assistant" src="../assets/ai-assistant.png" />
     </a>
-    <div>
-    <a href="ai-assistant.md"><strong>Ontdek PDF-inzichten met de AI Assistant</strong></a>
-    </div>
-    <em>Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant</em>
-    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Overal werken met Acrobat Web" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Overal werken met Acrobat Web" src="../assets/acrobat-web.png" />
     </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Overal werken met Acrobat Web</strong></a>
-    </div>
-    <em>Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken met de Acrobat-webtools in uw browser</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
-      <img alt="Productiviteit onderweg" src="../assets/Productivity_1280.png" />
-    </a>
-    <div>
-     <a href="productivity.md"><strong>Productiviteit onderweg</strong></a>
-    </div>
-    <em>Doe meer rechtstreeks vanaf je tablet of mobiele telefoon met de mobiele Acrobat Reader-app</em>
-    <br>
+      <img alt="Productiviteit onderweg" src="../assets/productivity.png" />
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Werken met Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Werken met Microsoft 365</strong></a>
-      </div>
-      <em>Verhoog de productiviteit en de workflows voor bedrijfsdocumenten met Acrobat en [!DNL Microsoft 365]</em>
-      <br>
+        <img alt="Werken met Microsoft 365" src="../assets/microsoft-365.png" />
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
-        <img alt="Waar komen PDF vandaan?" src="../assets/WherePDFs.jpg" />
+        <img alt="Waar komen PDF vandaan?" src="../assets/where-pdfs.png" />
       </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>Waar komen PDF vandaan?</strong></a>
-      </div>
-      <em>Begrijpen waar PDF vandaan komen en hoe ze worden gebruikt</em>
-      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -125,41 +84,20 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <a href="create-pdf.md">
         <img alt="PDF-bestanden maken" src="../assets/create.png" />
       </a>
-      <div>
-      <a href="create-pdf.md"><strong>Een PDF maken</strong></a>
-      </div>
-      <em>PDF maken van alle verschillende soorten documenten</em>
-      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files naar PDF" src="../assets/Combine.jpg" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>Bestanden combineren tot PDF</strong></a>
-      </div>
-      <em>Vele verschillende bestandstypen combineren tot één PDF</em>
-      <br>
+        <img alt="Combine Files naar PDF" src="../assets/combine.png" />
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Pagina’s indelen" src="../assets/Organize.png" />
+        <img alt="Pagina’s indelen" src="../assets/organize-pages.png" />
       </a>
-      <div>
-      <a href="organize.md"><strong>Pagina's indelen</strong></a>
-      </div>
-      <em>Pagina's in uw PDF toevoegen, vervangen, extraheren, roteren, verwijderen en opnieuw rangschikken</em>
-      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Aangepaste pagina toevoegen" src="../assets/Custompage.png" />
+        <img alt="Aangepaste pagina toevoegen" src="../assets/custom.png" />
       </a>
-      <div>
-      <a href="add-custom-page.md"><strong>Aangepaste pagina toevoegen</strong></a>
-      </div>
-      <em>Leer hoe u aangepaste pagina's aan uw PDF kunt toevoegen met de geïntegreerde Adobe Express-app</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -172,41 +110,21 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <a href="edit-pdf.md">
         <img alt="Tekst in een PDF bewerken" src="../assets/edit-text.png" />
       </a>
-      <div>
-      <a href="edit-pdf.md"><strong>Tekst in een PDF bewerken</strong></a>
-      </div>
-      <em>Leer hoe u tekst in een PDF kunt bewerken</em>
-      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
-        <img alt="Deze PDF stileren" src="../assets/Stylize.png" />
+        <img alt="Deze PDF stileren" src="../assets/stylize-pdf.png" />
       </a>
-      <div>
-      <a href="stylize-this-PDF.md"><strong>Deze PDF stileren</strong></a>
-      </div>
-      <em>Meer informatie over de nieuwe bewerkingsmodus waarmee inhoud automatisch wordt aangepast</em>
-      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
-        <img alt="Lay-out automatisch aanpassen" src="../assets/Autoadjust.png" />
+        <img alt="Lay-out automatisch aanpassen" src="../assets/auto-adjust.png" />
       </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>Lay-out automatisch aanpassen</strong></a>
-      </div>
-      <em>Meer informatie over de nieuwe bewerkingsmodus waarmee inhoud automatisch wordt aangepast</em>
-      <br>
     </td>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF omzetten in verschillende bestandsindelingen" src="../assets/convert.png" />
       </a>
-      <div>
-      <a href="export-pdf.md"><strong>PDF omzetten in verschillende bestandsindelingen</strong></a>
-      </div>
-      <em>Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -220,9 +138,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
         <img alt="Samenwerken in real-time" src="../assets/Collaborate_1280.png" />
       </a>
       <div>
-      <a href="collaborate.md"><strong>Samenwerken in real-time</strong></a>
+      <a href="collaborate.md"><strong> werk in echt samen - tijd </strong></a>
       </div>
-      <em>Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen</em>
+      <em> Beweeg uw projecten vooruit door commentaren te verzamelen, op reacties samen te werken, en vooruitgang op uw documenten te volgen allen in real time, van overal </em>
       <br>
     </td>
     <td>
@@ -230,9 +148,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
         <img alt="Opmerkingen over een PDF" src="../assets/Comment.jpg" />
       </a>
       <div>
-      <a href="comment-on-pdf-files.md"><strong>Opmerkingen over een PDF</strong></a>
+      <a href="comment-on-pdf-files.md"><strong> Commentaar op een PDF </strong></a>
       </div>
-      <em>Opmerkingen toevoegen aan een PDF-bestand en vervolgens delen met anderen</em>
+      <em> voeg commentaren aan een dossier van de PDF toe en deel het dan met anderen </em>
       <br>
     </td>
     <td>
@@ -257,9 +175,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Invulbare formulieren maken" src="../assets/Form_1280.png" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Invulbare formulieren maken</strong></a>
+    <a href="create-fillable-forms.md"><strong> creeer invulbare vormen </strong></a>
     </div>
-    <em>Een in een andere toepassing gemaakt document omzetten in een invulbaar PDF-formulier</em>
+    <em> verander een document dat in andere toepassing wordt gecreeerd in een invulbare vorm van de PDF </em>
     <br>
   </td>
   <td>
@@ -267,9 +185,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong> PDF forms van Fill &amp; Sign </strong></a>
     </div>
-    <em>Snel een PDF-formulier invullen en ondertekenen</em>
+    <em> Vul snel een vorm van de PDF in en onderteken </em>
     <br>
   </td>
   <td>
@@ -277,9 +195,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Scan en OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Scan en OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong> Scannen &amp; OCR </strong></a>
     </div>
-    <em>Verklein grote bestanden en optimaliseer je PDF zonder dat dit ten koste gaat van de kwaliteit voor delen, posten of archiveren</em>
+    <em> verminder grote dossiers en optimaliseer uw PDF zonder kwaliteit voor het delen, het posten, of het archiveren </em> te compromitteren
     <br>
   </td>
   <td>
@@ -287,9 +205,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Protect een PDF-bestand met een wachtwoord" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>Protect een PDF-bestand met een wachtwoord</strong></a>
+    <a href="password-protect.md"><strong> Protect een dossier van de PDF met een wachtwoord </strong></a>
     </div>
-    <em>Een wachtwoord aan uw PDF toevoegen om te voorkomen dat anderen het bestand openen of bewerken</em>
+    <em> voeg een wachtwoord aan uw PDF toe om anderen te beschermen tegen het openen of het uitgeven van het dossier </em>
     <br>
   </td>
 </tr>
@@ -299,9 +217,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Handtekeningen ophalen" src="../assets/Signatures_1280.png" />
     </a>
     <div>
-    <a href="signatures.md"><strong>Handtekeningen ophalen</strong></a>
+    <a href="signatures.md"><strong> krijg handtekeningen </strong></a>
     </div>
-    <em>Houd je bedrijf gaande door juridisch bindende elektronische handtekeningen van anderen te verzamelen - vanaf elke locatie</em>
+    <em> Houd zaken zich beweegt door juridisch bindende elektronische handtekeningen van anderen te verzamelen - van overal </em>
     <br>
   </td>
   <td>
@@ -309,9 +227,9 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       <img alt="Uw documenten volgen" src="../assets/Track_1280.png" />
     </a>
     <div>
-    <a href="track.md"><strong>Uw documenten volgen</strong></a>
+    <a href="track.md"><strong> spoor uw documenten </strong></a>
     </div>
-    <em>Weet altijd welke bestanden wachten op handtekeningen en welke zijn ondertekend</em>
+    <em> weet altijd welke dossiers op handtekeningen wachten en die </em> zijn ondertekend
     <br>
   </td>
   <td>
