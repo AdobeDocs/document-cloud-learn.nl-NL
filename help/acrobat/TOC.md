@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 3%
 + [Overzicht](overview.md)
 + Aan de slag {#getting-started}
    + [Overzicht](getting-started/getting-started-overview.md)
-   + [Beginselen van de werkruimte](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nieuwe werkruimte-ervaring](getting-started/new-workspace.md)
+   + [Beginselen van de werkruimte](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Ontdek PDF-inzichten met de AI Assistant](getting-started/ai-assistant.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Productiviteit onderweg](getting-started/productivity.md)
-   + [Werken met [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
    + [Een PDF maken](getting-started/create-pdf.md)
-   + [Combine Files naar PDF](getting-started/combine-to-pdf.md)
+   + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
    + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
    + [Tekst in een PDF bewerken](getting-started/edit-pdf.md)
@@ -65,7 +65,7 @@ ht-degree: 3%
       + [Gescande documenten en complexe lijsten](advanced-tasks/accessibilitysession4.md)
       + [Formuliervelden toevoegen aan een gecodeerde PDF](advanced-tasks/accessibilitysession5.md)
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
-+ Acrobat van 60 seconden {#60-second}
++ 60 seconden Acrobat {#60-second}
    + [Overzicht](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Tekst in een gescand PDF-bestand herkennen](60-second/textrecognition.md)
@@ -94,25 +94,25 @@ ht-degree: 3%
    + [Een PDF omzetten in een standaardindeling](60-second/conform.md)
    + [Breng de verschillen met PDF bij Vergelijken](60-second/compare.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
-+ Vaardigingenbouwers {#skill-builders}
++ Vaardighedenbouwers {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integraties {#integrations}
    + [Overzicht](integrate/integrate-overview.md)
-   + [PDF maken van [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [PDF maken in [!DNL Office] voor het web](integrate/createofficeweb.md)
-   + [PDF samenwerking in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Werk met je [!DNL SharePoint] bestanden](integrate/acrobatandsp.md)
-   + [E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]](integrate/outlook.md)
-   + [PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Protect PDF gebruiken [!DNL Microsoft Purview Information] gevoeligheidslabels](integrate/microsoftsensitivitylabels.md)
-   + [Adobe Acrobat for [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [Werken met bestanden van [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Industrie en diensten {#by-industry}
+   + [PDF maken van  [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [Creeer PDF in  [!DNL Office]  voor het Web](integrate/createofficeweb.md)
+   + [PDF samenwerking in  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Werk met uw  [!DNL SharePoint]  dossiers](integrate/acrobatandsp.md)
+   + [E-mailberichten en bijlagen converteren naar PDF in  [!DNL Outlook]](integrate/outlook.md)
+   + [PDF-inhoud maken tijdens bladeren met  [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF die  [!DNL Microsoft Purview Information]  gevoeligheidsetiketten gebruiken](integrate/microsoftsensitivitylabels.md)
+   + [Adobe Acrobat for  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Werken met bestanden van  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
++ Sectoren en afdelingen {#by-industry}
    + [Overzicht](industry/industry-overview.md)
    + Overheid {#gov}
       + [Overzicht](industry/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [5 tips voor het overal werken met Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [ 5 uiteinden voor het werken overal met Acrobat ](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
@@ -131,5 +131,5 @@ ht-degree: 3%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + [Productiviteit onderweg](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
