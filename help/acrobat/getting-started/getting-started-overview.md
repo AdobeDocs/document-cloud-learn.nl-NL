@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [ geef grafiek in a PDF ](edit-graphics.md) uit
+Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF
 * [ Nieuwe werkruimteervaring ](new-workspace.md)
 Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien
 * [ Ontdek de inzichten van de PDF met de Medewerker van AI ](ai-assistant.md)
 Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
-* [ zet PDF in verschillende dossierformaten ](export-pdf.md) om
-Leer hoe u uw PDF-bestanden converteert naar verschillende bestandsindelingen, zoals Microsoft Word, Excel of PowerPoint
-* [ geef tekst in a PDF ](edit-pdf.md) uit
-Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewerken
 
 ## Aan de slag - zelfstudies
 
@@ -112,6 +110,11 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Afbeeldingen in een PDF bewerken" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Deze PDF stileren" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
         <img alt="Lay-out automatisch aanpassen" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF omzetten in verschillende bestandsindelingen" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Zelfstudies voor samenwerking
 
