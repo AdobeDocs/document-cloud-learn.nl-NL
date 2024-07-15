@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
+source-git-commit: 91017fe122eae4de793037372f249aba9308350b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 3%
    + [Pagina’s indelen](getting-started/organize.md)
    + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
    + [Tekst in een PDF bewerken](getting-started/edit-pdf.md)
+   + [Afbeeldingen in een PDF bewerken](getting-started/edit-graphics.md)
    + [Deze PDF stileren](getting-started/stylize-this-PDF.md)
    + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
    + [PDF omzetten in verschillende bestandsindelingen](getting-started/export-pdf.md)
