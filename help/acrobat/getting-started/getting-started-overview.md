@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Samenwerken in real-time" src="../assets/Collaborate_1280.png" />
+        <img alt="Samenwerken in real-time" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong> werk in echt samen - tijd </strong></a>
-      </div>
-      <em> Beweeg uw projecten vooruit door commentaren te verzamelen, op reacties samen te werken, en vooruitgang op uw documenten te volgen allen in real time, van overal </em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Opmerkingen over een PDF" src="../assets/Comment.jpg" />
+        <img alt="Opmerkingen over een PDF" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong> Commentaar op een PDF </strong></a>
-      </div>
-      <em> voeg commentaren aan een dossier van de PDF toe en deel het dan met anderen </em>
-      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Invulbare formulieren maken" src="../assets/Form_1280.png" />
+      <img alt="Invulbare formulieren maken" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong> creeer invulbare vormen </strong></a>
-    </div>
-    <em> verander een document dat in andere toepassing wordt gecreeerd in een invulbare vorm van de PDF </em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/FillSign_1280.png" />
+      <img alt="Een PDF-formulier invullen en ondertekenen" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong> PDF forms van Fill &amp; Sign </strong></a>
-    </div>
-    <em> Vul snel een vorm van de PDF in en onderteken </em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scan en OCR" src="../assets/Scan.jpg" />
+      <img alt="Scan en OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong> Scannen &amp; OCR </strong></a>
-    </div>
-    <em> verminder grote dossiers en optimaliseer uw PDF zonder kwaliteit voor het delen, het posten, of het archiveren </em> te compromitteren
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect een PDF-bestand met een wachtwoord" src="../assets/Protect.jpg" />
+      <img alt="Protect een PDF-bestand met een wachtwoord" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong> Protect een dossier van de PDF met een wachtwoord </strong></a>
-    </div>
-    <em> voeg een wachtwoord aan uw PDF toe om anderen te beschermen tegen het openen of het uitgeven van het dossier </em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Handtekeningen ophalen" src="../assets/Signatures_1280.png" />
+      <img alt="Handtekeningen ophalen" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong> krijg handtekeningen </strong></a>
-    </div>
-    <em> Houd zaken zich beweegt door juridisch bindende elektronische handtekeningen van anderen te verzamelen - van overal </em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Uw documenten volgen" src="../assets/Track_1280.png" />
+      <img alt="Uw documenten volgen" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong> spoor uw documenten </strong></a>
-    </div>
-    <em> weet altijd welke dossiers op handtekeningen wachten en die </em> zijn ondertekend
-    <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
