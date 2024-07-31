@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -31,65 +31,113 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
     <a href="bookmarks.md">
       <img alt="Bladwijzers en hyperlinks toevoegen" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong> Toevoegend referenties en hyperlinks </strong></a>
+      </div>
+      Bladwijzers en hyperlinks toevoegen voor betere navigatie
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Gescande documenten optimaliseren" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong> optimaliseer gescande documenten </strong></a>
+      </div>
+      Leer hoe u gescande documenten kunt verbeteren
   </td>
   <td>
     <a href="custom.md">
       <img alt="Aangepaste opdrachten en gereedschappen" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong> de Bevelen en de Hulpmiddelen van de Douane </strong></a>
+      </div>
+      Leer hoe u de efficiëntie van de documentworkflow kunt verbeteren
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Geavanceerde formuliervelden" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong> Geavanceerde vormgebieden </strong></a>
+      </div>
+      Leer hoe u geavanceerde formuliervelden maakt
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF voor SEO (Search Engine Optimization)" src="../assets/seo.png" />
+      <img alt="Optimize PDF voor SEO" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong> Optimize PDF voor SEO </strong></a>
+      </div>
+      Een PDF optimaliseren voor SEO (Search Engine Optimization)
   </td>
   <td>
     <a href="workforms.md">
       <img alt="Werken met formuliervelden" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong> Werk met vormgebieden </strong></a>
+      </div>
+      Leer hoe u verschillende typen formuliervelden en eigenschappen kunt toevoegen
   </td>
   <td>
     <a href="enhance.md">
       <img alt="Verbeter je PDF" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong> verbeter uw PDF </strong></a>
+      </div>
+      Leer hoe je je PDF transformeert
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Verschillen tussen twee PDF detecteren" src="../assets/compare.png" />
+      <img alt="Verschillen tussen twee PDF vaststellen" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong> Detecteer verschillen tussen twee PDF </strong></a>
+      </div>
+      Snel de verschillen tussen twee PDF-bestanden detecteren
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong> Action Wizard </strong></a>
+      </div>
+      Leer hoe u de efficiëntie kunt verbeteren met behulp van handelingen
   </td>
   <td>
     <a href="redact.md">
       <img alt="Redigeren en ontsmetten" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong> redigeren en ontsmetten </strong></a>
+      </div>
+      Leer hoe u gevoelige informatie permanent kunt verwijderen
   </td>
  <td>
     <a href="reduce.md">
       <img alt="Bestanden verkleinen en optimaliseren" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong> Verminder dossiergrootte &amp; optimaliseer </strong></a>
+      </div>
+      Grote bestanden verkleinen zonder kwaliteitsverlies
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="Werken met formuliergegevens" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong> Werk met vormgegevens </strong></a>
+      </div>
+      Leer hoe u formuliergegevens kunt compileren
   </td>
 </tr>
 <tr>
@@ -97,11 +145,19 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
     <a href="accessibility.md">
       <img alt="Toegankelijkheid PDF controleren" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong> Toegankelijkheid van de Controle PDF </strong></a>
+      </div>
+      Leer hoe je kunt controleren of je PDF algemeen toegankelijk is
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Toegankelijke PDF-bestanden voorbereiden" src="../assets/accessibility-series.png" />
+      <img alt="Acrobat Accessibility Series" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong> de Reeks van de Toegankelijkheid van Acrobat </strong></a>
+      </div>
+      Reeks toegankelijkheidsopties op aanvraag voor PDF met zes sessies
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />

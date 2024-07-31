@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong> de grondbeginselen van de Werkruimte </strong></a>
     </div>
-    Leer bestanden en tools te openen op desktop, internet en mobiele apparaten
+    Leer de basisbeginselen van de Acrobat-werkruimte
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="ai-assistant.md"><strong> Ontdek de inzichten van de PDF met de Medewerker van AI </strong></a>
     </div>
-    Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
+    Krijg inzichten uit je PDF-bestanden met behulp van de AI Assistant
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="acrobatweb.md"><strong> Werk overal met het Web van Acrobat </strong></a>
     </div>
-    Leer hoe u vanaf elke locatie zakelijke documentverzoeken kunt verwerken
+    Leer vanaf elke locatie werken
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="productivity.md"><strong> Productiviteit op de weg </strong></a>
     </div>
-    Leer hoe je meer kunt doen, rechtstreeks vanaf je tablet of mobiele telefoon
+    Leer meer te doen vanaf je tablet of mobiele telefoon
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong> Werk met Microsoft 365 </strong></a>
       </div>
-      Leer hoe je probleemloos werkt met PDF-bestanden, rechtstreeks in Microsoft 365
+      Werk naadloos met PDF-bestanden, rechtstreeks in Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="where-do-pdfs-come-from.md"><strong> waar komen PDF uit?</strong></a>
       </div>
-      Ontdek waar PDF vandaan komen en hoe je ze gebruikt in digitale workflows
+      Ontdek waar PDF vandaan komen en hoe je ze kunt gebruiken
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="create-pdf.md"><strong> creeer PDF dossiers </strong></a>
       </div>
-      Leer hoe u PDF kunt maken van alle verschillende typen documenten
+      PDF maken van alle verschillende typen documenten
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="combine-to-pdf.md"><strong> combineer dossiers in één enkele PDF </strong></a>
       </div>
-      Leer hoe u naadloos veel verschillende bestandstypen kunt combineren tot één PDF
+      Combineer naadloos veel verschillende bestandstypen tot één PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="edit-pdf.md"><strong> geef tekst in a PDF </strong></a> uit
       </div>
-      Leer hoe u woorden, woordgroepen of zelfs hele pagina's in uw PDF kunt bewerken
+      Bewerk woorden, woordgroepen of zelfs hele pagina's in je PDF
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="export-pdf.md"><strong> zet PDF in verschillende dossierformaten </strong></a> om
       </div>
-      Leer hoe u uw PDF-bestanden omzet in verschillende bestandsindelingen
+      Zet uw PDF-bestanden om in verschillende bestandsindelingen
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
       <div>
       <a href="comment-on-pdf-files.md"><strong> Commentaar op een PDF </strong></a>
       </div>
-      Leer hoe u opmerkingen toevoegt aan een PDF-bestand en het bestand vervolgens deelt met anderen
+      Opmerkingen toevoegen en vervolgens uw PDF delen met anderen
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="scan-and-ocr.md"><strong> Scannen &amp; OCR </strong></a>
     </div>
-    Scans of afbeeldingen van documenten omzetten in doorzoekbare, bewerkbare PDF-bestanden
+    Scans of afbeeldingen omzetten in doorzoekbare, bewerkbare PDF-bestanden
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="signatures.md"><strong> krijg handtekeningen </strong></a>
     </div>
-    Houd je bedrijf gaande door juridisch bindende elektronische handtekeningen te verzamelen
+    Leer hoe je juridisch bindende elektronische handtekeningen kunt verzamelen
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     <div>
     <a href="track.md"><strong> spoor uw documenten </strong></a>
     </div>
-    Leer hoe u uw documenten voor elektronische handtekeningen kunt bijhouden en beheren
+    Uw documenten voor elektronische handtekeningen bijhouden en beheren
     <br>
   </td>
   <td>
