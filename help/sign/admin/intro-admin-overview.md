@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '522'
+ht-degree: 2%
 
 ---
 
@@ -21,12 +21,12 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 ## Nieuw
 
-* [In bulk verzenden](../sign-advanced-users/megasign.md)
+* [ de rapporten van de Controle ](audit-reports.md)
+Leer hoe u controlerapporten kunt openen, gebruiken en configureren om aan de behoeften van uw organisatie te voldoen
+* [ verzend in bulk ](../sign-advanced-users/megasign.md)
 Leer hoe je in een paar korte stappen duizenden handtekeningen tegelijk verzamelt voor elk document
-* [Rapportopties](report-options.md)
+* [ opties van het Rapport ](report-options.md)
 Leer hoe u rapportopties instelt voor gebruikers
-* [Gebruikers toevoegen](add-users-to-your-account.md)
-Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
 
 ## Aan de slag
 
@@ -37,9 +37,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Aan de slag voor nieuwe beheerders" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>Aan de slag voor nieuwe beheerders</strong></a>
+    <a href="get-started-admin.md"><strong> Aan de slag voor nieuwe beheerders </strong></a>
     </div>
-    <em>In deze uitgebreide videohandleiding leert u alles over alle tools die nodig zijn om uw organisatie aan de slag te krijgen met Acrobat Sign</em>
+    <em> in deze uitvoerige videogids, leer over alle hulpmiddelen noodzakelijk om uw organisatie in gebruik te krijgen met Acrobat Sign </em>
     <br>
   </td>
   <td>
@@ -47,9 +47,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Aan de slag voor beheerders" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Aan de slag voor beheerders</strong></a>
+    <a href="up-and-running-admin.md"><strong> in gebruik voor Beheerders </strong></a>
     </div>
-    <em>Overzicht van 7 belangrijke gebieden waarop beheerders snel aan de slag kunnen in Acrobat Sign</em>
+    <em> Overzicht van 7 zeer belangrijke gebieden voor beheerders om in Acrobat Sign snel op te staan en in werking te stellen </em>
     <br>
   </td>
   <td>
@@ -57,9 +57,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Meldingen voor gebeurtenissen en waarschuwingen configureren</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong> vorm berichten voor gebeurtenissen en alarm </strong></a>
     </div>
-    <em>Meldingen voor gebeurtenissen en waarschuwingen voor uw account configureren</em>
+    <em> vorm berichten voor gebeurtenissen en alarm voor uw rekening </em>
     <br>
   </td>
   <td>
@@ -67,9 +67,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Gebruikers toevoegen" src="../assets/Adding-Users.png" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Gebruikers toevoegen</strong></a>
+    <a href="add-users-to-your-account.md"><strong> Toevoegend gebruikers </strong></a>
     </div>
-    <em>Gebruikers voor Acrobat Sign toevoegen en beheren</em>
+    <em> voeg en beheer gebruikers voor Acrobat Sign toe </em>
     <br>
   </td>
 </tr>
@@ -79,9 +79,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
     </a>
     <div>
-    <a href="create-and-manage-groups.md"><strong>Groepen maken en beheren</strong></a>
+    <a href="create-and-manage-groups.md"><strong> het Creëren en het leiden groepen </strong></a>
     </div>
-    <em>Groepen maken, gebruikers toevoegen aan groepen en groepsinstellingen bewerken</em>
+    <em> creeer groepen, voeg gebruikers aan groepen toe, en geef groepsmontages uit </em>
     <br>
   </td>
   <td>
@@ -89,9 +89,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een extern archief instellen" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Een extern archief instellen</strong></a>
+    <a href="set-up-your-external-archive.md"><strong> Vestiging een extern archief </strong></a>
     </div>
-    <em>Een extern archief maken voor reservekopieën van ondertekende overeenkomsten</em>
+    <em> creeer een extern archief voor reserveexemplaren van overeenkomsten die zijn ondertekend </em>
     <br>
   </td>
   <td>
@@ -99,9 +99,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een documentsjabloon maken" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Een documentsjabloon maken</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong> Creërend een documentmalplaatje </strong></a>
     </div>
-    <em>Maak een herbruikbare documentsjabloon voor snelheid en consistentie</em>
+    <em> creeer een herbruikbaar documentmalplaatje voor snelheid en consistentie </em>
     <br>
   </td>
   <td>
@@ -109,9 +109,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een rapportdiagram maken" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Een rapportdiagram maken</strong></a>
+    <a href="create-a-report.md"><strong> Creërend een rapportgrafiek </strong></a>
     </div>
-    <em>Leer hoe je eigen aangepaste rapporten en dataexports bouwt, opslaat en beheert</em>
+    <em> Leer om, uw eigen douanerapporten en gegevensuitvoer te bouwen te bewaren en te beheren </em>
     <br>
   </td>
 </tr>
@@ -121,9 +121,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Rapportopties voor gebruikers" src="../assets/report-options.png" />
     </a>
     <div>
-    <a href="report-options.md"><strong>Rapportopties voor gebruikers</strong></a>
+    <a href="report-options.md"><strong> opties van het Rapport voor gebruikers </strong></a>
     </div>
-    <em>Leer hoe u rapportopties instelt voor gebruikers</em>
+    <em> Leer hoe te opties van het opstellingsrapport voor gebruikers </em>
     <br>
   </td>
   <td>
@@ -131,9 +131,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een webformulier maken" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Een webformulier maken</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong> Creërend een Webvorm </strong></a>
     </div>
-    <em>Een document maken dat elektronisch kan worden ondertekend, rechtstreeks op uw website</em>
+    <em> creeer een document dat elektronisch op uw website </em> kan worden ondertekend
     <br>
   </td>
   <td>
@@ -141,9 +141,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een bestaand webformulier wijzigen" src="../assets/Modifywebform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/modify-webform.md"><strong>Een bestaand webformulier wijzigen</strong></a>
+    <a href="../sign-advanced-users/modify-webform.md"><strong> wijzig een bestaand Webvorm </strong></a>
     </div>
-    <em>Leer hoe u een bestaand webformulier kunt uitschakelen, bewerken en opnieuw inschakelen</em>
+    <em> Leer om, een bestaande Webvorm onbruikbaar te maken uit te geven en re-toe te laten </em>
     <br>
   </td>
   <td>
@@ -151,9 +151,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="In bulk verzenden" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>In bulk verzenden</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong> verzend in bulk </strong></a>
     </div>
-    <em>Verzamel duizenden handtekeningen tegelijk voor elk document</em>
+    <em> verzamel duizenden handtekeningen in één keer voor om het even welk document </em>
     <br>
   </td>
 </tr>
@@ -163,14 +163,19 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Een workflow instellen" src="../assets/BuildingWorkflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Een workflow instellen</strong></a>
+    <a href="building-a-custom-workflow.md"><strong> Vestiging een werkschema </strong></a>
     </div>
-    <em>Automatiseer documentworkflows om snel elektronische handtekeningen en data te verkrijgen</em>
+    <em> automatiseer documentworkflows om elektronische handtekeningen en gegevens snel te krijgen </em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Controlerapporten" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong> de rapporten van de Controle </strong></a>
+    </div>
+    <em> Leer om tot controlerapporten toegang te hebben, te gebruiken en te vormen </em>
     <br>
   </td>
   <td>
@@ -194,9 +199,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Algemene instellingen" src="../assets/GlobalSettings_1280.png">
     </a>
     <div>
-    <a href="learn-about-global-settings.md"><strong>Algemene instellingen</strong></a>
+    <a href="learn-about-global-settings.md"><strong> Globale montages </strong></a>
     </div>
-    <em>Productinstellingen globaal bewerken voor uw hele organisatie of voor specifieke groepen</em>
+    <em> geef globaal productmontages voor uw volledige organisatie of voor specifieke groepen uit </em>
     <br>
   </td>
   <td>
@@ -204,9 +209,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Toegang tot accounts delen" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Toegang tot accounts delen</strong></a>
+    <a href="share-account-access.md"><strong> het Delen van accounttoegang </strong></a>
     </div>
-    <em>Alleen-weergeven toegang tot transacties in een account van een andere gebruiker instellen</em>
+    <em> opstelling mening-slechts toegang tot transacties in de rekening van een andere gebruiker </em>
     <br>
   </td>
   <td>
@@ -214,9 +219,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Geavanceerde deelfuncties voor accounts" src="../assets/AdvancedSharing_1280.png" />
     </a>
     <div>
-    <a href="advanced-account-sharing.md"><strong>Geavanceerde deelfuncties voor accounts</strong></a>
+    <a href="advanced-account-sharing.md"><strong> Geavanceerd account delend </strong></a>
     </div>
-    <em>Stel het delen van accounts in zodat beheerders en gebruikers hun machtigingen voor verzenden, wijzigen en bekijken kunnen delegeren</em>
+    <em> de rekening die van de opstelling het delen om beheerders en gebruikers toe te staan om hun te delegeren verzenden, wijzigen, en meningstoestemmingen </em>
     <br>
   </td>
   <td>
@@ -224,9 +229,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Bio-Pharma-instellingen gebruiken" src="../assets/Bio_1280.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-instellingen gebruiken</strong></a>
+    <a href="use-bio-pharma-settings.md"><strong> Gebruikend Bio-Pharma montages </strong></a>
     </div>
-    <em>Stel Bio-pharma-instellingen in waarmee u kunt voldoen aan de vereisten voor FDA 21 CFR Part 11</em>
+    <em> opstelling Bio-pharma montages die u toestaan om FDA 21 CFR Deel 11 vereisten </em> te voldoen
     <br>
   </td> 
 </tr>
@@ -236,9 +241,9 @@ Leer hoe u gebruikers voor Acrobat Sign kunt toevoegen en beheren
       <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-tekstlabels</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong> Tekst Tagging van Acrobat Sign </strong></a>
     <div>
-    <em>Acrobat Sign-formuliervelden maken met tekstlabels met Adobe Acrobat</em>
+    <em> bouw de vormgebieden van Acrobat Sign door tekst het etiketteren gebruikend Adobe Acrobat </em>
     <br>
   </td>
   <td>

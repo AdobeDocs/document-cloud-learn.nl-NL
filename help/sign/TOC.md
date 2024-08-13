@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 7%
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Beheren {#getting-started-managing}
       + [Uw overeenkomsten beheren en volgen](sign-beginner-tutorials/manage-and-track.md)
-      + [Een documentsjabloon maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [ Creërend een documentmalplaatje ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](sign-advanced-users/advanced-users-overview.md)
    + Verzenden {#advanced-tasks-sending}
@@ -54,16 +54,16 @@ ht-degree: 7%
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Formuliergegevens beheren](sign-advanced-users/manage-form-data.md)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
-      + [In bulk verzenden](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [Een webformulier maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign-tekstlabels](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-      + [Tekstlabels gebruiken in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
+      + [ verzend in bulk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [ Creërend een Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [ Tekst Tagging van Acrobat Sign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Tekstlabels gebruiken in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheren {#advanced-tasks-managing}
       + [Een rapport maken](sign-advanced-users/creating-a-report.md)
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
-+ Administer {#admin-set-up}
++ Beheren {#admin-set-up}
    + [Overzicht](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor nieuwe beheerders](admin/get-started-admin.md)
@@ -76,9 +76,10 @@ ht-degree: 7%
       + [Een rapportdiagram maken](admin/create-a-report.md)
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
-      + [Een bestaand webformulier wijzigen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [ wijzig een bestaand Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [In bulk verzenden](sign-advanced-users/megasign.md)
       + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
+      + [Controlerapporten](admin/audit-reports.md)
    + Geavanceerde taken {#advanced-tasks-admins}
       + [Algemene instellingen](admin/learn-about-global-settings.md)
       + [Toegang tot accounts delen](admin/share-account-access.md)
@@ -90,7 +91,7 @@ ht-degree: 7%
    + Aadhaar {#aadhaar}
       + [Ondertekenen met Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Registreren en ondertekenen met [!DNL Digidentity]](digitalid/digidentity-sign.md)
+      + [Registreren en ondertekenen met  [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registreren en ondertekenen met [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
@@ -100,38 +101,38 @@ ht-degree: 7%
 + Integraties {#integrations}
    + [Overzicht](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Invullen en ondertekenen [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Verzenden ter ondertekening in [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
-      + [Verzenden ter ondertekening in [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Bijhouden in [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Een webformulier integreren met [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
-      + [Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Documentautomatisering met Acrobat Sign voor [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
-      + [Verzenden ter ondertekening in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
-      + [Maak een eenvoudige workflow in [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
-      + [Een geavanceerde workflow maken in [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
+      + [Invullen en ondertekenen  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Verzenden ter ondertekening in  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Verzenden ter ondertekening in  [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Tekstspatiëring in  [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Een webformulier integreren met  [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
+      + [Auto archivedossiers in  [!DNL SharePoint]  met  [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
+      + [Documentautomatisering met Acrobat Sign for  [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Verzenden ter ondertekening in  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [ Levend Teken in Adobe Acrobat Sign voor  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [Documenten, tabintegratie voor  [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
+      + [Een eenvoudige workflow maken in  [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+      + [Een geavanceerde workflow maken in  [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] voor klantenservice](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] voor Field Service](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] voor verkoop](integrations/dynamics-sales.md)
-   + notariseren {#notarize}
+   + Notarize {#notarize}
       + [Documenten verzenden voor notariatie](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder voor [!DNL Salesforce]](integrations/create-an-agreement-template.md)
+      + [Document Builder for  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
       + [Samenvoegingstoewijzing instellen](integrations/set-up-merging-map.md)
       + [Een aangepaste knop maken](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Acrobat Sign configureren met [!DNL Workday]](integrations/workday.md)
+      + [Het vormen Acrobat Sign met  [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday nieuwe werving](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Meldingen verzenden met Acrobat Sign for [!DNL Salesforce] en Marketo](integrations/marketo-salesforce-sms.md)
-      + [Herinneringen verzenden met Acrobat Sign voor [!DNL Salesforce] en Marketo-videozelfstudie](integrations/marketo-salesforce-reminder-video.md)
-      + [Herinneringen verzenden met Acrobat Sign voor [!DNL Salesforce] en Marketo-configuratiegids](integrations/marketo-salesforce-reminder.md)
-      + [Meldingen verzenden met Acrobat Sign for [!DNL Microsoft Dynamics] en Marketo](integrations/marketo-dynamics-sms.md)
-      + [Herinneringen verzenden met Acrobat Sign voor [!DNL Microsoft Dynamics 365] en Marketo](integrations/marketo-dynamics-reminder.md)
-+ Industrie en diensten {#expand}
+      + [Verzend berichten gebruikend Acrobat Sign voor  [!DNL Salesforce]  en Marketo](integrations/marketo-salesforce-sms.md)
+      + [Verzend herinneringen gebruikend Acrobat Sign voor  [!DNL Salesforce]  en Marketo videoleerprogramma&#39;s](integrations/marketo-salesforce-reminder-video.md)
+      + [Verzend herinneringen gebruikend Acrobat Sign voor  [!DNL Salesforce]  en de configuratiegids van Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Verzend berichten gebruikend Acrobat Sign voor  [!DNL Microsoft Dynamics]  en Marketo](integrations/marketo-dynamics-sms.md)
+      + [Verzend herinneringen gebruikend Acrobat Sign voor  [!DNL Microsoft Dynamics 365]  en Marketo](integrations/marketo-dynamics-reminder.md)
++ Sectoren en afdelingen {#expand}
    + [Overzicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
