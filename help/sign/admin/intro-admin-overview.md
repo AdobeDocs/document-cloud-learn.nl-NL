@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 ## Nieuw
 
+* [ hoe te opstellingsprivacybeheerders ](privacy.md)
+Leer hoe u privacybeheerders instelt en gebruikt
+* [ Bulk het hulpmiddel van de Download ](bulk-download-tool.md)
+Leer hoe u met het gereedschap Bulkdownload snel al uw ondertekende overeenkomsten kunt downloaden
 * [ de rapporten van de Controle ](audit-reports.md)
 Leer hoe u controlerapporten kunt openen, gebruiken en configureren om aan de behoeften van uw organisatie te voldoen
-* [ verzend in bulk ](../sign-advanced-users/megasign.md)
-Leer hoe je in een paar korte stappen duizenden handtekeningen tegelijk verzamelt voor elk document
-* [ opties van het Rapport ](report-options.md)
-Leer hoe u rapportopties instelt voor gebruikers
+
 
 ## Aan de slag
 
@@ -225,13 +226,13 @@ Leer hoe u rapportopties instelt voor gebruikers
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Bio-Pharma-instellingen gebruiken" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Bulkdownload" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong> Gebruikend Bio-Pharma montages </strong></a>
+    <a href="bulk-download-tool.md"><strong> Bulk het hulpmiddel van de Download </strong></a>
     </div>
-    <em> opstelling Bio-pharma montages die u toestaan om FDA 21 CFR Deel 11 vereisten </em> te voldoen
+    <em> Leer hoe te om het Bulk hulpmiddel van de Download te gebruiken om al uw ondertekende overeenkomsten snel te downloaden </em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Leer hoe u rapportopties instelt voor gebruikers
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Bio-Pharma-instellingen gebruiken" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong> Gebruikend Bio-Pharma montages </strong></a>
+    </div>
+    <em> opstelling Bio-pharma montages die u toestaan om FDA 21 CFR Deel 11 vereisten </em> te voldoen
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Privacybeheerder instellen" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong> hoe te opstellingsprivacybeheerders </strong></a>
+    </div>
+    <em> Leer hoe te opstelling en privacybeheerders te gebruiken </em>
     <br>
   </td>
   <td>
