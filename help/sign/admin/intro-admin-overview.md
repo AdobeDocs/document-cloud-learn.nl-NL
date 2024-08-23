@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ Leer hoe u controlerapporten kunt openen, gebruiken en configureren om aan de be
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Een rapportdiagram maken" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Rapportage en transactiegebruik" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong> Creërend een rapportgrafiek </strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong> Meldend en transactieverbruik </strong></a>
     </div>
-    <em> Leer om, uw eigen douanerapporten en gegevensuitvoer te bouwen te bewaren en te beheren </em>
+    <em> Leer hoe te om rapporten te produceren en transactiegebruik te volgen </em>
     <br>
   </td>
 </tr>

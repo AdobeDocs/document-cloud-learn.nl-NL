@@ -1,22 +1,22 @@
 ---
-title: Een rapport maken
-description: Leer hoe u uw eigen rapporten kunt maken om meer inzicht te krijgen in het proces voor het ondertekenen van documenten
+title: Rapportage- en transactiegebruik
+description: Leer hoe je rapporten genereert en transactieverbruik bijhoudt
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Een rapport maken
+# Rapportage en transactiegebruik
 
-Leer hoe u uw eigen rapporten kunt samenstellen om meer inzicht te krijgen in het ondertekeningsproces van uw document, of hoe afzonderlijke groepen of gebruikers dat doen.
+Leer hoe u rapporten genereert en transactieverbruik bijhoudt. Deze rapporten kunnen informatie bevatten zoals het percentage overeenkomsten dat is ondertekend of de gemiddelde tijd die nodig is om te ondertekenen. Door rapporten te genereren en het gebruik van documenten te volgen, krijgt u inzicht in uw processen voor het ondertekenen van documenten.
 
 >[!NOTE]
 >

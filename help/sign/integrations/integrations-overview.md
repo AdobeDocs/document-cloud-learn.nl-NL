@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
-* [Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]
-* [Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering
-* [Maak een geavanceerde workflow met [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connectoren
+* [ de grote dossiers van de opstelling en pushtoewijzingen ](salesforce-large-files.md)
+Leer hoe u grote documenten instelt en overeenkomstservices pusht in Salesforce
+* [ opstelling automatische updates ](salesforce-automatic-updates.md)
+Leer hoe u uw account eenvoudig aan Salesforce kunt koppelen om automatische updates te ontvangen
+* [ het tabintegratie van Documenten voor  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+Leer hoe u documenten rechtstreeks vanuit het tabblad Documenten kunt verzenden ter ondertekening in [!DNL Microsoft Teams]
 
 ## Zelfstudies voor Microsoft-integraties
 
@@ -42,9 +42,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Invullen en ondertekenen in Microsoft Outlook" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Invullen en ondertekenen in Microsoft Outlook</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong> het Vullen en het ondertekenen in de Vooruitzichten van Microsoft </strong></a>
     </div>
-    <em>Een formulier rechtstreeks invullen en ondertekenen in Microsoft Outlook</em>
+    <em> Vul een vorm in en onderteken direct binnen Microsoft Outlook </em>
     <br>
   </td>
   <td>
@@ -52,9 +52,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Verzenden ter ondertekening in Outlook" src="../assets/MS-SendOutlook.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-outlook.md"><strong>Verzenden ter ondertekening in Outlook</strong></a>
+    <a href="send-for-signature-with-outlook.md"><strong> verzend voor handtekening in Vooruitzichten </strong></a>
     </div>
-    <em>Een document rechtstreeks verzenden ter ondertekening in Microsoft Outlook</em>
+    <em> verzend een document voor handtekening direct binnen de Vooruitzichten van Microsoft </em>
     <br>
   </td>
   <td>
@@ -62,9 +62,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Verzenden ter ondertekening in SharePoint Online" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>Verzenden ter ondertekening in SharePoint Online</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong> verzend voor handtekening in SharePoint Online </strong></a>
     </div>
-    <em>Een document rechtstreeks verzenden ter ondertekening binnen SharePoint Online</em>
+    <em> verzend een document voor handtekening direct binnen SharePoint Online </em>
     <br>
   </td>
    <td>
@@ -72,9 +72,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Tekstspatiëring in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tekstspatiëring in SharePoint Online</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong> het Volgen in SharePoint Online </strong></a>
     </div>
-    <em>De voortgang van een overeenkomst rechtstreeks volgen in Microsoft Sharepoint</em>
+    <em> spoor de vooruitgang van een overeenkomst direct binnen Microsoft Sharepoint </em>
     <br>
   </td>
 </tr>
@@ -84,9 +84,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Een webformulier integreren met [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>Een webformulier integreren met [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong> Integreer een webformulier met [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan een [!DNL SharePoint] list</em>
+    <em> Leer hoe te om gegevens in kaart te brengen die van een Webvorm in een [!DNL SharePoint] lijst </em> worden verzameld
     <br>
   </td>
   <td>
@@ -94,9 +94,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong> Bestanden automatisch archiveren in [!DNL SharePoint] met [!DNL Power Automate]</strong></a>
     </div>
-    <em>Leer hoe u ondertekende documenten automatisch kunt archiveren naar een [!DNL SharePoint] bibliotheek gebruiken [!DNL Power Automate]</em>
+    <em> Leer hoe u ondertekende documenten automatisch kunt archiveren naar een [!DNL SharePoint] -bibliotheek met [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -104,9 +104,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    <a href="documentautomation.md"><strong> Documentautomatisering met [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Leer hoe u de [!DNL Acrobat Sign] en [!DNL Adobe PDF Tools] connectoren voor [!DNL Microsoft Power] apps</em>
+    <em> Leer om [!DNL Acrobat Sign] en [!DNL Adobe PDF Tools] schakelaars voor [!DNL Microsoft Power] apps </em> te activeren en te gebruiken
     <br>
   </td>
    <td>
@@ -114,9 +114,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Documenten ter ondertekening verzenden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Verzenden ter ondertekening in [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong> Verzenden ter ondertekening in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Verzend documenten ter ondertekening, rechtstreeks vanuit [!DNL Microsoft Teams]</em>
+    <em> Verzend documenten ter ondertekening, rechtstreeks binnen [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -126,9 +126,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong> Live Sign in Adobe Acrobat Sign voor [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een [!DNL Microsoft Teams] vergadering</em>
+    <em> Leer hoe te om een online het ondertekenen ervaring tot stand te brengen die op persoonlijk het ondertekenen tijdens een [!DNL Microsoft Teams] vergadering </em> lijkt
     <br>
   </td>
    <td>
@@ -136,9 +136,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong> Integratie van het tabblad Documenten voor [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Leer hoe u documenten ter ondertekening rechtstreeks vanuit het tabblad Documenten kunt verzenden in [!DNL Microsoft Teams]</em>
+    <em> Leer hoe u documenten rechtstreeks vanuit het tabblad Documenten kunt verzenden ter ondertekening in [!DNL Microsoft Teams]</em>
     <br>
   </td>
  <td>
@@ -146,9 +146,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Creëer een eenvoudige workflow met Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Maak een eenvoudige workflow met [!DNL Power Automate]</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong> Een eenvoudige workflow maken met [!DNL Power Automate]</strong></a>
     </div>
-    <em>Leer hoe je een eenvoudige workflow maakt met [!DNL Power Automate] connectoren</em>
+    <em> Leer hoe te om een eenvoudig werkschema te creëren gebruikend [!DNL Power Automate] schakelaars </em>
     <br>
   </td>
   <td>
@@ -156,9 +156,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Maak een geavanceerde workflow met Power Automate" src="../assets/advanced-workflow.png" />
     </a>
     <div>
-    <a href="advanced-workflow-power-automate.md"><strong>Maak een geavanceerde workflow met Power Automate</strong></a>
+    <a href="advanced-workflow-power-automate.md"><strong> creeer een geavanceerde werkschema met Macht automatiseren </strong></a>
     </div>
-    <em>Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connectoren</em>
+    <em> Leer hoe te om een geavanceerde werkschema tot stand te brengen gebruikend [!DNL Power Automate] schakelaars </em>
     <br>
   </td>
 <tr>
@@ -167,9 +167,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
-    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    <a href="dynamics-customer-service.md"><strong> Dynamics 365 van Microsoft voor de Dienst van de Klant </strong></a>
     </div>
-    <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor klantenservice wordt gebruikt om de klanttevredenheid op een zelfservicewebportal voor klanten te verbeteren</em>
+    <em> Leer hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor de Dienst van de Klant worden gebruikt om klantentevredenheid op een zelfbedieningsWebportaal van de klant te verbeteren </em>
     <br>
   </td>
   <td>
@@ -177,9 +177,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
     </a>
     <div>
-    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    <a href="dynamics-field-service.md"><strong> Dynamics 365 van Microsoft voor de Dienst van het Gebied </strong></a>
     </div>
-    <em>Ontdek hoe Acrobat Sign [!DNL Power Automate], en [!DNL Microsoft Dynamics 365] voor Field Service worden gebruikt om on-site klantinteracties te stroomlijnen</em>
+    <em> Leer hoe Acrobat Sign, [!DNL Power Automate], en [!DNL Microsoft Dynamics 365] voor de Dienst van het Gebied worden gebruikt om klanten onsite overeenkomsten te stroomlijnen </em>
     <br>
   </td>
   <td>
@@ -187,9 +187,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
     </a>
     <div>
-    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    <a href="dynamics-sales.md"><strong> Dynamics 365 for Sales </strong></a>
     </div>
-    <em>Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Sales wordt gebruikt om het ondertekeningsproces voor verkoopoffertes te automatiseren</em>
+    <em> Leer hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Verkoop worden gebruikt om het het ondertekenen van het verkoopcitaat te automatiseren proces </em>
     <br>
   </td>
   <td>
@@ -209,9 +209,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Documenten verzenden voor notariatie" src="../assets/Notarize.png" />
     </a>
     <div>
-    <a href="send-document-notarize.md"><strong>Documenten verzenden voor notariatie</strong></a>
+    <a href="send-document-notarize.md"><strong> verzend documenten voor notariatie </strong></a>
     </div>
-    <em>Leer hoe u een document verzendt voor notarisering</em>
+    <em> Leer hoe te om een document voor notarization te verzenden </em>
     <br>
   </td>
   <td>
@@ -241,9 +241,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Document Builder voor [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Document Builder voor [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong> Document Builder voor [!DNL Salesforce]</strong></a>
     </div>
-    <em>Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor [!DNL Salesforce]</em>
+    <em> Leer hoe u een herbruikbare documentsjabloon maakt met Document Builder voor [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -251,9 +251,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Gegevenstoewijzing instellen" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>Gegevenstoewijzing instellen</strong></a>
+    <a href="set-up-data-mapping.md"><strong> de gegevenstoewijzing van de Opstelling </strong></a>
     </div>
-    <em>Gegevens weer in Salesforce opnemen nadat een overeenkomst is ondertekend</em>
+    <em> Trek gegevens terug in Salesforce nadat een overeenkomst is ondertekend </em>
     <br>
   </td>
   <td>
@@ -261,9 +261,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Samenvoegingstoewijzing instellen in Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Samenvoegingstoewijzing instellen in Salesforce</strong></a>
+    <a href="set-up-merging-map.md"><strong> het Toewijzen van de Fusie van de Opstelling in Salesforce </strong></a>
     </div>
-    <em>Leer hoe u gegevens rechtstreeks vanuit Salesforce kunt samenvoegen in een Acrobat Sign-document</em>
+    <em> Leer hoe te om gegevens van Salesforce direct in een document van Acrobat Sign samen te voegen </em>
     <br>
   </td>
   <td>
@@ -271,10 +271,42 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Een aangepaste knop maken" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>Een aangepaste knop maken</strong></a>
+    <a href="create-a-custom-button.md"><strong> Creërend een douaneknoop </strong></a>
     </div>
-    <em>Een aangepaste knop maken waarmee het verzendproces wordt gestart en automatisch een overeenkomst wordt ingevuld in Salesforce</em>
+    <em> creeer een douaneknoop die het verzendende proces begint en automatisch een overeenkomst binnen Salesforce bevolkt </em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Automatische updates instellen" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong> opstelling automatische updates </strong></a>
+    </div>
+    <em> Leer hoe te om uw rekening aan Salesforce gemakkelijk te verbinden om automatische updates te krijgen </em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Grote bestanden en pushtoewijzingen instellen" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong> de grote dossiers van de opstelling en pushtoewijzingen </strong></a>
+    </div>
+    <em> Leer hoe te opstelling grote documenten en de duw overeenkomstdiensten in Salesforce </em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>
@@ -288,9 +320,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Acrobat Sign + Workday nieuwe werving" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday nieuwe werving</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong> Acrobat Sign + Workday nieuwe huur onboarding </strong></a>
     </div>
-    <em>Leer hoe je onboarding-workflows stroomlijnt met Acrobat Sign + Workday</em>
+    <em> Leer hoe te om onboardingworkflows met Acrobat Sign + Workday te stroomlijnen </em>
     <br>
   </td>
  <td>
@@ -320,9 +352,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Meldingen verzenden met Acrobat Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Meldingen verzenden met Acrobat Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong> Verzend berichten gebruikend Acrobat Sign voor Salesforce en Marketo </strong></a>
     </div>
-    <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
+    <em> Leer hoe te om een tekstbericht, e-mail, of pushbericht te verzenden om de ondertekenaar te laten weten dat een overeenkomst op zijn weg is </em>
     <br>
   </td>
   <td>
@@ -330,9 +362,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Videozelfstudie om herinneringen te verzenden met Acrobat Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Videozelfstudie om herinneringen te verzenden met Adobe Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong> verzend herinneringen gebruikend Adobe Sign voor Salesforce en Marketo videozelfstudie </strong></a>
     </div>
-    <em>Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
+    <em> Leer hoe te om een e-mailherinnering van Marketo te verzenden wanneer een overeenkomst na een periode niet ondertekend </em> blijft
     <br>
   </td>
   <td>
@@ -340,9 +372,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Herinneringen verzenden met de configuratiegids Acrobat Sign for Salesforce en Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Herinneringen verzenden met de configuratiegids Acrobat Sign for Salesforce en Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong> verzend herinneringen gebruikend Acrobat Sign voor Salesforce en de configuratiegids van Marketo </strong></a>
     </div>
-    <em>Lees hoe u een e-mailherinnering van Marketo kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
+    <em> Lees hoe te om een e-mailherinnering van Marketo te verzenden wanneer een overeenkomst na een periode niet ondertekend </em> blijft
     <br>
   </td>
    <td>
@@ -350,9 +382,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong> verzend herinneringen gebruikend Acrobat Sign voor de Dynamica van Microsoft en Marketo </strong></a>
     </div>
-    <em>Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend</em>
+    <em> Leer hoe te om een e-mailherinnering te verzenden wanneer een overeenkomst na een periode niet ondertekend </em> blijft
     <br>
   </td>
 </tr>
@@ -362,9 +394,9 @@ Leer hoe u een geavanceerde workflow kunt maken met [!DNL Power Automate] connec
       <img alt="Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Meldingen verzenden met Acrobat Sign for Microsoft Dynamics en Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong> verzend berichten gebruikend Acrobat Sign voor de Dynamica van Microsoft en Marketo </strong></a>
     </div>
-    <em>Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is</em>
+    <em> Leer hoe te om een tekstbericht, e-mail, of pushbericht te verzenden om de ondertekenaar te laten weten dat een overeenkomst op zijn weg is </em>
     <br>
   </td>
   <td>

@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 7%
+source-wordcount: '538'
+ht-degree: 6%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [ Tekst Tagging van Acrobat Sign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Tekstlabels gebruiken in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheren {#advanced-tasks-managing}
-      + [Een rapport maken](sign-advanced-users/creating-a-report.md)
+      + [Rapportage en transactiegebruik](sign-advanced-users/creating-a-report.md)
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een sjabloon maken](sign-advanced-users/create-a-template.md)
-      + [Een rapportdiagram maken](admin/create-a-report.md)
+      + [ Meldend en transactieverbruik ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
       + [ wijzig een bestaand Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [Gegevenstoewijzing instellen](integrations/set-up-data-mapping.md)
       + [Samenvoegingstoewijzing instellen](integrations/set-up-merging-map.md)
       + [Een aangepaste knop maken](integrations/create-a-custom-button.md)
+      + [Automatische updates instellen](integrations/salesforce-automatic-updates.md)
+      + [Grote bestanden en pushtoewijzingen instellen](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [Het vormen Acrobat Sign met  [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday nieuwe werving](integrations/acrobat-sign-workday-onboarding.md)
