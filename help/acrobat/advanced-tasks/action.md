@@ -1,47 +1,29 @@
 ---
-title: Action Wizard
-description: Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden
+title: Handelingen met instructies
+description: Leer hoe u met één muisklik een of meer opdrachten kunt uitvoeren op meerdere documenten
 feature: Action
 role: User
 level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# Action Wizard
+# Handelingen met instructies
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Bespaar tijd en toetsaanslagen door een handeling te gebruiken om automatisch een set opdrachten toe te passen op een of meerdere bestanden.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe u met één klik een of meer opdrachten kunt uitvoeren op meerdere documenten, zodat u tijd en toetsaanslagen bespaart.
 
 >[!NOTE]
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-1. Selecteren **[!UICONTROL Action Wizard]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
-
-   ![Action Wizard Stap 1](../assets/ActionWizard_1.png)
-
-   Vooraf gedefinieerde handelingen worden weergegeven in het dialoogvenster **Handelingenlijst**.
-
-1. Selecteren **[!UICONTROL Nieuwe handeling]** in het bovenste menu om een aangepaste handeling te maken.
-
-   ![Action Wizard Stap 2](../assets/ActionWizard_2.png)
-
-1. Selecteer een taak in de lijst aan de linkerkant en selecteer vervolgens de middelste pijl om deze toe te voegen aan de rechterkolom in het dialoogvenster **[!UICONTROL Nieuwe handeling maken]** in.
-
-   *In dit dialoogvenster worden de instellingen voor elke taak vooraf bepaald. U kunt de gebruiker ook vragen de benodigde beslissingen te nemen tijdens het uitvoeren van de handeling.*
-
-   ![Action Wizard Stap 3](../assets/ActionWizard_3.png)
-
-1. Selecteren **[!UICONTROL Opslaan]** en geef de handeling een naam, zodat deze wordt weergegeven op de **[!UICONTROL Handelingenlijst]**.
-
-Nu kunt u de aangepaste handeling altijd uitvoeren wanneer u die specifieke reeks stappen wilt uitvoeren op een of meer PDF-bestanden.
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van de cursus [ Werk slimmer met Acrobat DC en Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat voor vrij op Experience League beschikbaar is!

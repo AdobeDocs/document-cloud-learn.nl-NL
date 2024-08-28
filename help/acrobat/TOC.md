@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [Werken met formuliervelden](advanced-tasks/workforms.md)
    + [Verbeter je PDF](advanced-tasks/enhance.md)
    + [Verschillen tussen twee PDF vaststellen](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [Handelingen met instructies](advanced-tasks/action.md)
    + [Redigeren en ontsmetten](advanced-tasks/redact.md)
    + [Bestanden verkleinen en optimaliseren](advanced-tasks/reduce.md)
    + [Werken met formuliergegevens](advanced-tasks/formdata.md)

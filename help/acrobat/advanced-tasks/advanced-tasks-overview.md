@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken.
 
 ## Nieuw
+
+* [ Geleide acties ](action.md)
+Leer hoe u de efficiëntie kunt verbeteren met begeleide acties
 
 * [ Optimize PDF voor SEO (de Optimalisering van de Motor van het Onderzoek) ](optimizeseo.md)
 Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web
@@ -105,12 +108,12 @@ Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie va
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="Handelingen met instructies" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong> Action Wizard </strong></a>
+      <a href="action.md"><strong> Geleide acties </strong></a>
       </div>
-      Leer hoe u de efficiëntie kunt verbeteren met behulp van handelingen
+      Leer hoe u de efficiëntie kunt verbeteren met begeleide acties
   </td>
   <td>
     <a href="redact.md">
