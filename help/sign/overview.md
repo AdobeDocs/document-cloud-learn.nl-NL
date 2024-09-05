@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Aan de slag</strong></a>
       </div>
-      <em> krijg up-to-speed op om, documenten te verzenden te ondertekenen en te volgen </em>
+      Ga snel aan de slag met het verzenden, ondertekenen en volgen van documenten
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong> Geavanceerde taken </strong></a>
       </div>
-      <em> ga voorbij de grondbeginselen met specifieke taken en automatisering </em>
+      Ga verder dan de basisbeginselen met specifieke taken en automatisering
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="admin/intro-admin-overview.md"><strong> beheert </strong></a>
       </div>
-      <em> Basis aan geavanceerde opstellingstips voor uw organisatie </em>
+      Eenvoudige tot geavanceerde instellingstips voor uw organisatie
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
      <div>
       <a href="digitalid/digitalid-overview.md"><strong> Digitale identiteitskaart </strong></a>
       </div>
-      <em> Leer hoe te om digitale IDs van rond het woord in Acrobat Sign te gebruiken </em>
+      Leer hoe je digitale id’s van over het hele woord gebruikt in Acrobat Sign
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="integrations/integrations-overview.md"><strong> Integraties </strong></a>
       </div>
-      <em> voeg Acrobat Sign direct binnen andere toepassingen toe uw organisatie reeds </em> gebruikt
+      Voeg Acrobat Sign rechtstreeks toe binnen andere toepassingen die uw organisatie al gebruikt
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong> Industrieën en afdelingen </strong></a>
       </div>
-      <em> verken reëel-wereld industrie en de gevallen van het afdelingsgebruik </em>
+      Ontdek praktijkvoorbeelden van branche- en afdelingsgebruik
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="develop/develop-overview.md"><strong> ontwikkelt </strong></a>
       </div>
-      <em> krijg ontwikkelingsmiddelen op Acrobat Sign I/O </em>
+      Ontwikkelingsbronnen ophalen voor Acrobat Sign I/O
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="deploy-overview.md"><strong> stel </strong></a> op
       </div>
-      <em> Onderzoek en beste praktijken voor het opstellen van Acrobat Sign binnen uw organisatie </em>
+      Inzicht en best practices voor het implementeren van Acrobat Sign binnen je organisatie
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
       <a href="mobile/mobile-overview.md"><strong>Mobiel</strong></a>
       </div>
-      <em> verzend, onderteken, en krijg real-time updates op uw mobiele apparaat </em>
+      Verzend, onderteken en krijg real-time updates op je mobiele apparaat
       <br>
   </td>  
 </tr>
