@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,8 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 ## Nieuw
 
+* [ Hoe te om een gebruiker aan een admin rol ](promote-admin.md) te bevorderen
+Leer hoe u een gebruiker via de Admin Console promoot naar een Acrobat Sign-beheerdersrol
 * [ Hoe te om veelvoudige profielen ](multiple-profiles.md) te gebruiken
 Leer hoe u de profielkiezer kunt gebruiken om met meerdere Acrobat Sign-accounts te werken
 * [ hoe te opstellingsprivacybeheerders ](privacy.md)
@@ -189,8 +191,13 @@ Leer hoe u met het gereedschap Bulkdownload snel al uw ondertekende overeenkomst
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="Een gebruiker promoten naar een beheerdersrol" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong> Hoe te om een gebruiker aan een admin rol </strong></a> te bevorderen
+    </div>
+    <em> Leer hoe te om een gebruiker aan een Acrobat Sign adminrol te bevorderen gebruikend de Admin Console </em>
     <br>
   </td>
 </table>
