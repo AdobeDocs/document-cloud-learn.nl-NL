@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
+source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -36,7 +36,7 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
 
 >[!TAB  Ontdek de inzichten van de PDF met de Medewerker van AI ]
 
-Leer hoe je inzichten krijgt uit je PDF-bestanden met behulp van de AI Assistant.
+Leer hoe te om inzichten van uw PDF dossiers te verkrijgen gebruikend de [ Medewerker AI ](ai-assistant.md).
 
 >[!ENDTABS]
 
