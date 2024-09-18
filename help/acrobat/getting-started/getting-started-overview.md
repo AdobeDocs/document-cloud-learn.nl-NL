@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
+* [ Ontwerp een nieuwe pagina ](add-custom-page.md)
+Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt
 * [ geef grafiek in a PDF ](edit-graphics.md) uit
 Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF
 * [ Nieuwe werkruimteervaring ](new-workspace.md)
