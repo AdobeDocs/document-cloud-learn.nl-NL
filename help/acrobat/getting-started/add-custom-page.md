@@ -1,21 +1,21 @@
 ---
-title: Aangepaste pagina toevoegen
-description: Leer hoe u aangepaste pagina's aan uw PDF kunt toevoegen met de geïntegreerde Adobe Express-app
+title: Een nieuwe pagina ontwerpen
+description: Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-10836
 thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 5%
+source-wordcount: '65'
+ht-degree: 0%
 
 ---
 
-# Aangepaste pagina toevoegen
+# Een nieuwe pagina ontwerpen
 
-Leer hoe u aangepaste pagina&#39;s aan uw PDF kunt toevoegen met de geïntegreerde app Adobe Express, die duizenden sjablonen biedt waaruit u kunt kiezen. Deze videozelfstudie gebruikt de [nieuwe werkruimte-ervaring](new-workspace.md).
+Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt. Door een nieuwe pagina te ontwerpen, creëer je binnen enkele minuten professioneel ogende, merkgerichte content, die echt uit elkaar staat. Deze videoleerprogramma gebruikt de [ nieuwe werkruimteervaring ](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

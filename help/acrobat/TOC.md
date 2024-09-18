@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
-   + [Aangepaste pagina toevoegen](getting-started/add-custom-page.md)
+   + [Een nieuwe pagina ontwerpen](getting-started/add-custom-page.md)
    + [Tekst in een PDF bewerken](getting-started/edit-pdf.md)
    + [Afbeeldingen in een PDF bewerken](getting-started/edit-graphics.md)
    + [Deze PDF stileren](getting-started/stylize-this-PDF.md)

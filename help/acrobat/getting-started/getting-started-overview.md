@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -147,12 +147,12 @@ Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Aangepaste pagina toevoegen" src="../assets/custom.png" />
+        <img alt="Een nieuwe pagina ontwerpen" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong> voeg douanepagina </strong></a> toe
+      <a href="add-custom-page.md"><strong> Ontwerp een nieuwe pagina </strong></a>
       </div>
-      Leer hoe je aangepaste pagina’s toevoegt aan je PDF
+     Leer hoe je een nieuwe professioneel ogende pagina in je PDF maakt
       <br>
     </td>
   </tr>
