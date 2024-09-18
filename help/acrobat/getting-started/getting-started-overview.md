@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 ## Nieuw
 
-* [ Ontwerp een nieuwe pagina ](add-custom-page.md)
-Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt
-* [ geef grafiek in a PDF ](edit-graphics.md) uit
-Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF
-* [ Nieuwe werkruimteervaring ](new-workspace.md)
-Meer informatie over de nieuwe werkruimte in Acrobat waarmee u snel tools kunt vinden en uw PDF-taken efficiënt kunt voltooien
-* [ Ontdek de inzichten van de PDF met de Medewerker van AI ](ai-assistant.md)
-Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
+>[!BEGINTABS]
+
+>[!TAB  Ontwerp een nieuwe pagina ]
+
+Leer hoe te [ een nieuwe professioneel-kijkt pagina ](add-custom-page.md) in uw PDF ontwerpen gebruikend Adobe Express.
+
+>[!TAB  geef grafiek in a PDF ] uit
+
+Leer hoe te [, grafiek ](edit-graphics.md) in uw PDF creëren uit te geven en te verbeteren.
+
+>[!TAB  Nieuwe werkruimteervaring ]
+
+Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel hulpmiddelen ontdekken en uw PDF taken efficiënt voltooien.
+
+>[!TAB  Ontdek de inzichten van de PDF met de Medewerker van AI ]
+
+Leer hoe je inzichten krijgt uit je PDF-bestanden met behulp van de AI Assistant.
+
+>[!ENDTABS]
 
 ## Aan de slag - zelfstudies
 
