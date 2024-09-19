@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 
 ## Nieuw
 
-* [ Geleide acties ](action.md)
-Leer hoe u de efficiëntie kunt verbeteren met begeleide acties
+>[!BEGINTABS]
 
-* [ Optimize PDF voor SEO (de Optimalisering van de Motor van het Onderzoek) ](optimizeseo.md)
-Leer hoe je een PDF optimaliseert voor een verbeterde vindbaarheid en positie van zoekmachines op het web
+>[!TAB  Geleide acties ]
+
+Leer hoe te om efficiency te verbeteren gebruikend [ geleide acties ](action.md).
+
+>[!TAB  Optimize PDF voor SEO (de Optimalisering van de Motor van het Onderzoek) ]
+
+Leer hoe te [ optimaliseer een PDF ](optimizeseo.md) voor betere vindbaarheid en onderzoeksmotor het rangschikken op het Web.
+
+>[!ENDTABS]
 
 ## Zelfstudies voor geavanceerde taken
 

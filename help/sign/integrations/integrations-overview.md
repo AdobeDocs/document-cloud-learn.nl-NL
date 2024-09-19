@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 ## Nieuw
 
-* [ de grote dossiers van de opstelling en pushtoewijzingen ](salesforce-large-files.md)
-Leer hoe u grote documenten instelt en overeenkomstservices pusht in Salesforce
-* [ opstelling automatische updates ](salesforce-automatic-updates.md)
-Leer hoe u uw account eenvoudig aan Salesforce kunt koppelen om automatische updates te ontvangen
-* [ het tabintegratie van Documenten voor  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Leer hoe u documenten rechtstreeks vanuit het tabblad Documenten kunt verzenden ter ondertekening in [!DNL Microsoft Teams]
+>[!BEGINTABS]
+
+>[!TAB  de grote dossiers van de opstelling en pushtoewijzingen ]
+
+Leer hoe te opstelling [ grote documenten en duw de diensten van de overeenkomst ](salesforce-large-files.md) in Salesforce.
+
+>[!TAB  opstelling automatische updates ]
+
+Leer hoe te om uw rekening aan Salesforce gemakkelijk te verbinden om [ automatische updates ](salesforce-automatic-updates.md) te krijgen.
+
+>[!TAB  het tabintegratie van Documenten voor Microsoft Teams ]
+
+Leer hoe te om documenten uit voor handtekening direct van het [ lusje van Documenten ](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] te verzenden.
+
+>[!ENDTABS]
 
 ## Zelfstudies voor Microsoft-integraties
 

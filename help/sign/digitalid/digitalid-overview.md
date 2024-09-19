@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ Net als bij een paspoort in elektronische vorm, kunt u met een digitale id op ee
 
 ## Nieuw
 
-* [Registreren en ondertekenen met Digidentity](digidentity-sign.md)
-Leer hoe je je kunt registreren en gebruiken [!DNL Digidentity] digitale id met Acrobat Sign
-* [Registreren en ondertekenen met D-Trust](d-trust.md)
-Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign
+>[!BEGINTABS]
+
+>[!TAB  Register en teken gebruikend Digidentity ]
+
+Leer hoe u uw [[!DNL Digidentity]](digidentity-sign.md) digitale id registreert en gebruikt met Acrobat Sign.
+
+>[!TAB  Register en teken gebruikend D-Vertrouwen ]
+
+Leer hoe u uw identiteit registreert bij [[!DNL D-Trust]](d-trust.md) en vervolgens de [!DNL D-Trust] digitale handtekening gebruikt voor een document in Acrobat Sign.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +45,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Ondertekenen met [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>Ondertekenen met [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong> Ondertekenen met [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Leer hoe je je [!DNL Aadhaar] digitale id met Acrobat Sign</em>
+    <em> Leer hoe te om uw [!DNL Aadhaar] digitale identiteitskaart met Acrobat Sign </em> te gebruiken
     <br>
   </td>
   <td>
@@ -70,9 +77,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Registreren en ondertekenen met een [!DNL Digidentity] digitale id" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Registreren en ondertekenen met [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong> Registreren en ondertekenen met [!DNL Digidentity]</strong></a>
     </div>
-    <em>Leer hoe je je kunt registreren en gebruiken [!DNL Digidentity] digitale id met Acrobat Sign</em>
+    <em> Leer om uw [!DNL Digidentity] digitale identiteitskaart met Acrobat Sign </em> te registreren en te gebruiken
     <br>
   </td>
   <td>
@@ -102,9 +109,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Registreren en ondertekenen met D-Trust" src="assets/Dtrust.png" />
     </a>
     <div>
-    <a href="d-trust.md"><strong>Registreren en ondertekenen met D-Trust</strong></a>
+    <a href="d-trust.md"><strong> Register en teken gebruikend D-Vertrouwen </strong></a>
     </div>
-    <em>Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign</em>
+    <em> Leer hoe te om uw identiteit met [!DNL D-Trust] te registreren, en dan de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign te gebruiken </em>
     <br>
   </td>
   <td>
@@ -134,9 +141,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Een digitale id ophalen van Intesi Group (geavanceerd)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Een digitale id ophalen van [!DNL Intesi Group] (Geavanceerd)</strong></a>
+    <a href="intesi-advanced.md"><strong> krijg een digitale identiteitskaart van [!DNL Intesi Group] (Geavanceerd) </strong></a>
     </div>
-    <em>Leer hoe u een geavanceerd digitaal ondertekeningscertificaat kunt verkrijgen van [!DNL Intesi Group]</em>
+    <em> Leer hoe u een geavanceerd digitaal ondertekeningscertificaat kunt verkrijgen van [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -144,9 +151,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Een digitale id ophalen van [!DNL Intesi Group] (Gekwalificeerd)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Een digitale id ophalen van [!DNL Intesi Group] (Gekwalificeerd)</strong></a>
+    <a href="intesi-qualified.md"><strong> krijg een digitale identiteitskaart van [!DNL Intesi Group] (Gekwalificeerd) </strong></a>
     </div>
-    <em>Leer hoe u een gekwalificeerd digitaal ondertekeningscertificaat verkrijgt van [!DNL Intesi Group]</em>
+    <em> Leer hoe u een gekwalificeerd digitaal ondertekeningscertificaat verkrijgt van [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -154,9 +161,9 @@ Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolge
       <img alt="Ondertekenen met Intesi Group" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>Ondertekenen met [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong> Ondertekenen met [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Leer hoe je je [!DNL Intesi Group] digitale id met Acrobat Sign</em>
+    <em> Leer hoe te om uw [!DNL Intesi Group] digitale identiteitskaart met Acrobat Sign </em> te gebruiken
     <br>
   </td>
   <td>

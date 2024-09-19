@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 ## Nieuw
 
-* [ Hoe te om een gebruiker aan een admin rol ](promote-admin.md) te bevorderen
-Leer hoe u een gebruiker via de Admin Console promoot naar een Acrobat Sign-beheerdersrol
-* [ Hoe te om veelvoudige profielen ](multiple-profiles.md) te gebruiken
-Leer hoe u de profielkiezer kunt gebruiken om met meerdere Acrobat Sign-accounts te werken
-* [ hoe te opstellingsprivacybeheerders ](privacy.md)
-Leer hoe u privacybeheerders instelt en gebruikt
-* [ Bulk het hulpmiddel van de Download ](bulk-download-tool.md)
-Leer hoe u met het gereedschap Bulkdownload snel al uw ondertekende overeenkomsten kunt downloaden
+>[!BEGINTABS]
+
+>[!TAB  Hoe te om een gebruiker aan een admin rol ] te bevorderen
+
+Leer hoe te [ een gebruiker ](promote-admin.md) aan een Acrobat Sign adminrol bevorderen gebruikend de Admin Console.
+
+>[!TAB  Hoe te om veelvoudige profielen ] te gebruiken
+
+Leer hoe te om de [ profielkiezer ](multiple-profiles.md) te gebruiken om met veelvoudige rekeningen van Acrobat Sign te werken.
+
+>[!TAB  hoe te opstellingsprivacybeheerders ]
+
+Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
+
+>[!TAB  Bulk het hulpmiddel van de Download ]
+
+Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te gebruiken om al uw ondertekende overeenkomsten snel te downloaden.
+
+>[!ENDTABS]
 
 ## Aan de slag
 

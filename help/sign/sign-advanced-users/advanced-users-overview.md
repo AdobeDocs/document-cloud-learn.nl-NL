@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 ## Nieuw
 
-* [ verzend in bulk ](megasign.md)
-Leer hoe je in een paar korte stappen duizenden handtekeningen tegelijk verzamelt voor elk document
-* [ methodes van de Authentificatie in Acrobat Sign ](authentication-methods.md)
-Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent
+>[!BEGINTABS]
+
+>[!TAB  verzend in bulk ]
+
+Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
+
+>[!TAB  methodes van de Authentificatie in Acrobat Sign ]
+
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+
+>[!ENDTABS]
 
 ## Verzenden
 
