@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="quick-tour.md"><strong> de grondbeginselen van de Werkruimte </strong></a>
     </div>
-    <em> neem een snelle rondleiding van de werkruimte van Acrobat Sign om in gebruik te worden </em>
+    Volg een korte rondleiding door de Acrobat Sign-werkruimte om aan de slag te gaan
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="new-sender.md"><strong> Aan de slag met Acrobat Sign </strong></a>
     </div>
-    <em> Dit uitvoerige leerprogramma is een grote plaats om voor nieuwe afzenders in Acrobat Sign </em> te beginnen
+    Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="send-to-single-recipient.md"><strong> Verzenden naar één enkele ontvanger </strong></a>
     </div>
-    <em> sprong binnen en leer hoe gemakkelijk het een document uit voor ondertekening verzendt </em>
+    Ga naar binnen en ontdek hoe eenvoudig het is om een document ter ondertekening te verzenden
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="send-to-multiple-recipients.md"><strong> Verzendend naar veelvoudige ontvangers </strong></a>
     </div>
-    <em> verzend een document voor e-handtekening aan meer dan één persoon in precies de orde u wilt </em>
+    Verzend een document voor elektronische ondertekening naar meer dan één persoon in exact de gewenste volgorde
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="sending-options.md"><strong> vorm verzendend opties </strong></a>
     </div>
-    <em> Leer hoe te om diverse opties te vormen wanneer het verzenden van een document uit voor handtekening </em>
+    Leer hoe u verschillende opties kunt configureren bij het verzenden van een document ter ondertekening
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="adding-fields.md"><strong> Toevoegend gebieden aan uw documenten </strong></a>
     </div>
-    <em> Leer hoe te om verschillende soorten gebieden aan uw documenten toe te voegen </em>
+    Leer hoe u verschillende typen velden aan uw documenten kunt toevoegen
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="modify-in-flight.md"><strong> Wijzigend een document na het verzenden </strong></a>
     </div>
-    <em> wijzig een document dat reeds lopend </em> is
+    Een document wijzigen dat al in uitvoering is
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="replace-signer.md"><strong> Vervangend een ondertekenaar </strong></a>
     </div>
-    <em> Leer hoe te om de ondertekenaar van een document te veranderen dat reeds lopend is </em>
+    Leer hoe u de ondertekenaar wijzigt van een document dat al in uitvoering is
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
       <div>
       <a href="set-deadlines-reminders.md"><strong> Vastgestelde termijnen en herinneringen </strong></a>
       </div>
-      <em> Leer hoe te om regelmatige e-mailherinneringen en termijnen te verzenden helpen uw documenten snel laten ondertekenen </em>
+      Leer hoe u regelmatig e-mailherinneringen en deadlines kunt verzenden, zodat uw documenten snel kunnen worden ondertekend
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="electronically-sign-a-document.md"><strong> Elektronisch het ondertekenen van een document </strong></a>
     </div>
-    <em> Leer hoe gemakkelijk het een document moet ondertekenen dat naar u met Acrobat Sign </em> wordt verzonden
+    Leer hoe eenvoudig het is om een document te ondertekenen dat naar u is verzonden met Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="fill-and-sign.md"><strong> het Vullen en het ondertekenen van een document </strong></a>
     </div>
-    <em> Vul vormen in en voeg uw elektronische handtekening aan documenten toe </em>
+    Formulieren invullen en uw elektronische handtekening toevoegen aan documenten
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="sign-in-person.md"><strong> die een handtekening in persoon krijgen </strong></a>
     </div>
-    <em> krijg persoonlijk de handtekening van iemand anders gebruikend mobiele app van Acrobat Sign </em>
+    Persoonlijk iemands handtekening verkrijgen met de mobiele Acrobat Sign-app
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="delegate-signing.md"><strong> Delegeer het ondertekenen aan iemand anders </strong></a>
     </div>
-    <em> Leer hoe te om het ondertekenen van een document aan iemand anders te delegeren </em>
+    Leer hoe u het ondertekenen van een document kunt delegeren aan iemand anders
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="sign-with-a-digital-signature.md"><strong> wat een digitale handtekening </strong></a> is
     </div>
-    <em> Leer over op certificaat-gebaseerde digitale handtekeningen </em>
+    Meer informatie over op een certificaat gebaseerde digitale handtekeningen
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="sign-with-a-stamp.md"><strong> het Ondertekenen gebruikend een stempel </strong></a>
     </div>
-    <em> stempels van het gebruik om een goedgekeurd of voltooid document te merken </em>
+    Stempels gebruiken om een goedgekeurd of voltooid document te markeren
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="manage-and-track.md"><strong> beheer en volg uw overeenkomsten </strong></a>
     </div>
-    <em> Leer om overeenkomsten te beheren en te volgen die voor handtekening worden verzonden </em>
+    Leer hoe u overeenkomsten die ter ondertekening zijn verzonden beheert en bijhoudt
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong> Creërend een documentmalplaatje </strong></a>
     </div>
-    <em> creeer een herbruikbaar documentmalplaatje om snelheid en consistentie voor uw organisatie te verstrekken </em>
+    Maak een herbruikbare documentsjabloon die snel en consistent is voor uw organisatie
     <br>
   </td>
   <td>
