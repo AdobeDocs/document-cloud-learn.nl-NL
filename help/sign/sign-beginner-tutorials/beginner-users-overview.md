@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
+source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/workspace_1280.png" />
+      <img alt="Beginselen van de werkruimte" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong> de grondbeginselen van de Werkruimte </strong></a>
@@ -196,7 +196,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Wat is een digitale handtekening" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Wat is een digitale handtekening" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong> wat een digitale handtekening </strong></a> is
@@ -233,7 +233,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Uw overeenkomsten beheren en volgen" src="../assets/Manage_1280.png" />
+      <img alt="Uw overeenkomsten beheren en volgen" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong> beheer en volg uw overeenkomsten </strong></a>
