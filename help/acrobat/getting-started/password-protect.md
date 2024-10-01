@@ -7,26 +7,26 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 2%
 
 ---
 
 # Protect een PDF-bestand met een wachtwoord
 
-Leer hoe je [een wachtwoord toevoegen aan uw PDF](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}.
+Leer hoe te [ een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html) {target="_blank"} toevoegen om anderen tegen het openen of [ het uitgeven van het dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) te beschermen {target="_blank"}.
 
 >[!TIP]
 >
->Als u meerdere PDF-bestanden met een wachtwoord wilt beveiligen, kunt u de [Action Wizard](../advanced-tasks/action.md).
+>Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
 
-[!BADGE Organisatorische impact]
+[!BADGE  Organisatorische Gevolgen ]
 Informatiebescherming, risicobeheer
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

@@ -10,88 +10,88 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 1%
+source-wordcount: '652'
+ht-degree: 0%
 
 ---
 
 # Meldingen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
 
-Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is met Acrobat Sign, Acrobat Sign for Microsoft Dynamic, Marketo en Marketo Microsoft Dynamics Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar er zijn andere Marketo SMS-oplossingen beschikbaar.
+Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is met Acrobat Sign, Acrobat Sign for Microsoft Dynamic, Marketo en Marketo Microsoft Dynamics Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [ Twilio SMS ](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar andere oplossingen van Marketo SMS zijn beschikbaar.
 
 ## Vereisten
 
 1. Installeer de Marketo Microsoft Dynamics Sync.
 
-   Informatie en de nieuwste insteekmodule voor Microsoft Dynamics Sync zijn beschikbaar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installeer Acrobat Sign for Microsoft Dynamics.
+1. Installeer Acrobat Sign voor Microsoft Dynamics.
 
-   Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   De informatie over deze stop is beschikbaar [ hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
 Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
-![Beheer](assets/adminTerminal.png)
+![ Admin ](assets/adminTerminal.png)
 
-* Klikken **[!UICONTROL Dynamics-entiteiten synchroniseren]**.
+* Klik **[!UICONTROL de Synchronisatie van de Entiteiten van de Dynamics]**.
 
-  Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klikken **[!UICONTROL Schema synchroniseren]** als dit uw eerste keer is. Anders klikt u op **[!UICONTROL Schema vernieuwen]**.
+  Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klik **[!UICONTROL Schema van de Synchronisatie]** als dit uw eerste keer is. Anders, verfrist de klik **[!UICONTROL Schema]**.
 
-  ![Vernieuwen](assets/refreshSchema.png)
+  ![ verfrissen zich ](assets/refreshSchema.png)
 
 ## Het aangepaste object synchroniseren
 
-1. Aan de rechterkant kunt u de [!UICONTROL Lead], [!UICONTROL Contact], en [!UICONTROL Account]op -gebaseerde aangepaste objecten.
+1. Op de rechterkant, bepaal de plaats van [!UICONTROL  Lead ], [!UICONTROL  Contact ], en [!UICONTROL  rekening ] - gebaseerde douanevoorwerpen.
 
-   * **[!UICONTROL Synchronisatie inschakelen]** voor de objecten onder Lead als u wilt activeren wanneer een lead in Dynamics aan een overeenkomst wordt toegevoegd.
+   * **[!UICONTROL laat Synchronisatie]** voor de voorwerpen onder Lood toe als u wilt teweegbrengen wanneer een Lood aan een overeenkomst in Dynamiek wordt toegevoegd.
 
-   * **[!UICONTROL Synchronisatie inschakelen]** voor de objecten onder Contactpersoon als u wilt activeren wanneer een Contactpersoon wordt toegevoegd aan een overeenkomst in Dynamics.
+   * **[!UICONTROL laat Synchronisatie]** voor de voorwerpen onder Contact toe als u wilt teweegbrengen wanneer een Contact aan een overeenkomst in Dynamics wordt toegevoegd.
 
-   * **[!UICONTROL Synchronisatie inschakelen]** voor de objecten onder Account als u wilt activeren wanneer een Account wordt toegevoegd aan een overeenkomst in Dynamics.
+   * **[!UICONTROL laat Synchronisatie]** voor de voorwerpen onder Rekening toe als u wilt teweegbrengen wanneer een Rekening aan een overeenkomst in Dynamics wordt toegevoegd.
 
-   * **Synchronisatie inschakelen** voor het overeenkomstobject onder de gewenste bovenliggende element (lead, contact of account).
+   * **laat Synchronisatie** voor het voorwerp van de Overeenkomst onder de gewenste Ouder toe (Lead, Contact, of Rekening).
 
-   ![Aangepaste objecten](assets/enableSyncDynamics.png)
+   ![ de Objecten van de Douane ](assets/enableSyncDynamics.png)
 
 1. Selecteer in het nieuwe venster de eigenschappen die u onder Overeenkomst wilt gebruiken.
 
-   De vakken inschakelen onder **[!UICONTROL Restrictie]** en **[!UICONTROL Trigger]** om ze beschikbaar te maken voor je marketingactiviteiten.
+   Laat de dozen onder **[!UICONTROL Beperking]** en **[!UICONTROL Trekker]** toe om hen aan uw Activiteiten van de Marketing bloot te stellen.
 
-   ![Aangepaste synchronisatie 1](assets/entitySync1.png)
+   ![ Synchronisatie van de Douane 1 ](assets/entitySync1.png)
 
-   ![Aangepaste synchronisatie 2](assets/entitySync2.png)
+   ![ Synchronisatie van de Douane 2 ](assets/entitySync2.png)
 
 1. Activeer de synchronisatie opnieuw nadat u synchronisatie voor de aangepaste objecten hebt ingeschakeld.
 
-   Ga terug naar de [!UICONTROL Admin Terminal]en klik vervolgens op **[!UICONTROL Microsoft Dynamics]** en klik vervolgens op **[!UICONTROL Synchronisatie inschakelen]**.
+   Ga terug naar de [!UICONTROL  Terminal Admin ], dan klik **[!UICONTROL Dynamiek van Microsoft]**, dan klik op **[!UICONTROL toelaten Synchronisatie]**.
 
-   ![Microsoft Dynamics](assets/microsoftDynamics.png)
+   ![ Dynamica van Microsoft ](assets/microsoftDynamics.png)
 
-   ![Algemeen inschakelen](assets/enableGlobalDynamics.png)
+   ![ laat Globale ](assets/enableGlobalDynamics.png) toe
 
 ## Het programma maken
 
-1. In [!UICONTROL Marketingactiviteiten], met de rechtermuisknop klikken **[!UICONTROL Marketingactiviteiten]** op de linkerbalk selecteert u **[!UICONTROL Nieuwe campagnemap]** en geef deze een naam.
+1. In [!UICONTROL  Activiteiten van de Marketing ], klik **[!UICONTROL de Activiteiten van de Marketing]** op de linkerbar met de rechtermuisknop aan, selecteer **[!UICONTROL Nieuwe Omslag van de Campagne]**, en noem het.
 
-   ![Nieuwe map](assets/newFolder.png)
+   ![ Nieuwe Omslag ](assets/newFolder.png)
 
-1. Klik met de rechtermuisknop op de gemaakte map en selecteer **[!UICONTROL Nieuw programma]** en geef deze een naam.
+1. Klik op de gecreeerde omslag met de rechtermuisknop aan, selecteer **[!UICONTROL Nieuw Programma]**, en geef het een naam.
 
-   Laat alle andere elementen standaard staan en klik op **[!UICONTROL Maken]**.
+   Laat alles anders als gebrek, dan klik **[!UICONTROL creëren]**.
 
-   ![Nieuw programma 1](assets/newProgram1.png)
+   ![ Nieuw Programma 1 ](assets/newProgram1.png)
 
-   ![Nieuw programma 2](assets/newProgram2.png)
+   ![ Nieuw Programma 2 ](assets/newProgram2.png)
 
-## Instellen [!DNL Twilio] SMS
+## [!DNL Twilio] SMS instellen
 
-Zorg er eerst voor dat u een actieve [!DNL Twilio] en hebt u de gewenste SMS-functies aangeschaft.
+Zorg er eerst voor dat u een actieve [!DNL Twilio] -account hebt en schaf de gewenste SMS-functies aan.
 
-Marketo instellen - [!DNL Twilio] Voor SMS-webhook zijn drie [!DNL Twilio] parameters van uw account.
+Voor het instellen van de Marketo - [!DNL Twilio] SMS-webhook hebt u drie [!DNL Twilio] -parameters nodig van uw account.
 
 * Account SID
 * Accounttoken
@@ -99,59 +99,56 @@ Marketo instellen - [!DNL Twilio] Voor SMS-webhook zijn drie [!DNL Twilio] param
 
 Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
-1. Klikken **[!UICONTROL Beheerder]** rechtsboven.
+1. Klik **[!UICONTROL Admin]** in het hoogste recht.
 
-   ![Beheer](assets/adminTab.png)
+   ![ Admin ](assets/adminTab.png)
 
-1. Klikken **[!UICONTROL Webhooks]** en klik vervolgens op **[!UICONTROL Nieuwe webhook]**.
+1. Klik **[!UICONTROL Webhooks]**, dan klik **[!UICONTROL Nieuwe Webhook]**.
 
    ![Webhooks](assets/webhooks.png)
 
-1. Voer een **[!UICONTROL Webhook-naam]** en **[!UICONTROL Beschrijving]**.
+1. Ga de Naam van a **[!UICONTROL Webhook]** en **[!UICONTROL Beschrijving]** in.
 
-1. Voer de volgende URL in en vervang de URL `ACCOUNT_SID` en `AUTH_TOKEN` met uw [!DNL Twilio] referenties.
+1. Voer de volgende URL in en vervang `ACCOUNT_SID` en `AUTH_TOKEN` door uw [!DNL Twilio] referenties.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Selecteren **[!UICONTROL POST]** als uw type verzoek.
+1. Selecteer **[!UICONTROL POST]** als uw type van Verzoek.
 
-1. Voer het volgende in **Sjabloon** en zorg ervoor dat u `MY_TWILIO_NUMBER` met uw [!DNL Twilio] telefoonnummer en `YOUR_MESSAGE` met een bericht van uw keuze.
+1. Ga het volgende **Malplaatje** in en ben zeker om `MY_TWILIO_NUMBER` met uw [!DNL Twilio] telefoonaantal en `YOUR_MESSAGE` met een bericht van uw het kiezen te vervangen.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. Stel de **[!UICONTROL Tokencodering aanvragen]** aan *Formulier/URL*.
+1. Plaats de **[!UICONTROL Token Codering van het Verzoek]** aan *Vorm/URL*.
 
-1. Stel het reactietype in op *JSON* klik vervolgens op **[!UICONTROL Opslaan]**.
+1. Plaats het type van Reactie aan *JSON* dan klik **[!UICONTROL sparen]**.
 
 ## Trigger voor slimme campagnes instellen
 
-1. Klik in de sectie Marketingactiviteiten met de rechtermuisknop op het programma dat u hebt gemaakt en selecteer vervolgens **[!UICONTROL Nieuwe slimme campagne]**.
+1. In de sectie van de Activiteiten van de Marketing, klik op het programma met de rechtermuisknop u creeerde, dan selecteer **[!UICONTROL Nieuwe Slimme Campagne]**.
 
-   ![Slimme campagne 1](assets/smartCampaign1.png)
+   ![ Slimme Campaign 1 ](assets/smartCampaign1.png)
 
-1. Geef de naam op en klik vervolgens op **[!UICONTROL Maken]**.
+1. Noem het, dan klik **[!UICONTROL creeer]**.
 
-   ![Slimme campagne 2](assets/smartCampaign3.png)
+   ![ Slimme Campaign 2 ](assets/smartCampaign3.png)
 
    Er zijn verschillende triggers beschikbaar voor gebruik in de Microsoft-map.
 
-1. Klikken en slepen **[!UICONTROL Toegevoegd aan overeenkomst]** aan de **[!UICONTROL Slimme lijst]** en voeg vervolgens eventuele beperkingen toe die u voor de trigger wilt hebben.
+1. Klik en sleep **[!UICONTROL Toegevoegd aan Overeenkomst]** aan de **[!UICONTROL Slimme Lijst]**, dan voeg om het even welke beperkingen toe u wenst om op de trekker te hebben.
 
-   ![Toegevoegd aan overeenkomst](assets/addedToAgreementDynamics.png)
+   ![ Toegevoegd aan Overeenkomst ](assets/addedToAgreementDynamics.png)
 
 ## De slimme-campagnestroom instellen
 
-1. Klik op de knop **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
+1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL  Slimme Campagne ].
 
-   Zoek en sleep de **Bel webhook** Ga naar het canvas en selecteer de webhook die u in de vorige sectie hebt gemaakt.
+   Zoek naar en sleep de **stroom van het Web van de Vraag** op het canvas en selecteer webhook u in de vorige sectie creeerde.
 
-   ![Bel webhook](assets/callWebhook.png)
+   ![ Webhook van de Vraag ](assets/callWebhook.png)
 
 1. Je SMS-meldingscampagne voor leads die aan een overeenkomst worden toegevoegd, is nu ingesteld.
->[!TIP]
->
->Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Acrobat Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !

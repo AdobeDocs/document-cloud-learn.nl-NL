@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '80'
+ht-degree: 10%
 
 ---
 
@@ -22,4 +22,4 @@ Hebt u meer dan één persoon die met uw document moet communiceren? Leer hoe u 
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!

@@ -1,6 +1,6 @@
 ---
-title: PDF Samenwerking in [!DNL Microsoft Teams]
-description: Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega's door PDF te bekijken, van notities te voorzien en te evalueren zonder dat ze hoeven te vertrekken [!DNL Microsoft Teams]
+title: PDF Samenwerking in  [!DNL Microsoft Teams]
+description: Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega's door PDF te bekijken, van notities te voorzien en te evalueren zonder dat ze daarbij hoeven te verlaten  [!DNL Microsoft Teams]
 feature: Integrations, Collaboration
 role: User
 topic: Integrations
@@ -9,26 +9,26 @@ topic-revisit: Integrations
 jira: KT-7119
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # PDF samenwerking in [!DNL Microsoft Teams]
 
-Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door PDF te bekijken, van notities te voorzien en te evalueren zonder dat ze hoeven te vertrekken [!DNL Microsoft Teams]. Deze integratie omvat:
+Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door PDF te bekijken, van notities te voorzien en te reviewen zonder dat ze [!DNL Microsoft Teams] hoeven te verlaten. Deze integratie omvat:
 
-* Weergave van hoge kwaliteit - dit is alleen een PDF-kijkervaring waarmee u hoogwaardige PDF rechtstreeks vanuit [!DNL Microsoft Teams], voor een bevredigende en naadloze werkervaring
-* Stroomlijn PDF-reviews — verzamel feedback van kanaalleden rechtstreeks in één PDF in [!DNL Microsoft Teams] in plaats van feedback te verzamelen en te combineren via meerdere bijlagen
+* Weergave van hoge kwaliteit - dit is alleen een PDF-kijkervaring waarmee u hoogwaardige PDF rechtstreeks in [!DNL Microsoft Teams] kunt openen voor een prettige en naadloze werkervaring
+* Stroomlijn PDF-reviews — verzamel de feedback van kanaalleden rechtstreeks in één PDF in [!DNL Microsoft Teams] in plaats van feedback te verzamelen en te combineren via meerdere bijlagen
 * Blijf op de hoogte van de voortgang: krijg bericht in Teams wanneer anderen actie ondernemen voor uw documenten
 * Revisoren op de hoogte houden — revisoren krijgen een melding wanneer anderen op hun opmerkingen reageren
 * Veilige samenwerking - veilig samenwerken met vertrouwde leden en de mogelijkheid behouden om documentversies op te slaan in [!DNL Microsoft SharePoint] of [!DNL OneDrive]
 
 >[!TIP]
 >
->Bekijk deze andere Microsoft [integraties](../integrate/integrate-overview.md#microsoft).
+>Controle uit deze andere integraties van Microsoft [ ](../integrate/integrate-overview.md#microsoft).
 
 <br>
 
@@ -36,4 +36,4 @@ Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

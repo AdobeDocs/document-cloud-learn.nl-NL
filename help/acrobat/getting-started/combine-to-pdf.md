@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '120'
+ht-degree: 0%
 
 ---
 
 # Bestanden combineren tot één PDF
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [Bestanden combineren tot één PDF](https://www.adobe.com/nl/acrobat/online/merge-pdf.html){target="_blank"} Hiermee kunt u inhoud die u naar anderen verzendt, beheren en beheren. Zo ontstaat een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [ Combinerend dossiers in één enkele PDF ](https://www.adobe.com/acrobat/online/merge-pdf.html) {target="_blank"} staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
 
 >[!TIP]
 >
->Meer informatie over het toevoegen van een merk [nieuwe aangepaste pagina](add-custom-page.md) combineren van bestanden.
+>Leer over hoe te om een merk [ nieuwe douanepagina ](add-custom-page.md) toe te voegen terwijl het combineren van dossiers.
 
 <br>
 
@@ -28,4 +28,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

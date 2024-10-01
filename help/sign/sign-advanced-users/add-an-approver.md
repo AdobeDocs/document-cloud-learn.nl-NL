@@ -8,10 +8,10 @@ level: Intermediate
 jira: KT-5324
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 23%
 
 ---
 
@@ -23,6 +23,6 @@ Leer hoe u een document kunt verzenden via een goedkeuringsproces. In dit voorbe
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) die voor vrij op Experience League beschikbaar is!
 
 

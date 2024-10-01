@@ -1,6 +1,6 @@
 ---
-title: PDF maken in [!DNL Office] voor het web
-description: Leer hoe je PDF-bestanden maakt zonder dat je je hoeft te verlaten [!DNL Microsoft Office] voor webapps
+title: Creeer PDF in  [!DNL Office]  voor het Web
+description: Leer hoe te om PDF dossiers te creëren zonder uw  [!DNL Microsoft Office]  voor Web apps ooit te verlaten
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -9,16 +9,16 @@ topic-revisit: Integrations
 jira: KT-8497
 thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # PDF maken in [!DNL Office] voor het web
 
-Leer hoe je PDF-bestanden maakt zonder dat je je hoeft te verlaten [!DNL Microsoft Office] voor webapps. Voor deze invoegtoepassing is een abonnement op Acrobat for teams of op Acrobat for Enterprise vereist.
+Leer hoe u PDF-bestanden kunt maken zonder uw [!DNL Microsoft Office] voor webapps te verlaten. Voor deze invoegtoepassing is een abonnement op Acrobat for teams of op Acrobat for Enterprise vereist.
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Leer hoe je PDF-bestanden maakt zonder dat je je hoeft te verlaten [!DNL Microso
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 2%
 
 ---
 
 # PDF omzetten in verschillende bestandsindelingen
 
-Leer hoe u uw PDF-bestanden omzet in verschillende bestandsindelingen, zoals [Microsoft Word](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/nl/acrobat/online/pdf-to-ppt.html), en [Excel](https://www.adobe.com/nl/acrobat/online/pdf-to-excel.html). Uw PDF omzetten in [Adobe Express](https://express.adobe.com) ook wordt voorzien in de toevoeging van merkgebonden ontwerpelementen . Als je je PDF naar een andere bestandsindeling converteert, zoals Microsoft Word, wordt de efficiëntie van de documentworkflow verbeterd en bespaart het veel tijd wanneer je uitgebreide wijzigingen aanbrengt in je lange documenten. Deze videozelfstudie gebruikt de nieuwe werkruimte-ervaring.
+Leer hoe te om uw dossiers van de PDF in verschillend dossier formaten-als [ Word van Microsoft ](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html) om te zetten, [ PowerPoint ](https://www.adobe.com/nl/acrobat/online/pdf-to-ppt.html), en [ Excel ](https://www.adobe.com/nl/acrobat/online/pdf-to-excel.html). Het omzetten van uw PDF in [ Adobe Express ](https://express.adobe.com) om branded ontwerpelementen toe te voegen wordt ook behandeld. Als je je PDF naar een andere bestandsindeling converteert, zoals Microsoft Word, wordt de efficiëntie van de documentworkflow verbeterd en bespaart het veel tijd wanneer je uitgebreide wijzigingen aanbrengt in je lange documenten. Deze videozelfstudie gebruikt de nieuwe werkruimte-ervaring.
 
 >[!TIP]
 >
->Als u meerdere PDF-bestanden naar een andere indeling wilt exporteren, kunt u de opdracht [Action Wizard](../advanced-tasks/action.md).
+>Om veelvoudige PDF dossiers naar een ander formaat uit te voeren, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
 
 <br>
 
@@ -28,8 +28,8 @@ Leer hoe u uw PDF-bestanden omzet in verschillende bestandsindelingen, zoals [Mi
 
 >[!TIP]
 >
->Ontdek alles over het werken met [Acrobat en Microsoft 365](../integrate/integrate-overview.md).
+>Leer over hoe te met [ Acrobat en Microsoft 365 ](../integrate/integrate-overview.md) te werken.
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Leer hoe u een document wijzigt dat al ter ondertekening is verzonden, bijvoorbe
 
 >[!NOTE]
 >
->Het wijzigen van een document na het verzenden is alleen beschikbaar voor lidmaatschappen op ondernemingsniveau. Uw Acrobat Sign-beheerder moet **Overeenkomsten wijzigen** in de **Verzendinstellingen** van de **Accountinstellingen** om deze functie te gebruiken.
+>Het wijzigen van een document na het verzenden is alleen beschikbaar voor lidmaatschappen op ondernemingsniveau. Uw beheerder van Acrobat Sign moet **toelaten wijzigt Overeenkomsten** in de **verzendt sectie van Montages** van de **Montages van de Rekening** om deze eigenschap te gebruiken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Geavanceerde taken voor gebruikers](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) die voor vrij op Experience League beschikbaar is!

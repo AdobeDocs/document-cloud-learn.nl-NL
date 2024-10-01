@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,53 +22,53 @@ Leer hoe u met het gereedschap Redigeren persoonlijke of vertrouwelijke informat
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-[!BADGE Organisatorische impact]
+[!BADGE  Organisatorische Gevolgen ]
 Bescherming van klantgegevens, risicobeheer
 
 ## Tekst en afbeeldingen redigeren
 
-1. Selecteren **[!UICONTROL Redigeren]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
+1. Selecteer **[!UICONTROL redigeren]** van het [!UICONTROL  centrum van Hulpmiddelen ] of juist-handruit.
 
-   ![Stap 1 redigeren](../assets/Redact_1.png)
+   ![ redigeer Stap 1 ](../assets/Redact_1.png)
 
-1. Selecteren **[!UICONTROL Tekst en afbeeldingen redigeren]** **>** **[!UICONTROL Eigenschappen]** om de weergave van uw redacties aan te passen, inclusief de kleur van redactievakken of tekstbedekking.
+1. Selecteer **[!UICONTROL Tekst &amp; Beelden]** redigeren **>** **[!UICONTROL Eigenschappen]** om de verschijning van uw redacties met inbegrip van kleur van redactievakken of tekstbedekking aan te passen.
 
-   ![Stap 2 redigeren](../assets/Redact_2.png)
+   ![ redigeer Stap 2 ](../assets/Redact_2.png)
 
 Als u informatie wilt redigeren, markeert u eerst de onderdelen die u wilt verwijderen en past u de redactie toe. U kunt volledige pagina&#39;s of geselecteerde inhoud redigeren.
 
-1. Selecteren **[!UICONTROL Pagina&#39;s redigeren]** kiest u de pagina of het paginabereik dat u wilt redigeren, en selecteert u **[!UICONTROL OK]**.
+1. Selecteer **[!UICONTROL pagina&#39;s]** redigeren, dan kies de pagina of paginabereik om te redigeren, en selecteer **[!UICONTROL O.K.]**.
 
-   ![Stap 4 redigeren](../assets/Redact_3.png)
+   ![ redigeer Stap 4 ](../assets/Redact_3.png)
 
 U kunt ook de cursor gebruiken om de inhoud te selecteren die u wilt redigeren. U kunt een voorvertoning van de redactie zien door de muisaanwijzer op de geselecteerde inhoud te plaatsen.
 
-   ![Stap 5a redigeren](../assets/Redact_4.png)
+   ![ redigeer Stap 5a ](../assets/Redact_4.png)
 
-1. Selecteren **[!UICONTROL Tekst en afbeeldingen redigeren]** **>** **[!UICONTROL Tekst zoeken en redigeren]** om specifieke inhoud te zoeken die u wilt redigeren.
+1. Selecteer **[!UICONTROL Tekst &amp; Beelden]** redigeren **>** **[!UICONTROL Vondst Tekst &amp; redigeren]** om specifieke inhoud te vinden om te redigeren.
 
 Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgroep.
 
-1. Selecteren **[!UICONTROL Patronen]** om bepaalde typen te vinden of informatie, schakel de vakjes in en selecteer **[!UICONTROL Tekst zoeken en verwijderen]**.
+1. Selecteer **[!UICONTROL Patronen]** om bepaalde types te vinden of de informatie, controleert dan de dozen en selecteert **[!UICONTROL Onderzoek &amp; verwijdert Tekst]**.
 
-   ![Stap 5b redigeren](../assets/Redact_5.png)
+   ![ redigeer Stap 5b ](../assets/Redact_5.png)
 
-1. Selecteren **[!UICONTROL Toepassen]** in de [!UICONTROL Redigeren] bovenste menu om de gemarkeerde redactiewijzigingen toe te passen en het geredigeerde bestand op te slaan.
+1. Selecteer **[!UICONTROL pas]** in het  hoogste menu van het Redacteren toe om de duidelijke redactiewijzigingen toe te passen en het geredigeerde dossier op te slaan.
 
-   ![Stap 6 redigeren](../assets/Redact_6.png)
+   ![ redigeer Stap 6 ](../assets/Redact_6.png)
 
 ## Document ontsmetten
 
-1. Selecteren **[!UICONTROL Document ontsmetten]** in de [!UICONTROL Redigeren] bovenaan.
+1. Selecteer **[!UICONTROL Sanitize Document]** in [!UICONTROL  redigeren ] hoogste menu.
 
-1. Selecteren **[!UICONTROL OK]** om de verwijdering van verborgen informatie te bevestigen. Of kies **[!UICONTROL Klik hier]** om verborgen informatie selectief te verwijderen.
+1. Selecteer **[!UICONTROL O.K.]** om de verwijdering van verborgen informatie te bevestigen. Of, kies **[!UICONTROL hier]** klikken om verborgen informatie selectief te verwijderen.
 
-   ![Stap 2 ontsmetten](../assets/Redact_7.png)
-
->[!TIP]
->
-Als u het redactieproces wilt versnellen, checkt u het [Action Wizard](../advanced-tasks/action.md).
+   ![ opschonen Stap 2 ](../assets/Redact_7.png)
 
 >[!TIP]
 >
-Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+Om het redactieproces te versnellen, controleer de [ Action Wizard ](../advanced-tasks/action.md).
+
+>[!TIP]
+>
+Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!

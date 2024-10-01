@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ Ontdek de zeven belangrijkste gebieden waarop beheerders zich moeten richten om 
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Acrobat Sign voor beheerders](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!

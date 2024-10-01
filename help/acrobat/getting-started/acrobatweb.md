@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-8498
 thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
 # Overal werken met Acrobat Web
 
-Met extern werk overal, is het essentieel om content met snelheid en schaal te leveren. Leer hoe u vanaf elke locatie zakelijke documenten kunt afhandelen met de webtools van Acrobat in uw browser. Probeer het bij [acrobat.adobe.com](https://acrobat.adobe.com/nl/nl).
+Met extern werk overal, is het essentieel om content met snelheid en schaal te leveren. Leer hoe u vanaf elke locatie zakelijke documenten kunt afhandelen met de webtools van Acrobat in uw browser. Probeer het bij [ acrobat.adobe.com ](https://acrobat.adobe.com/nl/nl).
 
 >[!TIP]
 >
->Wilt u meer weten over mobiele Acrobat-tools? Uitchecken [Productiviteit onderweg](productivity.md).
+>Wilt u meer weten over mobiele Acrobat-tools? Controle uit [ Productiviteit op onderweg ](productivity.md).
 
 <br>
 
@@ -28,4 +28,4 @@ Met extern werk overal, is het essentieel om content met snelheid en schaal te l
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ wordt begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

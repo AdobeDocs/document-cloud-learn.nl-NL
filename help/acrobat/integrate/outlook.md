@@ -1,6 +1,6 @@
 ---
-title: E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]
-description: Leer hoe je op een professionelere en veiligere manier informatie kunt leveren binnen het [!DNL Outlook]
+title: E-mailberichten en bijlagen converteren naar PDF in  [!DNL Outlook]
+description: Leer hoe te om informatie op een professionelere en veiligere manier binnen van te leveren  [!DNL Outlook]
 feature: Integrations
 role: User
 topic: Integrations
@@ -9,20 +9,20 @@ topic-revisit: Integrations
 jira: KT-8494
 thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # E-mailberichten en bijlagen converteren naar PDF in [!DNL Outlook]
 
-Leer hoe u e-mailberichten en bijlagen kunt archiveren voor PDF in [!DNL Outlook] voor uw projecten. Leer op een professionelere en veiligere manier informatie te leveren door bijlagen automatisch om te zetten in PDF. Dit gereedschap is alleen beschikbaar voor Windows.
+Leer hoe u e-mailberichten en bijlagen archiveert naar PDF in [!DNL Outlook] voor uw projecten. Leer op een professionelere en veiligere manier informatie te leveren door bijlagen automatisch om te zetten in PDF. Dit gereedschap is alleen beschikbaar voor Windows.
 
 >[!TIP]
 >
->Bekijk deze andere Microsoft [integraties](../integrate/integrate-overview.md#microsoft).
+>Controle uit deze andere integraties van Microsoft [ ](../integrate/integrate-overview.md#microsoft).
 
 <br>
 
@@ -30,4 +30,4 @@ Leer hoe u e-mailberichten en bijlagen kunt archiveren voor PDF in [!DNL Outlook
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Werk slimmer met Acrobat DC en Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

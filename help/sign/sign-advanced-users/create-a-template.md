@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6059
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Leer hoe u een herbruikbare documentsjabloon maakt en deze toevoegt aan uw Acrob
 
 >[!TIP]
 >
->Deze video maakt deel uit van de cursus [Aan de slag met Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) dat is gratis beschikbaar op Experience League !
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!

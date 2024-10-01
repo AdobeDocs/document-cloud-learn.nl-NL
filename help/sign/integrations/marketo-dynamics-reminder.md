@@ -1,5 +1,5 @@
 ---
-title: Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
+title: Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
 description: Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 feature: Integrations
 role: Admin
@@ -10,14 +10,14 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 2%
+source-wordcount: '864'
+ht-degree: 0%
 
 ---
 
-# Herinneringen verzenden met Acrobat Sign for Microsoft Dynamics 365 en Marketo
+# Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en Marketo
 
 Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend. Deze integratie maakt gebruik van Acrobat Sign, Acrobat Sign voor Microsoft Dynamics, Marketo en de Marketo Microsoft Dynamics Sync.
 
@@ -25,79 +25,79 @@ Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepa
 
 1. Installeer de Marketo Microsoft Dynamics Sync.
 
-   Informatie en de nieuwste insteekmodule voor Microsoft Dynamics Sync zijn beschikbaar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installeren [Acrobat Sign voor Microsoft Dynamics](https://appsource.microsoft.com/nl-nl/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Installeer [ Acrobat Sign voor de Dynamica van Microsoft ](https://appsource.microsoft.com/nl-nl/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
-   Informatie over deze plug-in is beschikbaar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   De informatie over deze stop is beschikbaar [ hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
 Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfigureerd, verschijnen er twee nieuwe opties in de Marketo Admin Terminal.
 
-![Beheer](assets/adminTerminal.png)
+![ Admin ](assets/adminTerminal.png)
 
-1. Klikken **[!UICONTROL Dynamics-entiteiten synchroniseren]**.
+1. Klik **[!UICONTROL de Synchronisatie van de Entiteiten van de Dynamics]**.
 
-   Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klikken **Schema synchroniseren** als dit uw eerste keer is. Anders klikt u op **Schema vernieuwen**.
+   Synchronisatie moet worden uitgeschakeld voordat u aangepaste entiteiten synchroniseert. Klik **Schema van de Synchronisatie** als dit uw eerste keer is. Anders, verfrist de klik **Schema**.
 
-   ![Vernieuwen](assets/refreshSchema.png)
+   ![ verfrissen zich ](assets/refreshSchema.png)
 
 ## Het aangepaste object synchroniseren
 
-1. Aan de rechterkant kunt u de [!UICONTROL Lead], [!UICONTROL Contact], en [!UICONTROL Account]op -gebaseerde aangepaste objecten.
+1. Op de rechterkant, bepaal de plaats van [!UICONTROL  Lead ], [!UICONTROL  Contact ], en [!UICONTROL  rekening ] - gebaseerde douanevoorwerpen.
 
-   * **Synchronisatie inschakelen** voor de objecten onder **[!UICONTROL Lead]** als u een herinnering wilt verzenden wanneer een [!UICONTROL Lead] heeft geen overeenkomst ondertekend in Dynamics.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL leiden]** toe als u een herinnering wilt verzenden wanneer a [!UICONTROL  leiden ] geen overeenkomst in Dynamiek heeft ondertekend.
 
-   * **Synchronisatie inschakelen** voor de objecten onder **[!UICONTROL Contact]** als u een herinnering wilt verzenden wanneer een [!UICONTROL Contact] heeft geen overeenkomst ondertekend in Dynamics.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Contact]** toe als u een herinnering wilt verzenden wanneer het a [!UICONTROL  Contact ] geen overeenkomst in Dynamics heeft ondertekend.
 
-   * **Synchronisatie inschakelen** voor de objecten onder **[!UICONTROL Account]** als u een herinnering wilt verzenden wanneer een [!UICONTROL Account] heeft geen overeenkomst ondertekend in Dynamics.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Rekening]** toe als u een herinnering wilt verzenden wanneer een [!UICONTROL  Rekening ] geen overeenkomst in Dynamics heeft ondertekend.
 
-   * **Synchronisatie inschakelen** voor het overeenkomstobject onder de gewenste **[!UICONTROL parent]** ([!UICONTROL Lead], [!UICONTROL Contact], of [!UICONTROL Account]).
+   * **laat Synchronisatie** voor het overeenkomstvoorwerp onder de gewenste **[!UICONTROL Ouder]** toe ([!UICONTROL  Lood ], [!UICONTROL  Contact ], of [!UICONTROL  Rekening ]).
 
-   ![Aangepaste objecten](assets/enableSyncDynamics.png)
+   ![ de Objecten van de Douane ](assets/enableSyncDynamics.png)
 
-1. Selecteer in het nieuwe venster de eigenschappen die u onder Overeenkomst wilt gebruiken en schakel vervolgens de vakken onder **Restrictie** en **Trigger** om ze beschikbaar te maken voor je marketingactiviteiten.
+1. In het nieuwe venster, selecteer de eigenschappen u onder Overeenkomst wilt, dan toelaten de dozen onder **Beperking** en **Trekker** om hen aan uw Activiteiten van de Marketing bloot te stellen.
 
-   ![Aangepaste synchronisatie 1](assets/entitySync1.png)
+   ![ Synchronisatie van de Douane 1 ](assets/entitySync1.png)
 
-   ![Aangepaste synchronisatie 2](assets/entitySync2.png)
+   ![ Synchronisatie van de Douane 2 ](assets/entitySync2.png)
 
 1. Activeer de synchronisatie opnieuw nadat u synchronisatie voor de aangepaste objecten hebt ingeschakeld.
 
-   Ga terug naar de beheerterminal en klik op **Microsoft Dynamics** en klik vervolgens op **Synchronisatie inschakelen**.
+   Ga terug naar de Terminal Admin, klik **Dynamiek van Microsoft**, dan klik op **toelaten Synchronisatie**.
 
-   ![Microsoft Dynamics](assets/microsoftDynamics.png)
+   ![ Dynamica van Microsoft ](assets/microsoftDynamics.png)
 
-   ![Algemeen inschakelen](assets/enableGlobalDynamics.png)
+   ![ laat Globale ](assets/enableGlobalDynamics.png) toe
 
 ## Het programma en de token maken
 
-1. Klik in de sectie Marketingactiviteiten van Marketo met de rechtermuisknop op **Marketingactiviteiten** op de linkerbalk.
+1. In de sectie van de Activiteiten van de Marketing van Marketo, klik op **Activiteiten van de Marketing** op de linkerbar met de rechtermuisknop aan.
 
-   Selecteren **Nieuwe campagnemap** en geef deze een naam.
+   Selecteer **Nieuwe Omslag van de Campagne**, en geef het een naam.
 
-   ![Nieuwe map](assets/newFolder.png)
+   ![ Nieuwe Omslag ](assets/newFolder.png)
 
-1. Klik met de rechtermuisknop op de gemaakte map en selecteer **Nieuw programma** en geef deze een naam.
+1. Klik op de gecreeerde omslag met de rechtermuisknop aan, selecteer **Nieuw Programma**, en geef het een naam.
 
-   Laat alle andere elementen standaard staan en klik op **Maken**.
+   Laat alles anders als gebrek, dan klik **creëren**.
 
-   ![Nieuw programma 1](assets/newProgram1.png)
+   ![ Nieuw Programma 1 ](assets/newProgram1.png)
 
-   ![Nieuw programma 2](assets/newProgram2.png)
+   ![ Nieuw Programma 2 ](assets/newProgram2.png)
 
-1. Klik op **Mijn tokens** en sleep **E-mailscript** naar het canvas.
+1. Klik op **Mijn Tokens**, dan sleep **E-mailManuscript** over aan het canvas.
 
-   ![E-mailscript](assets/emailScript.png)
+   ![ E-mailManuscript ](assets/emailScript.png)
 
-1. Geef het een naam, en klik dan op **Klik om te bewerken**.
+1. Geef het een naam, dan klik op **klik om uit te geven**.
 
-   ![Naam en bewerking](assets/nameAndSave.png)
+   ![ Naam en geef ](assets/nameAndSave.png) uit
 
-1. Uitbreiden **[!UICONTROL Aangepaste objecten]** aan de rechterkant, en vervolgens de **[!UICONTROL Overeenkomst]** -object.
+1. Breid **[!UICONTROL de Objecten van de Douane]** op de rechterkant uit, dan breid het **[!UICONTROL voorwerp van de Overeenkomst]** uit.
 
-   Zoeken en slepen [!UICONTROL Naam], Overeenkomststatus, Verzonden op en Huidige URL ondertekenaar op het canvas.
+   Vind en sleep [!UICONTROL  Naam ], de Status van de Overeenkomst, Verzonden op, en Huidige URL van de Ondertekenaar op het canvas.
 
 1. Schrijf een snelheidsscript met deze tokens om de overeenkomst-URL weer te geven van een overeenkomst die een week lang niet is ondertekend. Hier volgt een voorbeeld van de huidige datum die wordt vergeleken met Verzonden op:
 
@@ -131,80 +131,76 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van de overeenkomst, een koppeling naar de overeenkomst, enzovoort.
 
-1. Klik met de rechtermuisknop op het programma dat u hebt gemaakt en klik op **[!UICONTROL Nieuw lokaal element]** selecteert u vervolgens **[!UICONTROL E-mail]**.
+1. Klik op het programma met de rechtermuisknop u creeerde en klik **[!UICONTROL Nieuwe Lokale Activa]**, dan uitgezocht **[!UICONTROL E-mail]**.
 
-   ![Nieuwe e-mail](assets/createNewEmail.png)
+   ![ Nieuwe E-mail ](assets/createNewEmail.png)
 
-1. Voer op het nieuwe tabblad een **[!UICONTROL Naam]** en **[!UICONTROL Beschrijving]** voor de e-mail en selecteer een sjabloon in de sjabloonkiezer.
+1. In het nieuwe lusje, ga a **[!UICONTROL Naam]** en **[!UICONTROL Beschrijving]** voor e-mail in en selecteer een malplaatje van de malplaatjeplukker.
 
-   ![Sjabloonkiezer](assets/templatePicker.png)
+   ![ de Plukker van het Malplaatje ](assets/templatePicker.png)
 
 1. Klik op **[!UICONTROL Maken]**.
 
-1. Stel de **[!UICONTROL Van naam]** en **[!UICONTROL Van adres]**.
+1. Plaats **[!UICONTROL van Naam]** en **[!UICONTROL van Adres]**.
 
-   ![E-mailherinnering](assets/reminderEmail.png)
+   ![ E-mail van de Herinnering ](assets/reminderEmail.png)
 
 1. Klik op de berichttekst om de Editor te activeren.
 
-   Klik op de knop **[!UICONTROL Token invoegen]** te zoeken naar het aangepaste URL-token voor de overeenkomst dat u hebt gemaakt, en vervolgens op **[!UICONTROL Invoegen]**. Voltooi het aanpassen van uw e-mail en klik op **[!UICONTROL Opslaan]**.
+   Klik op het **[!UICONTROL Symbolische]** knoop van het Tussenvoegsel, vind het symbolische van de douaneOvereenkomst URL u creeerde, dan klik **[!UICONTROL Tussenvoegsel]**. Voltooi het aanpassen van uw e-mail, en klik **[!UICONTROL sparen]**.
 
-   ![Token invoegen](assets/insertToken.png)
+   ![ Symbolisch van het Tussenvoegsel ](assets/insertToken.png)
 
 1. Voorvertonen met een profiel waaraan een overeenkomst is toegewezen.
 
    Er wordt een koppeling naar de URL weergegeven met de overeenkomstnaam als label.
 
-   ![E-mailkoppeling](assets/emailLink.png)
+   ![ E-mailverbinding ](assets/emailLink.png)
 
 ## Het filter Slimme campagne instellen
 
-1. Klik met de rechtermuisknop op het programma dat u hebt gemaakt en klik vervolgens op **[!UICONTROL Nieuwe slimme campagne]**.
+1. Klik op het programma met de rechtermuisknop u creeerde, dan klik **[!UICONTROL Nieuwe Slimme Campagne]**.
 
-   ![Slimme campagne 1](assets/smartCampaign1.png)
+   ![ Slimme Campaign 1 ](assets/smartCampaign1.png)
 
-1. Geef het een door u gekozen naam en klik vervolgens op **[!UICONTROL Maken]**.
+1. Geef het een naam van uw het kiezen, dan klik **[!UICONTROL creeer]**.
 
-   ![Slimme campagne 2](assets/smartCampaign2.png)
+   ![ Slimme Campaign 2 ](assets/smartCampaign2.png)
 
-1. Zoeken naar, vervolgens klikken en slepen **[!UICONTROL Heeft overeenkomst]** naar de slimme lijst.
+1. Het onderzoek naar, dan klikt en sleept **[!UICONTROL heeft Overeenkomst]** aan de Slimme Lijst.
 
-   ![Heeft overeenkomst](assets/hasAgreementDynamics1.png)
+   ![ heeft overeenkomst ](assets/hasAgreementDynamics1.png)
 
-   De velden die u aan de trigger blootstelt, moeten beschikbaar zijn in **[!UICONTROL Restrictie toevoegen]**.
+   De gebieden u aan de trekker blootstelde zouden in **[!UICONTROL moeten beschikbaar zijn voeg Beperking]** toe.
 
-1. Selecteren **[!UICONTROL Overeenkomststatus]** en andere velden waarop u wilt filteren.
+1. Selecteer **[!UICONTROL Status van de Overeenkomst]** en om het even welke andere gebieden u wilt filtreren door.
 
-   Definieer voor elk toegevoegd veld de waarden waarop u wilt filteren. In dit geval wordt alleen getriggerd wanneer de **[!UICONTROL Overeenkomststatus]** is *Verzonden voor ondertekening* en **[!UICONTROL Verzonden op]** is *in het verleden vóór 1 week*.
+   Definieer voor elk toegevoegd veld de waarden waarop u wilt filteren. In dit geval, brengt het slechts teweeg wanneer de **[!UICONTROL Status van de Overeenkomst]** *uit voor Ondertekening* is en **[!UICONTROL Verzonden op]** is *in het verleden vóór 1 week*.
 
-   ![Overeenkomststatus](assets/hasAgreementDynaSentOn.png)
+   ![ Status van de Overeenkomst ](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
-   > Voeg een unieke id toe aan de beperkingen, zoals **Naam**, als je wilt dat deze campagne alleen wordt uitgevoerd voor bepaalde overeenkomsten.
+   > Voeg een uniek herkenningsteken aan de beperkingen, zoals **Naam** toe, als u deze campagne voor bepaalde overeenkomsten slechts wilt lopen.
 
 1. Bevestig het campagnepubliek en bekijk op het tabblad Planning wie hiervoor in aanmerking komt.
 
-   ![Kwalificatoren](assets/qualifiers.png)
+   ![ Kwalificatoren ](assets/qualifiers.png)
 
 ## De slimme-campagnestroom instellen
 
-Omdat het campagnefilter **Dagen tot vervaldatum** is gebruikt, kunt u een geplande herhaling voor de campagne gebruiken.
+Omdat de campagnefilter **Dagen tot Verloopt** werd gebruikt, kunt u een geplande herhaling voor de campagne gebruiken.
 
-1. Klik op de knop **[!UICONTROL Stroom]** in de [!UICONTROL Slimme campagne].
+1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL  Slimme Campagne ].
 
-   Zoek en sleep de **E-mail verzenden** ga naar het canvas en selecteer de herinnerings-e-mail die u in de vorige sectie hebt gemaakt.
+   Zoek naar en sleep **verzendt e-mail** stroom naar het canvas en selecteer de herinnerings e-mail u in de vorige sectie creeerde.
 
-   ![E-mail verzenden](assets/sendEmail.png)
+   ![ verzend e-mail ](assets/sendEmail.png)
 
-1. Klik op de knop **[!UICONTROL Planning]** in de slimme campagne. Zorg ervoor dat de flow van de campagne beperkt is tot één keer per persoon in de **Instellingen voor slimme campagnes**. Klik vervolgens op de knop **Herhaling plannen** tabblad.
+1. Klik het **[!UICONTROL lusje van het Programma]** in de Slimme Campagne. Zorg ervoor dat de campagnestroom wordt beperkt tot slechts eenmaal per persoon in de **Slimme Montages van de Campagne**. Dan, klik op de **Terugkeer van het Programma** tabel.
 
-   ![Tabblad Planning](assets/scheduleTab.png)
+   ![ het Lusje van het Programma ](assets/scheduleTab.png)
 
-1. Stel de **Planning** aan _Dagelijks_. Kies zo nodig een startdag en een tijd en einddatum voor de campagne.
+1. Plaats het **Programma** aan _Dagelijkse_. Kies zo nodig een startdag en een tijd en einddatum voor de campagne.
 
-   ![Planningsinstellingen](assets/scheduleSettings.png)
-
->[!TIP]
->
->Deze zelfstudie maakt deel uit van de cursus [Versnel de verkoopcycli met Acrobat Sign voor Microsoft Dynamics en Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) dat is gratis beschikbaar op Experience League !
+   ![ Montages van het Plan ](assets/scheduleSettings.png)
