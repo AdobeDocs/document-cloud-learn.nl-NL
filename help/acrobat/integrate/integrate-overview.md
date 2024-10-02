@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, dir
     <div>
     <a href="createofficeweb.md"><strong> creeer PDF in [!DNL Office] voor het Web </strong></a>
     </div>
-    Leer hoe u rechtstreeks vanuit Microsoft Word krachtige PDF-bestanden maakt
+    Leer hoe u PDF-bestanden maakt zonder uw [!DNL Microsoft Office] voor webapps te verlaten
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, dir
     <div>
     <a href="acrobatandteams.md"><strong> PDF samenwerking in [!DNL Microsoft Teams]</strong></a>
     </div>
-    Werk samen met collega's door PDF te bekijken, van notities te voorzien en te reviewen zonder dat u [!DNL Microsoft Teams] hoeft te verlaten
+    PDF samenwerken en reviseren zonder dat u [!DNL Microsoft Teams] hoeft te verlaten
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, dir
     <div>
     <a href="microsoftsensitivitylabels.md"><strong> Protect PDF die [!DNL Microsoft Purview Information] gevoeligheidsetiketten </strong></a> gebruikt
     </div>
-    Leer hoe u PDF kunt beschermen door rechtstreeks in Acrobat labels voor Microsoft Purview-informatie toe te voegen, te bewerken, aan te passen en te verwijderen
+    Leer hoe u PDF rechtstreeks in Acrobat kunt beschermen met labels voor Informatiegevoeligheid voor Microsoft Purview
     <br>
   </td>
   <td>
