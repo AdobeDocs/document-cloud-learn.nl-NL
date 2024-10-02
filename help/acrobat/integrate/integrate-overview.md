@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, dir
     <div>
     <a href="edge.md"><strong> PDF-inhoud maken tijdens bladeren met [!DNL Microsoft Edge]</strong></a>
     </div>
-    Leer hoe u webpagina's direct naar PDF kunt converteren met de Adobe Acrobat-extensie voor [!DNL Microsoft Edge]
+    Leer hoe u webpagina's kunt omzetten in PDF met de Adobe Acrobat-extensie voor [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
