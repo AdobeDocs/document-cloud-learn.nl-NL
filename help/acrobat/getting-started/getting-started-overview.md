@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # Aan de slag - overzicht
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten. Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) voor het worden begonnen met Acrobat.
 
 ## Nieuw
 
