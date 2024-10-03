@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 >[!TAB  Hoe te om een gebruiker aan een admin rol ] te bevorderen
 
 Leer hoe te [ een gebruiker ](promote-admin.md) aan een Acrobat Sign adminrol bevorderen gebruikend de Admin Console.
-
->[!TAB  Hoe te om veelvoudige profielen ] te gebruiken
-
-Leer hoe te om de [ profielkiezer ](multiple-profiles.md) te gebruiken om met veelvoudige rekeningen van Acrobat Sign te werken.
 
 >[!TAB  hoe te opstellingsprivacybeheerders ]
 
@@ -192,16 +188,6 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="Meerdere profielen gebruiken" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong> Hoe te om veelvoudige profielen </strong></a> te gebruiken
-    </div>
-    <em> Leer hoe te om de profielkiezer te gebruiken om met veelvoudige rekeningen van Acrobat Sign te werken </em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="Een gebruiker promoten naar een beheerdersrol" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <a href="promote-admin.md"><strong> Hoe te om een gebruiker aan een admin rol </strong></a> te bevorderen
     </div>
     <em> Leer hoe te om een gebruiker aan een Acrobat Sign adminrol te bevorderen gebruikend de Admin Console </em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
