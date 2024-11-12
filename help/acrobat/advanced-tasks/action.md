@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 4d3b553d12b569f13282a137fdfef3cd475a0d91
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Handelingen met instructies
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe u met één klik een of meer opdrachten kunt uitvoeren op meerdere documenten, zodat u tijd en toetsaanslagen bespaart.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe u met één klik een of meer opdrachten kunt uitvoeren op meerdere documenten, zodat u tijd en toetsaanslagen bespaart. Deze videoleerprogramma gebruikt de [ nieuwe werkruimteervaring ](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
