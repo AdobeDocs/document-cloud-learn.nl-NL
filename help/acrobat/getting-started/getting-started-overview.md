@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 >[!BEGINTABS]
 
+>[!TAB  werk in echt samen - tijd ]
+
+Leer hoe te om een document [ revisieproces ](collaborate.md) tot stand te brengen dat niet alleen efficiency verbetert maar ook inhoudskwaliteit verhoogt.
+
 >[!TAB  Ontwerp een nieuwe pagina ]
 
 Leer hoe te [ een nieuwe professioneel-kijkt pagina ](add-custom-page.md) in uw PDF ontwerpen gebruikend Adobe Express.
@@ -33,10 +37,6 @@ Leer hoe te [, grafiek ](edit-graphics.md) in uw PDF creëren uit te geven en te
 >[!TAB  Nieuwe werkruimteervaring ]
 
 Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel hulpmiddelen ontdekken en uw PDF taken efficiënt voltooien.
-
->[!TAB  Ontdek de inzichten van de PDF met de Medewerker van AI ]
-
-Leer hoe te om inzichten van uw PDF dossiers te verkrijgen gebruikend de [ Medewerker AI ](ai-assistant.md).
 
 >[!ENDTABS]
 
