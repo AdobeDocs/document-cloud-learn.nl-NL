@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c1c7429dbfe1d693d89bb7e93139a6a602af8a85
+source-git-commit: fdf4f39e8c9d7d67d3b2a38561006c1739050f47
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,67 +42,104 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
 
 ## Aan de slag - zelfstudies
 
-<!-- CARDS
-
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
-  {title = New workspace experience}
-  {description = Learn about the new workspace in Acrobat}
-  {cta = Watch}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=2000&format=webply&optimize=medium}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
-  {title = Workspace basics}
-  {description = Learn the basics of the Acrobat workspace}
-  {cta = Watch}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=2000&format=webply&optimize=medium}
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview 
-   { image = "https://cdn.experienceleague.adobe.com/thumbs/example.png" }
-* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
-
--->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="Nieuwe werkruimte-ervaring" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nieuwe werkruimte-ervaring"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" title="Nieuwe werkruimte-ervaring"> Nieuwe werkruimteervaring </a>
+                    </p>
+                    <p class="is-size-6">Meer informatie over de nieuwe werkruimte in Acrobat</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" title="Beginselen van de werkruimte" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="Beginselen van de werkruimte"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" title="Beginselen van de werkruimte"> de grondbeginselen van de Werkruimte </a>
+                    </p>
+                    <p class="is-size-6">Leer de basisbeginselen van de Acrobat-werkruimte</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="Ontdek PDF-inzichten met de AI Assistant" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Ontdek PDF-inzichten met de AI Assistant"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" title="Ontdek PDF-inzichten met de AI Assistant"> Ontdek de inzichten van de PDF met de Medewerker van AI </a>
+                    </p>
+                    <p class="is-size-6">Krijg inzichten uit je PDF-bestanden met behulp van de AI Assistant</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" title="Overal werken met Acrobat Web" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Overal werken met Acrobat Web"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" title="Overal werken met Acrobat Web"> Werk overal met het Web van Acrobat </a>
+                    </p>
+                    <p class="is-size-6">Leer vanaf elke locatie werken</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="Nieuwe werkruimte-ervaring" src="../assets/new-workspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong> Nieuwe werkruimteervaring </strong></a>
-    </div>
-    Meer informatie over de nieuwe werkruimte in Acrobat
-    <br>
-  </td>
-  <td>
-    <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Beginselen van de werkruimte" src="../assets/workspace-basics.png" />
-    </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong> de grondbeginselen van de Werkruimte </strong></a>
-    </div>
-    Leer de basisbeginselen van de Acrobat-werkruimte
-    <br>
-  </td>
-  <td>
-    <a href="ai-assistant.md">
-      <img alt="Ontdek PDF-inzichten met de AI Assistant" src="../assets/ai-assistant.png" />
-    </a>
-    <div>
-    <a href="ai-assistant.md"><strong> Ontdek de inzichten van de PDF met de Medewerker van AI </strong></a>
-    </div>
-    Krijg inzichten uit je PDF-bestanden met behulp van de AI Assistant
-    <br>
-  </td>
-  <td>
-    <a href="acrobatweb.md">
-      <img alt="Overal werken met Acrobat Web" src="../assets/acrobat-web.png" />
-    </a>
-    <div>
-    <a href="acrobatweb.md"><strong> Werk overal met het Web van Acrobat </strong></a>
-    </div>
-    Leer vanaf elke locatie werken
-    <br>
-  </td>
-</tr>
 <tr>
   <td>
     <a href="productivity.md">
@@ -114,7 +151,7 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
     Leer meer te doen vanaf je tablet of mobiele telefoon
     <br>
   </td>
-    <td>
+  <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Werken met Microsoft 365" src="../assets/microsoft-365.png" />
       </a>
@@ -123,8 +160,8 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
       </div>
       Werk naadloos met PDF-bestanden, rechtstreeks in Microsoft 365
       <br> 
-    </td>
-    <td>
+  </td>
+  <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="Waar komen PDF vandaan?" src="../assets/where-pdfs.png" />
       </a>
@@ -133,14 +170,14 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
       </div>
       Ontdek waar PDF vandaan komen en hoe je ze kunt gebruiken
       <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
       <br>
-    </td>
-  </tr>
-  </table>
+  </td>
+</tr>
+</table>
 
 ## Zelfstudies maken, combineren en ordenen
 
