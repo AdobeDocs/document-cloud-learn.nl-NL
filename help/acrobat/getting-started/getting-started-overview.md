@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 527eb69a9444db7dea38d41d7240cecc5cc62677
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 1%
+source-wordcount: '566'
+ht-degree: 0%
 
 ---
 
@@ -42,14 +42,35 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
 
 ## Aan de slag - zelfstudies
 
+
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb
+  {title = Work anywhere with Acrobat web}
+  {description = Learn how to work from anywhere}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity
+  {title = Productivity on the go}
+  {description = Learn how to do more from your tablet or mobile phone}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium}
+  {cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
+  {title = Work with Microsoft 365}
+  {description = Work seamlessly with PDF files, right inside Microsoft 365}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
+  {cta = View tutorials}
+
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work anywhere with Acrobat web">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="Nieuwe werkruimte-ervaring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nieuwe werkruimte-ervaring"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" title="Overal werken met Acrobat Web" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Overal werken met Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,22 +78,22 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" title="Nieuwe werkruimte-ervaring"> Nieuwe werkruimteervaring </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" title="Overal werken met Acrobat Web"> Werk overal met het Web van Acrobat </a>
                     </p>
-                    <p class="is-size-6">Meer informatie over de nieuwe werkruimte in Acrobat</p>
+                    <p class="is-size-6">Leer vanaf elke locatie werken</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" title="Beginselen van de werkruimte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="Beginselen van de werkruimte"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="Productiviteit onderweg" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Productiviteit onderweg"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,22 +101,22 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" title="Beginselen van de werkruimte"> de grondbeginselen van de Werkruimte </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" title="Productiviteit onderweg"> Productiviteit op de weg </a>
                     </p>
-                    <p class="is-size-6">Leer de basisbeginselen van de Acrobat-werkruimte</p>
+                    <p class="is-size-6">Leer meer te doen vanaf je tablet of mobiele telefoon</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with Microsoft 365">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="Ontdek PDF-inzichten met de AI Assistant" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Ontdek PDF-inzichten met de AI Assistant"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" title="Werken met Microsoft 365" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Werken met Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,68 +124,18 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" title="Ontdek PDF-inzichten met de AI Assistant"> Ontdek de inzichten van de PDF met de Medewerker van AI </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" title="Werken met Microsoft 365"> Werk met Microsoft 365 </a>
                     </p>
-                    <p class="is-size-6">Krijg inzichten uit je PDF-bestanden met behulp van de AI Assistant</p>
+                    <p class="is-size-6">Werk naadloos met PDF-bestanden, rechtstreeks in Microsoft 365</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Zelfstudies van de Mening </span>
                 </a>
             </div>
         </div>
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="acrobatweb.md">
-      <img alt="Overal werken met Acrobat Web" src="../assets/acrobat-web.png" />
-    </a>
-    <div>
-    <a href="acrobatweb.md"><strong> Werk overal met het Web van Acrobat </strong></a>
-    </div>
-    Leer vanaf elke locatie werken
-    <br>
-  </td>
-  <td>
-    <a href="productivity.md">
-      <img alt="Productiviteit onderweg" src="../assets/productivity.png" />
-    </a>
-    <div>
-    <a href="productivity.md"><strong> Productiviteit op de weg </strong></a>
-    </div>
-    Leer meer te doen vanaf je tablet of mobiele telefoon
-    <br>
-  </td>
-  <td>
-      <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Werken met Microsoft 365" src="../assets/microsoft-365.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong> Werk met Microsoft 365 </strong></a>
-      </div>
-      Werk naadloos met PDF-bestanden, rechtstreeks in Microsoft 365
-      <br> 
-  </td>
-  <td>
-      <a href="where-do-pdfs-come-from.md">
-        <img alt="Waar komen PDF vandaan?" src="../assets/where-pdfs.png" />
-      </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong> waar komen PDF uit?</strong></a>
-      </div>
-      Ontdek waar PDF vandaan komen en hoe je ze kunt gebruiken
-      <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
 
 ## Zelfstudies maken, combineren en ordenen
 
@@ -389,9 +360,14 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="Waar komen PDF vandaan?" src="../assets/where-pdfs.png" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong> waar komen PDF uit?</strong></a>
+      </div>
+      Ontdek waar PDF vandaan komen en hoe je ze kunt gebruiken
+      <br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />

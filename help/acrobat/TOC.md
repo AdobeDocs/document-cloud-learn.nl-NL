@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Productiviteit onderweg](getting-started/productivity.md)
    + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
+   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
    + [Bladwijzers en hyperlinks toevoegen](advanced-tasks/bookmarks.md)
