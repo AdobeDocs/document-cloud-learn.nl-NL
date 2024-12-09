@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 441bf1c0b8c9b6e218b947b9ccbd1f253b9cc301
+source-git-commit: a60bfd196091a6eeb8d9299226881bf5fbb682cd
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 1%
+source-wordcount: '339'
+ht-degree: 0%
 
 ---
 
@@ -47,14 +47,22 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
 
 ## Zelfstudies maken, combineren en ordenen
 
+
+
+## Zelfstudies bewerken en exporteren
+
+
+
+## Zelfstudies voor samenwerking
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Collaborate in real time">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" title="PDF-bestanden maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35491?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004765" alt="PDF-bestanden maken"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" title="Samenwerken in real-time" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Samenwerken in real-time"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,22 +70,22 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" title="PDF-bestanden maken"> creeer PDF dossiers </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" title="Samenwerken in real-time"> werk in echt samen - tijd </a>
                     </p>
-                    <p class="is-size-6">PDF maken van alle verschillende typen documenten</p>
+                    <p class="is-size-6">Verplaats je projecten vooruit door in real-time samen te werken</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Combine files to a single PDF">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Comment on a PDF">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" title="Bestanden combineren tot één PDF" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35452?quality=12&hidetitle=true&format=jpeg&nocache=1733769004657" alt="Bestanden combineren tot één PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" title="Opmerkingen over een PDF" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Opmerkingen over een PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -85,57 +93,11 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" title="Bestanden combineren tot één PDF"> combineer dossiers aan één enkele PDF </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" title="Opmerkingen over een PDF"> Commentaar op een PDF </a>
                     </p>
-                    <p class="is-size-6">Combineer naadloos veel verschillende bestandstypen tot één PDF</p>
+                    <p class="is-size-6">Opmerkingen toevoegen en vervolgens uw PDF delen met anderen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Organize pages">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" title="Pagina’s indelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409022?quality=12&hidetitle=true&format=jpeg&nocache=1733769004955" alt="Pagina’s indelen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" title="Pagina’s indelen"> organiseer pagina's </a>
-                    </p>
-                    <p class="is-size-6">Leer hoe je pagina’s opnieuw rangschikt op de manier die jij wilt</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/organize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Design a new page">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" title="Een nieuwe pagina ontwerpen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347331?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1733769004625" alt="Een nieuwe pagina ontwerpen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" title="Een nieuwe pagina ontwerpen"> Ontwerp een nieuwe pagina </a>
-                    </p>
-                    <p class="is-size-6">Leer hoe je een nieuwe professioneel ogende pagina in je PDF maakt</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -143,115 +105,6 @@ Leer over de [ nieuwe werkruimte ](new-workspace.md) in Acrobat die u helpt snel
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Zelfstudies bewerken en exporteren
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="edit-pdf.md">
-        <img alt="Tekst in een PDF bewerken" src="../assets/edit-text.png" />
-      </a>
-      <div>
-      <a href="edit-pdf.md"><strong> geef tekst in a PDF </strong></a> uit
-      </div>
-      Bewerk woorden, woordgroepen of zelfs hele pagina's in je PDF
-      <br>
-    </td>
-    <td>
-      <a href="edit-graphics.md">
-        <img alt="Afbeeldingen in een PDF bewerken" src="../assets/edit-graphics.png" />
-      </a>
-      <div>
-      <a href="edit-graphics.md"><strong> geef grafiek in a PDF </strong></a> uit
-      </div>
-      Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF
-      <br>
-    </td>
-    <td>
-      <a href="stylize-this-pdf.md">
-        <img alt="Deze PDF stileren" src="../assets/stylize-pdf.png" />
-      </a>
-      <div>
-      <a href="stylize-this-pdf.md"><strong> stileer deze PDF </strong></a>
-      </div>
-      Leer hoe u professioneel ogende PDF kunt maken
-      <br>
-    </td>
-   <td>
-      <a href="auto-adjust-layout.md">
-        <img alt="Lay-out automatisch aanpassen" src="../assets/auto-adjust.png" />
-      </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong> auto-pas lay-out </strong></a> aan
-      </div>
-      Meer informatie over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst
-      <br>
-    </td>
-  </tr>
-    <td>
-      <a href="export-pdf.md">
-        <img alt="PDF omzetten in verschillende bestandsindelingen" src="../assets/convert.png" />
-      </a>
-      <div>
-      <a href="export-pdf.md"><strong> zet PDF in verschillende dossierformaten </strong></a> om
-      </div>
-      Zet uw PDF-bestanden om in verschillende bestandsindelingen
-      <br>
-    </td>
-    <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-## Zelfstudies voor samenwerking
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="collaborate.md">
-        <img alt="Samenwerken in real-time" src="../assets/collaborate.png" />
-      </a>
-      <div>
-      <a href="collaborate.md"><strong> werk in echt samen - tijd </strong></a>
-      </div>
-      Verplaats je projecten vooruit door in real-time samen te werken
-    </td>
-    <td>
-      <a href="comment-on-pdf-files.md">
-        <img alt="Opmerkingen over een PDF" src="../assets/comment.png" />
-      </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong> Commentaar op een PDF </strong></a>
-      </div>
-      Opmerkingen toevoegen en vervolgens uw PDF delen met anderen
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
-</tr>
-</table>
 
 ## Aanvullende zelfstudies
 
