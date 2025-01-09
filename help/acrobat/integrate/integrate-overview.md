@@ -9,10 +9,10 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
+source-git-commit: 54d5fb022944d0e8f8d5b4d0ed2249ee432f9f6b
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 1%
+source-wordcount: '483'
+ht-degree: 0%
 
 ---
 
@@ -24,155 +24,236 @@ Integreer Acrobat met apps [!DNL Box] , [!DNL Dropbox] , [!DNL Google Drive] , [
 
 Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, direct binnen [ Microsoft 365 ](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html). Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) op Acrobat en Microsoft 365 integraties.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="createfromword.md">
-      <img alt="PDF-bestanden maken van Microsoft Word" src="../assets/create-word.png" />
-    </a>
-    <div>
-    <a href="createfromword.md"><strong> creeer PDF dossiers van Microsoft Word </strong></a>
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files from Microsoft Word">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" title="PDF-bestanden maken van Microsoft Word" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_160850f4e616bba4cc020274b0bb208219bc5ba9a.png?width=400&format=webply&optimize=medium" alt="PDF-bestanden maken van Microsoft Word"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" title="PDF-bestanden maken van Microsoft Word"> creeer PDF dossiers van Microsoft Word </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u rechtstreeks vanuit Microsoft Word krachtige PDF-bestanden maakt</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u rechtstreeks vanuit Microsoft Word krachtige PDF-bestanden maakt
-    <br>
-  </td>
-  <td>
-    <a href="createofficeweb.md">
-      <img alt="PDF maken in [!DNL Office] voor het web" src="../assets/office-web.png" />
-    </a>
-    <div>
-    <a href="createofficeweb.md"><strong> creeer PDF in [!DNL Office] voor het Web </strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDFs in Office for the web">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" title="PDF in Office maken voor het web" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_18aa95e189db566b04ebc9fbe5b06bf2824641c4d.png?width=400&format=webply&optimize=medium" alt="PDF in Office maken voor het web"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" title="PDF in Office maken voor het web"> creeer PDF in Bureau voor het Web </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe je PDF-bestanden maakt zonder je Microsoft Office voor webapps te verlaten</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u PDF-bestanden maakt zonder uw [!DNL Microsoft Office] voor webapps te verlaten
-    <br>
-  </td> 
-  <td>
-    <a href="acrobatandsp.md">
-      <img alt="Werken met uw [!DNL SharePoint] -bestanden" src="../assets/work-sharepoint.png" />
-    </a>
-    <div>
-    <a href="acrobatandsp.md"><strong> Werk met uw [!DNL SharePoint] dossiers </strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with your SharePoint files">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" title="Werken met uw SharePoint-bestanden" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_11c43a21e8c6e903139e82e352cdc6a5cea8fc0b0.png?width=400&format=webply&optimize=medium" alt="Werken met uw SharePoint-bestanden"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" title="Werken met uw SharePoint-bestanden"> Werk met uw dossiers van SharePoint </a>
+                    </p>
+                    <p class="is-size-6">Documentworkflows stroomlijnen met SharePoint en Acrobat</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Documentworkflows stroomlijnen met [!DNL SharePoint] en Acrobat
-    <br>
-  </td>
-  <td>
-    <a href="acrobatandteams.md">
-      <img alt="PDF samenwerking in [!DNL Microsoft Teams]" src="../assets/collaboration-teams.png" />
-    </a>
-    <div>
-    <a href="acrobatandteams.md"><strong> PDF samenwerking in [!DNL Microsoft Teams]</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="PDF collaboration in Microsoft Teams">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" title="PDF samenwerking in Microsoft Teams" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_188870a15e61bcc699e58800392f30c1122ec61df.png?width=400&format=webply&optimize=medium" alt="PDF samenwerking in Microsoft Teams"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" title="PDF samenwerking in Microsoft Teams"> de samenwerking van de PDF in Microsoft Teams </a>
+                    </p>
+                    <p class="is-size-6">PDF samenwerken en reviseren zonder Microsoft Teams te verlaten</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    PDF samenwerken en reviseren zonder dat u [!DNL Microsoft Teams] hoeft te verlaten
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="outlook.md">
-      <img alt="E-mailberichten en bijlagen omzetten naar PDF in Outlook" src="../assets/outlook.png" />
-    </a>
-    <div>
-    <a href="outlook.md"><strong> zet e-mailberichten en gehechtheid in PDF in Vooruitzichten </strong></a> om
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert email messages and attachments to PDF in Outlook">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" title="E-mailberichten en bijlagen omzetten naar PDF in Outlook" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1ec7f9367d8d7b1377ae45b9701b9c5556a07484e.png?width=400&format=webply&optimize=medium" alt="E-mailberichten en bijlagen omzetten naar PDF in Outlook"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" title="E-mailberichten en bijlagen omzetten naar PDF in Outlook"> zet e-mailberichten en gehechtheid in PDF in Vooruitzichten </a> om
+                    </p>
+                    <p class="is-size-6">Leer hoe u professioneel en veilig informatie kunt leveren in Outlook</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u op een professionelere en veiligere manier informatie kunt leveren binnen [!DNL Outlook]
-    <br>
-  </td>
-  <td>
-    <a href="edge.md">
-      <img alt="PDF-inhoud maken tijdens het bladeren met [!DNL Microsoft Edge]" src="../assets/edge.png" />
-    </a>
-    <div>
-    <a href="edge.md"><strong> PDF-inhoud maken tijdens bladeren met [!DNL Microsoft Edge]</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF content while browsing with Microsoft Edge">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" title="PDF-inhoud maken tijdens het bladeren met Microsoft Edge" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1c6d030256fba40db1a9b2a9bfd53798abbb5048a.png?width=400&format=webply&optimize=medium" alt="PDF-inhoud maken tijdens het bladeren met Microsoft Edge"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" title="PDF-inhoud maken tijdens het bladeren met Microsoft Edge"> creeer PDF inhoud terwijl het doorbladeren met Microsoft Edge </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u webpagina's kunt omzetten in PDF met de Adobe Acrobat-extensie voor Microsoft Edge</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u webpagina's kunt omzetten in PDF met de Adobe Acrobat-extensie voor [!DNL Microsoft Edge]
-    <br>
-  </td>
-  <td>
-    <a href="microsoftsensitivitylabels.md">
-      <img alt="Protect PDF met [!DNL Microsoft Purview Information] gevoeligheidslabels" src="../assets/purview.png" />
-    </a>
-    <div>
-    <a href="microsoftsensitivitylabels.md"><strong> Protect PDF die [!DNL Microsoft Purview Information] gevoeligheidsetiketten </strong></a> gebruikt
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Protect PDFs using Microsoft Purview Information sensitivity labels">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" title="Protect-PDF met Microsoft Purview-labels voor informatiegevoeligheid" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_1085db4004c8609c978659d2faaaa254392749f9a.png?width=400&format=webply&optimize=medium" alt="Protect-PDF met Microsoft Purview-labels voor informatiegevoeligheid"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" title="Protect-PDF met Microsoft Purview-labels voor informatiegevoeligheid"> Protect PDF die de gevoeligheidsetiketten gebruiken van de Informatie van de Purview van Microsoft </a>
+                    </p>
+                    <p class="is-size-6">Leer hoe u PDF rechtstreeks in Acrobat kunt beschermen met labels voor Informatiegevoeligheid voor Microsoft Purview</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u PDF rechtstreeks in Acrobat kunt beschermen met labels voor Informatiegevoeligheid voor Microsoft Purview
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Google Drive
 
 Leer hoe u in minder tijd meer kunt doen met de essentiële PDF- en e-handtekeningtools in [!DNL Google Drive] .
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="acrobatandgoogle.md">
-      <img alt="Adobe Acrobat for Google Drive" src="../assets/google.png" />
-    </a>
-    <div>
-    <a href="acrobatandgoogle.md"><strong> Adobe Acrobat voor de Aandrijving van Google </strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Acrobat for Google Drive">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" title="Adobe Acrobat for Google Drive" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_10e63a1100a749da85d52fea9c8632aa92961ea5f.png?width=400&format=webply&optimize=medium" alt="Adobe Acrobat for Google Drive"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" title="Adobe Acrobat for Google Drive"> Adobe Acrobat voor de Aandrijving van Google </a>
+                    </p>
+                    <p class="is-size-6">Krijg rechtstreeks vanuit de Google Drive-app toegang tot tijdbesparende PDF-tools en e-handtekeningworkflows</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u rechtstreeks vanuit de [!DNL Google Drive] -app toegang krijgt tot tijdbesparende PDF-tools en e-handtekeningworkflows
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Dropbox
 
 Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox] te openen en ermee te werken.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="acrobat-dropbox.md">
-      <img alt="Werken met bestanden van [!DNL Dropbox]" src="../assets/work-dropbox.png" />
-    </a>
-    <div>
-    <a href="acrobat-dropbox.md"><strong> Werken met bestanden van [!DNL Dropbox]</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with files from Dropbox">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" title="Werken met bestanden van Dropbox" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/media_105ee44c75a28d5f8ed139a2224a0b54293bbe7c6.png?width=400&format=webply&optimize=medium" alt="Werken met bestanden van Dropbox"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" title="Werken met bestanden van Dropbox"> Werk met dossiers van Dropbox </a>
+                    </p>
+                    <p class="is-size-6">Open, maak, bewerk, onderteken en sla wijzigingen op in je Dropbox-bestanden vanuit Acrobat</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                </a>
+            </div>
+        </div>
     </div>
-    Leer hoe u uw [!DNL Dropbox] -bestanden kunt openen, maken, bewerken, ondertekenen en opslaan vanuit Acrobat
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Box
 
