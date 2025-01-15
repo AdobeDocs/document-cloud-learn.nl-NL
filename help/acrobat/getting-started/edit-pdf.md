@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: f75b91d23e5feff705f035161c4dadc9233925b1
+source-git-commit: d27fb8609e412632424cb88dd1b8239e665964f9
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -29,4 +29,3 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
 >[!TIP]
 >
 >Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
-
