@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 251d7aa679e53d55a9cc1d827ff41898b89aefd9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
 # Overzicht implementeren
 
-Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat Sign binnen je organisatie.
+Artikelen met waardevolle inzichten en best practices voor het implementeren van Acrobat Sign binnen je organisatie.
 
 <table style="table-layout:fixed">
 <tr>
@@ -25,9 +25,9 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Acrobat Sign beheren op de Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong> Beherend Acrobat Sign op de Admin Console </strong></a>
     </div>
-    <em>Leer hoe u Acrobat Sign-gebruikers en licenties beheert op het bedrijfsplatform van de Adobe in de Adobe Admin Console</em>
+    <em> Leer hoe te om de gebruikers en de vergunningen van Acrobat Sign op de ondernemingsplatform van de Adobe te beheren Adobe Admin Console </em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong> Centrum van het Vertrouwen van de Adobe </strong></a>
     </div>
-    <em>Meer informatie over onze voortdurende inspanningen op het gebied van beveiliging, wettigheid en standaarden voor Acrobat Sign</em>
+    <em> Leer over onze lopende inspanningen in veiligheid, wettigheid, en normen voor Acrobat Sign </em>
     <br>
   </td>
   <td>
@@ -45,9 +45,9 @@ Best practice-artikelen met waardevol inzicht in het implementeren van Acrobat S
       <img alt="Acrobat Sign Essentials Study Guide" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Study Guide</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong> Gids van de Studie van de Grondbeginselen van Acrobat Sign </strong></a>
     </div>
-    <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <em> Gids van de Studie van Acrobat Sign voor de Beoordeling van de Hoofdzaak van Acrobat Sign (AD3-D104) </em>
     <br>
   </td>
   <td>
