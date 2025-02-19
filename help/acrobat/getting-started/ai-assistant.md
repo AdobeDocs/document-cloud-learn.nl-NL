@@ -1,21 +1,21 @@
 ---
-title: Ontdek PDF Insights met de AI Assistant
-description: Leer hoe je inzichten krijgt uit je PDF-bestanden met de AI Assistant
+title: Ontdek PDF-inzichten met AI Assistant
+description: Leer hoe je inzichten krijgt uit je PDF-bestanden met AI Assistant
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Ontdek PDF-inzichten met de AI Assistant
+# Ontdek PDF-inzichten met AI Assistant
 
-Leer hoe je met de AI Assistant inzichten krijgt uit je PDF-bestanden om snel indrukwekkende content te creëren. De AI-assistent is een veilige gespreksengine waarmee documentworkflows worden verbeterd en complexe documentgegevens worden geanalyseerd. Deze videoleerprogramma gebruikt de [ nieuwe werkruimteervaring ](new-workspace.md).
+Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden om snel indrukwekkende content te creëren. AI Assistant is een veilige gespreksengine waarmee documentworkflows worden verbeterd en complexe documentgegevens worden geanalyseerd. Deze videoleerprogramma gebruikt de [ nieuwe werkruimteervaring ](new-workspace.md).
 
 ## Gebruiksscenario&#39;s
 
