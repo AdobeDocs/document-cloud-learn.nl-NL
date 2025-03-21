@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 2%
+source-wordcount: '593'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB  Hoe te om een gebruiker aan een admin rol ] te bevorderen
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
-Leer hoe te [ een gebruiker ](promote-admin.md) aan een Acrobat Sign adminrol bevorderen gebruikend de Admin Console.
+Leer om [ gebruikers voor Acrobat Sign ](add-users-to-your-account.md) toe te voegen en te beheren.
 
 >[!TAB  hoe te opstellingsprivacybeheerders ]
 
@@ -73,10 +73,10 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Gebruikers toevoegen" src="../assets/Adding-Users.png" />
+      <img alt="Een nieuwe gebruiker toevoegen" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong> Toevoegend gebruikers </strong></a>
+    <a href="add-users-to-your-account.md"><strong> voeg een nieuwe gebruiker </strong></a> toe
     </div>
     <em> voeg en beheer gebruikers voor Acrobat Sign toe </em>
     <br>
