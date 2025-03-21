@@ -1,20 +1,20 @@
 ---
 title: Product- en ondersteuningsbeheerrollen toewijzen
-description: Leer hoe u een gebruiker via de Admin Console promoot naar een Acrobat Sign-product of de beheerdersrol ondersteunt
+description: Leer hoe u een Acrobat Sign-gebruikersrol voor productbeheer en ondersteuningsbeheer in de Admin Console toewijst
 feature: Administration
 role: Admin
 level: Intermediate
 jira: KT-17583
 exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
-source-git-commit: 4afc82415974a51f7f2a78cc8aa5d7c2a2359c71
+source-git-commit: 02bc3656be52c8e632deccd161786ba26202e42c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '47'
 ht-degree: 2%
 
 ---
 
 # Product- en ondersteuningsbeheerrollen toewijzen
 
-Leer hoe te om een gebruiker aan een product van Acrobat Sign of steun te bevorderen adminrol gebruikend de [ Admin Console ](https://adminconsole.adobe.com/).
+L &quot;Leer hoe te om een de Admin van het gebruikersproduct van Acrobat Sign en rol van de Admin van de Steun in de [ Admin Console ](https://adminconsole.adobe.com/) toe te wijzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
