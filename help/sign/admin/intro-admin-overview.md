@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <div>
     <a href="add-users-to-your-account.md"><strong> voeg een nieuwe gebruiker </strong></a> toe
     </div>
-    <em> voeg en beheer gebruikers voor Acrobat Sign toe </em>
+    <em> voeg nieuwe gebruikers aan Acrobat Sign </em> toe
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Een gebruiker promoten naar een beheerdersrol" src="../assets/promote-admin.png" />
+      <img alt="Product- en ondersteuningsbeheerrollen toewijzen" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong> Hoe te om een gebruiker aan een admin rol </strong></a> te bevorderen
+    <a href="promote-admin.md"><strong> wijs de rollen van Product &amp; van Admin van de Steun toe </strong></a>
     </div>
-    <em> Leer hoe te om een gebruiker aan een Acrobat Sign adminrol te bevorderen gebruikend de Admin Console </em>
+    <em> Leer hoe te om een gebruiker aan een product van Acrobat Sign of steun te bevorderen adminrol gebruikend de Admin Console </em>
     <br>
   </td>
    <td>
