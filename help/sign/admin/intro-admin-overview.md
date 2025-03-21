@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!TAB  voeg een nieuwe gebruiker ] toe
 
-Leer om [ gebruikers voor Acrobat Sign ](add-users-to-your-account.md) toe te voegen en te beheren.
+Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
 >[!TAB  hoe te opstellingsprivacybeheerders ]
 
@@ -72,6 +72,18 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Een nieuwe gebruiker toevoegen" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong> voeg een nieuwe gebruiker </strong></a> toe
+    </div>
+    <em> Leer hoe te om nieuwe gebruikers aan Acrobat Sign toe te voegen </em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Een nieuwe accountbeheerder toevoegen" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <a href="add-admin.md"><strong> voeg een nieuwe accountbeheerder toe </strong></a>
     </div>
     <em> Leer hoe te om een nieuwe gebruiker tot stand te brengen of een bestaande gebruiker te bevorderen aan de rol van Acrobat Sign Admin </em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong> het Creëren en het leiden groepen </strong></a>
-    </div>
-    <em> creeer groepen, voeg gebruikers aan groepen toe, en geef groepsmontages uit </em>
     <br>
   </td>
   <td>
