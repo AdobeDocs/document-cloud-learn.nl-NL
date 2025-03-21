@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '550'
 ht-degree: 6%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 6%
       + [Aan de slag voor beheerders](admin/up-and-running-admin.md)
       + [Meldingen voor gebeurtenissen en waarschuwingen configureren](admin/set-up-shared-events-and-alert.md)
       + [Een nieuwe gebruiker toevoegen](admin/add-users-to-your-account.md)
+      + [Een nieuwe accountbeheerder toevoegen](admin/add-admin.md)
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een sjabloon maken](sign-advanced-users/create-a-template.md)

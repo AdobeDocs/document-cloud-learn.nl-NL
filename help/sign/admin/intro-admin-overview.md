@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="Een nieuwe gebruiker toevoegen" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="Een nieuwe accountbeheerder toevoegen" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong> voeg een nieuwe gebruiker </strong></a> toe
+    <a href="add-admin.md"><strong> voeg een nieuwe accountbeheerder toe </strong></a>
     </div>
-    <em> voeg nieuwe gebruikers aan Acrobat Sign </em> toe
+    <em> Leer hoe te om een nieuwe gebruiker tot stand te brengen of een bestaande gebruiker te bevorderen aan de rol van Acrobat Sign Admin </em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong> het Creëren en het leiden groepen </strong></a>
+    </div>
+    <em> creeer groepen, voeg gebruikers aan groepen toe, en geef groepsmontages uit </em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <em> creeer een herbruikbaar documentmalplaatje voor snelheid en consistentie </em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Rapportage en transactiegebruik" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <em> Leer hoe te om rapporten te produceren en transactiegebruik te volgen </em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="Rapportopties voor gebruikers" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <em> Leer om, een bestaande Webvorm onbruikbaar te maken uit te geven en re-toe te laten </em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="In bulk verzenden" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <em> verzamel duizenden handtekeningen in één keer voor om het even welk document </em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Een workflow instellen" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
     <em> Leer hoe te om een gebruiker aan een product van Acrobat Sign of steun te bevorderen adminrol gebruikend de Admin Console </em>
     <br>
   </td>
-   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## Geavanceerde taken
