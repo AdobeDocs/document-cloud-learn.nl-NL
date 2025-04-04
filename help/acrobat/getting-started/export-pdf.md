@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # PDF omzetten in verschillende bestandsindelingen
 
-Leer hoe te om uw dossiers van de PDF in verschillend dossier formaten-als [ Word van Microsoft ](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html) om te zetten, [ PowerPoint ](https://www.adobe.com/nl/acrobat/online/pdf-to-ppt.html), en [ Excel ](https://www.adobe.com/nl/acrobat/online/pdf-to-excel.html). Het omzetten van uw PDF in [ Adobe Express ](https://express.adobe.com) om branded ontwerpelementen toe te voegen wordt ook behandeld. Als je je PDF naar een andere bestandsindeling converteert, zoals Microsoft Word, wordt de efficiëntie van de documentworkflow verbeterd en bespaart het veel tijd wanneer je uitgebreide wijzigingen aanbrengt in je lange documenten. Deze videozelfstudie gebruikt de nieuwe werkruimte-ervaring.
+Leer hoe te om uw dossiers van de PDF in verschillend dossier formaten-als [ Word van Microsoft ](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html) om te zetten, [ PowerPoint ](https://www.adobe.com/nl/acrobat/online/pdf-to-ppt.html), en [ Excel ](https://www.adobe.com/nl/acrobat/online/pdf-to-excel.html). Het omzetten van uw PDF in [ Adobe Express ](https://express.adobe.com) om branded ontwerpelementen toe te voegen wordt ook behandeld. Als je je PDF naar een andere bestandsindeling converteert, zoals Microsoft Word, wordt de efficiëntie van de documentworkflow verbeterd en bespaart het veel tijd wanneer je uitgebreide wijzigingen aanbrengt in je lange documenten. Deze videozelfstudie maakt gebruik van de nieuwe Acrobat-ervaring.
 
 >[!TIP]
 >

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4426993598edcbf560780dd6369462ff1f2cecfd
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Een PDF maken
 
-Leer hoe te [ PDF van alle verschillende soorten documenten ](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt de [ nieuwe werkruimteervaring ](new-workspace.md).
+Leer hoe te [ PDF van alle verschillende soorten documenten ](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
 
 >[!TIP]
 >
