@@ -1,5 +1,5 @@
 ---
-title: Ingesloten e-handtekeningen en documentervaringen maken
+title: Ingesloten functies voor elektronische handtekeningen en documenten maken
 description: Leer hoe u Acrobat Sign API's kunt gebruiken om ervaringen voor elektronische handtekeningen en documenten in te sluiten in uw webplatforms en content- en documentbeheersystemen
 feature: Integrations, Workflow
 role: Developer
@@ -9,10 +9,10 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 2%
+source-wordcount: '832'
+ht-degree: 0%
 
 ---
 
@@ -22,13 +22,13 @@ Leer hoe u Acrobat Sign API&#39;s kunt gebruiken om ervaringen voor elektronisch
 
 ## Deel 1: Wat u nodig hebt
 
-In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor onderdelen 2-4. Laten we beginnen met het ophalen van API-referenties.
+In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor onderdelen 2-4. Laten we beginnen met het ophalen van API-aanmeldingsgegevens.
 
-+++Bekijk details over het ophalen van API-referenties
++++Meer informatie weergeven over het ophalen van API-aanmeldingsgegevens
 
-* [Acrobat Sign-ontwikkelaarsaccount](https://acrobat.adobe.com/nl/nl/sign/developer-form.html)
-* [Eenvoudige code](https://github.com/benvanderberg/adobe-sign-api-tutorial)
-* [VS-code (of editor van uw keuze)](https://code.visualstudio.com)
+* [Acrobat Sign-ontwikkelaarsaccount](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Startcode](https://github.com/benvanderberg/adobe-sign-api-tutorial)
+* [ de Code van VS (of redacteur van uw keus) ](https://code.visualstudio.com)
 * Python 3.x
    * Mac — Homebrew
    * Linux — Ingebouwd installatieprogramma
@@ -45,43 +45,43 @@ In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of
 
 1. Open Acrobat Sign met uw ontwikkelaarsaccount.
 
-1. Selecteren **Een webformulier publiceren** op de startpagina.
+1. Selecteer **Een webformulier** publiceren op de startpagina.
 
-   ![Schermafbeelding Acrobat Sign-startpagina](assets/embeddedesignature/embed_1.png)
+   ![ de homepage van Acrobat Sign van het Scherm ](assets/embeddedesignature/embed_1.png)
 
 1. Maak uw overeenkomst.
 
-   ![Screenshot van hoe u een webformulier kunt maken](assets/embeddedesignature/embed_2.png)
+   ![ Screenshot van hoe te om een Webvorm ](assets/embeddedesignature/embed_2.png) te creëren
 
 1. Sluit uw overeenkomst in op een platte HTML-pagina.
 
 1. Experimenteer met het dynamisch toevoegen van queryparameters.
 
-   ![Screenshot van het toevoegen van queryparameters](assets/embeddedesignature/embed_3.png)
+   ![ Screenshot van het toevoegen van vraagparameters ](assets/embeddedesignature/embed_3.png)
 
 +++
 
-## Deel 3: Overeenkomst verzenden met een formulier en gegevens samenvoegen
+## Deel 3: overeenkomst verzenden met een formulier en gegevens samenvoegen
 
 In deel 3 maakt u dynamisch overeenkomsten.
 
-+++Bekijk details over het dynamisch maken van overeenkomsten
++++Details weergeven over het dynamisch maken van overeenkomsten
 
-Ten eerste moet u toegang tot de computer tot stand brengen. Met Acrobat Sign kunt u op twee manieren verbinding maken via een API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zou u de Sleutels van de Integratie eerst moeten onderzoeken.
+Eerst moet u toegang instellen. Er zijn twee manieren om verbinding te maken met Acrobat Sign via API. OAuth-tokens en integratietoetsen. Tenzij u een zeer specifieke reden hebt om OAuth met uw toepassing te gebruiken, zou u de Sleutels van de Integratie eerst moeten onderzoeken.
 
-1. Selecteren **Integratiesleutel** op de **API-informatie** onder het menu **Account** in Acrobat Sign.
+1. Selecteer **Sleutel van de Integratie** op het **API menu van de Informatie** onder het **lusje van de Rekening** in Acrobat Sign.
 
-   ![Screenshot van de integratiesleutel](assets/embeddedesignature/embed_4.png)
+   ![ Screenshot van waar te om de integratiesleutel ](assets/embeddedesignature/embed_4.png) te vinden
 
 Nu u toegang hebt tot de API en deze kunt gebruiken, kunt u zien wat u kunt doen met de API.
 
-1. Ga naar de [Methoden voor Acrobat Sign REST API versie 6](http://adobesign.com/public/docs/restapi/v6).
+1. Navigeer aan de [ REST API Versie 6 Methoden van Acrobat Sign ](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot van navigatie Acrobat Sign REST API versie 6 Methods](assets/embeddedesignature/embed_5.png)
+   ![ Screenshot van het navigeren Acrobat Sign REST API Versie 6 Methoden ](assets/embeddedesignature/embed_5.png)
 
 1. Gebruik het token als een &quot;toonder&quot;-waarde.
 
-   ![Schermafbeelding van waarde toonder](assets/embeddedesignature/embed_6.png)
+   ![ Schermafbeelding van dragerwaarde ](assets/embeddedesignature/embed_6.png)
 
 Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de API kunt gebruiken.
 
@@ -91,34 +91,36 @@ Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de AP
 >
 >Op JSON gebaseerde aanvraagaanroepen hebben een optie &quot;Model&quot; en &quot;Minimaal Modelschema&quot;. Dit geeft specs en een minimale ladingsreeks.
 
-![Screenshot van het maken van een tijdelijk document](assets/embeddedesignature/embed_7.png)
+![ Schermafbeelding van het creëren van een Voorbijgaande Doc ](assets/embeddedesignature/embed_7.png)
 
-Nadat u een overeenkomst voor de eerste keer hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om wat hulpverleners op te richten om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
+Nadat u voor het eerst een overeenkomst hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om een aantal helpers op te zetten om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
 
-**Validatie**
+**Validering**
 
-![Screenshot van validatielogica](assets/embeddedesignature/embed_8.png)
+![Schermafbeelding van de validatielogica](assets/embeddedesignature/embed_8.png)
 
-**Kopteksten/auth**
+**Kopballen/Auth**
 
-![Schermafbeelding van kopteksten/auth-logica](assets/embeddedesignature/embed_9.png)
+![ Scherenshot van kopteksten/auth logica ](assets/embeddedesignature/embed_9.png)
 
-**Basis-URI**
+**Basis URI**
 
-![Screenshot van de Base URI-logica](assets/embeddedesignature/embed_10.png)
+![ Schermafbeelding van de logica van basis-URI ](assets/embeddedesignature/embed_10.png)
 
 Houd rekening met de plaats waar overgangsdocs aankomen binnen het grootse schema van het Sign-ecosysteem.
-Overgang -> Overgangsovereenkomst -> Sjabloon -> Overgangsovereenkomst -> Widget -> Overeenkomst
+Overgang -> Overeenkomst
+Overgang -> Sjabloon -> Overeenkomst
+Overgang -> Widget -> Overeenkomst
 
 In dit voorbeeld wordt een sjabloon als documentbron gebruikt. Dit is meestal de beste manier, tenzij u een solide reden hebt om documenten dynamisch te genereren ter ondertekening (bijvoorbeeld het genereren van verouderde code of documenten).
 
-De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De `IN_PROCESS` staat betekent dat het document onmiddellijk wordt verzonden. Ook: `mergeFieldInfo` wordt gebruikt om velden dynamisch te vullen.
+De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De status `IN_PROCESS` betekent dat het document direct wordt verzonden. Daarnaast wordt `mergeFieldInfo` gebruikt om velden dynamisch te vullen.
 
-![Screenshot van code om handtekeningen dynamisch toe te voegen](assets/embeddedesignature/embed_11.png)
+![ Screenshot van code om handtekeningen dynamisch toe te voegen ](assets/embeddedesignature/embed_11.png)
 
 +++
 
-## Deel 4: Ondertekeningservaring insluiten, omleidingen en meer
+## Deel 4: ondertekenervaring, omleidingen en meer insluiten
 
 In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een overeenkomst te ondertekenen. Dit is handig voor klantgerichte toepassingen en kiosken.
 
@@ -126,21 +128,21 @@ In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een ov
 
 Als u niet wilt dat de eerste verzendende e-mail wordt geactiveerd, kunt u het gedrag eenvoudig beheren door de API-aanroep aan te passen.
 
-![Screenshot van code die het verzenden van e-mail niet activeert](assets/embeddedesignature/embed_12.png)
+![ Schermafbeelding van code om het verzenden van e-mail niet te activeren ](assets/embeddedesignature/embed_12.png)
 
 Hieronder wordt beschreven hoe u de omleiding na ondertekening kunt beheren:
 
-![Screenshot van code voor controle over omleiding na ondertekening](assets/embeddedesignature/embed_13.png)
+![Schermafbeelding van code voor omleiden na ondertekening](assets/embeddedesignature/embed_13.png)
 
-Na het bijwerken van het maken van de overeenkomst genereert de laatste stap de URL voor ondertekening. Deze aanroep is ook vrij eenvoudig en genereert een URL die een ondertekenaar kan gebruiken om toegang te krijgen tot zijn deel van het ondertekeningsproces.
+Na het bijwerken van het proces voor het maken van de overeenkomst bestaat de laatste stap uit het genereren van de ondertekenings-URL. Deze aanroep is ook vrij eenvoudig en genereert een URL die een ondertekenaar kan gebruiken om toegang te krijgen tot zijn deel van het ondertekeningsproces.
 
-![Screenshot van code om een ondertekenaar-URL te genereren](assets/embeddedesignature/embed_14.png)
+![Schermafbeelding van code om een URL van de ondertekenaar te genereren](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >
->De aanroep van de overeenkomst is technisch asynchroon. Dit betekent dat er een &#39;POST&#39;-overeenkomst kan worden aangeroepen, maar de overeenkomst is nog niet gereed. De beste manier is om een herhalingslus te creëren. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
+>De aanroep om een overeenkomst te maken is technisch asynchroon. Dit betekent dat u een &#39;POST&#39;-overeenkomstoproep kunt maken, maar de overeenkomst nog niet klaar is. De beste manier is om een herhalingslus te creëren. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
 
-![Screenshot zegt dat het de beste manier is om een herhalingslus te creëren](assets/embeddedesignature/embed_15.png)
+![ Screenshot die het beste praktijken zegt om een hertry lijn ](assets/embeddedesignature/embed_15.png) te vestigen
 
 Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenkomst en genereert vervolgens een ondertekenings-URL waarmee de ondertekenaar op het ondertekeningsritueel kan klikken en beginnen.
 
@@ -148,15 +150,15 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
 
 ## Aanvullende onderwerpen
 
-* [JS-gebeurtenissen](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
+* [ Gebeurtenissen JS ](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-gebeurtenissen
-   * [REST-API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Webhooks in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [Verzoek-e-mails opnieuw activeren (met gebeurtenissen)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
-* [Time-out vervangen door opnieuw proberen](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+   * [ REST API ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+   * [ Webhooks in Acrobat Sign v6 ](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+* [ Reactivate de E-mails van het Verzoek (met gebeurtenissen) ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+* [ vervang Onderbreking met opnieuw proberen ](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Aangepaste herinneringen
    * Met het eerste ontwerp
 
-     ![Screenshot van navigatie naar Power Automate](assets/embeddedesignature/embed_16.png)
+     ![ Screenshot van het navigeren aan Macht automatiseren ](assets/embeddedesignature/embed_16.png)
 
-   * Of voeg er een toe [tijdens de vlucht](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * Of voeg één [ in-vlucht ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) toe
