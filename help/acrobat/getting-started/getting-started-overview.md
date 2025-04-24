@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
 
 # Aan de slag - overzicht
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten. Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) voor het worden begonnen met Acrobat.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten. Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) voor het worden begonnen met Acrobat.
 
 ## Nieuw
 
@@ -448,7 +448,7 @@ Leer over de [ nieuwe ervaring van Acrobat ](new-workspace.md) die u helpt snel 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="Opmerkingen over een PDF"> Commentaar op een PDF </a>
                     </p>
-                    <p class="is-size-6">Opmerkingen toevoegen en vervolgens uw PDF delen met anderen</p>
+                    <p class="is-size-6">Leer hoe u opmerkingen toevoegt aan een gedeelde PDF met behulp van een webbrowser</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
