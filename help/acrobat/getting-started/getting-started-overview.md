@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 >[!BEGINTABS]
 
+>[!TAB  Commentaar op een PDF ]
+
+Leer hoe te [ commentaar op een gedeelde PDF ](comment-on-pdf-files.md) gebruikend enkel Webbrowser.
+
 >[!TAB  werk in echt samen - tijd ]
 
 Leer hoe te om een document [ revisieproces ](collaborate.md) tot stand te brengen dat niet alleen efficiency verbetert maar ook inhoudskwaliteit verhoogt.
@@ -33,10 +37,6 @@ Leer hoe te [ een nieuwe professioneel-kijkt pagina ](add-custom-page.md) in uw 
 >[!TAB  geef grafiek in a PDF ] uit
 
 Leer hoe te [, grafiek ](edit-graphics.md) in uw PDF creëren uit te geven en te verbeteren.
-
->[!TAB  nieuwe ervaring van Acrobat ]
-
-Leer over de [ nieuwe ervaring van Acrobat ](new-workspace.md) die u helpt snel hulpmiddelen ontdekken en uw PDF taken efficiënt voltooien.
 
 >[!ENDTABS]
 
