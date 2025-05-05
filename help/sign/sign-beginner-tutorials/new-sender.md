@@ -28,88 +28,88 @@ Deze gedetailleerde zelfstudie behandelt de volgende onderwerpen:
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Aanmelden</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&captions=dut"><strong>Aanmelden</strong></a>
          <br>
         <em>Beginnen om 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=56&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>Startpagina</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=56&captions=dut"><strong>Startpagina</strong></a>
          <br>
         <em>Beginnen om 0:56</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=153&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>Uw profiel instellen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389/?quality=12&learn=on&hidetitle=true&t=153&captions=dut"><strong>Uw profiel instellen</strong></a>
         <br>
         <em>Te 14:33</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=272&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>Verzendinstellingen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=272&captions=dut"><strong>Verzendinstellingen</strong></a>
         <br>
         <em>Te beginnen om 4:32</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=551&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>Invulbare velden toevoegen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=551&captions=dut"><strong>Invulbare velden toevoegen</strong></a>
          <br>
         <em>Te beginnen om 9:11</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=719&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>Ondertekeningservaring</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=719&captions=dut"><strong>Ondertekeningservaring</strong></a>
         <br>
         <em>Te 23:59</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=774&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Documenten beheren en volgen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=774&captions=dut"><strong>Documenten beheren en volgen</strong></a>
         <br>
         <em>Begin om 12:54</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
+    <a href="https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&t=898&captions=dut">
       <img alt="Afbeelding vooruitspoelen" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>Ondersteuning en bronnen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454389/?quality=12&learn=on&hidetitle=true&t=898&captions=dut"><strong>Ondersteuning en bronnen</strong></a>
         <br>
         <em>Begin om 14:58</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&captions=dut)

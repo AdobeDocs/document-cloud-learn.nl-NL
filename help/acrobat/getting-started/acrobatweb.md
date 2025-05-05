@@ -24,7 +24,7 @@ Met extern werk overal, is het essentieel om content met snelheid en schaal te l
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443538?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

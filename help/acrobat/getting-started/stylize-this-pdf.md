@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe te om professioneel-kijkt PDF met de geïntegreerde makkelijk te gebruiken ontwerphulpmiddelen in [ Adobe Express ](https://express.adobe.com) tot stand te brengen. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445547?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)

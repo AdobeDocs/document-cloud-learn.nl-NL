@@ -29,7 +29,7 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
 * [ Bedrijfs subsidies en leningen ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=nl-NL)
 * [ hulp van de Terugkeer ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=nl-NL)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425324?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

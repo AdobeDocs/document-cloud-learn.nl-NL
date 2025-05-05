@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Volg een korte videorondleiding van de Acrobat Sign-werkruimte om aan de slag te gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425258?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

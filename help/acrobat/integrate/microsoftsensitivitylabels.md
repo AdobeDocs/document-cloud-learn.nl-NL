@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u PDF kunt beschermen door toevoegen, bewerken, aanpassen en verwijderen [Informatie over Microsoft-weergave](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) gevoeligheidslabels rechtstreeks in Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444304?quality=12&learn=on&hidetitle=true&captions=dut)

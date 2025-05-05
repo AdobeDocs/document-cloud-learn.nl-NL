@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u een herbruikbare documentsjabloon maakt en deze toevoegt aan uw Acrobat Sign-bibliotheek voor toekomstig gebruik. Documentsjablonen bieden snelheid en consistentie in uw ondertekeningstransacties en de mogelijkheid om documentrevisies en wijzigingen te beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425338?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

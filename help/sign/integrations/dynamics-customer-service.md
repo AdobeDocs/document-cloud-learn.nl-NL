@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lees hoe Acrobat Sign en [!DNL Microsoft Dynamics 365] voor Klantenservice wordt gebruikt om de klanttevredenheid op een zelfservicewebportal voor klanten te verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422046?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445979?quality=12&learn=on&hidetitle=true&captions=dut)

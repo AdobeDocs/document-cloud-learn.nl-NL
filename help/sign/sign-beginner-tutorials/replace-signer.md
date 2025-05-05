@@ -22,4 +22,4 @@ Leer hoe u een ondertekenaar vervangt, zoals wanneer de verkeerde e-mail werd ge
 >
 >De standaardinstelling voor Ontvanger vervangen is om de huidige ontvanger volledig te vervangen door een nieuwe ontvanger. Lidmaatschappen op bedrijfsniveau en ondernemingsniveau hebben extra opties beschikbaar.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425306?quality=12&learn=on&hidetitle=true&captions=dut)

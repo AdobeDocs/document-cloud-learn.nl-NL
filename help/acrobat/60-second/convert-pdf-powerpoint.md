@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u een PDF-bestand omzet in een volledig bewerkbaar Microsoft PowerPoint-document.
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437338?quality=12&learn=on&hidetitle=true&captions=dut)

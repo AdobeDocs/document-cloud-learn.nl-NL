@@ -22,4 +22,4 @@ Leer hoe u rapporten genereert en transactieverbruik bijhoudt. Deze rapporten ku
 >
 >Rapportage is alleen beschikbaar voor bedrijfs- en ondernemingslidmaatschappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444688?quality=12&learn=on&hidetitle=true&captions=dut)

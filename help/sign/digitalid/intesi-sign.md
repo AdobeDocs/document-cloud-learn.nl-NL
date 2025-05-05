@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe je je [!DNL Intesi Group] digitale id om uw identiteit te verifiëren en een externe digitale handtekening (cloudhandtekening) op een document te autoriseren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443667?quality=12&learn=on&hidetitle=true&captions=dut)

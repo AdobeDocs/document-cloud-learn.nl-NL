@@ -17,4 +17,4 @@ ht-degree: 11%
 
 Leer in deze videozelfstudie van 60 seconden hoe u [een PDF-bestand converteren naar een volledig bewerkbaar Microsoft Word-document](https://www.adobe.com/nl/acrobat/online/pdf-to-word.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428840?quality=12&learn=on&hidetitle=true&captions=dut)

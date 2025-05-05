@@ -18,4 +18,4 @@ Leer hoe webformulieren worden gebruikt om de toegang van studenten tot vereiste
 
 Uitchecken [Een educatieve webtoepassing voor formulierinternatie maken](usecase-edu-intern-create.md) om te leren hoe u dit webformulier maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430545?quality=12&learn=on&hidetitle=true&captions=dut)

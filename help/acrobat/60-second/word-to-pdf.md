@@ -17,4 +17,4 @@ ht-degree: 14%
 
 Leer in deze videozelfstudie van 60 seconden hoe u [een PDF maken van Microsoft Word](https://www.adobe.com/nl/acrobat/online/word-to-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437084?quality=12&learn=on&hidetitle=true&captions=dut)

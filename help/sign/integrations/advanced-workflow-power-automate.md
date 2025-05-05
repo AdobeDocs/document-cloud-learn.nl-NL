@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Ontdek hoe niet-technische leden van je organisatie eenvoudige workflows kunnen geavanceerd die verbinding maken met andere systemen met behulp van de vooraf gebouwde [!DNL Microsoft Power Automate] -connectoren die gratis bij Acrobat Sign worden geleverd. Deze geautomatiseerde documentworkflows helpen bij het versnellen en efficiënter maken van veelvoorkomende processen, het verkorten van de tijd die wordt besteed aan herhaalde taken, het minimaliseren van fouten en het opnieuw uitvoeren van taken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425147?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441259?quality=12&learn=on&hidetitle=true&captions=dut)

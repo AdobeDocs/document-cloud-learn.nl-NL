@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u een sjabloon in uw bibliotheek kunt bewerken of verwijderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426026?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

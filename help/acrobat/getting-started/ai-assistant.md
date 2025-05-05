@@ -39,4 +39,4 @@ Controleer de transcripten van de vergadering en help bij het opstellen van een 
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445828?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)

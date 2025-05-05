@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Leer hoe te om een nieuwe gebruiker tot stand te brengen of een bestaande gebruiker aan de rol van Acrobat Sign Admin in de [ Admin Console ](https://adminconsole.adobe.com/) te bevorderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453175?quality=12&learn=on&hidetitle=true&captions=dut)

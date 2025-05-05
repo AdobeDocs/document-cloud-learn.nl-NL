@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Leer hoe u een interactieve webformulier kunt maken om de toegang van studenten tot vereiste formulieren te verbeteren die vanaf elk apparaat en op elke locatie kunnen worden ingediend. In dit voorbeeld, is het werkschema voor elke student uniek afhankelijk van hun cursus van studie — omdat elke student hun eigen Toezichthouder van de Faculteit en Hoofd van de Afdeling voor goedkeuring moet toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432434?quality=12&learn=on&hidetitle=true&captions=dut)

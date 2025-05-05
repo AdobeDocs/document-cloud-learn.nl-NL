@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u in de Admin Console privacybeheerders voor Acrobat Sign-workflows instelt en gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448222?quality=12&learn=on&hidetitle=true&captions=dut)

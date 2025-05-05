@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u in real-time kunt samenwerken aan een PDF-bestand in Microsoft Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437483?quality=12&learn=on&hidetitle=true&captions=dut)

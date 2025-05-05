@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Leer hoe u een geavanceerd digitaal ondertekeningscertificaat kunt verkrijgen van [!DNL Intesi Group]. Zodra je je hebt geregistreerd en je identiteit is geverifieerd, [!DNL Intesi Group] geeft problemen met een digitale id die wordt gebruikt om een Acrobat Sign-cloudhandtekening toe te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449906?quality=12&learn=on&hidetitle=true&captions=dut)
 
 <br>
 

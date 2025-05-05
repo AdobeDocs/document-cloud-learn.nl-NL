@@ -22,6 +22,6 @@ Leer hoe u gegevens die zijn verzameld in een webformulier kunt toewijzen aan ee
 >
 >Veldtoewijzing tussen Acrobat Sign-webformulieren en [!DNL SharePoint] Lijsten zijn alleen beschikbaar voor onlineinstallaties en niet voor On-Premises-installaties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432457?quality=12&learn=on&hidetitle=true&captions=dut)
 
 

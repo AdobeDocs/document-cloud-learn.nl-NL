@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Vervang snel papierverwerking door compatibele digitale workflows, compleet met controlerapporten. Leer hoe u het hele proces kunt stroomlijnen met het gereedschap Acrobat Sign Workflow Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448057?quality=12&learn=on&hidetitle=true&captions=dut)
 
 Selecteer deze optie om een stapsgewijze PDF recept voor contracten en aanvraagformulieren te downloaden of te openen.
 

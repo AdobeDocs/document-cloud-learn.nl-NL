@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u een PDF-bestand kunt omzetten in een volledig bewerkbaar Microsoft Excel-document.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409908?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436951?quality=12&learn=on&hidetitle=true&captions=dut)

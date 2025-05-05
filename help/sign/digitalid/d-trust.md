@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u uw identiteit kunt registreren bij [!DNL D-Trust]en gebruikt vervolgens de [!DNL D-Trust] digitale handtekening op een document in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449150?quality=12&learn=on&hidetitle=true&captions=dut)

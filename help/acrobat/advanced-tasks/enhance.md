@@ -51,7 +51,7 @@ Ga 2 tot 26 in de **Pagina&#39;s van** sectie in, dan selecteer **O.K.**.
 
 Gebruik het gereedschap Bewerken om een nieuwe voettekst aan uw PDF toe te voegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437739?hidetitle=true&captions=dut)
 
 <br>
 

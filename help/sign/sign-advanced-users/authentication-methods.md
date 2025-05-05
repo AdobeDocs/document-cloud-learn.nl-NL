@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer meer over de verschillende methoden die beschikbaar zijn in Acrobat Sign voor het verifiëren van de identiteit van iemand die een document ondertekent. Identiteitsverificatie helpt fraude te verminderen en voegt een extra beveiligingslaag toe aan documenten die zijn ondertekend.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447588?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u gevoelige informatie uit een PDF kunt verwijderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436918?quality=12&learn=on&hidetitle=true&captions=dut)

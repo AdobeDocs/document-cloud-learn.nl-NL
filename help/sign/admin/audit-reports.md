@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u controlerapporten kunt openen, gebruiken en configureren om aan de behoeften van uw organisatie te voldoen. Elk document in Acrobat Sign doorloopt een reeks &quot;mijlpalen&quot; voor gebeurtenissen die de voortgang van een transactie bepalen. Deze mijlpalen worden grondig gedocumenteerd in een controlerapport voor elke transactie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448551?quality=12&learn=on&hidetitle=true&captions=dut)

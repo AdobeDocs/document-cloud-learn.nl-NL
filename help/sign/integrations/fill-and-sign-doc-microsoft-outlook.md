@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer hoe u documentworkflows stroomlijnt door een formulier rechtstreeks in [!DNL Microsoft Outlook] in te vullen en te ondertekenen.
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443458?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

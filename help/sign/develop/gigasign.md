@@ -23,7 +23,7 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 >
 >GigaSign wordt niet meer bijgewerkt naar de nieuwste versie van Java of Acrobat Sign en biedt slechts beperkte ondersteuning. De functies van GigaSign worden toegevoegd aan het product onder de [In bulk verzenden](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=nl-NL&) functionaliteit. Gebruik Verzenden in bulk voor alle gevallen waarin het gebruik van GigaSign niet expliciet is vereist.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453516?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Download en installeer de GigaSign-app
 

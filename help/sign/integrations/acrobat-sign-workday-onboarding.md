@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Met Acrobat Sign in Workday kun je eenvoudig onboardingworkflows stroomlijnen met een volledig digitaal proces voor het verzamelen van handtekeningen. Geef je team de mogelijkheid om minder tijd te besteden aan het beheren van ondertekeningsprocessen en meer tijd te besteden aan kostbaar werk.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446639?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 De meest voorkomende workflow in Acrobat Sign: een document ter ondertekening verzenden. Leer hoe u een document uploadt, formuliervelden toevoegt en ter ondertekening naar iemand verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425273?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

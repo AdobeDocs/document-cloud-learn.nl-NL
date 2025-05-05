@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe je je [!DNL Aadhaar] digitale id om uw identiteit te verifiëren en een externe digitale handtekening (cloudhandtekening) te autoriseren voor een document in Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444518?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u automatisch velden op uw document plaatst of de ontwerpomgeving voor slepen en neerzetten in Acrobat Sign gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425295?quality=12&learn=on&hidetitle=true&captions=dut)

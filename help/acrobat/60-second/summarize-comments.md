@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u een overzicht maakt van alle opmerkingen en markeringen in uw PDF-bestand.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436973?quality=12&learn=on&hidetitle=true&captions=dut)

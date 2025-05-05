@@ -22,7 +22,7 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 >
 >Alleen beschikbaar in Acrobat Pro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444881?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe een veldservicetuner en -technicus Acrobat Sign gebruiken. [!DNL Power Automate], en [!DNL Dynamics 365] om de service-interacties in het veld te stroomlijnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447304?quality=12&learn=on&hidetitle=true&captions=dut)

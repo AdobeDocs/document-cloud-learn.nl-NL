@@ -19,4 +19,4 @@ Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF. Door afbeeldinge
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446935?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)

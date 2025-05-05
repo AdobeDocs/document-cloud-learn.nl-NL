@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u een PDF kunt delen om snel feedback van meerdere personen in één bestand te verzamelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437194?quality=12&learn=on&hidetitle=true&captions=dut)

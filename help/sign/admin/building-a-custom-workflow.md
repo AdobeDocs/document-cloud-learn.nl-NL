@@ -29,7 +29,7 @@ Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van e
 >
 >Groepsbeheerders kunnen workflows toewijzen aan elke groep die ze beheren (niet alleen hun primaire groep). Groepsbeheerders kunnen ook elke workflow bewerken die is toegewezen aan elke groep die ze beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425545?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

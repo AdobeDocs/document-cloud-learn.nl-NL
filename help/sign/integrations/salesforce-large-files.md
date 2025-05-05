@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u grote documenten instelt en overeenkomstservices pusht in Acrobat Sign for [!DNL Salesforce] . Met pushovereenkomsten kunt u documenten verzenden, een webformulier maken en overeenkomsten laten afdrukken alsof deze zijn gemaakt in [!DNL Salesforce] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455783?quality=12&learn=on&hidetitle=true&captions=dut)

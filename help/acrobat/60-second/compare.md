@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u met het gereedschap Bestanden vergelijken in Acrobat de verschillen tussen twee PDF-bestanden kunt vaststellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437479?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Naadloze samenwerking is essentieel voor het snel en op grote schaal leveren van content, omdat je overal op afstand kunt werken. Verplaats je projecten vooruit door opmerkingen te verzamelen, samen te werken aan reacties en de voortgang van je documenten in real-time en vanaf elke locatie te volgen. Leer hoe u een revisieproces voor documenten maakt dat niet alleen de efficiëntie verhoogt, maar ook de kwaliteit van de inhoud verhoogt. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439238?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

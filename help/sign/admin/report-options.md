@@ -21,4 +21,4 @@ Leer hoe u als Acrobat Sign-beheerder rapportopties instelt voor gebruikers.
 >
 >Rapportage is alleen beschikbaar voor bedrijfs- en ondernemingslidmaatschappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437150?quality=12&learn=on&hidetitle=true&captions=dut)

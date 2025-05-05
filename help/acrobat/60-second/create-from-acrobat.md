@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u PDF kunt maken van Microsoft 365-bestanden, rechtstreeks in de Acrobat-desktopapp.
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437212?quality=12&learn=on&hidetitle=true&captions=dut)

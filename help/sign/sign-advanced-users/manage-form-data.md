@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u formuliergegevens uit uw documenten kunt consolideren, zodat u deze kunt bekijken en beheren in een rapport of Excel-spreadsheet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443524?quality=12&learn=on&hidetitle=true&captions=dut)

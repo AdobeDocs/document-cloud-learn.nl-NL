@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u een online ondertekeningservaring maakt die lijkt op persoonlijk ondertekenen tijdens een vergadering in een Microsoft Teams. Met Live Sign kunt u vanaf elk apparaat een persoonlijke, snelle en veilige ondertekeningservaring hosten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445946?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -19,7 +19,7 @@ ht-degree: 2%
 
 Het gedeelte Algemene instellingen van het tabblad Account is een van de meer functierijke secties en alle instellingen zijn gebruiksspecifiek. Leer hoe u instellingen globaal kunt bewerken voor uw hele organisatie of voor specifieke groepen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452108?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >

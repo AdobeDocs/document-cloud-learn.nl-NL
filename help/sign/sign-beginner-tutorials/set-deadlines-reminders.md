@@ -22,5 +22,5 @@ Leer hoe u regelmatige e-mailherinneringen en deadlines kunt verzenden om uw doc
 >
 >Lidmaatschappen voor ondernemingen en bedrijven kunnen de optie Herinnering selectief weergeven tijdens het verzendproces of automatisering op account-/groepsniveau inschakelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425317?quality=12&learn=on&hidetitle=true&captions=dut)
 

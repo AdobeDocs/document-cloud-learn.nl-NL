@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u uw account eenvoudig aan [!DNL Salesforce] kunt koppelen voor automatische updates, zodat bewerkingen en nauwkeurigheid worden gestroomlijnd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439598?quality=12&learn=on&hidetitle=true&captions=dut)
