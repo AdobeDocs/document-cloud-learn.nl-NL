@@ -16,17 +16,17 @@ ht-degree: 2%
 
 # Protect een PDF-bestand met een wachtwoord
 
-Leer hoe te [ een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html) {target="_blank"} toevoegen om anderen tegen het openen of [ het uitgeven van het dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) te beschermen {target="_blank"}.
+Leer hoe te [ een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"}  toevoegen om anderen tegen het openen of [ het uitgeven van het dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} te beschermen .
 
 >[!TIP]
 >
 >Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
 
-[!BADGE  Organisatorische Gevolgen ]
+[!BADGE &#x200B; Organisatorische Gevolgen &#x200B;]
 Informatiebescherming, risicobeheer
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

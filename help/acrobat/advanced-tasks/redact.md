@@ -22,12 +22,12 @@ Leer hoe u met het gereedschap Redigeren persoonlijke of vertrouwelijke informat
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-[!BADGE  Organisatorische Gevolgen ]
+[!BADGE &#x200B; Organisatorische Gevolgen &#x200B;]
 Bescherming van klantgegevens, risicobeheer
 
 ## Tekst en afbeeldingen redigeren
 
-1. Selecteer **[!UICONTROL redigeren]** van het [!UICONTROL  centrum van Hulpmiddelen ] of juist-handruit.
+1. Selecteer **[!UICONTROL redigeren]** van het [!UICONTROL &#x200B; centrum van Hulpmiddelen &#x200B;] of juist-handruit.
 
    ![ redigeer Stap 1 ](../assets/Redact_1.png)
 
@@ -59,7 +59,7 @@ Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgro
 
 ## Document ontsmetten
 
-1. Selecteer **[!UICONTROL Sanitize Document]** in [!UICONTROL  redigeren ] hoogste menu.
+1. Selecteer **[!UICONTROL Sanitize Document]** in [!UICONTROL &#x200B; redigeren &#x200B;] hoogste menu.
 
 1. Selecteer **[!UICONTROL O.K.]** om de verwijdering van verborgen informatie te bevestigen. Of, kies **[!UICONTROL hier]** klikken om verborgen informatie selectief te verwijderen.
 
@@ -67,8 +67,8 @@ Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgro
 
 >[!TIP]
 >
-Om het redactieproces te versnellen, controleer de [ Action Wizard ](../advanced-tasks/action.md).
+>Om het redactieproces te versnellen, controleer de [ Action Wizard ](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!

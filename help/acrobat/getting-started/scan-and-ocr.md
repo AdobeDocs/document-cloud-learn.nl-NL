@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Scan en OCR
 
-Houd zaken die door scans of beelden van documenten in doorzoekbare, [ editable dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"} vooruit te zetten omzetten.
+Houd zaken die door scans of beelden van documenten in doorzoekbare, [ editable dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  vooruit te zetten omzetten.
 
 >[!TIP]
 >
 >Om veelvoudige PDF dossiers OCR, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
 
-1. Selecteer **[!UICONTROL Scannen &amp; OCR]** van het [!UICONTROL  centrum van Hulpmiddelen ] of juist-handruit.
+1. Selecteer **[!UICONTROL Scannen &amp; OCR]** van het [!UICONTROL &#x200B; centrum van Hulpmiddelen &#x200B;] of juist-handruit.
 
    ![ Stap 1 van het Aftasten ](../assets/Scan_1.png)
 

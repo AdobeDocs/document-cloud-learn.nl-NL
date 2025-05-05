@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Overzicht van mobiel
 
-Creeer, vul, en [ teken PDF ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) {target="_blank"} op uw mobiel apparaat.
+Creeer, vul, en [ teken PDF ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html){target="_blank"}  op uw mobiel apparaat.
 
 ## Zelfstudies voor mobiele apps van Acrobat Reader
 
@@ -79,14 +79,14 @@ Creeer, vul, en [ teken PDF ](https://www.adobe.com/nl/acrobat/online/sign-pdf.h
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-Download [ mobiele app van Adobe Acrobat Reader ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) {target="_blank"} de vrije globale norm voor het betrouwbaar bekijken, het annoteren, en het ondertekenen PDF.
+Download [ mobiele app van Adobe Acrobat Reader ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"}  de vrije globale norm voor het betrouwbaar bekijken, het annoteren, en het ondertekenen PDF.
 
-[ Acrobat Reader voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/acrobat/ios/en/) {target="_blank"}
-[ Acrobat Reader voor mobiele gids Android ](https://www.adobe.com/devnet-docs/acrobat/android/en/) {target="_blank"}
+[ Acrobat Reader voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"} 
+[ Acrobat Reader voor mobiele gids Android ](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"} 
 
-De mobiele app van Adobe Scan van de download ](https://www.adobe.com/acrobat/mobile/scanner-app.html) {target="_blank"} om het even welk document te vangen en het in een kwalitatief hoogstaande PDF met tekst om te zetten u kunt zoeken.[
+De mobiele app van Adobe Scan van de download [&#128279;](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"}  om het even welk document te vangen en het in een kwalitatief hoogstaande PDF met tekst om te zetten u kunt zoeken.
 
-[ Adobe Scan voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/adobescan/ios/en/) {target="_blank"}
-[ Adobe Scan voor mobiele gids Android ](https://www.adobe.com/devnet-docs/adobescan/android/en/) {target="_blank"}
+[ Adobe Scan voor de mobiele gids van iOS ](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"} 
+[ Adobe Scan voor mobiele gids Android ](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"} 
 
-De mobiele app van Adobe Fill &amp; Sign van de download ](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html) {target="_blank"} om te vullen, te ondertekenen, en om het even welke vorm van overal, op om het even welk apparaat te verzenden, gebruikend niets meer dan uw vinger of een naald.[
+De mobiele app van Adobe Fill &amp; Sign van de download [&#128279;](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}  om te vullen, te ondertekenen, en om het even welke vorm van overal, op om het even welk apparaat te verzenden, gebruikend niets meer dan uw vinger of een naald.

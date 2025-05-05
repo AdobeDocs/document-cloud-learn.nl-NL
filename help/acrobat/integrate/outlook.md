@@ -22,7 +22,7 @@ Leer hoe u e-mailberichten en bijlagen archiveert naar PDF in [!DNL Outlook] voo
 
 >[!TIP]
 >
->Controle uit deze andere integraties van Microsoft [ ](../integrate/integrate-overview.md#microsoft).
+>Controle uit deze andere integraties van Microsoft [&#128279;](../integrate/integrate-overview.md#microsoft).
 
 <br>
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u een document maakt dat elektronisch kan worden ondertekend, rechtstreeks op uw website. U kunt a [ ontvangen hyperlink aan uw vorm ](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) tot stand brengen of de verbinding gebruiken om op uw website in HTML of JavaScript in te bedden.
 
-[!BADGE  Gevallen van het Gebruik ]
+[!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
 * [ toepassing van de het Webvorm van het onderwijs ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
 Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
@@ -33,4 +33,4 @@ Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toe
 
 >[!TIP]
 >
-Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!
+>Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!

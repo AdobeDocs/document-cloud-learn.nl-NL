@@ -18,7 +18,7 @@ ht-degree: 3%
 
 Leer hoe je honderden handtekeningen verzendt en verzamelt (tot 1000 ontvangers met elke bulkverzending) in slechts een paar korte stappen, waardoor je organisatie uren tijd bespaart. Iedereen krijgt zijn eigen document ter ondertekening en u kunt de voortgang bijhouden van elke persoon naar wie u het document hebt verzonden, zodat u precies weet wie het document heeft verzonden of wie het niet heeft ondertekend. Elke online handtekening die u vastlegt, is veilig en rechtsgeldig.
 
-[!BADGE  Gevallen van het Gebruik ]
+[!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
 * [ overeenkomst van het OverzichtWerk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
 * [ Overeenkomst van het Beleid ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
@@ -29,4 +29,4 @@ Leer hoe je honderden handtekeningen verzendt en verzamelt (tot 1000 ontvangers 
 
 >[!TIP]
 >
-Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!
+>Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!

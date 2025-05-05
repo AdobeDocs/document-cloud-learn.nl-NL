@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Bestanden combineren tot één PDF
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [ Combinerend dossiers in één enkele PDF ](https://www.adobe.com/acrobat/online/merge-pdf.html) {target="_blank"} staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [ Combinerend dossiers in één enkele PDF ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}  staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
 
 >[!TIP]
 >

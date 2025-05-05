@@ -45,7 +45,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 ## Het aangepaste object synchroniseren
 
-1. Op de rechterkant, bepaal de plaats van [!UICONTROL  Lead ], [!UICONTROL  Contact ], en [!UICONTROL  rekening ] - gebaseerde douanevoorwerpen.
+1. Op de rechterkant, bepaal de plaats van [!UICONTROL &#x200B; Lead &#x200B;], [!UICONTROL &#x200B; Contact &#x200B;], en [!UICONTROL &#x200B; rekening &#x200B;] - gebaseerde douanevoorwerpen.
 
    * **[!UICONTROL laat Synchronisatie]** voor de voorwerpen onder Lood toe als u wilt teweegbrengen wanneer een Lood aan een overeenkomst in Dynamiek wordt toegevoegd.
 
@@ -67,7 +67,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 1. Activeer de synchronisatie opnieuw nadat u synchronisatie voor de aangepaste objecten hebt ingeschakeld.
 
-   Ga terug naar de [!UICONTROL  Terminal Admin ], dan klik **[!UICONTROL Dynamiek van Microsoft]**, dan klik op **[!UICONTROL toelaten Synchronisatie]**.
+   Ga terug naar de [!UICONTROL &#x200B; Terminal Admin &#x200B;], dan klik **[!UICONTROL Dynamiek van Microsoft]**, dan klik op **[!UICONTROL toelaten Synchronisatie]**.
 
    ![ Dynamica van Microsoft ](assets/microsoftDynamics.png)
 
@@ -75,7 +75,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 ## Het programma maken
 
-1. In [!UICONTROL  Activiteiten van de Marketing ], klik **[!UICONTROL de Activiteiten van de Marketing]** op de linkerbar met de rechtermuisknop aan, selecteer **[!UICONTROL Nieuwe Omslag van de Campagne]**, en noem het.
+1. In [!UICONTROL &#x200B; Activiteiten van de Marketing &#x200B;], klik **[!UICONTROL de Activiteiten van de Marketing]** op de linkerbar met de rechtermuisknop aan, selecteer **[!UICONTROL Nieuwe Omslag van de Campagne]**, en noem het.
 
    ![ Nieuwe Omslag ](assets/newFolder.png)
 
@@ -145,7 +145,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
 ## De slimme-campagnestroom instellen
 
-1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL  Slimme Campagne ].
+1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL &#x200B; Slimme Campagne &#x200B;].
 
    Zoek naar en sleep de **stroom van het Web van de Vraag** op het canvas en selecteer webhook u in de vorige sectie creeerde.
 

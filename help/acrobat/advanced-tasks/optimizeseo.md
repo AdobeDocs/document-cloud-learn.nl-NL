@@ -88,7 +88,7 @@ Een PDF als volgt labelen:
 
 ## 4. Voorbereiden voor het web
 
-Optimaliseer de ervaring van het in wisselwerking staan met uw PDF door het voor het Web het bekijken voor te bereiden en [ verminderend de grootte van het PDF- dossier ](https://www.adobe.com/nl/acrobat/online/compress-pdf.html) {target="_blank"}.
+Optimaliseer de ervaring van het in wisselwerking staan met uw PDF door het voor het Web het bekijken voor te bereiden en [ verminderend de grootte van het PDF- dossier ](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"} .
 
 +++Bekijk details over hoe u uw PDF voorbereidt voor het web
 
@@ -98,7 +98,7 @@ Om uw PDF voor het Web voor te bereiden, selecteer **[!UICONTROL Dossier > spare
 
 ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo4.png)
 
-Deze stap vermindert de dossiergrootte en laat **Snelle Mening van het Web** in de PDF toe. **Snelle Mening van het Web** laat het dossier toe om onmiddellijk worden geopend, worden bekeken en worden gezocht alvorens het volledige dossier wordt gestroomd of gedownload - creërend een optimale eindgebruikerervaring. Open ]**de Eigenschappen van het Document *CTRL + D* op Vensters of *Cmd + D* op Mac) om te bepalen als** Snelle Mening van het Web **wordt toegelaten.**[!UICONTROL 
+Deze stap vermindert de dossiergrootte en laat **Snelle Mening van het Web** in de PDF toe. **Snelle Mening van het Web** laat het dossier toe om onmiddellijk worden geopend, worden bekeken en worden gezocht alvorens het volledige dossier wordt gestroomd of gedownload - creërend een optimale eindgebruikerervaring. Open **de Eigenschappen van het Document *CTRL + D* op Vensters of *Cmd + D* op Mac) om te bepalen als** Snelle Mening van het Web **wordt toegelaten.**
 
 ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo5.png)
 
@@ -124,13 +124,13 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 ## 6. Beveilig uw PDF
 
-De laatste stap moet [ uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html) beschermen {target="_blank"} om onbevoegde veranderingen te verhinderen.
+De laatste stap moet [ uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} beschermen  om onbevoegde veranderingen te verhinderen.
 
 +++Bekijk details over het beveiligen van je PDF
 
 Beveilig een PDF als volgt:
 
-1. Open ]**de Eigenschappen van het Document *CTRL + D* op Vensters of *Cmd + D* op Mac) en selecteer de**[!UICONTROL  Veiligheid ]**tabel.**[!UICONTROL 
+1. Open **de Eigenschappen van het Document *CTRL + D* op Vensters of *Cmd + D* op Mac) en selecteer de**&#x200B;[!UICONTROL &#x200B; Veiligheid &#x200B;]&#x200B;**tabel.**
 1. Controleer **[!UICONTROL het uitgeven en druk van het document. Een wachtwoord zal worden vereist om deze montages te veranderen.]**
 1. Onder **[!UICONTROL Toegestane Veranderingen:]** selecteer **[!UICONTROL niets]**.
 1. Controle **[!UICONTROL laat teksttoegang voor de apparaten van de het schermlezer voor visueel gehandicapt toe.]**

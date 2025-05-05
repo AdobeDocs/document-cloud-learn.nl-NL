@@ -23,7 +23,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB  voeg een nieuwe gebruiker ] toe
+>[!TAB voeg een nieuwe gebruiker  toe]
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 

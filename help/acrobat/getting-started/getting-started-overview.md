@@ -34,7 +34,7 @@ Leer hoe te om een document [ revisieproces ](collaborate.md) tot stand te breng
 
 Leer hoe te [ een nieuwe professioneel-kijkt pagina ](add-custom-page.md) in uw PDF ontwerpen gebruikend Adobe Express.
 
->[!TAB  geef grafiek in a PDF ] uit
+>[!TAB geef grafiek in a PDF  uit]
 
 Leer hoe te [, grafiek ](edit-graphics.md) in uw PDF creëren uit te geven en te verbeteren.
 

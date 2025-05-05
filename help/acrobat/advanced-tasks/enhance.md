@@ -29,7 +29,7 @@ Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
-Gebruik [ het Edit hulpmiddel van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"} om achtergrondgrafiek aan uw PDF toe te voegen.
+Gebruik [ het Edit hulpmiddel van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  om achtergrondgrafiek aan uw PDF toe te voegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

@@ -16,7 +16,7 @@ ht-degree: 1%
 
 # PDF bewerken met Acrobat Web
 
-In dit videoleerprogramma van 60 seconden, leer hoe te om [ eenvoudige PDF te maken geeft ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html) {target="_blank"} aan tekst en beelden uit zonder zelfs de PDF te downloaden.
+In dit videoleerprogramma van 60 seconden, leer hoe te om [ eenvoudige PDF te maken geeft ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  aan tekst en beelden uit zonder zelfs de PDF te downloaden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 

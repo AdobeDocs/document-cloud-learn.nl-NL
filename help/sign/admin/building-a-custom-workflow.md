@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe je documentworkflows kunt aanpassen en automatiseren om elektronische handtekeningen te verkrijgen, formuliergegevens te verzamelen en de levering van een belangrijk document te bevestigen om het workflowbeheer te stroomlijnen.
 
-[!BADGE  Gevallen van het Gebruik ]
+[!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
 * [ het werkschema van de Douane voor het proces van onderwijsIEP ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
 Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van een IEP-proces (Individalized Education Program)
@@ -27,10 +27,10 @@ Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van e
 
 >[!NOTE]
 >
-Groepsbeheerders kunnen workflows toewijzen aan elke groep die ze beheren (niet alleen hun primaire groep). Groepsbeheerders kunnen ook elke workflow bewerken die is toegewezen aan elke groep die ze beheren.
+>Groepsbeheerders kunnen workflows toewijzen aan elke groep die ze beheren (niet alleen hun primaire groep). Groepsbeheerders kunnen ook elke workflow bewerken die is toegewezen aan elke groep die ze beheren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!

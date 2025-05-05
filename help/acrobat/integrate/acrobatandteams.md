@@ -28,7 +28,7 @@ Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door
 
 >[!TIP]
 >
->Controle uit deze andere integraties van Microsoft [ ](../integrate/integrate-overview.md#microsoft).
+>Controle uit deze andere integraties van Microsoft [&#128279;](../integrate/integrate-overview.md#microsoft).
 
 <br>
 

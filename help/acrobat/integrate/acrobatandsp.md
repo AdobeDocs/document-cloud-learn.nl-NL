@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Werken met uw [!DNL SharePoint] -bestanden
 
-Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat gebruikend [ Adobe Acrobat voor Microsoft 365 ](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Zet veilig [!DNL Microsoft 365] dossiers in PDF om, [ combineer PDF documenten ](https://www.adobe.com/acrobat/online/merge-pdf.html) {target="_blank"} in één dossier, becommentariëer, en herschik pagina&#39;s - recht van [!DNL SharePoint] online.
+Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat gebruikend [ Adobe Acrobat voor Microsoft 365 ](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Zet veilig [!DNL Microsoft 365] dossiers in PDF om, [ combineer PDF documenten ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}  in één dossier, becommentariëer, en herschik pagina&#39;s - recht van [!DNL SharePoint] online.
 
 >[!NOTE]
 >

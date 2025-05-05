@@ -22,7 +22,7 @@ Leer hoe u webpagina&#39;s direct naar PDF kunt converteren met de Adobe Acrobat
 
 >[!TIP]
 >
->Controle uit deze andere integraties van Microsoft [ ](../integrate/integrate-overview.md#microsoft).
+>Controle uit deze andere integraties van Microsoft [&#128279;](../integrate/integrate-overview.md#microsoft).
 
 <br>
 

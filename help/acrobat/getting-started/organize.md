@@ -16,7 +16,7 @@ ht-degree: 10%
 
 # Pagina’s indelen
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. [ Tussenvoegsel ](https://www.adobe.com/nl/acrobat/online/add-pages-to-pdf.html) {target="_blank"}, vervang, [ spleet ](https://www.adobe.com/nl/acrobat/online/split-pdf.html) {target="_blank"}, [ reorder ](https://www.adobe.com/nl/acrobat/online/rearrange-pdf.html) {target="_blank"}, [ roteer ](https://www.adobe.com/nl/acrobat/online/rotate-pdf.html) {target="_blank"}, en zelfs [ extract onderbroken pagina&#39;s ](https://www.adobe.com/nl/acrobat/online/extract-pdf-pages.html) {target="_blank"} om een professioneel-kijkt PDF tot stand te brengen. Deze videoleerprogramma gebruikt de [ nieuwe ervaring van Acrobat ](new-workspace.md).
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. [ Tussenvoegsel ](https://www.adobe.com/nl/acrobat/online/add-pages-to-pdf.html){target="_blank"} , vervang, [ spleet ](https://www.adobe.com/nl/acrobat/online/split-pdf.html){target="_blank"} , [ reorder ](https://www.adobe.com/nl/acrobat/online/rearrange-pdf.html){target="_blank"} , [ roteer ](https://www.adobe.com/nl/acrobat/online/rotate-pdf.html){target="_blank"} , en zelfs [ extract onderbroken pagina&#39;s ](https://www.adobe.com/nl/acrobat/online/extract-pdf-pages.html){target="_blank"}  om een professioneel-kijkt PDF tot stand te brengen. Deze videoleerprogramma gebruikt de [ nieuwe ervaring van Acrobat ](new-workspace.md).
 
 >[!TIP]
 >

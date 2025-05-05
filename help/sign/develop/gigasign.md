@@ -29,7 +29,7 @@ Met Gigasign kun je documenten ter ondertekening verzenden, verzamelen en volgen
 
 [GigaSign Zip-bestand downloaden](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8-downloadkoppeling (alleen indien nodig)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Java 1.8-downloadkoppeling (alleen indien nodig)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
 [IP-adressen naar witte lijst (alleen indien nodig)](https://helpx.adobe.com/nl/sign/system-requirements.html#IPs){target="_blank"}
 

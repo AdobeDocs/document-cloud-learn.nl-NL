@@ -257,4 +257,4 @@ Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox] te 
 
 ## Box
 
-Leer hoe Acrobat en [ Doos ](https://www.adobe.com/documentcloud/integrations/box.html) {target="_blank"} het voor iedereen in uw organisatie eenvoudiger maken om zaken te houden bewegend.
+Leer hoe Acrobat en [ Doos ](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}  het voor iedereen in uw organisatie eenvoudiger maken om zaken te houden bewegend.

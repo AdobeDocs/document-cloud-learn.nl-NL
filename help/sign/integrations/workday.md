@@ -17,7 +17,7 @@ ht-degree: 15%
 
 ---
 
-#  Acrobat Sign configureren voor Workday
+# Acrobat Sign configureren voor Workday
 
 Stroomlijn je ondertekeningsworkflows en maak je team nog productiever met Acrobat Sign for Workday. In deze videozelfstudie leert u hoe u Acrobat Sign kunt configureren om rechtstreeks in Workday te werken om al uw HR-documenten naadloos te beheren.
 
