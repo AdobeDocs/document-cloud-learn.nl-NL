@@ -71,4 +71,4 @@ Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgro
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/nl/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!

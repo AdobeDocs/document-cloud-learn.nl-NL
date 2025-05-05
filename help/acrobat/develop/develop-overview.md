@@ -28,4 +28,4 @@ De [ACROBAT SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){t
 [Adobe PDF Extract-API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe-API voor documentgeneratie](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed-API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Zelfstudies voor Adobe Acrobat Services](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Zelfstudies voor Adobe Acrobat Services](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}

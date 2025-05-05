@@ -20,13 +20,13 @@ Leer hoe je honderden handtekeningen verzendt en verzamelt (tot 1000 ontvangers 
 
 [!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
-* [ overeenkomst van het OverzichtWerk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [ Overeenkomst van het Beleid ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [ overeenkomst van het OverzichtWerk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=nl-NL)
+* [ Overeenkomst van het Beleid ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=nl-NL)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[ Van de Download steekproefCSV dossier in het formaat van het PIT ](../assets/sendInBulkSample.zip). Leer over alle waarden u in uw Csv- dossier [ hier ](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html) kunt plaatsen.
+[ Van de Download steekproefCSV dossier in het formaat van het PIT ](../assets/sendInBulkSample.zip). Leer over alle waarden u in uw Csv- dossier [ hier ](https://helpx.adobe.com/nl/sign/adv-user/send-in-bulk/send-with-csv.html) kunt plaatsen.
 
 >[!TIP]
 >
->Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!
+>Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!

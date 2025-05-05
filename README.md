@@ -15,13 +15,13 @@ Dit project heeft de [Adobe Open Source Code of Conduct](code-of-conduct.md) of 
 
 ## Over uw bijdragen aan Adobe-inhoud
 
-Zie de [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Zie de [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/nl-NL/contributor/contributor-guide/introduction.html).
 
 Hoe je een bijdrage levert, hangt af van wie je bent en het soort wijzigingen dat je wilt bijdragen:
 
 ### Kleine wijzigingen
 
-Als u kleine updates vanuit de goedheid van uw hart toevoegt, gaat u naar het artikel en klikt u op de koppeling **Bewerken** in het artikel dat naar de GitHub-bron voor het artikel gaat. Dan, gebruik enkel GitHub UI om uw updates te maken. Zie de algemene [Handleiding voor docenten aan Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) voor meer informatie.
+Als u kleine updates vanuit de goedheid van uw hart toevoegt, gaat u naar het artikel en klikt u op de koppeling **Bewerken** in het artikel dat naar de GitHub-bron voor het artikel gaat. Dan, gebruik enkel GitHub UI om uw updates te maken. Zie de algemene [Handleiding voor docenten aan Adobe Docs](https://docs.adobe.com/content/help/nl-NL/contributor/contributor-guide/introduction.html) voor meer informatie.
 
 Kleine correcties of verduidelijkingen die u voor documentatie en codevoorbeelden in dit rapport opgeeft, worden behandeld in de gebruiksvoorwaarden van de Adobe.
 
@@ -43,7 +43,7 @@ Als u een technisch schrijver, programmamanager of ontwikkelaar van het productt
 
 Community-bijdragers kunnen de GitHub UI gebruiken voor basisbewerking of de vork in het rapport om belangrijke bijdragen te leveren.
 
-Zie de [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) voor meer informatie.
+Zie de [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/nl-NL/contributor/contributor-guide/introduction.html) voor meer informatie.
 
 ## Markeringen gebruiken om uw onderwerp op te maken
 

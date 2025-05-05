@@ -19,11 +19,11 @@ Leer hoe een [webformulier](../sign-advanced-users/webform.md) wordt gebruikt vo
 
 [!BADGE Gebruiksscenario&#39;s]
 
-* [Onderwijswebformulierinternatietoepassing](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Onderwijswebformulierinternatietoepassing](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=nl-NL)
 Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
-* [Een educatieve webtoepassing voor formulierinternatie maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Een educatieve webtoepassing voor formulierinternatie maken](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=nl-NL)
 Leer hoe u een interactieve webformulier maakt
-* [Bedrijfssubsidies en leningen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Herwerkgelegenheidssteun](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Bedrijfssubsidies en leningen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=nl-NL)
+* [Herwerkgelegenheidssteun](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=nl-NL)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

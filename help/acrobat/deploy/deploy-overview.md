@@ -18,7 +18,7 @@ ht-degree: 4%
 
 Implementatie- en best practices-artikelen met waardevolle inzichten en kennis die zijn opgedaan door met onze klanten te werken.
 
-* Leer hoe je [Adobe Acrobat implementeren](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} als u Adobe® Creative Cloud™ voor teams of ondernemingen gebruikt.
+* Leer hoe je [Adobe Acrobat implementeren](https://helpx.adobe.com/nl/enterprise/using/deploying-acrobat.html){target="_blank"} als u Adobe® Creative Cloud™ voor teams of ondernemingen gebruikt.
 
 * Meer informatie over de [Enterprise Toolkit voor Acrobat-producten](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} om aangepaste producten in uw organisatie te implementeren, gevirtualiseerde installaties op te zetten en bedrijfsworkflows voor PDF te maken.
 

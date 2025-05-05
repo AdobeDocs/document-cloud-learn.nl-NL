@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Een persoonlijke handtekening verkrijgen
 
-Leer hoe u persoonlijk de handtekening van iemand anders kunt verkrijgen met de [Acrobat Sign mobiele app](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Leer hoe u persoonlijk de handtekening van iemand anders kunt verkrijgen met de [Acrobat Sign mobiele app](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=nl-NL).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

@@ -28,5 +28,5 @@ Met extern werk overal, is het essentieel om content met snelheid en schaal te l
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ wordt begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ wordt begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
 

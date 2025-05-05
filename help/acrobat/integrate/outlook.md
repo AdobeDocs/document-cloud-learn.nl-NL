@@ -30,4 +30,4 @@ Leer hoe u e-mailberichten en bijlagen archiveert naar PDF in [!DNL Outlook] voo
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

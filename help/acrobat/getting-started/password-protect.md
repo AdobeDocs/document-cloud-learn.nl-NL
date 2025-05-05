@@ -29,4 +29,4 @@ Informatiebescherming, risicobeheer
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

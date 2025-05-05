@@ -27,4 +27,4 @@ Leer hoe u geavanceerd delen van accounts instelt, zodat beheerders en gebruiker
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde taken voor beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ Geavanceerde taken voor beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-administrators) die voor vrij op Experience League beschikbaar is!

@@ -22,29 +22,29 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
 <!-- COMMENT -->
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile
+* https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile
   {target = _self}
   {title = Sign documents on the go}
   {description = Learn how to sign documents using the Acrobat Sign mobile app}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_1dc425116847a31ac4d8e1c17da3684ddc376dd36.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_1dc425116847a31ac4d8e1c17da3684ddc376dd36.png?width=400&format=webply&optimize=medium}
   {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode
+* https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode
   {target = _self}
   {title = Liquid Mode in Acrobat Sign}
   {description = Learn how Liquid Mode improves the mobile signing experience}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_14ec3ea49d7e2433c2317aa96e21bee055bd068c2.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_14ec3ea49d7e2433c2317aa96e21bee055bd068c2.png?width=400&format=webply&optimize=medium}
   {cta = Watch}
 * https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197#_blank
   {target = _self}
   {title = Download Acrobat Sign mobile app for iOS}
   {description = Download Acrobat Sign mobile app from App Store}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_142465fb5c98e1d544f7379fa862d376984800616.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_142465fb5c98e1d544f7379fa862d376984800616.png?width=400&format=webply&optimize=medium}
   {cta = Download}
 * https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank
   {target = _self}
   {title = Download Acrobat Sign mobile app for Android}
   {description = Download Acrobat Sign mobile app from Google Play}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium}
   {cta = Download}
   
 -->
@@ -56,8 +56,8 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" title="Documenten onderweg ondertekenen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_1dc425116847a31ac4d8e1c17da3684ddc376dd36.png?width=400&format=webply&optimize=medium" alt="Documenten onderweg ondertekenen"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" title="Documenten onderweg ondertekenen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_1dc425116847a31ac4d8e1c17da3684ddc376dd36.png?width=400&format=webply&optimize=medium" alt="Documenten onderweg ondertekenen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,11 +65,11 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" target="_self" rel="referrer" title="Documenten onderweg ondertekenen"> documenten van het Teken op de weg </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" target="_self" rel="referrer" title="Documenten onderweg ondertekenen"> documenten van het Teken op de weg </a>
                     </p>
                     <p class="is-size-6">Leer hoe u documenten ondertekent met de mobiele Acrobat Sign-app</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -79,8 +79,8 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" title="Vloeiende modus in Acrobat Sign" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_14ec3ea49d7e2433c2317aa96e21bee055bd068c2.png?width=400&format=webply&optimize=medium" alt="Vloeiende modus in Acrobat Sign"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" title="Vloeiende modus in Acrobat Sign" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_14ec3ea49d7e2433c2317aa96e21bee055bd068c2.png?width=400&format=webply&optimize=medium" alt="Vloeiende modus in Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,11 +88,11 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" target="_self" rel="referrer" title="Vloeiende modus in Acrobat Sign"> Vloeiende Wijze in Acrobat Sign </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" target="_self" rel="referrer" title="Vloeiende modus in Acrobat Sign"> Vloeiende Wijze in Acrobat Sign </a>
                     </p>
                     <p class="is-size-6">Leer hoe de Vloeiende modus de mobiele ondertekeningservaring verbetert</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -103,7 +103,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197#_blank" title="Acrobat Sign mobiele app voor iOS downloaden" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_142465fb5c98e1d544f7379fa862d376984800616.png?width=400&format=webply&optimize=medium" alt="Acrobat Sign mobiele app voor iOS downloaden"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_142465fb5c98e1d544f7379fa862d376984800616.png?width=400&format=webply&optimize=medium" alt="Acrobat Sign mobiele app voor iOS downloaden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1#_blank" title="Acrobat Sign mobiele app voor Android downloaden" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium" alt="Acrobat Sign mobiele app voor Android downloaden"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium" alt="Acrobat Sign mobiele app voor Android downloaden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

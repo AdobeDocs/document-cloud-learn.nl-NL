@@ -1,11 +1,11 @@
 ---
 cloud: Document Cloud
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
+solution-hub-url: https://helpx.adobe.com/nl/support/document-cloud.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/nl/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/nl/acrobat/tutorials.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/document-cloud-learn.nl-NL
 index: true

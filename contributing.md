@@ -19,7 +19,7 @@ wordt verwacht dat u deze code behoudt. Meld onacceptabel gedrag aan
 
 ## Documentatie handleiding voor bijdragers
 
-Zie de [Bijdragergids](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Zie de [Bijdragergids](https://docs.adobe.com/content/help/nl-NL/contributor/contributor-guide/introduction.html).
 
 ## Heb je een vraag?
 
@@ -57,4 +57,4 @@ u kunt contact opnemen met de bestaande opdrachtgevers om hierover te praten .
 
 ## Beveiligingsproblemen
 
-Beveiligingsproblemen moeten niet worden gemeld bij deze probleemoplossing. In plaats daarvan [dient u een probleem in bij onze beveiligingsexperts](https://helpx.adobe.com/security/alertus.html)
+Beveiligingsproblemen moeten niet worden gemeld bij deze probleemoplossing. In plaats daarvan [dient u een probleem in bij onze beveiligingsexperts](https://helpx.adobe.com/nl/security/alertus.html)

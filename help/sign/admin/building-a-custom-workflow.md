@@ -20,10 +20,10 @@ Leer hoe je documentworkflows kunt aanpassen en automatiseren om elektronische h
 
 [!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
-* [ het werkschema van de Douane voor het proces van onderwijsIEP ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [ het werkschema van de Douane voor het proces van onderwijsIEP ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=nl-NL)
 Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van een IEP-proces (Individalized Education Program)
-* [ de Contracten van de Overheid en Forms van de Verzoek ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [ Commerciële Contracten en de Vereiste Forms ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [ de Contracten van de Overheid en Forms van de Verzoek ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=nl-NL)
+* [ Commerciële Contracten en de Vereiste Forms ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=nl-NL)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van e
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!

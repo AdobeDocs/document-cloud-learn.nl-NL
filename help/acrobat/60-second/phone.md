@@ -22,4 +22,4 @@ In dit videoleerprogramma van 60 seconden, leer hoe te om een e-mail [ gehechthe
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/?lang=nl&recommended=Acrobat-U-1-2021.microsoft365) die voor vrij op Experience League beschikbaar is!
