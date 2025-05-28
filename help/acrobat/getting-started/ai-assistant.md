@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Ontdek PDF-inzichten met AI Assistant
 
-Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden om snel indrukwekkende content te creëren. AI Assistant is een veilige gespreksengine waarmee documentworkflows worden verbeterd en complexe documentgegevens worden geanalyseerd. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
+Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant is een veilige gespreksengine waarmee documentworkflows worden verbeterd en complexe documentgegevens worden geanalyseerd. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
 
 ## Gebruiksscenario&#39;s
 
@@ -39,4 +39,4 @@ Controleer de transcripten van de vergadering en help bij het opstellen van een 
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3445828?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
