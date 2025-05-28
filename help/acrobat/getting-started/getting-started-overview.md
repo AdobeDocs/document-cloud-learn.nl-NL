@@ -26,7 +26,7 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 Leer hoe te [ PDF inzichten ](ai-assistant.md) in uw PDF ontdekken.
 
->[!TAB  geef grafiek in a PDF ] uit
+>[!TAB geef grafiek in a PDF  uit]
 
 Leer hoe te [, grafiek ](edit-graphics.md) in uw PDF creëren uit te geven en te verbeteren.
 
