@@ -3,14 +3,14 @@ title: Meldingen verzenden met Acrobat Sign for Salesforce en Marketo
 description: Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar te laten weten dat een overeenkomst onderweg is
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 jira: KT-7247
 topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Leer hoe u een tekstbericht, e-mail of pushmelding verstuurt om de ondertekenaar
 
 1. Installeer de Marketo Salesforce-synchronisatie.
 
-   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
+   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installeer Acrobat Sign voor Salesforce.
 

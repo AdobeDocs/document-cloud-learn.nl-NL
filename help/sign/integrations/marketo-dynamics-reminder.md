@@ -3,14 +3,14 @@ title: Herinneringen verzenden met Acrobat Sign voor Microsoft Dynamics 365 en M
 description: Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepaalde periode niet is ondertekend
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Leer hoe u een e-mailherinnering kunt verzenden als een overeenkomst na een bepa
 
 1. Installeer de Marketo Microsoft Dynamics Sync.
 
-   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=nl-NL)
+   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installeer [ Acrobat Sign voor de Dynamica van Microsoft ](https://appsource.microsoft.com/nl-nl/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
@@ -45,15 +45,15 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 ## Het aangepaste object synchroniseren
 
-1. Op de rechterkant, bepaal de plaats van [!UICONTROL &#x200B; Lead &#x200B;], [!UICONTROL &#x200B; Contact &#x200B;], en [!UICONTROL &#x200B; rekening &#x200B;] - gebaseerde douanevoorwerpen.
+1. Op de rechterkant, bepaal de plaats van [!UICONTROL  Lead ], [!UICONTROL  Contact ], en [!UICONTROL  rekening ] - gebaseerde douanevoorwerpen.
 
-   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL leiden]** toe als u een herinnering wilt verzenden wanneer a [!UICONTROL &#x200B; leiden &#x200B;] geen overeenkomst in Dynamiek heeft ondertekend.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL leiden]** toe als u een herinnering wilt verzenden wanneer a [!UICONTROL  leiden ] geen overeenkomst in Dynamiek heeft ondertekend.
 
-   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Contact]** toe als u een herinnering wilt verzenden wanneer het a [!UICONTROL &#x200B; Contact &#x200B;] geen overeenkomst in Dynamics heeft ondertekend.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Contact]** toe als u een herinnering wilt verzenden wanneer het a [!UICONTROL  Contact ] geen overeenkomst in Dynamics heeft ondertekend.
 
-   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Rekening]** toe als u een herinnering wilt verzenden wanneer een [!UICONTROL &#x200B; Rekening &#x200B;] geen overeenkomst in Dynamics heeft ondertekend.
+   * **laat Synchronisatie** voor de voorwerpen onder **[!UICONTROL Rekening]** toe als u een herinnering wilt verzenden wanneer een [!UICONTROL  Rekening ] geen overeenkomst in Dynamics heeft ondertekend.
 
-   * **laat Synchronisatie** voor het overeenkomstvoorwerp onder de gewenste **[!UICONTROL Ouder]** toe ([!UICONTROL &#x200B; Lood &#x200B;], [!UICONTROL &#x200B; Contact &#x200B;], of [!UICONTROL &#x200B; Rekening &#x200B;]).
+   * **laat Synchronisatie** voor het overeenkomstvoorwerp onder de gewenste **[!UICONTROL Ouder]** toe ([!UICONTROL  Lood ], [!UICONTROL  Contact ], of [!UICONTROL  Rekening ]).
 
    ![ de Objecten van de Douane ](assets/enableSyncDynamics.png)
 
@@ -97,7 +97,7 @@ Als de Marketo Microsoft Dynamics Sync en Acrobat Sign for Dynamics zijn geconfi
 
 1. Breid **[!UICONTROL de Objecten van de Douane]** op de rechterkant uit, dan breid het **[!UICONTROL voorwerp van de Overeenkomst]** uit.
 
-   Vind en sleep [!UICONTROL &#x200B; Naam &#x200B;], de Status van de Overeenkomst, Verzonden op, en Huidige URL van de Ondertekenaar op het canvas.
+   Vind en sleep [!UICONTROL  Naam ], de Status van de Overeenkomst, Verzonden op, en Huidige URL van de Ondertekenaar op het canvas.
 
 1. Schrijf een snelheidsscript met deze tokens om de overeenkomst-URL weer te geven van een overeenkomst die een week lang niet is ondertekend. Hier volgt een voorbeeld van de huidige datum die wordt vergeleken met Verzonden op:
 
@@ -191,7 +191,7 @@ Voorbeelden van personalisatie zijn: de naam van de ondertekenaar, de naam van d
 
 Omdat de campagnefilter **Dagen tot Verloopt** werd gebruikt, kunt u een geplande herhaling voor de campagne gebruiken.
 
-1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL &#x200B; Slimme Campagne &#x200B;].
+1. Klik het **[!UICONTROL lusje van de Stroom]** in de [!UICONTROL  Slimme Campagne ].
 
    Zoek naar en sleep **verzendt e-mail** stroom naar het canvas en selecteer de herinnerings e-mail u in de vorige sectie creeerde.
 

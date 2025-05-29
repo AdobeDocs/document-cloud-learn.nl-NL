@@ -4,14 +4,14 @@ description: Leer hoe u een e-mailherinnering van Marketo kunt verzenden als een
 feature: Integrations
 role: Admin
 product: adobe sign
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 1%
@@ -26,7 +26,7 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden voor niet-onderteken
 
 1. Installeer de Marketo Salesforce-synchronisatie.
 
-   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
+   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installeer Acrobat Sign voor Salesforce.
 
