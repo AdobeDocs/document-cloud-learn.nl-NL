@@ -25,7 +25,7 @@ Leer hoe u een tekstbericht, e-mail of pushmelding verzendt om de ondertekenaar 
 
 1. Installeer de Marketo Microsoft Dynamics Sync.
 
-   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   De informatie en de recentste stop in voor de Synchronisatie van de Dynamiek van Microsoft zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=nl-NL)
 
 1. Installeer Acrobat Sign voor Microsoft Dynamics.
 
