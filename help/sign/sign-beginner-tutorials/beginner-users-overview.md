@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Verzenden naar één ontvanger" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Verzenden naar één ontvanger" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong> Verzenden naar één enkele ontvanger </strong></a>
@@ -68,7 +68,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Verzenden naar meerdere ontvangers" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Verzenden naar meerdere ontvangers" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong> Verzendend naar veelvoudige ontvangers </strong></a>
@@ -80,7 +80,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Verzendopties configureren" src="../assets/Sendingoptions.png" />
+      <img alt="Verzendopties configureren" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong> vorm verzendend opties </strong></a>
@@ -90,7 +90,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Velden toevoegen aan uw documenten" src="../assets/AddingFields.png" />
+      <img alt="Velden toevoegen aan uw documenten" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong> Toevoegend gebieden aan uw documenten </strong></a>
@@ -100,7 +100,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Een document wijzigen na het verzenden" src="../assets/Modifying-sending.png" />
+      <img alt="Een document wijzigen na het verzenden" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong> Wijzigend een document na het verzenden </strong></a>
@@ -110,7 +110,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Ondertekenaars vervangen" src="../assets/replace-signer.png" />
+      <img alt="Ondertekenaars vervangen" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong> Vervangend een ondertekenaar </strong></a>
@@ -122,7 +122,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Deadlines en herinneringen instellen" src="../assets/Reminders.png" />
+        <img alt="Deadlines en herinneringen instellen" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong> Vastgestelde termijnen en herinneringen </strong></a>
@@ -154,7 +154,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Een document elektronisch ondertekenen" src="../assets/Electronically-sign.png" />
+      <img alt="Een document elektronisch ondertekenen" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong> Elektronisch het ondertekenen van een document </strong></a>
@@ -164,7 +164,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Een document invullen en ondertekenen" src="../assets/FillandSign.png" />
+      <img alt="Een document invullen en ondertekenen" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong> het Vullen en het ondertekenen van een document </strong></a>
@@ -174,7 +174,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Een persoonlijke handtekening verkrijgen" src="../assets/In-person.png" />
+      <img alt="Een persoonlijke handtekening verkrijgen" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong> die een handtekening in persoon krijgen </strong></a>
@@ -184,7 +184,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Ondertekening delegeren aan iemand anders" src="../assets/Delegatesigning.png" />
+      <img alt="Ondertekening delegeren aan iemand anders" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong> Delegeer het ondertekenen aan iemand anders </strong></a>
@@ -196,7 +196,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Wat is een digitale handtekening" src="../assets/whatisdigsig.png" />
+      <img alt="Wat is een digitale handtekening" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong> wat een digitale handtekening </strong></a> is
@@ -206,7 +206,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Ondertekenen met een stempel" src="../assets/Stamp.png" />
+      <img alt="Ondertekenen met een stempel" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong> het Ondertekenen gebruikend een stempel </strong></a>
@@ -233,7 +233,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Uw overeenkomsten beheren en volgen" src="../assets/Manage.png" />
+      <img alt="Uw overeenkomsten beheren en volgen" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong> beheer en volg uw overeenkomsten </strong></a>
@@ -243,7 +243,7 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Een documentsjabloon maken" src="../assets/Template.png" />
+      <img alt="Een documentsjabloon maken" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong> Creërend een documentmalplaatje </strong></a>
