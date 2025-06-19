@@ -24,4 +24,4 @@ Leer in dit opgenomen webinar (geen registratie nodig) hoe u Acrobat Sign-formul
 
 >[!TIP]
 >
->Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) en [ Geavanceerde Taken voor Admins ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) playlists die voor vrij op Experience League beschikbaar zijn!
+>Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-business-users) en [ Geavanceerde Taken voor Admins ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-administrators) playlists die voor vrij op Experience League beschikbaar zijn!
