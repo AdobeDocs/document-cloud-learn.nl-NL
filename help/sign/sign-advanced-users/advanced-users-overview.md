@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -28,7 +28,7 @@ Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het 
 
 >[!TAB  methodes van de Authentificatie in Acrobat Sign ]
 
-Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
 
 >[!ENDTABS]
 
@@ -38,7 +38,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Ondertekeningsvolgorde instellen" src="../assets/Routing.png">
+      <img alt="Ondertekeningsvolgorde instellen" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong> het ondertekenen van de vestigingsorde </strong></a>
@@ -48,7 +48,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegeren naar iemand anders" src="../assets/Delegating.png" />
+      <img alt="Delegeren naar iemand anders" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong> Gebruikend de rol van de delegeerder </strong></a>
@@ -58,7 +58,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="De rol fiatteur gebruiken" src="../assets/Approver.png" />
+      <img alt="De rol fiatteur gebruiken" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong> Gebruikend de goedkeurderrol </strong></a>
@@ -90,7 +90,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Online betalingen instellen" src="../assets/Payments.png" />
+      <img alt="Online betalingen instellen" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong> Opstelling online betalingen </strong></a>
@@ -110,7 +110,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Een webformulier maken" src="../assets/Webform.png" />
+        <img alt="Een webformulier maken" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong> Creërend een Webvorm </strong></a>
@@ -122,7 +122,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign-tekstlabels" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong> Tekst Tagging van Acrobat Sign </strong></a>
@@ -132,7 +132,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Tekstlabels gebruiken in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Tekstlabels gebruiken in [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong> Tekstlabels gebruiken in [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Documentsjablonen beheren" src="../assets/ManageTemplate.png" />
+      <img alt="Documentsjablonen beheren" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong> beheer documentmalplaatjes </strong></a>
@@ -179,7 +179,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Een bestaand webformulier wijzigen" src="../assets/Modifywebform.png" />
+      <img alt="Een bestaand webformulier wijzigen" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong> wijzig een bestaand Webvorm </strong></a>
@@ -189,7 +189,7 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Webformuliergegevens beheren" src="../assets/Managewebform.png" />
+      <img alt="Webformuliergegevens beheren" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong> Beherend de gegevens van de Webvorm </strong></a>

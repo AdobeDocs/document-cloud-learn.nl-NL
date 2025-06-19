@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB voeg een nieuwe gebruiker  toe]
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
@@ -147,7 +147,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Een webformulier maken" src="../assets/Webform.png" />
+      <img alt="Een webformulier maken" src="../assets/web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/webform.md"><strong> Creërend een Webvorm </strong></a>
@@ -157,7 +157,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
-      <img alt="Een bestaand webformulier wijzigen" src="../assets/Modifywebform.png" />
+      <img alt="Een bestaand webformulier wijzigen" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong> wijzig een bestaand Webvorm </strong></a>
@@ -258,7 +258,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
 <tr>
    <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign-tekstlabels" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-tekstlabels" src="../assets/tagging.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong> Tekst Tagging van Acrobat Sign </strong></a>
