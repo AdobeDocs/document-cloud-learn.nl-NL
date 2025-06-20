@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB voeg een nieuwe gebruiker  toe]
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
@@ -43,7 +43,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Aan de slag voor nieuwe beheerders" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Aan de slag voor nieuwe beheerders" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong> Aan de slag voor nieuwe beheerders </strong></a>
@@ -53,7 +53,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Aan de slag voor beheerders" src="../assets/Up-Running.png" />
+      <img alt="Aan de slag voor beheerders" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong> in gebruik voor Beheerders </strong></a>
@@ -63,7 +63,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/Notifications_1280.png" />
+      <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong> vorm berichten voor gebeurtenissen en alarm </strong></a>
@@ -73,7 +73,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Een nieuwe gebruiker toevoegen" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Een nieuwe gebruiker toevoegen" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong> voeg een nieuwe gebruiker </strong></a> toe
@@ -85,7 +85,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Een nieuwe accountbeheerder toevoegen" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Een nieuwe accountbeheerder toevoegen" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong> voeg een nieuwe accountbeheerder toe </strong></a>
@@ -95,7 +95,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Groepen maken en beheren" src="../assets/Creating-Groups.png" />
+      <img alt="Groepen maken en beheren" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong> het Creëren en het leiden groepen </strong></a>
@@ -105,7 +105,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Een extern archief instellen" src="../assets/ExternalArchive.png" />
+      <img alt="Een extern archief instellen" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong> Vestiging een extern archief </strong></a>
@@ -179,7 +179,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Een workflow instellen" src="../assets/BuildingWorkflow.png" />
+      <img alt="Een workflow instellen" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong> Vestiging een werkschema </strong></a>
@@ -189,7 +189,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Controlerapporten" src="../assets/audit-reports-configure.png" />
+      <img alt="Controlerapporten" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong> de rapporten van de Controle </strong></a>
@@ -199,7 +199,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Product- en ondersteuningsbeheerrollen toewijzen" src="../assets/admin-roles.jpg" />
+      <img alt="Product- en ondersteuningsbeheerrollen toewijzen" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong> wijs de rollen van Product &amp; van Admin van de Steun toe </strong></a>
@@ -216,7 +216,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Algemene instellingen" src="../assets/GlobalSettings_1280.png">
+      <img alt="Algemene instellingen" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong> Globale montages </strong></a>
@@ -226,7 +226,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Toegang tot accounts delen" src="../assets/SharingAccess.png" />
+      <img alt="Toegang tot accounts delen" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong> het Delen van accounttoegang </strong></a>
@@ -236,7 +236,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Geavanceerde deelfuncties voor accounts" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Geavanceerde deelfuncties voor accounts" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong> Geavanceerd account delend </strong></a>
@@ -246,7 +246,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Bulkdownload" src="../assets/bulk-download-tool.png" />
+      <img alt="Bulkdownload" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong> Bulk het hulpmiddel van de Download </strong></a>
@@ -268,7 +268,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Bio-Pharma-instellingen gebruiken" src="../assets/Bio_1280.png" />
+      <img alt="Bio-Pharma-instellingen gebruiken" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong> Gebruikend Bio-Pharma montages </strong></a>
@@ -278,7 +278,7 @@ Leer hoe te om het [ Bulk hulpmiddel van de Download ](bulk-download-tool.md) te
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="Privacybeheerder instellen" src="../assets/privacy.png" />
+      <img alt="Privacybeheerder instellen" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong> hoe te opstellingsprivacybeheerders </strong></a>
