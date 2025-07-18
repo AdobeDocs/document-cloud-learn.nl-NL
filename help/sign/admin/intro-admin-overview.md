@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
+source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,9 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!TAB  Migreer de malplaatjes van het Document ]
 
-Leer hoe te om naadloos [ uw malplaatjes van het Document ](docusign-templates.md) en workflows in drie gemakkelijke stappen te migreren.
+Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
->[!TAB voeg een nieuwe gebruiker  toe]
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
