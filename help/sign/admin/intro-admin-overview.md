@@ -27,7 +27,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 Leer hoe te om naadloos [ uw malplaatjes van het Document ](docusign-templates.md) en workflows in drie gemakkelijke stappen te migreren.
 
->[!TAB  voeg een nieuwe gebruiker ] toe
+>[!TAB voeg een nieuwe gebruiker  toe]
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
