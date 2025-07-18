@@ -2,29 +2,29 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/nl/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/nl/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/nl/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 6%
+source-wordcount: '553'
+ht-degree: 10%
 
 ---
 
 
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
-+ [Overzicht](overview.md)
++ [Overview](overview.md)
 + Aan de slag {#getting-started}
-   + [Overzicht](sign-beginner-tutorials/beginner-users-overview.md)
+   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
    + Verzenden {#getting-started-sending}
       + [Beginselen van de werkruimte](sign-beginner-tutorials/quick-tour.md)
       + [Aan de slag met Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -44,9 +44,9 @@ ht-degree: 6%
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Beheren {#getting-started-managing}
       + [Uw overeenkomsten beheren en volgen](sign-beginner-tutorials/manage-and-track.md)
-      + [ Creërend een documentmalplaatje ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=nl-NL)
+      + [ Creërend een documentmalplaatje ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Geavanceerde taken {#advanced-tasks}
-   + [Overzicht](sign-advanced-users/advanced-users-overview.md)
+   + [Overview](sign-advanced-users/advanced-users-overview.md)
    + Verzenden {#advanced-tasks-sending}
       + [Ondertekeningsvolgorde instellen](sign-advanced-users/setting-up-routing.md)
       + [Het gebruik van de Delegatiegever-rol](sign-advanced-users/delegate-signature.md)
@@ -54,30 +54,31 @@ ht-degree: 6%
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Formuliergegevens beheren](sign-advanced-users/manage-form-data.md)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
-      + [ verzend in bulk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=nl-NL)
-      + [ Creërend een Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=nl-NL)
-      + [ Tekst Tagging van Acrobat Sign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=nl-NL)
+      + [ verzend in bulk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [ Creërend een Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [ Tekst Tagging van Acrobat Sign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Tekstlabels gebruiken in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheren {#advanced-tasks-managing}
       + [Rapportage en transactiegebruik](sign-advanced-users/creating-a-report.md)
       + [Documentsjablonen beheren](sign-advanced-users/edit-a-template.md)
       + [Een bestaand webformulier wijzigen](sign-advanced-users/modify-webform.md)
       + [Webformuliergegevens beheren](sign-advanced-users/manage-webform-data.md)
-+ Beheren {#admin-set-up}
-   + [Overzicht](admin/intro-admin-overview.md)
++ Beheerder {#admin-set-up}
+   + [Overview](admin/intro-admin-overview.md)
    + Aan de slag {#getting-started-admin}
       + [Aan de slag voor nieuwe beheerders](admin/get-started-admin.md)
       + [Aan de slag voor beheerders](admin/up-and-running-admin.md)
-      + [Meldingen voor gebeurtenissen en waarschuwingen configureren](admin/set-up-shared-events-and-alert.md)
+      + [Docutoresjablonen migreren](admin/docusign-templates.md)
       + [Een nieuwe gebruiker toevoegen](admin/add-users-to-your-account.md)
       + [Een nieuwe accountbeheerder toevoegen](admin/add-admin.md)
+      + [Meldingen voor gebeurtenissen en waarschuwingen configureren](admin/set-up-shared-events-and-alert.md)
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een sjabloon maken](sign-advanced-users/create-a-template.md)
-      + [ Meldend en transactieverbruik ](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [ Meldend en transactieverbruik ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
-      + [ wijzig een bestaand Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=nl-NL)
+      + [ wijzig een bestaand Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [In bulk verzenden](sign-advanced-users/megasign.md)
       + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
       + [Controlerapporten](admin/audit-reports.md)
@@ -91,19 +92,19 @@ ht-degree: 6%
       + [Bio-Pharma-instellingen gebruiken](admin/use-bio-pharma-settings.md)
       + [Privacybeheerders instellen](admin/privacy.md)
 + Digitale id {#digital-id}
-   + [Overzicht](digitalid/digitalid-overview.md)
+   + [Overview](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Ondertekenen met Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
       + [Registreren en ondertekenen met  [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registreren en ondertekenen met [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi-groep {#intesi}
       + [Een digitale id ophalen van Intesi Group (geavanceerd)](digitalid/intesi-advanced.md)
       + [Een digitale id ophalen van Intesi Group (gekwalificeerd)](digitalid/intesi-qualified.md)
       + [Ondertekenen met Intesi Group](digitalid/intesi-sign.md)
 + Integraties {#integrations}
-   + [Overzicht](integrations/integrations-overview.md)
+   + [Overview](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Invullen en ondertekenen  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Verzenden ter ondertekening in  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
@@ -120,7 +121,7 @@ ht-degree: 6%
       + [[!DNL Microsoft Dynamics 365] voor klantenservice](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] voor Field Service](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] voor verkoop](integrations/dynamics-sales.md)
-   + Notarize {#notarize}
+   + notariseren {#notarize}
       + [Documenten verzenden voor notariatie](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder for  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
@@ -138,12 +139,12 @@ ht-degree: 6%
       + [Verzend herinneringen gebruikend Acrobat Sign voor  [!DNL Salesforce]  en de configuratiegids van Marketo](integrations/marketo-salesforce-reminder.md)
       + [Verzend berichten gebruikend Acrobat Sign voor  [!DNL Microsoft Dynamics]  en Marketo](integrations/marketo-dynamics-sms.md)
       + [Verzend herinneringen gebruikend Acrobat Sign voor  [!DNL Microsoft Dynamics 365]  en Marketo](integrations/marketo-dynamics-reminder.md)
-+ Sectoren en afdelingen {#expand}
-   + [Overzicht](sign-usecase/expand-inspire-overview.md)
++ Industrie en diensten {#expand}
+   + [Overview](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
    + Gebruiksscenario&#39;s {#recipes}
-      + [Overzicht](sign-usecase/recipes.md)
+      + [Overview](sign-usecase/recipes.md)
       + Overheid {#gov}
          + [Aanvraag van overheidsleningen met meerdere onbekende ondertekenaars](sign-usecase/webform-multiple-signers.md)
          + [Bedrijfssubsidies en leningen](sign-usecase/usecasegovgrants.md)
@@ -163,15 +164,15 @@ ht-degree: 6%
    + Praktijkvoorbeelden gebruiken {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Ontwikkelen {#develop}
-   + [Overzicht](develop/develop-overview.md)
+   + [Overview](develop/develop-overview.md)
    + API&#39;s en webhooks {#custom}
       + [Verzamel grote documenten met GigaSign](develop/gigasign.md)
       + [Ingesloten ervaringen voor elektronische handtekeningen en documenten creëren](develop/embeddedesignature.md)
       + [Webhooks instellen](develop/webhooks.md)
 + Implementeren {#deploy}
-   + [Overzicht](deploy-overview.md)
+   + [Overview](deploy-overview.md)
 + Mobiel {#mobile}
-   + [Overzicht](mobile/mobile-overview.md)
+   + [Overview](mobile/mobile-overview.md)
    + Mobiele zelfstudies {#mobile-tutorials}
       + [Documenten onderweg ondertekenen](mobile/sign-mobile.md)
       + [Vloeiende modus in Acrobat Sign](mobile/liquidmode.md)
