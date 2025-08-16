@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u in drie eenvoudige stappen naadloos Docusign-sjablonen en -workflows naar Acrobat Sign kunt migreren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465280?quality=12&learn=on&hidetitle=true&captions=dut)
