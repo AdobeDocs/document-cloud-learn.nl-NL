@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!BEGINTABS]
 
->[!TAB  hoe en waarom van toegankelijke PDF dossiers ]
+>[!TAB  wat en waarom van toegankelijke PDF dossiers ]
 
-Leer [ hoe en waarom het belangrijk is om PDF dossiers toegankelijk te maken ](how-why-accessible-pdf.md).
+Leer [ wat een toegankelijk dossier van de PDF is en waarom het belangrijk ](what-why-accessible-pdf.md) is.
 
 >[!TAB  opstelling uw werkruimte ]
 
@@ -43,13 +44,13 @@ Leer hoe te om [ vormen toegankelijk te maken ](create-accessible-forms.md) in A
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="Hoe en waarom toegankelijke PDF-bestanden" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="De wat en waarom van toegankelijke PDF-bestanden" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong> hoe en waarom van toegankelijke PDF dossiers </strong></a>
+    <a href="what-why-accessible-pdf.md"><strong> wat en waarom van toegankelijke PDF dossiers </strong></a>
     </div>
-    <em> leer hoe en waarom het belangrijk is om PDF dossiers toegankelijk te maken.</em>
+    <em> leer wat een toegankelijk dossier van de PDF is en waarom het belangrijk is </em>
     <br>
   </td>
   <td>
