@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Productiviteit onderweg](getting-started/productivity.md)
-   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
