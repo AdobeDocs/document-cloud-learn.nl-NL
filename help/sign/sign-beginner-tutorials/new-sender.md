@@ -1,14 +1,14 @@
 ---
 title: Aan de slag met Acrobat Sign
-description: Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Adobe Sign
+description: Deze zelfstudie vormt een uitstekende startpunt voor nieuwe gebruikers in Acrobat Sign
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ In deze zelfstudie worden de volgende onderwerpen behandeld:
 * Overeenkomsten beheren en volgen
 * Toegang tot ondersteuning en bronnen
 
->[!VIDEO](https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)

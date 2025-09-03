@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 3%
 
 ---
@@ -51,9 +51,9 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
       <img alt="Aan de slag met Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong> Aan de slag met Acrobat Sign </strong></a>
+    <a href="new-sender.md"><strong> begin met Acrobat Sign </strong></a>
     </div>
-    Deze uitgebreide zelfstudie vormt een uitstekende beginpunt voor nieuwe afzenders in Acrobat Sign
+    Deze zelfstudie vormt een uitstekende startpunt voor nieuwe gebruikers in Acrobat Sign
     <br>
   </td>
   <td>
