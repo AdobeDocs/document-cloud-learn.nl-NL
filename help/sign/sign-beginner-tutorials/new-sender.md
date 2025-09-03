@@ -30,4 +30,4 @@ In deze zelfstudie worden de volgende onderwerpen behandeld:
 * Overeenkomsten beheren en volgen
 * Toegang tot ondersteuning en bronnen
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454389?quality=12&learn=on&hidetitle=true&captions=dut)
