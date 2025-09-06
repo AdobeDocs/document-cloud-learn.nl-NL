@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u een toegankelijk PDF-bestand maakt vanuit Microsoft Word. Beginnend met een goed gestructureerd dossier van Word kan een wereld van verschil maken wanneer het creëren van een toegankelijke PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471657?quality=12&learn=on&hidetitle=true&captions=dut)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe u formulieren toegankelijk maakt in Acrobat. Als u deze zeven stappen uitvoert, kunt u de verwerking van het toegankelijk maken van PDF met interactieve formuliervelden versnellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471668?quality=12&learn=on&hidetitle=true&captions=dut)
