@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!BEGINTABS]
 
+>[!TAB  verzend een document naar één enkele ondertekenaar ]
+
+Ga binnen en leer hoe gemakkelijk het [ een document uit voor handtekening ](send-to-single-recipient.md) verzendt
+
 >[!TAB  begin met Acrobat Sign ]
 
 Bent u nog niet eerder met Acrobat Sign begonnen? Dit [ leerprogramma ](new-sender.md) is een grote plaats om te beginnen.
-
->[!TAB  Vastgestelde termijnen en herinneringen ]
-
-Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-reminders.md) te verzenden helpen uw documenten snel laten ondertekenen.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Aan de slag met Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong> begin met Acrobat Sign </strong></a>
+    </div>
+    Deze zelfstudie vormt een uitstekende startpunt voor nieuwe gebruikers in Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Beginselen van de werkruimte" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Leer hoe te om regelmatige e-mail [ herinneringen en deadlines ](set-deadlines-r
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Aan de slag met Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong> begin met Acrobat Sign </strong></a>
-    </div>
-    Deze zelfstudie vormt een uitstekende startpunt voor nieuwe gebruikers in Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Verzenden naar één ontvanger" src="../assets/send-single-recipient.png" />
+      <img alt="Een document naar één ondertekenaar verzenden" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong> Verzenden naar één enkele ontvanger </strong></a>
+    <a href="send-to-single-recipient.md"><strong> verzend een document naar één enkele ondertekenaar </strong></a>
     </div>
     Ga naar binnen en ontdek hoe eenvoudig het is om een document ter ondertekening te verzenden
     <br>
