@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Het verzenden van een document ter ondertekening is de meest voorkomende handeling in Acrobat Sign. In deze zelfstudie leert u de eenvoudigste manier om een document voor te bereiden en ter ondertekening te verzenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425273?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >
