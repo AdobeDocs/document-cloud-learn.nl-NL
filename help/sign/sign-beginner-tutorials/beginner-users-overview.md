@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!TAB  verzend een document naar één enkele ondertekenaar ]
 
-Ga binnen en leer hoe gemakkelijk het [ een document uit voor handtekening ](send-to-single-recipient.md) verzendt
+Ga binnen en leer hoe gemakkelijk het [ een document uit voor handtekening ](send-to-single-recipient.md) moet verzenden.
 
 >[!TAB  begin met Acrobat Sign ]
 
