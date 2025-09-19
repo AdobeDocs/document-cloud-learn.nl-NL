@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [Beginselen van de werkruimte](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
-   + [Productiviteit onderweg](getting-started/productivity.md)
-   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+   + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
+   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
    + [Handtekeningen ophalen](getting-started/signatures.md)
    + [Uw documenten volgen](getting-started/track.md)
+   + [Productiviteit onderweg](getting-started/productivity.md)
    + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
