@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 ## Nieuw
 
 >[!BEGINTABS]
+
+>[!TAB  verzend naar veelvoudige ondertekenaars ]
+
+Leer hoe te om een document voor e-handtekening naar [ meer dan één persoon ](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
 
 >[!TAB  verzend een document naar één enkele ondertekenaar ]
 
@@ -68,10 +72,10 @@ Bent u nog niet eerder met Acrobat Sign begonnen? Dit [ leerprogramma ](new-send
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Verzenden naar meerdere ontvangers" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Verzenden naar meerdere ondertekenaars" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong> Verzendend naar veelvoudige ontvangers </strong></a>
+    <a href="send-to-multiple-recipients.md"><strong> verzend naar veelvoudige ondertekenaars </strong></a>
     </div>
     Verzend een document voor elektronische ondertekening naar meer dan één persoon in exact de gewenste volgorde
     <br>
