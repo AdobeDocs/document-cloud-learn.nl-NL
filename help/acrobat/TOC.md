@@ -25,7 +25,7 @@ ht-degree: 4%
    + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
    + [Pagina’s indelen](getting-started/organize.md)
@@ -140,5 +140,5 @@ ht-degree: 4%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
