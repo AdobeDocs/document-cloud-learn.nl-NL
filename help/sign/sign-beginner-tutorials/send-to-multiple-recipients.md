@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Hebt u meerdere personen die uw document moeten ondertekenen? Leer hoe u een document voor elektronische ondertekening naar meerdere personen kunt verzenden in precies de gewenste volgorde.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425284?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >
