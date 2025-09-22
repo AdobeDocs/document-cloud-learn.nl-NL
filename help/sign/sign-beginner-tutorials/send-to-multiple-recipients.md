@@ -22,4 +22,4 @@ Hebt u meerdere personen die uw document moeten ondertekenen? Leer hoe u een doc
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ die met Acrobat Sign ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!
