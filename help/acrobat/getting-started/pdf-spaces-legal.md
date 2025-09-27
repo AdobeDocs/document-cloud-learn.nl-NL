@@ -18,4 +18,4 @@ Zet verzamelingen bestanden en websites om in gedeelde, conversationele kennisce
 
 PDF Spaces zijn beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI Assistant aanschaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475138?quality=12&learn=on&hidetitle=true&captions=dut)

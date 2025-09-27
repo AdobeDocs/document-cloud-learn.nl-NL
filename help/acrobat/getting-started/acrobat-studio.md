@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroomlijnt met Acrobat Studio — zodat je team sneller kan bewegen. Acrobat Studio is een alles-in-één-oplossing met Acrobat Pro, AI Assistant, PDF Spaces en Adobe Express Premium.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475062?quality=12&learn=on&hidetitle=true&captions=dut)
