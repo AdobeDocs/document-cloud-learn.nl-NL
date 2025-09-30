@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,17 +23,17 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
+>[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
+
+Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
+
 >[!TAB  Migreer de malplaatjes van het Document ]
 
 Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
->[!TAB voeg een nieuwe gebruiker  toe]
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
-
->[!TAB  hoe te opstellingsprivacybeheerders ]
-
-Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Regels voor automatische gebruikerstoewijzingen inschakelen" src="../assets/automatic-assignment.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong> laat automatische gebruikerstoewijzingsregels </strong></a> toe
+    </div>
+    <em> Leer hoe te opstelling automatische toewijzingsregels die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen </em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Een nieuwe accountbeheerder toevoegen" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
     <em> Leer hoe te om een nieuwe gebruiker tot stand te brengen of een bestaande gebruiker te bevorderen aan de rol van Acrobat Sign Admin </em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Product- en ondersteuningsbeheerrollen toewijzen" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong> vorm berichten voor gebeurtenissen en alarm </strong></a>
+      <a href="promote-admin.md"><strong> wijs de rollen van Product &amp; van Admin van de Steun toe </strong></a>
       </div>
-      <em> vorm berichten voor gebeurtenissen en alarm voor uw rekening </em>
+      <em> Leer hoe te om een rol van de Admin van het het gebruikersproduct van Acrobat Sign en van de Steun in de Admin Console toe te wijzen </em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
       <em> creeer groepen, voeg gebruikers aan groepen toe, en geef groepsmontages uit </em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Een extern archief instellen" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
       <em> creeer een extern archief voor reserveexemplaren van overeenkomsten die zijn ondertekend </em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Een documentsjabloon maken" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
     <em> Leer hoe te opties van het opstellingsrapport voor gebruikers </em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Een webformulier maken" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
     <em> creeer een document dat elektronisch op uw website </em> kan worden ondertekend
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Een bestaand webformulier wijzigen" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
     <em> automatiseer documentworkflows om elektronische handtekeningen en gegevens snel te krijgen </em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Controlerapporten" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ Leer hoe te opstelling en gebruik [ privacybeheerders ](privacy.md).
     </div>
     <em> Leer om tot controlerapporten toegang te hebben, te gebruiken en te vormen </em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Product- en ondersteuningsbeheerrollen toewijzen" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong> wijs de rollen van Product &amp; van Admin van de Steun toe </strong></a>
-      </div>
-      <em> Leer hoe te om een rol van de Admin van het het gebruikersproduct van Acrobat Sign en van de Steun in de Admin Console toe te wijzen </em>
-      <br>
     </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Gedeelde gebeurtenissen en waarschuwingen instellen" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong> vorm berichten voor gebeurtenissen en alarm </strong></a>
+      </div>
+      <em> vorm berichten voor gebeurtenissen en alarm voor uw rekening </em>
       <br>
     </td>
     <td>
