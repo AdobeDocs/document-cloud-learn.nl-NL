@@ -23,7 +23,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
+>[!TAB laat automatische gebruikerstoewijzingsregels  toe]
 
 Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
 
@@ -31,7 +31,7 @@ Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-r
 
 Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
->[!TAB  voeg een nieuwe gebruiker ] toe
+>[!TAB voeg een nieuwe gebruiker  toe]
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
