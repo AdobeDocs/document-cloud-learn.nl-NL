@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Leer hoe te opstellings automatische toewijzingsregels die gebruikers toegang tot Acrobat Sign in de [ Admin Console ](https://adminconsole.adobe.com/) verlenen-stroomlijnend levering en verminderend handadministratieve taken. Gebruikers kunnen andere gebruikers uitnodigen naar Acrobat Sign via de URL voor producttoegang die door de Admin Console is gegenereerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475290?quality=12&learn=on&hidetitle=true&captions=dut)
