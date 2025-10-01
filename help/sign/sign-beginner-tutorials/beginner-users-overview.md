@@ -24,19 +24,19 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!TAB  vorm verzend opties ]
 
-Leer hoe te [ diverse opties ](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
+Leer hoe te [&#x200B; diverse opties &#x200B;](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
 
 >[!TAB  verzend naar veelvoudige ondertekenaars ]
 
-Leer hoe te om een document voor e-handtekening naar [ meer dan één persoon ](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
+Leer hoe te om een document voor e-handtekening naar [&#x200B; meer dan één persoon &#x200B;](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
 
 >[!TAB  verzend een document naar één enkele ondertekenaar ]
 
-Ga binnen en leer hoe gemakkelijk het [ een document uit voor handtekening ](send-to-single-recipient.md) moet verzenden.
+Ga binnen en leer hoe gemakkelijk het [&#x200B; een document uit voor handtekening &#x200B;](send-to-single-recipient.md) moet verzenden.
 
 >[!TAB  begin met Acrobat Sign ]
 
-Bent u nog niet eerder met Acrobat Sign begonnen? Dit [ leerprogramma ](new-sender.md) is een grote plaats om te beginnen.
+Bent u nog niet eerder met Acrobat Sign begonnen? Dit [&#x200B; leerprogramma &#x200B;](new-sender.md) is een grote plaats om te beginnen.
 
 >[!ENDTABS]
 

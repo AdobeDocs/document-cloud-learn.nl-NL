@@ -44,7 +44,7 @@ ht-degree: 9%
       + [Ondertekenen met een stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Beheren {#getting-started-managing}
       + [Uw overeenkomsten beheren en volgen](sign-beginner-tutorials/manage-and-track.md)
-      + [ Creërend een documentmalplaatje ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [&#x200B; Creërend een documentmalplaatje &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Geavanceerde taken {#advanced-tasks}
    + [Overview](sign-advanced-users/advanced-users-overview.md)
    + Verzenden {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 9%
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Formuliergegevens beheren](sign-advanced-users/manage-form-data.md)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
-      + [ verzend in bulk ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [ Creërend een Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [ Tekst Tagging van Acrobat Sign ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [&#x200B; verzend in bulk &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [&#x200B; Creërend een Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [&#x200B; Tekst Tagging van Acrobat Sign &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Tekstlabels gebruiken in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheren {#advanced-tasks-managing}
       + [Rapportage en transactiegebruik](sign-advanced-users/creating-a-report.md)
@@ -76,10 +76,10 @@ ht-degree: 9%
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een sjabloon maken](sign-advanced-users/create-a-template.md)
-      + [ Meldend en transactieverbruik ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [&#x200B; Meldend en transactieverbruik &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
-      + [ wijzig een bestaand Webvorm ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [&#x200B; wijzig een bestaand Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [In bulk verzenden](sign-advanced-users/megasign.md)
       + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
       + [Controlerapporten](admin/audit-reports.md)
@@ -115,7 +115,7 @@ ht-degree: 9%
       + [Auto archivedossiers in  [!DNL SharePoint]  met  [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Documentautomatisering met Acrobat Sign for  [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Verzenden ter ondertekening in  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [ Levend Teken in Adobe Acrobat Sign voor  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [&#x200B; Levend Teken in Adobe Acrobat Sign voor  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
       + [Documenten, tabintegratie voor  [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
       + [Een eenvoudige workflow maken in  [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [Een geavanceerde workflow maken in  [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
