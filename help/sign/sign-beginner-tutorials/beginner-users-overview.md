@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '511'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 ## Nieuw
 
 >[!BEGINTABS]
+
+>[!TAB  vorm verzend opties ]
+
+Leer hoe te [ diverse opties ](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
 
 >[!TAB  verzend naar veelvoudige ondertekenaars ]
 
@@ -87,7 +91,7 @@ Bent u nog niet eerder met Acrobat Sign begonnen? Dit [ leerprogramma ](new-send
       <img alt="Verzendopties configureren" src="../assets/configure.png" />
     </a>
     <div>
-    <a href="sending-options.md"><strong> vorm verzendend opties </strong></a>
+    <a href="sending-options.md"><strong> vorm verzend opties </strong></a>
     </div>
     Leer hoe u verschillende opties kunt configureren bij het verzenden van een document ter ondertekening
     <br>
