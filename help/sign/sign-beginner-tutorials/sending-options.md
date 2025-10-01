@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Leer hoe u de overeenkomstdetails kunt aanpassen, bestanden kunt koppelen en ext
 
 >[!NOTE]
 >
->Verzendopties kunnen worden geconfigureerd door uw beheerder, zodat exact dezelfde opties worden weergegeven als in deze zelfstudie.
+>Uw beheerder heeft de verzendopties mogelijk aangepast. De opties die u ziet, kunnen dus afwijken van de opties die in deze zelfstudie worden weergegeven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
