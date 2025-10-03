@@ -25,19 +25,19 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
 
->[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
+>[!TAB laat automatische gebruikerstoewijzingsregels  toe]
 
-Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
+Leer hoe te opstelling [&#x200B; automatische toewijzingsregels &#x200B;](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
 
 >[!TAB  Migreer de malplaatjes van het Document ]
 
-Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
+Leer hoe te om naadloos [&#x200B; de malplaatjes van het Document &#x200B;](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
->[!TAB  voeg een nieuwe gebruiker ] toe
+>[!TAB voeg een nieuwe gebruiker  toe]
 
-Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
+Leer hoe te [&#x200B; nieuwe gebruikers aan Acrobat Sign &#x200B;](add-users-to-your-account.md) toevoegen.
 
 >[!ENDTABS]
 

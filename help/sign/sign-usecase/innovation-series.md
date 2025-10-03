@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill Builders zijn 30 minuten durende sessies die zijn ontworpen om je elektronische handtekeningen te laten werken, zonder extra werk aan je dag toe te voegen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
-Controle uit alle webinars op bestelling [ hier ](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+Controle uit alle webinars op bestelling [&#x200B; hier &#x200B;](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
