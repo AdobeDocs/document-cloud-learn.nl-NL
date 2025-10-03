@@ -6,11 +6,10 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -26,9 +25,9 @@ Ontdek hoe je de e-ondertekeningservaringen van je organisatie kunt transformere
       <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
+    <a href="innovation-series.md"><strong> de Bouwer van de Vaardigheid </strong></a>
     </div>
-    <em>Word lid van ons voor een 30 minuten durende Bouwer van de Vaardigheid om te leren hoe te om uw e-handtekeningen te zetten aan werk-zonder extra werk aan uw dag toe te voegen</em>
+    <em> sluit zich bij ons voor een Bouwer van de Vaardigheid van 30 minuten aan om te leren hoe te om uw e-handtekeningen te zetten aan werk-zonder om het even welk extra werk aan uw dag toe te voegen </em>
     <br>
   </td>
   <td>
@@ -36,19 +35,15 @@ Ontdek hoe je de e-ondertekeningservaringen van je organisatie kunt transformere
       <img alt="Gebruiksscenario&apos;s" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Gebruiksscenario's</strong></a>
+    <a href="recipes.md"><strong> gevallen van het Gebruik </strong></a>
     </div>
-    <em>Ontdek hoe verschillende organisaties Acrobat Sign gebruiken met deze praktijkvoorbeelden</em>
+    <em> Onderzoek hoe diverse organisaties Acrobat Sign met deze praktijkvoorbeelden gebruiken </em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="Praktijkvoorbeelden gebruiken" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>Praktijkvoorbeelden gebruiken</strong></a>
-    </div>
-    <em>Bekijk live of opgenomen sessies waarin je kennismaakt met nieuwe Acrobat Sign-gebruiksscenario’s en -trends</em>
     <br>
   </td>
   <td>

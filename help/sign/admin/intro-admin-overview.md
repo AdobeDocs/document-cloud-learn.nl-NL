@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
->[!TAB laat automatische gebruikerstoewijzingsregels  toe]
+>[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
 
 Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
 
@@ -31,7 +31,7 @@ Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-r
 
 Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
->[!TAB voeg een nieuwe gebruiker  toe]
+>[!TAB  voeg een nieuwe gebruiker ] toe
 
 Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md) toevoegen.
 
@@ -137,10 +137,10 @@ Leer hoe te [ nieuwe gebruikers aan Acrobat Sign ](add-users-to-your-account.md)
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Een documentsjabloon maken" src="../assets/create-template.png" />
+      <img alt="Een herbruikbare sjabloon maken" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong> Creërend een documentmalplaatje </strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong> creeer een herbruikbaar malplaatje </strong></a>
     </div>
     <em> creeer een herbruikbaar documentmalplaatje voor snelheid en consistentie </em>
     <br>
