@@ -31,7 +31,7 @@ documenten gebruikt in Acrobat Sign.
 
 ## Tags toevoegen in Microsoft Word
 
-Om tekstmarkeringen aan een document van Microsoft Word toe te voegen, controleer dit [ videoleerprogramma ](text-tagging-word.md).
+Om tekstmarkeringen aan een document van Microsoft Word toe te voegen, controleer dit [&#x200B; videoleerprogramma &#x200B;](text-tagging-word.md).
 
 ## Tags toevoegen in Acrobat
 
@@ -45,25 +45,25 @@ Adobe Acrobat heeft een krachtige ontwerpomgeving voor slepen en neerzetten. Doo
 
 1. Selecteer **[!UICONTROL vorm voor e-het ondertekenen]** van het **[!UICONTROL het paneeldrop-down van Opties]** voorbereidt.
 
-   ![ voorbereidt vorm voor e-het ondertekenen ](../assets/tag-prepare-e-signing.png)
+   ![&#x200B; voorbereidt vorm voor e-het ondertekenen &#x200B;](../assets/tag-prepare-e-signing.png)
 
 1. Selecteer **[!UICONTROL daarna]** om te bevestigen.
 
-   ![ Bevestig het omzetten gebieden ](../assets/tag-confirm.png)
+   ![&#x200B; Bevestig het omzetten gebieden &#x200B;](../assets/tag-confirm.png)
 
 1. Dubbelklik op een gebied om de **[!UICONTROL dialoog van Eigenschappen]** omhoog te brengen.
 
-   Gebruik de syntaxis die in [ wordt gedetailleerd de Gids van de Markering van de Tekst van Acrobat Sign ](https://helpx.adobe.com/nl/sign/using/text-tag.html) om de naam van het vormgebied te veranderen.
+   Gebruik de syntaxis die in [&#x200B; wordt gedetailleerd de Gids van de Markering van de Tekst van Acrobat Sign &#x200B;](https://helpx.adobe.com/nl/sign/using/text-tag.html) om de naam van het vormgebied te veranderen.
 
 1. Bijvoorbeeld, kunt u *OInt_es_ :signer1: optiinitials* op de gebiedsnaam typen om een aanvankelijk gebied facultatief te maken.
 
-   ![ het gebiedsnaam van de Verandering ](../assets/tag-opt-initials.png)
+   ![&#x200B; het gebiedsnaam van de Verandering &#x200B;](../assets/tag-opt-initials.png)
 
    Tekstlabels worden toegevoegd aan de naam van het formulierveld. In tegenstelling tot de syntaxis die u zou gebruiken in Microsoft Word (of andere ontwerpgereedschappen), worden de accolades niet opgenomen.
 
    U kunt ook tekstcodes toevoegen aan het venster Velden door de naam van het formulierveld te wijzigen.
 
-   ![ noem in gebiedspaneel anders ](../assets/tag-rename.png)
+   ![&#x200B; noem in gebiedspaneel anders &#x200B;](../assets/tag-rename.png)
 
 1. Sla het bestand op en sluit het.
 
@@ -73,4 +73,4 @@ Adobe Acrobat heeft een krachtige ontwerpomgeving voor slepen en neerzetten. Doo
 
 Nadat u een gecodeerd document hebt gemaakt, stelt u dit in als een herbruikbare sjabloon, zodat iedereen geen velden hoeft toe te voegen aan zijn documenten.
 
-Om een herbruikbaar malplaatje te creëren, controleer dit [ videoleerprogramma ](../sign-advanced-users/create-a-template.md).
+Om een herbruikbaar malplaatje te creëren, controleer dit [&#x200B; videoleerprogramma &#x200B;](../sign-advanced-users/create-a-template.md).
