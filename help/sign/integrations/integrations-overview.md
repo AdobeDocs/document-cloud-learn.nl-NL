@@ -30,15 +30,15 @@ U kunt Acrobat Sign gebruiken in andere toepassingen die uw organisatie al gebru
 
 >[!TAB  de grote dossiers van de opstelling en pushtoewijzingen ]
 
-Leer hoe te opstelling [ grote documenten en duw de diensten van de overeenkomst ](salesforce-large-files.md) in Salesforce.
+Leer hoe te opstelling [&#x200B; grote documenten en duw de diensten van de overeenkomst &#x200B;](salesforce-large-files.md) in Salesforce.
 
 >[!TAB  opstelling automatische updates ]
 
-Leer hoe te om uw rekening aan Salesforce gemakkelijk te verbinden om [ automatische updates ](salesforce-automatic-updates.md) te krijgen.
+Leer hoe te om uw rekening aan Salesforce gemakkelijk te verbinden om [&#x200B; automatische updates &#x200B;](salesforce-automatic-updates.md) te krijgen.
 
 >[!TAB  het tabintegratie van Documenten voor Microsoft Teams ]
 
-Leer hoe te om documenten uit voor handtekening direct van het [ lusje van Documenten ](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] te verzenden.
+Leer hoe te om documenten uit voor handtekening direct van het [&#x200B; lusje van Documenten &#x200B;](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] te verzenden.
 
 >[!ENDTABS]
 

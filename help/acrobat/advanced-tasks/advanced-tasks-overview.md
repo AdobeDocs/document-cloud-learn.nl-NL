@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # Overzicht van geavanceerde taken
 
-Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken. Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/nl/playlists/acrobat-peform-advanced-tasks) voor het uitvoeren van geavanceerde taken in Acrobat.
+Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer hoe u een handeling kunt maken om alledaagse taken te herhalen, gevoelige informatie te verwijderen, grote bestanden te reduceren en te optimaliseren, snel formuliergegevens te verzamelen en universeel toegankelijke PDF-bestanden te maken. Controle uit dit ervaren [&#x200B; playlist &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-peform-advanced-tasks) voor het uitvoeren van geavanceerde taken in Acrobat.
 
 ## Nieuw
 
@@ -24,11 +24,11 @@ Ga verder dan de basisbeginselen met deze geavanceerde tools in Acrobat. Leer ho
 
 >[!TAB  Geleide acties ]
 
-Leer hoe te om efficiency te verbeteren gebruikend [ geleide acties ](action.md).
+Leer hoe te om efficiency te verbeteren gebruikend [&#x200B; geleide acties &#x200B;](action.md).
 
 >[!TAB  Optimize PDF voor SEO (de Optimalisering van de Motor van het Onderzoek) ]
 
-Leer hoe te [ optimaliseer een PDF ](optimizeseo.md) voor betere vindbaarheid en onderzoeksmotor het rangschikken op het Web.
+Leer hoe te [&#x200B; optimaliseer een PDF &#x200B;](optimizeseo.md) voor betere vindbaarheid en onderzoeksmotor het rangschikken op het Web.
 
 >[!ENDTABS]
 

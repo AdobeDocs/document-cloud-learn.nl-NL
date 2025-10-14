@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Afbeeldingen in een PDF bewerken
 
-Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF. Door afbeeldingen rechtstreeks in Acrobat te bewerken, kun je content nauwkeurig en professioneel bijwerken zonder dat je heen en weer hoeft te springen tussen apps. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
+Leer hoe je afbeeldingen maakt, bewerkt en verbetert in je PDF. Door afbeeldingen rechtstreeks in Acrobat te bewerken, kun je content nauwkeurig en professioneel bijwerken zonder dat je heen en weer hoeft te springen tussen apps. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
 
 <br>
 

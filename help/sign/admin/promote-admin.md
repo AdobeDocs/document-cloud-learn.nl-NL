@@ -15,6 +15,6 @@ ht-degree: 2%
 
 # Product- en ondersteuningsbeheerrollen toewijzen
 
-Leer hoe te om een rol van de Admin van het Gebruiker van Acrobat Sign toe te wijzen en van de Admin van de Steun in de [ Admin Console ](https://adminconsole.adobe.com/).
+Leer hoe te om een rol van de Admin van het Gebruiker van Acrobat Sign toe te wijzen en van de Admin van de Steun in de [&#x200B; Admin Console &#x200B;](https://adminconsole.adobe.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453164?quality=12&learn=on&hidetitle=true&captions=dut)

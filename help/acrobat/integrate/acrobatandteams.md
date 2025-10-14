@@ -36,4 +36,4 @@ Met Adobe Acrobat for Teams kunnen gebruikers samenwerken met collega&#39;s door
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; integreer Acrobat en Microsoft 365 &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

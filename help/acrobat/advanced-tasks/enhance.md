@@ -22,14 +22,14 @@ Leer in deze praktische zelfstudie hoe u uw PDF kunt transformeren door grafisch
 
 ## Wat je nodig hebt
 
-[![ krijg dossiers ](../assets/Getfiles.svg)](../assets/Enhance.zip)
+[![&#x200B; krijg dossiers &#x200B;](../assets/Getfiles.svg)](../assets/Enhance.zip)
 Voorbeelden van bestanden om mee te oefenen (ZIP, 342 KB)
 
 <br>
 
 ## Leer achtergrondafbeeldingen toe te voegen
 
-Gebruik [ het Edit hulpmiddel van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  om achtergrondgrafiek aan uw PDF toe te voegen.
+Gebruik [&#x200B; het Edit hulpmiddel van de PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  om achtergrondgrafiek aan uw PDF toe te voegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

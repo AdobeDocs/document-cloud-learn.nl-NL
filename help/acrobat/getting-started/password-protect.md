@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # Protect een PDF-bestand met een wachtwoord
 
-Leer hoe te [ een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"}  toevoegen om anderen tegen het openen of [ het uitgeven van het dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} te beschermen .
+Leer hoe te [&#x200B; een wachtwoord aan uw PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"}  toevoegen om anderen tegen het openen of [&#x200B; het uitgeven van het dossier van de PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} te beschermen .
 
 >[!TIP]
 >
->Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
+>Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [&#x200B; Action Wizard &#x200B;](../advanced-tasks/action.md).
 
 [!BADGE &#x200B; Organisatorische Gevolgen &#x200B;]
 Informatiebescherming, risicobeheer
@@ -29,4 +29,4 @@ Informatiebescherming, risicobeheer
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

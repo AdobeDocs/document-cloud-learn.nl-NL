@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # Een nieuwe gebruiker toevoegen
 
-Leer hoe te om nieuwe gebruikers aan Acrobat Sign binnen de [ Admin Console ](https://adminconsole.adobe.com/) toe te voegen.
+Leer hoe te om nieuwe gebruikers aan Acrobat Sign binnen de [&#x200B; Admin Console &#x200B;](https://adminconsole.adobe.com/) toe te voegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453186?quality=12&learn=on&hidetitle=true&captions=dut)

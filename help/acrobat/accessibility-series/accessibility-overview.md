@@ -23,19 +23,19 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!TAB  wat en waarom van toegankelijke PDF dossiers ]
 
-Leer [ wat een toegankelijk dossier van de PDF is en waarom het belangrijk ](what-why-accessible-pdf.md) is.
+Leer [&#x200B; wat een toegankelijk dossier van de PDF is en waarom het belangrijk &#x200B;](what-why-accessible-pdf.md) is.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!TAB  creeer een toegankelijke PDF van Word ]
 
-Leer hoe te [ een toegankelijk dossier van de PDF van Microsoft Word ](create-accessible-from-word.md) creëren.
+Leer hoe te [&#x200B; een toegankelijk dossier van de PDF van Microsoft Word &#x200B;](create-accessible-from-word.md) creëren.
 
 >[!TAB  Creeer toegankelijke vormen ]
 
-Leer hoe te om [ vormen toegankelijk te maken ](create-accessible-forms.md) in Acrobat.
+Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessible-forms.md) in Acrobat.
 
 >[!ENDTABS]
 

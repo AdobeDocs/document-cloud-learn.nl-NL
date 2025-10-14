@@ -22,7 +22,7 @@ Integreer Acrobat met apps [!DNL Box] , [!DNL Dropbox] , [!DNL Google Drive] , [
 
 ## Microsoft
 
-Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, direct binnen [ Microsoft 365 ](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html). Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) op Acrobat en Microsoft 365 integraties.
+Leer hoe iedereen op uw team naadloos met de dossiers van de PDF kan werken, direct binnen [&#x200B; Microsoft 365 &#x200B;](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html). Controle uit dit ervaren [&#x200B; playlist &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) op Acrobat en Microsoft 365 integraties.
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -257,4 +257,4 @@ Leer hoe eenvoudig het is om bestanden die zijn opgeslagen in [!DNL Dropbox] te 
 
 ## Box
 
-Leer hoe Acrobat en [ Doos ](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}  het voor iedereen in uw organisatie eenvoudiger maken om zaken te houden bewegend.
+Leer hoe Acrobat en [&#x200B; Doos &#x200B;](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}  het voor iedereen in uw organisatie eenvoudiger maken om zaken te houden bewegend.

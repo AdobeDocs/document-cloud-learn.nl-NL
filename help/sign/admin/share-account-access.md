@@ -22,4 +22,4 @@ Leer hoe u alleen-weergeven toegang tot transacties in het account van een ander
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde taken voor beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-administrators) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde taken voor beheerders &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-administrators) die voor vrij op Experience League beschikbaar is!

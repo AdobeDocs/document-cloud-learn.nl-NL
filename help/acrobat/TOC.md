@@ -24,7 +24,7 @@ ht-degree: 4%
    + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
    + [Stimuleer teamefficiëntie met PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+   + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
@@ -121,7 +121,7 @@ ht-degree: 4%
    + Overheid {#gov}
       + [Overview](industry/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [ 5 uiteinden voor het werken overal met Acrobat ](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
@@ -140,5 +140,5 @@ ht-degree: 4%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
+   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)

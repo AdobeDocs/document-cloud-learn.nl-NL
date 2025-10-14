@@ -26,4 +26,4 @@ Leer hoe u de rol van delegeerder gebruikt om een document te verzenden naar een
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken voor Gebruikers &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-business-users) die voor vrij op Experience League beschikbaar is!

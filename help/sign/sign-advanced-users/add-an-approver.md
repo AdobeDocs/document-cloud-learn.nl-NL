@@ -23,6 +23,6 @@ Leer hoe u een document kunt verzenden via een goedkeuringsproces. In dit voorbe
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken voor Gebruikers &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-business-users) die voor vrij op Experience League beschikbaar is!
 
 

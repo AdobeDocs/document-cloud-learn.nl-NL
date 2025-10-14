@@ -28,7 +28,7 @@ In deel 1 leert u hoe u aan de slag kunt gaan met alles wat u nodig hebt voor on
 
 * [Acrobat Sign-ontwikkelaarsaccount](https://www.adobe.com/acrobat/business/developer-form.html)
 * [Startcode](https://github.com/benvanderberg/adobe-sign-api-tutorial)
-* [ de Code van VS (of redacteur van uw keus) ](https://code.visualstudio.com)
+* [&#x200B; de Code van VS (of redacteur van uw keus) &#x200B;](https://code.visualstudio.com)
 * Python 3.x
    * Mac — Homebrew
    * Linux — Ingebouwd installatieprogramma
@@ -47,17 +47,17 @@ In deel 2 verkent u de optie voor het gebruik van webformulieren met een lage of
 
 1. Selecteer **Een webformulier** publiceren op de startpagina.
 
-   ![ de homepage van Acrobat Sign van het Scherm ](assets/embeddedesignature/embed_1.png)
+   ![&#x200B; de homepage van Acrobat Sign van het Scherm &#x200B;](assets/embeddedesignature/embed_1.png)
 
 1. Maak uw overeenkomst.
 
-   ![ Screenshot van hoe te om een Webvorm ](assets/embeddedesignature/embed_2.png) te creëren
+   ![&#x200B; Screenshot van hoe te om een Webvorm &#x200B;](assets/embeddedesignature/embed_2.png) te creëren
 
 1. Sluit uw overeenkomst in op een platte HTML-pagina.
 
 1. Experimenteer met het dynamisch toevoegen van queryparameters.
 
-   ![ Screenshot van het toevoegen van vraagparameters ](assets/embeddedesignature/embed_3.png)
+   ![&#x200B; Screenshot van het toevoegen van vraagparameters &#x200B;](assets/embeddedesignature/embed_3.png)
 
 +++
 
@@ -71,17 +71,17 @@ Eerst moet u toegang instellen. Er zijn twee manieren om verbinding te maken met
 
 1. Selecteer **Sleutel van de Integratie** op het **API menu van de Informatie** onder het **lusje van de Rekening** in Acrobat Sign.
 
-   ![ Screenshot van waar te om de integratiesleutel ](assets/embeddedesignature/embed_4.png) te vinden
+   ![&#x200B; Screenshot van waar te om de integratiesleutel &#x200B;](assets/embeddedesignature/embed_4.png) te vinden
 
 Nu u toegang hebt tot de API en deze kunt gebruiken, kunt u zien wat u kunt doen met de API.
 
-1. Navigeer aan de [ REST API Versie 6 Methoden van Acrobat Sign ](http://adobesign.com/public/docs/restapi/v6).
+1. Navigeer aan de [&#x200B; REST API Versie 6 Methoden van Acrobat Sign &#x200B;](http://adobesign.com/public/docs/restapi/v6).
 
-   ![ Screenshot van het navigeren Acrobat Sign REST API Versie 6 Methoden ](assets/embeddedesignature/embed_5.png)
+   ![&#x200B; Screenshot van het navigeren Acrobat Sign REST API Versie 6 Methoden &#x200B;](assets/embeddedesignature/embed_5.png)
 
 1. Gebruik het token als een &quot;toonder&quot;-waarde.
 
-   ![ Schermafbeelding van dragerwaarde ](assets/embeddedesignature/embed_6.png)
+   ![&#x200B; Schermafbeelding van dragerwaarde &#x200B;](assets/embeddedesignature/embed_6.png)
 
 Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de API kunt gebruiken.
 
@@ -91,7 +91,7 @@ Om uw eerste overeenkomst te verzenden, is het beter om te begrijpen hoe u de AP
 >
 >Op JSON gebaseerde aanvraagaanroepen hebben een optie &quot;Model&quot; en &quot;Minimaal Modelschema&quot;. Dit geeft specs en een minimale ladingsreeks.
 
-![ Schermafbeelding van het creëren van een Voorbijgaande Doc ](assets/embeddedesignature/embed_7.png)
+![&#x200B; Schermafbeelding van het creëren van een Voorbijgaande Doc &#x200B;](assets/embeddedesignature/embed_7.png)
 
 Nadat u voor het eerst een overeenkomst hebt verzonden, kunt u de logica toevoegen. Het is altijd een goed idee om een aantal helpers op te zetten om herhaling te minimaliseren. Hier volgen enkele voorbeelden:
 
@@ -101,11 +101,11 @@ Nadat u voor het eerst een overeenkomst hebt verzonden, kunt u de logica toevoeg
 
 **Kopballen/Auth**
 
-![ Scherenshot van kopteksten/auth logica ](assets/embeddedesignature/embed_9.png)
+![&#x200B; Scherenshot van kopteksten/auth logica &#x200B;](assets/embeddedesignature/embed_9.png)
 
 **Basis URI**
 
-![ Schermafbeelding van de logica van basis-URI ](assets/embeddedesignature/embed_10.png)
+![&#x200B; Schermafbeelding van de logica van basis-URI &#x200B;](assets/embeddedesignature/embed_10.png)
 
 Houd rekening met de plaats waar overgangsdocs aankomen binnen het grootse schema van het Sign-ecosysteem.
 Overgang -> Overeenkomst
@@ -116,7 +116,7 @@ In dit voorbeeld wordt een sjabloon als documentbron gebruikt. Dit is meestal de
 
 De code is vrij eenvoudig; er wordt een bibliotheekdocument (sjabloon) gebruikt voor de documentbron. De eerste en tweede ondertekenaars worden dynamisch toegewezen. De status `IN_PROCESS` betekent dat het document direct wordt verzonden. Daarnaast wordt `mergeFieldInfo` gebruikt om velden dynamisch te vullen.
 
-![ Screenshot van code om handtekeningen dynamisch toe te voegen ](assets/embeddedesignature/embed_11.png)
+![&#x200B; Screenshot van code om handtekeningen dynamisch toe te voegen &#x200B;](assets/embeddedesignature/embed_11.png)
 
 +++
 
@@ -128,7 +128,7 @@ In veel gevallen kunt u de activerende deelnemer toestaan om onmiddellijk een ov
 
 Als u niet wilt dat de eerste verzendende e-mail wordt geactiveerd, kunt u het gedrag eenvoudig beheren door de API-aanroep aan te passen.
 
-![ Schermafbeelding van code om het verzenden van e-mail niet te activeren ](assets/embeddedesignature/embed_12.png)
+![&#x200B; Schermafbeelding van code om het verzenden van e-mail niet te activeren &#x200B;](assets/embeddedesignature/embed_12.png)
 
 Hieronder wordt beschreven hoe u de omleiding na ondertekening kunt beheren:
 
@@ -142,7 +142,7 @@ Na het bijwerken van het proces voor het maken van de overeenkomst bestaat de la
 >
 >De aanroep om een overeenkomst te maken is technisch asynchroon. Dit betekent dat u een &#39;POST&#39;-overeenkomstoproep kunt maken, maar de overeenkomst nog niet klaar is. De beste manier is om een herhalingslus te creëren. Gebruik opnieuw proberen of wat dan ook de beste werkwijze voor je omgeving is.
 
-![ Screenshot die het beste praktijken zegt om een hertry lijn ](assets/embeddedesignature/embed_15.png) te vestigen
+![&#x200B; Screenshot die het beste praktijken zegt om een hertry lijn &#x200B;](assets/embeddedesignature/embed_15.png) te vestigen
 
 Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenkomst en genereert vervolgens een ondertekenings-URL waarmee de ondertekenaar op het ondertekeningsritueel kan klikken en beginnen.
 
@@ -150,15 +150,15 @@ Als alles samengebracht is, is de oplossing vrij eenvoudig. U maakt een overeenk
 
 ## Aanvullende onderwerpen
 
-* [ Gebeurtenissen JS ](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
+* [&#x200B; Gebeurtenissen JS &#x200B;](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-gebeurtenissen
-   * [ REST API ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [ Webhooks in Acrobat Sign v6 ](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [ Reactivate de E-mails van het Verzoek (met gebeurtenissen) ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
-* [ vervang Onderbreking met opnieuw proberen ](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+   * [&#x200B; REST API &#x200B;](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+   * [&#x200B; Webhooks in Acrobat Sign v6 &#x200B;](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+* [&#x200B; Reactivate de E-mails van het Verzoek (met gebeurtenissen) &#x200B;](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+* [&#x200B; vervang Onderbreking met opnieuw proberen &#x200B;](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Aangepaste herinneringen
    * Met het eerste ontwerp
 
-     ![ Screenshot van het navigeren aan Macht automatiseren ](assets/embeddedesignature/embed_16.png)
+     ![&#x200B; Screenshot van het navigeren aan Macht automatiseren &#x200B;](assets/embeddedesignature/embed_16.png)
 
-   * Of voeg één [ in-vlucht ](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) toe
+   * Of voeg één [&#x200B; in-vlucht &#x200B;](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) toe

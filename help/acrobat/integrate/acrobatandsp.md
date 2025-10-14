@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Werken met uw [!DNL SharePoint] -bestanden
 
-Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat gebruikend [ Adobe Acrobat voor Microsoft 365 ](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Zet veilig [!DNL Microsoft 365] dossiers in PDF om, [ combineer PDF documenten ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}  in één dossier, becommentariëer, en herschik pagina&#39;s - recht van [!DNL SharePoint] online.
+Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat gebruikend [&#x200B; Adobe Acrobat voor Microsoft 365 &#x200B;](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Zet veilig [!DNL Microsoft 365] dossiers in PDF om, [&#x200B; combineer PDF documenten &#x200B;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}  in één dossier, becommentariëer, en herschik pagina&#39;s - recht van [!DNL SharePoint] online.
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Stroomlijn documentworkflows met [!DNL SharePoint] en Acrobat gebruikend [ Adobe
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; integreer Acrobat en Microsoft 365 &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

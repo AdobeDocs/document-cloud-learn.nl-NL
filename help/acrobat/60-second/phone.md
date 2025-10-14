@@ -16,10 +16,10 @@ ht-degree: 1%
 
 # Zet een PPT-bestand om in PDF op uw telefoon
 
-In dit videoleerprogramma van 60 seconden, leer hoe te om een e-mail [ gehechtheid van PowerPoint aan PDF ](https://www.adobe.com/nl/acrobat/online/ppt-to-pdf.html){target="_blank"}  op uw telefoon om te zetten. Als het bestand terugkeert, bekijk het en tik op delen om het naar je team te sturen - allemaal zonder PowerPoint in je telefoon.
+In dit videoleerprogramma van 60 seconden, leer hoe te om een e-mail [&#x200B; gehechtheid van PowerPoint aan PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/ppt-to-pdf.html){target="_blank"}  op uw telefoon om te zetten. Als het bestand terugkeert, bekijk het en tik op delen om het naar je team te sturen - allemaal zonder PowerPoint in je telefoon.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/?lang=nl&recommended=Acrobat-U-1-2021.microsoft365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; integreer Acrobat en Microsoft 365 &#x200B;](https://experienceleague.adobe.com/?lang=nl&recommended=Acrobat-U-1-2021.microsoft365) die voor vrij op Experience League beschikbaar is!

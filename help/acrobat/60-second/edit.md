@@ -16,10 +16,10 @@ ht-degree: 1%
 
 # PDF bewerken met Acrobat Web
 
-In dit videoleerprogramma van 60 seconden, leer hoe te om [ eenvoudige PDF te maken geeft ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  aan tekst en beelden uit zonder zelfs de PDF te downloaden.
+In dit videoleerprogramma van 60 seconden, leer hoe te om [&#x200B; eenvoudige PDF te maken geeft &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  aan tekst en beelden uit zonder zelfs de PDF te downloaden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

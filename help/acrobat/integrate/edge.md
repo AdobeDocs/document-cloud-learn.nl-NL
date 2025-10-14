@@ -30,4 +30,4 @@ Leer hoe u webpagina&#39;s direct naar PDF kunt converteren met de Adobe Acrobat
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; integreer Acrobat en Microsoft 365 &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

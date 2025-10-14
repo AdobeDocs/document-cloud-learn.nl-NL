@@ -14,6 +14,6 @@ ht-degree: 29%
 
 # Documenten onderweg ondertekenen
 
-Leer hoe u documenten ondertekent met de mobiele Acrobat Sign-app voor [iOS](https://apps.apple.com/nl/app/adobe-sign/id481082197) of [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=nl).
+Leer hoe u documenten ondertekent met de mobiele Acrobat Sign-app voor [iOS](https://apps.apple.com/nl/app/adobe-sign/id481082197) of [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=nl).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439042?quality=12&learn=on&hidetitle=true&captions=dut)

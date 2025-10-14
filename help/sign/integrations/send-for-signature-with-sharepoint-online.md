@@ -24,4 +24,4 @@ Leer hoe u documentworkflows stroomlijnt door een document ter ondertekening rec
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Gebruikend Acrobat Sign binnen de Apps van Microsoft ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-integrate-microsoft-apps) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Gebruikend Acrobat Sign binnen de Apps van Microsoft &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-integrate-microsoft-apps) die voor vrij op Experience League beschikbaar is!

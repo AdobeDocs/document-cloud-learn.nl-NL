@@ -16,6 +16,6 @@ ht-degree: 19%
 
 # Een document elektronisch ondertekenen
 
-Leer hoe eenvoudig het is om een document te ondertekenen dat met Acrobat Sign naar u is verzonden. Bekijk dit [zelfstudie](../mobile/sign-mobile.md) voor meer informatie over het ondertekenen van documenten met de mobiele Acrobat Sign-app voor [iOS](https://apps.apple.com/nl/app/adobe-sign/id481082197) of [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=nl).
+Leer hoe eenvoudig het is om een document te ondertekenen dat met Acrobat Sign naar u is verzonden. Bekijk dit [zelfstudie](../mobile/sign-mobile.md) voor meer informatie over het ondertekenen van documenten met de mobiele Acrobat Sign-app voor [iOS](https://apps.apple.com/nl/app/adobe-sign/id481082197) of [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=nl).
 
 >[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)

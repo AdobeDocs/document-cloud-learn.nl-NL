@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Een nieuwe pagina ontwerpen
 
-Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt. Door een nieuwe pagina te ontwerpen, creëer je binnen enkele minuten professioneel ogende, merkgerichte content, die echt uit elkaar staat. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
+Leer hoe u met Adobe Express een nieuwe professioneel ogende pagina in uw PDF maakt. Door een nieuwe pagina te ontwerpen, creëer je binnen enkele minuten professioneel ogende, merkgerichte content, die echt uit elkaar staat. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)

@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Een PDF maken
 
-Leer hoe te [ PDF van alle verschillende soorten documenten ](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
+Leer hoe te [&#x200B; PDF van alle verschillende soorten documenten &#x200B;](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
 
 >[!TIP]
 >
->Gebruik je altijd Microsoft Office? Controle uit deze [ integraties ](../integrate/integrate-overview.md#microsoft) die u toestaan om PDF direct binnen uw favoriete toepassingen van het Bureau te creëren.
+>Gebruik je altijd Microsoft Office? Controle uit deze [&#x200B; integraties &#x200B;](../integrate/integrate-overview.md#microsoft) die u toestaan om PDF direct binnen uw favoriete toepassingen van het Bureau te creëren.
 
 <br>
 
@@ -28,4 +28,4 @@ Leer hoe te [ PDF van alle verschillende soorten documenten ](https://www.adobe.
 
 Wilt u een draagbare versie van deze zelfstudie? Selecteer het PDF-pictogram om een geschreven versie van deze zelfstudie te openen of te downloaden.
 
-[![ PDF pictogramafbeelding ](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}
+[![&#x200B; PDF pictogramafbeelding &#x200B;](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}

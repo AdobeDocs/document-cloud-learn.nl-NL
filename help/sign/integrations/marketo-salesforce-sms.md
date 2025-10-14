@@ -19,37 +19,37 @@ ht-degree: 0%
 
 # Meldingen verzenden met Acrobat Sign for [!DNL Salesforce] en [!DNL Marketo]
 
-Leer hoe u een tekstbericht, e-mail of pushmelding verstuurt om de ondertekenaar te laten weten dat er een overeenkomst gaande is met Acrobat Sign, Acrobat Sign for Salesforce, Marketo en de Marketo Salesforce Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [ Twilio SMS ](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar andere oplossingen van Marketo SMS zijn beschikbaar.
+Leer hoe u een tekstbericht, e-mail of pushmelding verstuurt om de ondertekenaar te laten weten dat er een overeenkomst gaande is met Acrobat Sign, Acrobat Sign for Salesforce, Marketo en de Marketo Salesforce Sync. Als u berichten wilt verzenden vanuit Marketo, moet u eerst een Marketo SMS-beheerfunctie aanschaffen of configureren. Deze analyse gebruikt [&#x200B; Twilio SMS &#x200B;](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), maar andere oplossingen van Marketo SMS zijn beschikbaar.
 
 ## Vereisten
 
 1. Installeer de Marketo Salesforce-synchronisatie.
 
-   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
+   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [&#x200B; hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
 
 1. Installeer Acrobat Sign voor Salesforce.
 
-   De informatie over deze stop is beschikbaar [ hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   De informatie over deze stop is beschikbaar [&#x200B; hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Het aangepaste object zoeken
 
 Als de Marketo Salesforce-synchronisatie en Acrobat Sign for Salesforce-configuraties zijn voltooid, verschijnen er verschillende nieuwe opties in de Marketo Admin Terminal.
 
-![ Admin ](assets/adminTab.png)
+![&#x200B; Admin &#x200B;](assets/adminTab.png)
 
-![ de Synchronisatie van Objecten ](assets/salesforceAdmin.png)
+![&#x200B; de Synchronisatie van Objecten &#x200B;](assets/salesforceAdmin.png)
 
 1. Klik **Schema van de Synchronisatie** als dit uw eerste keer is. Anders, verfrist de klik **Schema**.
 
-   ![ verfrissen zich ](assets/refreshSchema1.png)
+   ![&#x200B; verfrissen zich &#x200B;](assets/refreshSchema1.png)
 
 1. Als de globale synchronisatie loopt, maak onbruikbaar door **Globale Synchronisatie** onbruikbaar te klikken.
 
-   ![ onbruikbaar maken ](assets/disableGlobal.png)
+   ![&#x200B; onbruikbaar maken &#x200B;](assets/disableGlobal.png)
 
 1. Klik **vernieuwen Schema**.
 
-   ![ vernieuw 2 ](assets/refreshSchema2.png)
+   ![&#x200B; vernieuw 2 &#x200B;](assets/refreshSchema2.png)
 
 ## Aangepaste objecten synchroniseren
 
@@ -63,29 +63,29 @@ Aan de rechterkant zie Aangepaste objecten voor leads, Contactpersoon en Account
 
 1. **laat Synchronisatie** voor de douanevoorwerpen toe die onder de gewenste Ouder (Lood, Contact, of Rekening) worden getoond.
 
-   ![ de Objecten van de Douane ](assets/customObjects.png)
+   ![&#x200B; de Objecten van de Douane &#x200B;](assets/customObjects.png)
 
 1. De volgende activa tonen hoe te **toelaten Synchronisatie**.
 
-   ![ Synchronisatie van de Douane 1 ](assets/customObjectSync1.png)
+   ![&#x200B; Synchronisatie van de Douane 1 &#x200B;](assets/customObjectSync1.png)
 
-   ![ Synchronisatie van de Douane 2 ](assets/customObjectSync2.png)
+   ![&#x200B; Synchronisatie van de Douane 2 &#x200B;](assets/customObjectSync2.png)
 
 1. Als u klaar bent met synchroniseren op de aangepaste objecten, activeert u de synchronisatie opnieuw.
 
-   ![ laat Globale ](assets/enableGlobal.png) toe
+   ![&#x200B; laat Globale &#x200B;](assets/enableGlobal.png) toe
 
 ## Het programma maken
 
 1. In de sectie van de Activiteiten van de Marketing van Marketo, klik op **Activiteiten van de Marketing** op de linkerbar met de rechtermuisknop aan, selecteer **Nieuwe Omslag van de Campagne**, en geef het een naam.
 
-   ![ Nieuwe Omslag ](assets/newFolder.png)
+   ![&#x200B; Nieuwe Omslag &#x200B;](assets/newFolder.png)
 
 1. Klik op de gecreeerde omslag met de rechtermuisknop aan, selecteer **Nieuw Programma**, en geef het een naam. Laat alles anders als gebrek, dan klik **creëren**.
 
-   ![ Nieuw Programma 1 ](assets/newProgram1.png)
+   ![&#x200B; Nieuw Programma 1 &#x200B;](assets/newProgram1.png)
 
-   ![ Nieuw Programma 2 ](assets/newProgram2.png)
+   ![&#x200B; Nieuw Programma 2 &#x200B;](assets/newProgram2.png)
 
 ## Twilio SMS instellen
 
@@ -101,7 +101,7 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
 1. Klik op **Admin** in het hoogste recht.
 
-   ![ Admin ](assets/adminTab.png)
+   ![&#x200B; Admin &#x200B;](assets/adminTab.png)
 
 1. Klik op **Webhooks**, dan **Nieuwe Webhook**.
 
@@ -131,22 +131,22 @@ Haal deze parameters van uw account op en open nu uw Marketo-exemplaar.
 
 1. In de sectie van de Activiteiten van de Marketing, klik op het programma met de rechtermuisknop u creeerde, dan selecteer **Nieuwe Slimme Campagne**.
 
-   ![ Slimme Campaign 1 ](assets/smartCampaign1.png)
+   ![&#x200B; Slimme Campaign 1 &#x200B;](assets/smartCampaign1.png)
 
 1. Noem het, dan klik **creeer**.
 
-   ![ Slimme Campaign 2 ](assets/smartCampaign3.png)
+   ![&#x200B; Slimme Campaign 2 &#x200B;](assets/smartCampaign3.png)
 
    Als de configuratie voor de aangepaste objectsynchronisatie correct is voltooid, ziet u de volgende triggers die beschikbaar zijn voor gebruik in de Salesforce-map.
 
 1. Klik en sleep Toegevoegd aan overeenkomst aan de slimme lijst. Voeg eventuele beperkingen toe die u op de trigger wilt hebben.
 
-   ![ Toegevoegd aan Overeenkomst 2 ](assets/addedToAgreement2.png)
+   ![&#x200B; Toegevoegd aan Overeenkomst 2 &#x200B;](assets/addedToAgreement2.png)
 
 ## De slimme-campagnestroom instellen
 
 1. Klik op het **Stroom** lusje in de Slimme Campagne. Zoek naar en sleep de **stroom van het Web van de Vraag** op het canvas en selecteer webhook u in de vorige sectie creeerde.
 
-   ![ Webhook van de Vraag ](assets/callWebhook.png)
+   ![&#x200B; Webhook van de Vraag &#x200B;](assets/callWebhook.png)
 
 1. Je SMS-meldingscampagne voor leads die aan een overeenkomst worden toegevoegd, is nu ingesteld.

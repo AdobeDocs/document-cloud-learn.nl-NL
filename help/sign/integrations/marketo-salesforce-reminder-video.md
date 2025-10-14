@@ -26,11 +26,11 @@ Leer hoe u een e-mailherinnering van Marketo kunt verzenden voor niet-onderteken
 
 1. Installeer de Marketo Salesforce-synchronisatie.
 
-   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [ hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
+   De informatie en de recentste stop in voor de Synchronisatie van Salesforce zijn beschikbaar [&#x200B; hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
 
 1. Installeer Acrobat Sign voor Salesforce.
 
-   De informatie over deze stop is beschikbaar [ hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   De informatie over deze stop is beschikbaar [&#x200B; hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 

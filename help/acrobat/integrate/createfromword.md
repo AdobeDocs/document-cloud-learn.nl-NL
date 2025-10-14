@@ -22,7 +22,7 @@ Leer hoe u rijke, krachtige PDF-bestanden maakt met een hyperlinktabel en kruisv
 
 >[!TIP]
 >
->Gebruikt u de [!DNL Microsoft Office] -webapps? Controle uit hoe te om [ PDF in  [!DNL Office]  voor het Web ](../integrate/createofficeweb.md) te creëren.
+>Gebruikt u de [!DNL Microsoft Office] -webapps? Controle uit hoe te om [&#x200B; PDF in  [!DNL Office]  voor het Web &#x200B;](../integrate/createofficeweb.md) te creëren.
 
 <br>
 
@@ -30,4 +30,4 @@ Leer hoe u rijke, krachtige PDF-bestanden maakt met een hyperlinktabel en kruisv
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ integreer Acrobat en Microsoft 365 ](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; integreer Acrobat en Microsoft 365 &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-integrate-microsoft-365) die voor vrij op Experience League beschikbaar is!

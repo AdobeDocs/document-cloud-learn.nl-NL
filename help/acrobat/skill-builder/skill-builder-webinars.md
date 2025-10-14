@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Adobe Acrobat Skill Builders zijn sessies van 30 minuten die zijn ontworpen om je PDF-workflows naar een hoger niveau te tillen. Elke maand wordt een nieuw onderwerp gemarkeerd.
 
-Controle uit alle webinars [ hier ](https://www.adobe.com/acrobat/business/webinars.html).
+Controle uit alle webinars [&#x200B; hier &#x200B;](https://www.adobe.com/acrobat/business/webinars.html).

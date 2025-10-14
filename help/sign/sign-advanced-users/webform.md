@@ -16,21 +16,21 @@ ht-degree: 0%
 
 # Een webformulier maken
 
-Leer hoe u een document maakt dat elektronisch kan worden ondertekend, rechtstreeks op uw website. U kunt a [ ontvangen hyperlink aan uw vorm ](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) tot stand brengen of de verbinding gebruiken om op uw website in HTML of JavaScript in te bedden.
+Leer hoe u een document maakt dat elektronisch kan worden ondertekend, rechtstreeks op uw website. U kunt a [&#x200B; ontvangen hyperlink aan uw vorm &#x200B;](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) tot stand brengen of de verbinding gebruiken om op uw website in HTML of JavaScript in te bedden.
 
 [!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
-* [ toepassing van de het Webvorm van het onderwijs ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=nl-NL)
+* [&#x200B; toepassing van de het Webvorm van het onderwijs &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=nl-NL)
 Leer hoe u met webformulieren de toegang van studenten tot vereiste formulieren verbetert
-* [ creeer een toepassing van het het onderwijsWeb van de interieur ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=nl-NL)
+* [&#x200B; creeer een toepassing van het het onderwijsWeb van de interieur &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=nl-NL)
 Leer hoe u een interactieve webformulier maakt
-* [ de leningstoepassing van de overheid met veelvoudige onbekende ondertekenaars ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=nl-NL)
+* [&#x200B; de leningstoepassing van de overheid met veelvoudige onbekende ondertekenaars &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=nl-NL)
 Leer hoe een webformulier wordt gebruikt voor een complexe workflow voor het toepassen van een overheidslening waarbij meerdere onbekende deelnemers betrokken zijn
-* [ Bedrijfs subsidies en leningen ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=nl-NL)
-* [ hulp van de Terugkeer ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=nl-NL)
+* [&#x200B; Bedrijfs subsidies en leningen &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=nl-NL)
+* [&#x200B; hulp van de Terugkeer &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=nl-NL)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425324?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!TIP]
 >
->Deze video maakt deel uit van de [ Geavanceerde Taken voor Gebruikers ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [ die met Acrobat Sign voor Beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!
+>Deze video maakt deel uit van de [&#x200B; Geavanceerde Taken voor Gebruikers &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-perform-advanced-tasks-business-users) en [&#x200B; die met Acrobat Sign voor Beheerders &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) playlists worden begonnen die voor vrij op Experience League beschikbaar zijn!

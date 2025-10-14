@@ -26,4 +26,4 @@ Ontdek de zeven belangrijkste gebieden waarop beheerders zich moeten richten om 
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ die met Acrobat Sign voor beheerders ](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; die met Acrobat Sign voor beheerders &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!

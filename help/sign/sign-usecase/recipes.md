@@ -25,19 +25,19 @@ Ontdek hoe verschillende organisaties Acrobat Sign gebruiken om de digitale work
 
 >[!TAB  het werkschema van de Douane voor het proces van onderwijsIEP ]
 
-Leer hoe de [ Designer van het Werkschema van de Douane ](usecase-edu-iep.md) wordt gebruikt om een proces van het Programma van het Individualized Onderwijs (IEP) te digitaliseren.
+Leer hoe de [&#x200B; Designer van het Werkschema van de Douane &#x200B;](usecase-edu-iep.md) wordt gebruikt om een proces van het Programma van het Individualized Onderwijs (IEP) te digitaliseren.
 
 >[!TAB  toepassing van de het Webvorm van het onderwijs ]
 
-Leer hoe [ Webvormen ](usecase-edu-intern.md) worden gebruikt om de toegang van studenten tot vereiste vormen te verbeteren.
+Leer hoe [&#x200B; Webvormen &#x200B;](usecase-edu-intern.md) worden gebruikt om de toegang van studenten tot vereiste vormen te verbeteren.
 
 >[!TAB  creeer een toepassing van het het onderwijsWeb van de interieur ]
 
-Leer hoe te om een intership [ Webvorm ](usecase-edu-intern-create.md) tot stand te brengen.
+Leer hoe te om een intership [&#x200B; Webvorm &#x200B;](usecase-edu-intern-create.md) tot stand te brengen.
 
 >[!TAB  de leningstoepassing van de overheid met veelvoudige onbekende ondertekenaars ]
 
-Leer hoe de vorm van het a [ Web ](webform-multiple-signers.md) voor een complexe werkschema van de de toepassingstoepassing van de overheidslening wordt gebruikt die veelvoudige onbekende deelnemers impliceert.
+Leer hoe de vorm van het a [&#x200B; Web &#x200B;](webform-multiple-signers.md) voor een complexe werkschema van de de toepassingstoepassing van de overheidslening wordt gebruikt die veelvoudige onbekende deelnemers impliceert.
 
 >[!ENDTABS]
 
