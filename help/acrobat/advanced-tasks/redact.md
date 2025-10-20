@@ -1,5 +1,5 @@
 ---
-title: Redigeren en ontsmetten
+title: Gevoelige informatie verwijderen
 description: Leer hoe u persoonlijke of vertrouwelijke informatie permanent uit uw PDF kunt verwijderen
 feature: Security
 role: User
@@ -7,68 +7,65 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Redigeren en ontsmetten
+# Vertrouwelijke gegevens verwijderen
 
-Leer hoe u met het gereedschap Redigeren persoonlijke of vertrouwelijke informatie permanent uit uw PDF verwijdert. Gebruik het gereedschap ontsmetten om informatie te verwijderen die niet zichtbaar is in het bestand, zoals opmerkingen, metagegevens of verborgen lagen.
+Leer hoe u met het gereedschap Redigeren persoonlijke of vertrouwelijke informatie definitief verwijdert uit een PDF en het document vervolgens ontsmet om informatie te verwijderen die niet zichtbaar is in het bestand, zoals opmerkingen, metagegevens of verborgen lagen. Het is belangrijk dat gevoelige inhoud en verborgen gegevens permanent worden verwijderd, zodat deze informatie niet wordt doorgegeven bij het publiceren van uw PDF. Dit leerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
 >Alleen beschikbaar in Acrobat Pro.
 
-[!BADGE &#x200B; Organisatorische Gevolgen &#x200B;]
+[!BADGE  Organisatorische Gevolgen ]
 Bescherming van klantgegevens, risicobeheer
 
-## Tekst en afbeeldingen redigeren
+## Informatie redigeren in Acrobat-desktop
 
-1. Selecteer **[!UICONTROL redigeren]** van het [!UICONTROL &#x200B; centrum van Hulpmiddelen &#x200B;] of juist-handruit.
+1. Open een dossier en selecteer **[!UICONTROL Alle hulpmiddelen]** van de toolbar, dan kies **[!UICONTROL redigeren een PDF]**.
+   ![ redigeer Stap 1 ](../assets/Redact_1.png)
 
-   ![&#x200B; redigeer Stap 1 &#x200B;](../assets/Redact_1.png)
+1. Selecteer **[!UICONTROL Vastgestelde eigenschappen]** om de verschijning van uw redacties met inbegrip van de kleur van redactievakken of tekstbekleding aan te passen.
 
-1. Selecteer **[!UICONTROL Tekst &amp; Beelden]** redigeren **>** **[!UICONTROL Eigenschappen]** om de verschijning van uw redacties met inbegrip van kleur van redactievakken of tekstbedekking aan te passen.
+   ![ redigeer Stap 2 ](../assets/Redact_2.png)
 
-   ![&#x200B; redigeer Stap 2 &#x200B;](../assets/Redact_2.png)
+   Als u informatie wilt redigeren, markeert u eerst de onderdelen die u wilt verwijderen en past u de redactie toe. U kunt volledige pagina&#39;s of geselecteerde inhoud redigeren.
 
-Als u informatie wilt redigeren, markeert u eerst de onderdelen die u wilt verwijderen en past u de redactie toe. U kunt volledige pagina&#39;s of geselecteerde inhoud redigeren.
+1. Selecteer **[!UICONTROL redigeren tekst en beelden]** en gebruik de curseur om de inhoud te selecteren om te redigeren.
 
-1. Selecteer **[!UICONTROL pagina&#39;s]** redigeren, dan kies de pagina of paginabereik om te redigeren, en selecteer **[!UICONTROL O.K.]**.
+   ![ redigeer Stap 4 ](../assets/Redact_3.png)
 
-   ![&#x200B; redigeer Stap 4 &#x200B;](../assets/Redact_3.png)
+   U kunt een voorvertoning van de redactie zien door de muisaanwijzer op de geselecteerde inhoud te plaatsen.
 
-U kunt ook de cursor gebruiken om de inhoud te selecteren die u wilt redigeren. U kunt een voorvertoning van de redactie zien door de muisaanwijzer op de geselecteerde inhoud te plaatsen.
+   ![ redigeer Stap 5a ](../assets/Redact_4.png)
 
-   ![&#x200B; redigeer Stap 5a &#x200B;](../assets/Redact_4.png)
+1. Selecteer **[!UICONTROL vinden tekst en redigeren]** aan onderzoek naar een specifiek woord of een uitdrukking, of onderzoek naar een Patroon om bepaalde soorten informatie te vinden. Stel uw zoekopdracht in en selecteer Zoeken en verwijderen.
 
-1. Selecteer **[!UICONTROL Tekst &amp; Beelden]** redigeren **>** **[!UICONTROL Vondst Tekst &amp; redigeren]** om specifieke inhoud te vinden om te redigeren.
+1. In de dialoog van onderzoeksresultaten, controleer de dozen naast de punten en selecteer **[!UICONTROL Markeer gecontroleerde resultaten voor redactie]**.
 
-Gebruik het zoekvak om te zoeken naar een specifiek woord of specifieke woordgroep.
+   ![ redigeer Stap 5b ](../assets/Redact_5.png)
 
-1. Selecteer **[!UICONTROL Patronen]** om bepaalde types te vinden of de informatie, controleert dan de dozen en selecteert **[!UICONTROL Onderzoek &amp; verwijdert Tekst]**.
+1. Selecteer **[!UICONTROL pagina&#39;s]** redigeren om volledige pagina&#39;s voor redactie te merken.
 
-   ![&#x200B; redigeer Stap 5b &#x200B;](../assets/Redact_5.png)
+   ![ redigeer Stap 6 ](../assets/Redact_6.png)
 
-1. Selecteer **[!UICONTROL pas]** in het  hoogste menu van het Redacteren toe om de duidelijke redactiewijzigingen toe te passen en het geredigeerde dossier op te slaan.
+1. Selecteer uw pagina&#39;s en kies **[!UICONTROL OK]**.
 
-   ![&#x200B; redigeer Stap 6 &#x200B;](../assets/Redact_6.png)
+1. Selecteer **[!UICONTROL pas]** in Redact toe een paneel van de PDF om de duidelijke redactieveranderingen toe te passen.
 
-## Document ontsmetten
+   ![ redigeer Stap 6 ](../assets/Redact_7.png)
 
-1. Selecteer **[!UICONTROL Sanitize Document]** in [!UICONTROL &#x200B; redigeren &#x200B;] hoogste menu.
+1. Selecteer **[!UICONTROL ga]** verder om verborgen informatie te ontsmetten en te verwijderen.
 
-1. Selecteer **[!UICONTROL O.K.]** om de verwijdering van verborgen informatie te bevestigen. Of, kies **[!UICONTROL hier]** klikken om verborgen informatie selectief te verwijderen.
+   ![ redigeer Stap 6 ](../assets/Redact_8.png)
 
-   ![&#x200B; opschonen Stap 2 &#x200B;](../assets/Redact_7.png)
-
->[!TIP]
->
->Om het redactieproces te versnellen, controleer de [&#x200B; Action Wizard &#x200B;](../advanced-tasks/action.md).
+Nadat u hebt bevestigd, worden de redactiewijzigingen en de verborgen gegevens definitief verwijderd en opgeslagen in een nieuw bestand.
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken in Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Om het redactieproces te versnellen, controleer de [ Action Wizard ](../advanced-tasks/action.md).
