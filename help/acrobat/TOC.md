@@ -24,7 +24,7 @@ ht-degree: 4%
    + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
    + [Stimuleer teamefficiëntie met PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
    + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
    + [Een PDF maken](getting-started/create-pdf.md)
    + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
@@ -76,11 +76,11 @@ ht-degree: 4%
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
 + AI-gestuurd {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + Acrobat van 60 seconden {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -147,5 +147,5 @@ ht-degree: 4%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
