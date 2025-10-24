@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,21 +21,21 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!BEGINTABS]
 
->[!TAB  wat en waarom van toegankelijke PDF dossiers ]
+>[!TAB  Gescande documenten ]
 
-Leer [&#x200B; wat een toegankelijk dossier van de PDF is en waarom het belangrijk &#x200B;](what-why-accessible-pdf.md) is.
+Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!TAB  creeer een toegankelijke PDF van Word ]
 
-Leer hoe te [&#x200B; een toegankelijk dossier van de PDF van Microsoft Word &#x200B;](create-accessible-from-word.md) creëren.
+Leer hoe te [ een toegankelijk dossier van de PDF van Microsoft Word ](create-accessible-from-word.md) creëren.
 
 >[!TAB  Creeer toegankelijke vormen ]
 
-Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessible-forms.md) in Acrobat.
+Leer hoe te om [ vormen toegankelijk te maken ](create-accessible-forms.md) in Acrobat.
 
 >[!ENDTABS]
 
@@ -74,14 +74,41 @@ Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessibl
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Gescande documenten" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong> Gescande documenten </strong></a>
+    </div>
+    <em> Leer hoe te om gescande documenten toegankelijk te maken in Acrobat Pro </em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Toegankelijke formulieren maken" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong> Creeer toegankelijke vormen </strong></a>
     </div>
-    <em> Leer hoe te om vormen toegankelijk te maken in Acrobat </em>
+    <em> Leer hoe te om vormen toegankelijk te maken in Acrobat Pro </em>
     <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
