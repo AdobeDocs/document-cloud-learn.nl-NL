@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
+source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!TAB  Gescande documenten ]
 
-Leer hoe te om a [&#x200B; gescand document &#x200B;](scanned-documents.md) toegankelijk te maken.
+Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!TAB  creeer een toegankelijke PDF van Word ]
 
-Leer hoe te [&#x200B; een toegankelijk dossier van de PDF van Microsoft Word &#x200B;](create-accessible-from-word.md) creëren.
+Leer hoe te [ een toegankelijk dossier van de PDF van Microsoft Word ](create-accessible-from-word.md) creëren.
 
 >[!TAB  Creeer toegankelijke vormen ]
 
-Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessible-forms.md) in Acrobat.
+Leer hoe te om [ vormen toegankelijk te maken ](create-accessible-forms.md) in Acrobat.
 
 >[!ENDTABS]
 
@@ -60,7 +60,7 @@ Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessibl
     <div>
     <a href="set-up-workspace.md"><strong> opstelling uw werkruimte </strong></a>
     </div>
-    <em> Leer hoe te om alle toegankelijkheidshulpmiddelen bij uw vingertop te zetten helpen het maken van toegankelijke PDF dossiers </em> stroomlijnen
+    <em> Leer hoe te om alle toegankelijkheidshulpmiddelen bij uw vingertoppen te zetten </em>
     <br>
   </td>
   <td>
