@@ -1,51 +1,108 @@
 ---
-title: Scan en OCR
-description: Scans of afbeeldingen van documenten omzetten in doorzoekbare, bewerkbare PDF-bestanden en de kwaliteit van het resulterende bestand aanpassen
+title: Van papier naar PDF
+description: Leer hoe u een papieren document omzet in een slim, doorzoekbaar, bewerkbaar PDF-bestand
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# Scan en OCR
+# Van papier naar PDF
 
-Houd zaken die door scans of beelden van documenten in doorzoekbare, [&#x200B; editable dossiers van de PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}  vooruit te zetten omzetten.
+Leer hoe te (of neem een foto) van een document aftasten en het omzetten in een slim, doorzoekbaar, [ editable dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}. Als je papier omzet in PDF, kun je sneller informatie vinden en toegankelijk maken voor mensen met een handicap. Bovendien kunt u eenvoudig documenten elektronisch delen en samenwerken met anderen door papier om te zetten in PDF.
 
->[!TIP]
->
->Om veelvoudige PDF dossiers OCR, probeer gebruikend de [&#x200B; Action Wizard &#x200B;](../advanced-tasks/action.md).
+## Papier omzetten in een PDF in Acrobat op het bureaublad
 
-1. Selecteer **[!UICONTROL Scannen &amp; OCR]** van het [!UICONTROL &#x200B; centrum van Hulpmiddelen &#x200B;] of juist-handruit.
+1. Open een foto of een gescande afbeelding van een document. Of, creeer een nieuw dossier gebruikend een verbonden scanner of gebruik de vrije [ mobiele app van Adobe Scan ](https://adobescan.app.link/GpBqG8Bkoeb).
 
-   ![&#x200B; Stap 1 van het Aftasten &#x200B;](../assets/Scan_1.png)
+1. Selecteer **[!UICONTROL Alle hulpmiddelen]** van de toolbar en kies **[!UICONTROL Scannen &amp; OCR]** in de linkerruit.
 
-1. Selecteer een bestand.
+   ![ Stap 1 van het Aftasten ](../assets/Scan_1.png)
 
-   Dit bestand kan een foto zijn van een document of een bestand dat al is gescand en dat is gemaakt met een scanner of de mobiele Adobe Scan-app. U kunt ook een document scannen om een nieuw bestand te maken met een aangesloten scanner.
+1. Kies **[!UICONTROL Verbeteren gescande beeld]** of **[!UICONTROL cameralbeeld]** afhankelijk van uw dossiertype verbeteren.
 
-   ![&#x200B; Stap 2 van het Aftasten &#x200B;](../assets/Scan_2.png)
+   ![ Stap 2 van het Aftasten ](../assets/Scan_2.png)
 
-1. Kies **[!UICONTROL Gescand Document]** of **[!UICONTROL Beeld van de Camera]** om het document te verbeteren.
+1. Sleep de handgrepen om paginaranden aan te passen en selecteer **[!UICONTROL Verbeteren]** .
 
-1. Selecteer **[!UICONTROL Verbeteren]** om het beeld schoon te maken.
+   ![ Stap 3 van het Aftasten ](../assets/Scan_3.png)
 
-   ![&#x200B; Stap 3 van het Aftasten &#x200B;](../assets/Scan_3.png)
+   Acrobat wist en rechttrekt automatisch de afbeelding.
 
-   Acrobat herkent automatisch tekst uit gescande documenten.
+1. Selecteer **[!UICONTROL in dit dossier]** en kies **[!UICONTROL herkennen tekst]** om de tekst doorzoekbaar en editable te maken.
 
-1. Selecteer **[!UICONTROL herkennen Tekst]** om tekst op beelddossiers manueel te herkennen.
-
-   ![&#x200B; Stap 4 van het Aftasten &#x200B;](../assets/Scan_4.png)
+   ![ Stap 4 van het Aftasten ](../assets/Scan_4.png)
 
 Het bestand is nu een doorzoekbaar, bewerkbaar PDF-bestand.
 
+## Papier omzetten in een PDF in Acrobat-web
+
+1. Teken binnen aan [ acrobat.adobe.com ](https://acrobat.adobe.com/nl/nl) in browser.
+
+1. Selecteer **[!UICONTROL Bekeerling > herkent tekst met OCR]** van het hoogste menu.
+
+   ![ Stap 5 van het Aftasten ](../assets/Scan_5.png)
+
+1. Kies **[!UICONTROL Uitgezochte dossiers]**, selecteer uw dossier, en kies **[!UICONTROL Open]**.
+
+   ![ Stap 6 van het Aftasten ](../assets/Scan_6.png)
+
+1. Selecteer **[!UICONTROL herkennen tekst]**.
+
+   ![ Stap 7 van het Aftasten ](../assets/Scan_7.png)
+
+   De tekst in het bestand kan nu worden doorzocht en bewerkt.
+
+1. Om de achtergrond te verwijderen selecteer het beeld en kies **[!UICONTROL uitgeven beeld]**.
+
+   ![ Stap 8 van het Aftasten ](../assets/Scan_8.png)
+
+1. Selecteer **[!UICONTROL verwijderen achtergrond]** uit de redacteur van de Adobe Express.
+
+   ![ Stap 9 van het Scannen ](../assets/Scan_9.png)
+
+1. Sleep de handgrepen om paginaranden aan te passen en selecteer **[!UICONTROL Toepassen]**.
+
+   ![ Stap 10 van het Aftasten ](../assets/Scan_10.png)
+
+
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Om veelvoudige PDF dossiers OCR, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md) in Acrobat Pro op de Desktop.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-and-ocr.md">
+      <img alt="Van papier naar PDF" src="../assets/scan.png" />
+    </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong> Papier aan PDF </strong></a>
+    </div>
+    <em> leer hoe te om een document in een slimme, doorzoekbare, editable eigenschap van het het dossierdossier van de PDF te veranderen </em>
+    <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+</tr>
+</table>
