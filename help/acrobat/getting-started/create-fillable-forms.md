@@ -16,6 +16,6 @@ ht-degree: 2%
 
 # Invulbare formulieren maken
 
-Zet een gescand papieren formulier of document dat in InDesign, Microsoft Word, Excel of andere toepassing is gemaakt om in een [ invulbare PDF vorm ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) .
+Zet een gescand papieren formulier of document dat in InDesign, Microsoft Word, Excel of andere toepassing is gemaakt om in een [&#x200B; invulbare PDF vorm &#x200B;](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) .
 
 >[!SLIDE](create-fillable-forms)
