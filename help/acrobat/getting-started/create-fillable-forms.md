@@ -7,37 +7,15 @@ level: Beginner
 jira: KT-6831
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 48443445471d901bea2cbc52cc083a435edbf36b
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '43'
+ht-degree: 2%
 
 ---
 
 # Invulbare formulieren maken
 
-Zet een gescand papieren formulier of document dat is gemaakt in InDesign, Microsoft Word, Excel of een andere toepassing om in een [invulbaar PDF-formulier](https://www.adobe.com/nl/acrobat/online/sign-pdf.html).
+Zet een gescand papieren formulier of document dat in InDesign, Microsoft Word, Excel of andere toepassing is gemaakt om in een [ invulbare PDF vorm ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) .
 
-1. Selecteren **[!UICONTROL Prepare Form]** van de [!UICONTROL Gereedschappen] in het midden of het rechterdeelvenster.
-
-   ![Formulierstap 1](../assets/Form_1.png)
-
-1. Selecteer een bestaand document dat u als formulier wilt gebruiken (bijvoorbeeld een Word-, Excel-, InDesign- of PDF-bestand) en selecteer **Starten**.
-
-   ![Formulierstap 2](../assets/Form_2.png)
-
-   Als [!UICONTROL Automatische detectie van formuliervelden] is **OP**, worden formuliervelden automatisch gedetecteerd in het PDF-bestand. Controleer de plaatsing van de formuliervelden.
-
-   Sleep velden uit het bovenste menu en bewerk de formuliervelddetails in het rechterdeelvenster.
-
-1. Selecteren **[!UICONTROL Voorvertoning]** om uw formulier te bekijken.
-
-   ![Formulierstap 3](../assets/Form_3.png)
-
-1. Selecteren **[!UICONTROL Bewerken]** om verder te werken, of selecteer **[!UICONTROL Bestand]** **>** **[!UICONTROL Opslaan als]** om het PDF-formulier op te slaan.
-
-   ![Formulierstap 4](../assets/Form_4.png)
-
->[!TIP]
->
->Ga dieper in op het bouwen van formulieren met deze [geavanceerde technieken](../advanced-tasks/advancedforms.md).
+>[!SLIDE](create-fillable-forms)
