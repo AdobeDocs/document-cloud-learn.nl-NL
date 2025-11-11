@@ -16,7 +16,7 @@ ht-degree: 1%
 
 # Aan de slag - overzicht
 
-Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [ het uitgeven van uw dossiers van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten. Controle uit dit ervaren [ playlist ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) voor het worden begonnen met Acrobat.
+Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutorials. Van het creëren van een document aan het beschermen van of [&#x200B; het uitgeven van uw dossiers van de PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"}, wordt deze inhoud ontworpen om u in de werkschema&#39;s van de PDF te verlichten. Controle uit dit ervaren [&#x200B; playlist &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) voor het worden begonnen met Acrobat.
 
 ## Nieuw
 
@@ -24,19 +24,19 @@ Leer hoe u Adobe Acrobat kunt gaan gebruiken via deze korte stapsgewijze tutoria
 
 >[!TAB  Papier aan PDF ]
 
-Leer hoe te om [ papieren documenten ](scan-and-ocr.md) in doorzoekbare en editable PDF dossiers om te zetten
+Leer hoe te om [&#x200B; papieren documenten &#x200B;](scan-and-ocr.md) in doorzoekbare en editable PDF dossiers om te zetten
 
 >[!TAB  teamefficiency van de Verhoging met PDF Spaces ]
 
-Zet inzamelingen van dossiers en websites in [ delen, conversationele kennishubs ](pdf-spaces-legal.md) met gepersonaliseerde AI Medewerkers.
+Zet inzamelingen van dossiers en websites in [&#x200B; delen, conversationele kennishubs &#x200B;](pdf-spaces-legal.md) met gepersonaliseerde AI Medewerkers.
 
 >[!TAB  wat is Acrobat Studio?]
 
-Leer hoe te om merk-veilige inhoud te creëren, inzichten te halen, en complex werk met [ Studio van Acrobat te stroomlijnen ](acrobat-studio.md).
+Leer hoe te om merk-veilige inhoud te creëren, inzichten te halen, en complex werk met [&#x200B; Studio van Acrobat te stroomlijnen &#x200B;](acrobat-studio.md).
 
 >[!TAB  Ontdek de inzichten van de PDF met AI Medewerker ]
 
-Leer hoe te [ PDF inzichten ](ai-assistant.md) in uw PDF ontdekken.
+Leer hoe te [&#x200B; PDF inzichten &#x200B;](ai-assistant.md) in uw PDF ontdekken.
 
 >[!ENDTABS]
 
