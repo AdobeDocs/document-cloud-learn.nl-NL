@@ -22,21 +22,21 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!BEGINTABS]
 
->[!TAB  Elektronisch een document ] ondertekenen
+>[!TAB Elektronisch een document  ondertekenen]
 
-Leer hoe gemakkelijk het [ ](../sign-beginner-tutorials/electronically-sign-a-document.md) een document te ondertekenen dat naar u met Acrobat Sign wordt verzonden.
+Leer hoe gemakkelijk het [&#x200B; &#x200B;](../sign-beginner-tutorials/electronically-sign-a-document.md) een document te ondertekenen dat naar u met Acrobat Sign wordt verzonden.
 
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
 
 >[!TAB  vorm verzend opties ]
 
-Leer hoe te [ diverse opties ](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
+Leer hoe te [&#x200B; diverse opties &#x200B;](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
 
 >[!TAB  verzend naar veelvoudige ondertekenaars ]
 
-Leer hoe te om een document voor e-handtekening naar [ meer dan één persoon ](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
+Leer hoe te om een document voor e-handtekening naar [&#x200B; meer dan één persoon &#x200B;](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
 
 >[!ENDTABS]
 
