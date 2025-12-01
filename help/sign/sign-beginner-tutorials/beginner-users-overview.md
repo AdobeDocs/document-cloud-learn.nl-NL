@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -22,25 +22,21 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!BEGINTABS]
 
+>[!TAB  Elektronisch een document ] ondertekenen
+
+Leer hoe gemakkelijk het [ ](../sign-beginner-tutorials/electronically-sign-a-document.md) een document te ondertekenen dat naar u met Acrobat Sign wordt verzonden.
+
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
 
 >[!TAB  vorm verzend opties ]
 
-Leer hoe te [&#x200B; diverse opties &#x200B;](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
+Leer hoe te [ diverse opties ](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
 
 >[!TAB  verzend naar veelvoudige ondertekenaars ]
 
-Leer hoe te om een document voor e-handtekening naar [&#x200B; meer dan één persoon &#x200B;](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
-
->[!TAB  verzend een document naar één enkele ondertekenaar ]
-
-Ga binnen en leer hoe gemakkelijk het [&#x200B; een document uit voor handtekening &#x200B;](send-to-single-recipient.md) moet verzenden.
-
->[!TAB  begin met Acrobat Sign ]
-
-Bent u nog niet eerder met Acrobat Sign begonnen? Dit [&#x200B; leerprogramma &#x200B;](new-sender.md) is een grote plaats om te beginnen.
+Leer hoe te om een document voor e-handtekening naar [ meer dan één persoon ](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
 
 >[!ENDTABS]
 
@@ -70,7 +66,7 @@ Bent u nog niet eerder met Acrobat Sign begonnen? Dit [&#x200B; leerprogramma &#
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Een document naar één ondertekenaar verzenden" src="../assets/send-single-recipient.png" />
+      <img alt="Een document naar één ondertekenaar sturen" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong> verzend een document naar één enkele ondertekenaar </strong></a>
@@ -80,7 +76,7 @@ Bent u nog niet eerder met Acrobat Sign begonnen? Dit [&#x200B; leerprogramma &#
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Verzenden naar meerdere ondertekenaars" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Versturen naar meerdere ondertekenaars" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong> verzend naar veelvoudige ondertekenaars </strong></a>
@@ -250,7 +246,7 @@ Bent u nog niet eerder met Acrobat Sign begonnen? Dit [&#x200B; leerprogramma &#
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Uw overeenkomsten beheren en volgen" src="../assets/manage-track.png" />
+      <img alt="Uw overeenkomsten beheren en bijhouden" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong> beheer en volg uw overeenkomsten </strong></a>
