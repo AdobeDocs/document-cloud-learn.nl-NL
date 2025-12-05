@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Handelingen met instructies
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe u met één klik een of meer opdrachten kunt uitvoeren op meerdere documenten, zodat u tijd en toetsaanslagen bespaart. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](../getting-started/new-workspace.md).
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe u met één klik een of meer opdrachten kunt uitvoeren op meerdere documenten, zodat u tijd en toetsaanslagen bespaart. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
@@ -26,4 +26,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken in Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!

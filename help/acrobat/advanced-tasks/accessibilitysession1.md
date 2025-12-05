@@ -18,8 +18,8 @@ ht-degree: 0%
 
 In deze sessie leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro (Premium of Studio) instelt om aan PDF te werken voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF wijzigt.
 
-Klik [ hier ](../assets/accessibilitysession1.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
+Klik [&#x200B; hier &#x200B;](../assets/accessibilitysession1.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![ Sessie 1 Video ](../assets/Accessibilitysession1_YT.png) ](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![&#x200B; Sessie 1 Video &#x200B;](../assets/Accessibilitysession1_YT.png) &#x200B;](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

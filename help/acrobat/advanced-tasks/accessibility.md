@@ -27,11 +27,11 @@ Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen
 
 1. Selecteer **[!UICONTROL Toegankelijkheid]** van het centrum van Hulpmiddelen of juist ruit.
 
-   ![ Stap 1 van de Toegankelijkheid ](../assets/Accessibility_1.png)
+   ![&#x200B; Stap 1 van de Toegankelijkheid &#x200B;](../assets/Accessibility_1.png)
 
 1. Selecteer **[!UICONTROL Controle van de Toegankelijkheid]** in de juiste ruit.
 
-   ![ Stap 2 van de Toegankelijkheid ](../assets/Accessibility_2.png)
+   ![&#x200B; Stap 2 van de Toegankelijkheid &#x200B;](../assets/Accessibility_2.png)
 
 1. Selecteer een categorie in de vervolgkeuzelijst en items in de controlelijst.
 
@@ -39,13 +39,13 @@ Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen
 
 1. Selecteer **[!UICONTROL Controle van het Begin]** om met het rapport te beginnen.
 
-   ![ Stap 3 van de Toegankelijkheid ](../assets/Accessibility_3.png)
+   ![&#x200B; Stap 3 van de Toegankelijkheid &#x200B;](../assets/Accessibility_3.png)
 
    Het linkernavigatievenster wordt geopend om de rapportresultaten weer te geven. Vouw een sectie uit om de details weer te geven.
 
-   ![ Stap 4 van de Toegankelijkheid ](../assets/Accessibility_4.png)
+   ![&#x200B; Stap 4 van de Toegankelijkheid &#x200B;](../assets/Accessibility_4.png)
 
-U kunt ook gebruiken [!UICONTROL  Toegankelijke ] actie in het [ hulpmiddel van de Action Wizard ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) maken, dat door een basisreeks stappen loopt om een toegankelijke PDF tot stand te brengen.
+U kunt ook gebruiken [!UICONTROL &#x200B; Toegankelijke &#x200B;] actie in het [&#x200B; hulpmiddel van de Action Wizard &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) maken, dat door een basisreeks stappen loopt om een toegankelijke PDF tot stand te brengen.
 
 ## Toegankelijkheidsproblemen oplossen
 

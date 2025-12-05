@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Acrobat Accessibility-reeks
 
-![ de reeksbeeld van de Toegankelijkheid van Acrobat ](../assets/Hero_Accessibility.png)
+![&#x200B; de reeksbeeld van de Toegankelijkheid van Acrobat &#x200B;](../assets/Hero_Accessibility.png)
 
 In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid naar een diepgaande duik van het etiketteren van uw PDF dossiers. Elke sessie bevat oefenbestanden om mee te doen.
 

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 In deze sessie op aanvraag leert u hoe u een Word-document kunt converteren en hoe u een aantal basiscoderingsproblemen kunt verhelpen met de Acrobat Pro-tools (Premium of Studio) die in de inleiding van het webinar worden getoond.
 
-Klik [ hier ](../assets/accessibilitysession2.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
+Klik [&#x200B; hier &#x200B;](../assets/accessibilitysession2.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![ Sessie 2 Video ](../assets/Accessibilitysession2_YT.png) ](https://youtu.be/eT2IFNszNuk){target="_blank"}
+[![&#x200B; Sessie 2 Video &#x200B;](../assets/Accessibilitysession2_YT.png) &#x200B;](https://youtu.be/eT2IFNszNuk){target="_blank"}
