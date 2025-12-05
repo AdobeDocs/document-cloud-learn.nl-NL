@@ -6,19 +6,19 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Gescande documenten
 
-Leer hoe u gescande documenten toegankelijk maakt in Acrobat Pro. Gescande PDF kan lastig zijn — maar met de juiste tools en technieken kun je ze leesbaar en toegankelijk maken.
+Leer hoe u gescande documenten toegankelijk maakt in Acrobat. Gescande PDF kan lastig zijn — maar met de juiste tools en technieken kun je ze leesbaar en toegankelijk maken.
 
 >[!NOTE]
 >
->Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro.
+>Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476240?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)

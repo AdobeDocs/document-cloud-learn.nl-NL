@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,31 +21,31 @@ Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen
 
 >[!NOTE]
 >
->Alleen beschikbaar in Acrobat Pro.
+>Alleen beschikbaar in Acrobat Pro, Premium of Studio.
 
 ## Toegankelijkheidscontrole
 
-1. Selecteren **[!UICONTROL Toegankelijkheid]** in het gereedschappencentrum of het rechterdeelvenster.
+1. Selecteer **[!UICONTROL Toegankelijkheid]** van het centrum van Hulpmiddelen of juist ruit.
 
-   ![Toegankelijkheidsstap 1](../assets/Accessibility_1.png)
+   ![ Stap 1 van de Toegankelijkheid ](../assets/Accessibility_1.png)
 
-1. Selecteren **[!UICONTROL Toegankelijkheidscontrole]** in het rechterdeelvenster.
+1. Selecteer **[!UICONTROL Controle van de Toegankelijkheid]** in de juiste ruit.
 
-   ![Toegankelijkheidsstap 2](../assets/Accessibility_2.png)
+   ![ Stap 2 van de Toegankelijkheid ](../assets/Accessibility_2.png)
 
 1. Selecteer een categorie in de vervolgkeuzelijst en items in de controlelijst.
 
    Laat elk vakje ingeschakeld voor een volledig rapport.
 
-1. Selecteren **[!UICONTROL Controle starten]** om te beginnen met het verslag.
+1. Selecteer **[!UICONTROL Controle van het Begin]** om met het rapport te beginnen.
 
-   ![Toegankelijkheidsstap 3](../assets/Accessibility_3.png)
+   ![ Stap 3 van de Toegankelijkheid ](../assets/Accessibility_3.png)
 
    Het linkernavigatievenster wordt geopend om de rapportresultaten weer te geven. Vouw een sectie uit om de details weer te geven.
 
-   ![Toegankelijkheidsstap 4](../assets/Accessibility_4.png)
+   ![ Stap 4 van de Toegankelijkheid ](../assets/Accessibility_4.png)
 
-U kunt ook de opdracht [!UICONTROL Toegankelijk maken] in de [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=nl-NL) een standaardset stappen doorloopt om een toegankelijke PDF te maken.
+U kunt ook gebruiken [!UICONTROL  Toegankelijke ] actie in het [ hulpmiddel van de Action Wizard ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) maken, dat door een basisreeks stappen loopt om een toegankelijke PDF tot stand te brengen.
 
 ## Toegankelijkheidsproblemen oplossen
 

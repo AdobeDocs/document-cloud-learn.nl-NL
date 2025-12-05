@@ -7,16 +7,16 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
 # Acrobat Accessibility-reeks
 
-![Acrobat Accessibility Series Image](../assets/Hero_Accessibility.png)
+![ de reeksbeeld van de Toegankelijkheid van Acrobat ](../assets/Hero_Accessibility.png)
 
 In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid naar een diepgaande duik van het etiketteren van uw PDF dossiers. Elke sessie bevat oefenbestanden om mee te doen.
 
@@ -27,9 +27,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Inleiding tot toegankelijkheid PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>Inleiding tot toegankelijkheid PDF</strong></a>
+    <a href="accessibilitysession1.md"><strong> Inleiding aan de Toegankelijkheid van de PDF </strong></a>
     </div>
-    <em>In deze sessie op aanvraag leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro instelt om te werken aan PDF voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF doorvoert</em>
+    <em> in deze zitting op bestelling, leer wat het betekent om een PDF toegankelijk te maken, hoe te opstelling Acrobat Pro (Premium of Studio) om aan PDF voor toegankelijkheid te werken, en het omzettingsproces van een brondocument aan een PDF </em>
     <br>
   </td>
   <td>
@@ -37,9 +37,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Een ontoegankelijke PDF herstellen" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Een ontoegankelijke PDF herstellen</strong></a>
+    <a href="accessibilitysession2.md"><strong> die een ontoegankelijke PDF </strong></a> verhelpt
     </div>
-    <em>Leer in deze sessie op aanvraag de workflow voor het converteren van een Word-document en het oplossen van enkele basiscoderingsproblemen met de Acrobat Pro-tools die in de inleiding van het webinar worden getoond</em>
+    <em> in deze zitting op bestelling, leer het werkschema om een document van Word om te zetten en sommige fundamentele het etiketteren kwesties te bevestigen gebruikend de hulpmiddelen van Acrobat Pro (Premium of Studio) die in Introductiewebinar worden getoond </em>
     <br>
   </td>  
   <td>
@@ -47,9 +47,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Complexe tabellen" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>Complexe tabellen</strong></a>
+    <a href="accessibilitysession3.md"><strong> Complexe lijsten </strong></a>
     </div>
-    <em>Deze on-demand sessie behandelt een van de meer voorkomende en uitdagende problemen bij het oplossen van een PDF voor toegankelijkheid: complexe tabellen</em>
+    <em> Deze zitting op bestelling richt één van de gemeenschappelijkere en uitdagende kwesties in het oplossen van een PDF voor toegankelijkheid-complexe lijsten </em>
     <br>
   </td>
 </tr>
@@ -59,9 +59,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Gescande documenten en complexe lijsten" src="../assets/Accessibilitysession4_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession4.md"><strong>Gescande documenten en complexe lijsten</strong></a>
+    <a href="accessibilitysession4.md"><strong> Gescande documenten &amp; complexe lijsten </strong></a>
     </div>
-    <em>Deze on-demand-sessie behandelt de complexere problemen die mensen vaak tegenkomen, zoals gescande documenten en complexe lijsten</em>
+    <em> Deze zitting op bestelling richt de complexere kwesties die mensen vaak in zoals gescande documenten en complexe lijsten lopen </em>
     <br>
   </td>
   <td>
@@ -69,9 +69,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Formuliervelden toevoegen aan een gecodeerde PDF" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>Formuliervelden toevoegen aan een gecodeerde PDF</strong></a>
+    <a href="accessibilitysession5.md"><strong> Toevoegend vormgebieden aan een geëtiketteerde PDF </strong></a>
     </div>
-    <em>Deze sessie op verzoek is gericht op het toevoegen van formuliervelden aan een eerder gecodeerde PDF</em>
+    <em> Deze zitting op bestelling concentreert zich bij het toevoegen van vormgebieden aan een eerder geëtiketteerde PDF </em>
     <br>
   </td>  
   <td>
@@ -79,9 +79,9 @@ In deze zes-delige webinarseries, ga van de grondbeginselen van Toegankelijkheid
       <img alt="Formuliervelden toevoegen aan een niet-gecodeerde PDF" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Formuliervelden toevoegen aan een PDF zonder codes</strong></a>
+    <a href="accessibilitysession6.md"><strong> Toevoegend vormGebieden aan untagged PDF </strong></a>
     </div>
-    <em>Deze sessie op verzoek gaat dieper in op het maken van handmatige formuliervelden en aanvullende eigenschappen voor formuliervelden</em>
+    <em> Deze zitting op bestelling gaat dieper in het creëren van handvormgebieden en extra eigenschappen van het vormgebied </em>
     <br>
   </td> 
 </tr>

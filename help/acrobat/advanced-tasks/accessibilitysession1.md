@@ -7,19 +7,19 @@ level: Experienced
 jira: KT-8606
 thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Inleiding tot toegankelijkheid PDF
 
-In deze sessie leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro instelt om te werken aan PDF voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF wijzigt.
+In deze sessie leert u wat het betekent om een PDF toegankelijk te maken, hoe u Acrobat Pro (Premium of Studio) instelt om aan PDF te werken voor toegankelijkheid en hoe u het conversieproces van een brondocument naar een PDF wijzigt.
 
-Klikken [hier](../assets/accessibilitysession1.zip) om een ZIP-map met de hands-on sessiebestanden te downloaden.
+Klik [ hier ](../assets/accessibilitysession1.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Video sessie 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}
+[![ Sessie 1 Video ](../assets/Accessibilitysession1_YT.png) ](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

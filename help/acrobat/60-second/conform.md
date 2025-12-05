@@ -5,10 +5,10 @@ feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287
-exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: ea0645d9-d0c4-4256-8a17-87fc8839a087
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Alleen beschikbaar in Acrobat Pro.
+>Alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
 In deze videozelfstudie van 60 seconden leert u hoe u PDF-inhoud kunt valideren aan de hand van standaardcriteria voor PDF, zoals PDF/X, PDF/A of PDF/E.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437297?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)

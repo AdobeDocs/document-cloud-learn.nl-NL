@@ -7,19 +7,19 @@ level: Experienced
 jira: KT-8609
 thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Een ontoegankelijke PDF herstellen
 
-In deze sessie op aanvraag leert u hoe u een Word-document kunt converteren en hoe u een aantal basiscoderingsproblemen kunt verhelpen met de Acrobat Pro-gereedschappen die in het inleidende webinar worden getoond.
+In deze sessie op aanvraag leert u hoe u een Word-document kunt converteren en hoe u een aantal basiscoderingsproblemen kunt verhelpen met de Acrobat Pro-tools (Premium of Studio) die in de inleiding van het webinar worden getoond.
 
-Klikken [hier](../assets/accessibilitysession2.zip) om een ZIP-map met de hands-on sessiebestanden te downloaden.
+Klik [ hier ](../assets/accessibilitysession2.zip) om een postomslag van de hands-on zittingsdossiers te downloaden.
 
 Selecteer de afbeelding om de video weer te geven op een apart tabblad in de browser.
 
-[![Video sessie 2](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}
+[![ Sessie 2 Video ](../assets/Accessibilitysession2_YT.png) ](https://youtu.be/eT2IFNszNuk){target="_blank"}

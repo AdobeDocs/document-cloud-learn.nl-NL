@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 5%
@@ -108,7 +108,7 @@ Acrobat Sign, een Adobe Document Cloud-oplossing, wordt geschaald om aan de beho
     <div>
     <a href="deploy-overview.md"><strong> stel </strong></a> op
     </div>
-    Inzicht en best practices voor het implementeren van Acrobat Sign binnen je organisatie
+    Inzicht en best practices voor het implementeren van Acrobat Sign binnen uw organisatie
     <br>
   </td>
 </tr>
