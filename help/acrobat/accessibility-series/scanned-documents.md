@@ -21,4 +21,4 @@ Leer hoe u gescande documenten toegankelijk maakt in Acrobat. Gescande PDF kan l
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476240?captions=dut&quality=12&learn=on&hidetitle=true)

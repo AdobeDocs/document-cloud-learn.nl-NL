@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In deze videozelfstudie van 60 seconden leert u hoe u PDF-inhoud kunt valideren aan de hand van standaardcriteria voor PDF, zoals PDF/X, PDF/A of PDF/E.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437297?captions=dut&quality=12&learn=on&hidetitle=true)
