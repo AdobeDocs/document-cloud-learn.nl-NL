@@ -45,7 +45,7 @@ Leer hoe je kunt controleren of je PDF voor iedereen toegankelijk is voor mensen
 
    ![&#x200B; Stap 4 van de Toegankelijkheid &#x200B;](../assets/Accessibility_4.png)
 
-U kunt ook gebruiken [!UICONTROL &#x200B; Toegankelijke &#x200B;] actie in het [&#x200B; hulpmiddel van de Action Wizard &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) maken, dat door een basisreeks stappen loopt om een toegankelijke PDF tot stand te brengen.
+U kunt ook gebruiken [!UICONTROL &#x200B; Toegankelijke &#x200B;] actie in het [&#x200B; hulpmiddel van de Action Wizard &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=nl-NL) maken, dat door een basisreeks stappen loopt om een toegankelijke PDF tot stand te brengen.
 
 ## Toegankelijkheidsproblemen oplossen
 
