@@ -18,4 +18,4 @@ ht-degree: 30%
 
 Leer hoe eenvoudig het is om een document te ondertekenen dat met Acrobat Sign naar u is verzonden. Controle uit dit [&#x200B; leerprogramma &#x200B;](../mobile/sign-mobile.md) om te leren hoe Sign documenten gebruikend de mobiele app van Acrobat Sign voor [&#x200B; iOS &#x200B;](https://apps.apple.com/nl/app/adobe-sign/id481082197) of [&#x200B; Android &#x200B;](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=nl) gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477286?captions=dut&quality=12&learn=on&hidetitle=true)

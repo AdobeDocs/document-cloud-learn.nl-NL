@@ -22,4 +22,4 @@ Leer hoe u de ondertekeningsvolgorde instelt voor meerdere ondertekenaars. Een d
 >
 >Het hybride verpletteren is slechts beschikbaar voor onderneming-vlakke plannen. Uw Acrobat Sign-beheerder moet deze functies mogelijk inschakelen in het gedeelte Verzendinstellingen van de accountinstellingen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477311?captions=dut&quality=12&learn=on&hidetitle=true)

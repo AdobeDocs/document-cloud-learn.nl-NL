@@ -23,7 +23,7 @@ Leer hoe je honderden handtekeningen verzendt en verzamelt (tot 1000 ontvangers 
 * [&#x200B; overeenkomst van het OverzichtWerk &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=nl-NL)
 * [&#x200B; Overeenkomst van het Beleid &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=nl-NL)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477304?captions=dut&quality=12&learn=on&hidetitle=true)
 
 [&#x200B; Van de Download steekproefCSV dossier in het formaat van het PIT &#x200B;](../assets/sendInBulkSample.zip). Leer over alle waarden u in uw Csv- dossier [&#x200B; hier &#x200B;](https://helpx.adobe.com/nl/sign/adv-user/send-in-bulk/send-with-csv.html) kunt plaatsen.
 

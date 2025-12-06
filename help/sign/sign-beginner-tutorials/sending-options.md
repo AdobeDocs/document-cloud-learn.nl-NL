@@ -22,4 +22,4 @@ Leer hoe u de overeenkomstdetails kunt aanpassen, bestanden kunt koppelen en ext
 >
 >Uw beheerder heeft de verzendopties mogelijk aangepast. De opties die u ziet, kunnen dus afwijken van de opties die in deze zelfstudie worden weergegeven.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475409?captions=dut&quality=12&learn=on&hidetitle=true)
