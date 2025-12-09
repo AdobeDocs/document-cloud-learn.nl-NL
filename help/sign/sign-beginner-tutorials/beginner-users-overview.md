@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -22,21 +22,21 @@ Met deze korte, stapsgewijze tutorials leer je hoe je documenten verzendt, onder
 
 >[!BEGINTABS]
 
->[!TAB Elektronisch een document  ondertekenen]
+>[!TAB  beheer en volg overeenkomsten ]
 
-Leer hoe gemakkelijk het [&#x200B; &#x200B;](../sign-beginner-tutorials/electronically-sign-a-document.md) een document te ondertekenen dat naar u met Acrobat Sign wordt verzonden.
+Leer hoe te [ overeenkomsten ](../sign-beginner-tutorials/manage-and-track.md) te beheren en te volgen die voor ondertekening worden verzonden.
+
+>[!TAB  Elektronisch een document ] ondertekenen
+
+Leer hoe gemakkelijk het [ ](../sign-beginner-tutorials/electronically-sign-a-document.md) een document te ondertekenen dat naar u met Acrobat Sign wordt verzonden.
 
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
 
 >[!TAB  vorm verzend opties ]
 
-Leer hoe te [&#x200B; diverse opties &#x200B;](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
-
->[!TAB  verzend naar veelvoudige ondertekenaars ]
-
-Leer hoe te om een document voor e-handtekening naar [&#x200B; meer dan één persoon &#x200B;](send-to-multiple-recipients.md) in precies de orde te verzenden u wilt.
+Leer hoe te [ diverse opties ](sending-options.md) vormen wanneer het verzenden van een document uit voor handtekening.
 
 >[!ENDTABS]
 

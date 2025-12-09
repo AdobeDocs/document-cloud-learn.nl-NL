@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a060df1f8cf17d4b7639153ec80393cf9395916c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Leer hoe u documenten die ter ondertekening zijn verzonden in Acrobat Sign beheert en bijhoudt. Krijg real-time statusupdates en meldingen voor elk document dat je ondertekent of verzendt ter ondertekening.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477315?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; die met Acrobat Sign &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ die met Acrobat Sign ](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) wordt begonnen die voor vrij op Experience League beschikbaar is!
