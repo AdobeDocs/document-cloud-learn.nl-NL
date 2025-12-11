@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -21,21 +21,21 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!BEGINTABS]
 
+>[!TAB  Complexe lijsten ]
+
+Leer hoe te om [ complexe lijsten ](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
+
 >[!TAB  Gescande documenten ]
 
-Leer hoe te om a [&#x200B; gescand document &#x200B;](scanned-documents.md) toegankelijk te maken.
+Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!TAB  creeer een toegankelijke PDF van Word ]
 
-Leer hoe te [&#x200B; een toegankelijk dossier van de PDF van Microsoft Word &#x200B;](create-accessible-from-word.md) creëren.
-
->[!TAB  Creeer toegankelijke vormen ]
-
-Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessible-forms.md) in Acrobat.
+Leer hoe te [ een toegankelijk dossier van de PDF van Microsoft Word ](create-accessible-from-word.md) creëren.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Leer hoe te om [&#x200B; vormen toegankelijk te maken &#x200B;](create-accessibl
     <br>
   </td>
   <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Complexe lijsten" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong> Complexe lijsten </strong></a>
+    </div>
+    <em> Leer hoe te om complexe lijsten voor toegankelijkheid in Acrobat te etiketteren </em>
+    <br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Grayspacer.png" />
