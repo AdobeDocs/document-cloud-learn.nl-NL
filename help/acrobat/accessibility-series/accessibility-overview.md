@@ -23,19 +23,19 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!TAB  Complexe lijsten ]
 
-Leer hoe te om [ complexe lijsten ](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
+Leer hoe te om [&#x200B; complexe lijsten &#x200B;](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
 
 >[!TAB  Gescande documenten ]
 
-Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
+Leer hoe te om a [&#x200B; gescand document &#x200B;](scanned-documents.md) toegankelijk te maken.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!TAB  creeer een toegankelijke PDF van Word ]
 
-Leer hoe te [ een toegankelijk dossier van de PDF van Microsoft Word ](create-accessible-from-word.md) creëren.
+Leer hoe te [&#x200B; een toegankelijk dossier van de PDF van Microsoft Word &#x200B;](create-accessible-from-word.md) creëren.
 
 >[!ENDTABS]
 
