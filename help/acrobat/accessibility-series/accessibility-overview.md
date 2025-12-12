@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -23,19 +23,19 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!TAB  de grondbeginselen van het etiketteren ]
 
-Leer de grondbeginselen van hoe te om [&#x200B; een PDF &#x200B;](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
+Leer de grondbeginselen van hoe te om [ een PDF ](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
 
 >[!TAB  Complexe lijsten ]
 
-Leer hoe te om [&#x200B; complexe lijsten &#x200B;](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
+Leer hoe te om [ complexe lijsten ](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
 
 >[!TAB  Gescande documenten ]
 
-Leer hoe te om a [&#x200B; gescand document &#x200B;](scanned-documents.md) toegankelijk te maken.
+Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
 
 >[!TAB  opstelling uw werkruimte ]
 
-Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te [ opstelling uw werkruimte ](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
 
 >[!ENDTABS]
 
@@ -78,7 +78,7 @@ Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) he
       <img alt="Basisbeginselen van tags" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong> de grondbeginselen van het etiketteren"</strong></a>
+    <a href="basics-tagging.md"><strong> de grondbeginselen van het etiketteren </strong></a>
     </div>
     <em> leer de grondbeginselen van hoe te om een dossier van de PDF te etiketteren om het toegankelijk te maken </em>
     <br>
