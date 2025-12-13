@@ -21,4 +21,4 @@ Leer hoe u complexe lijsten kunt labelen voor toegankelijkheid in Acrobat. Compl
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477837?captions=dut&quality=12&learn=on&hidetitle=true)

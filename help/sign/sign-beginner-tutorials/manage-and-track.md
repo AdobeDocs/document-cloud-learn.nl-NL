@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u documenten die ter ondertekening zijn verzonden in Acrobat Sign beheert en bijhoudt. Krijg real-time statusupdates en meldingen voor elk document dat je ondertekent of verzendt ter ondertekening.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436624?captions=dut&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
