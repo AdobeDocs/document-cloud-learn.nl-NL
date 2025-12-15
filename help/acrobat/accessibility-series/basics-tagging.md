@@ -21,4 +21,4 @@ Leer de grondbeginselen van hoe u een PDF-bestand kunt labelen om het toegankeli
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477888?captions=dut&quality=12&learn=on&hidetitle=true)
