@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,21 +21,21 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!BEGINTABS]
 
+>[!TAB  creeer een toegankelijke PDF in Acrobat ]
+
+Leer hoe te om een [ toegankelijke PDF te creëren die in Acrobat ](accessible-acrobat.md) begint.
+
 >[!TAB  de grondbeginselen van het etiketteren ]
 
-Leer de grondbeginselen van hoe te om [&#x200B; een PDF &#x200B;](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
+Leer de grondbeginselen van hoe te om [ een PDF ](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
 
 >[!TAB  Complexe lijsten ]
 
-Leer hoe te om [&#x200B; complexe lijsten &#x200B;](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
+Leer hoe te om [ complexe lijsten ](complex-lists.md) voor toegankelijkheid in Acrobat te etiketteren.
 
 >[!TAB  Gescande documenten ]
 
-Leer hoe te om a [&#x200B; gescand document &#x200B;](scanned-documents.md) toegankelijk te maken.
-
->[!TAB  opstelling uw werkruimte ]
-
-Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) helpen het maken van toegankelijke PDF dossiers stroomlijnen.
+Leer hoe te om a [ gescand document ](scanned-documents.md) toegankelijk te maken.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) he
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Een toegankelijke PDF maken in Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong> creeer een toegankelijke PDF in Acrobat </strong></a>
+    </div>
+    <em> Leer hoe te om tot een toegankelijke PDF te leiden die in Acrobat </em> begint
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="Basisbeginselen van tags" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) he
     <em> leer de grondbeginselen van hoe te om een dossier van de PDF te etiketteren om het toegankelijk te maken </em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Gescande documenten" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) he
     <em> Leer hoe te om vormen toegankelijk te maken in Acrobat </em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Complexe lijsten" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Leer hoe te [&#x200B; opstelling uw werkruimte &#x200B;](set-up-workspace.md) he
     </div>
     <em> Leer hoe te om complexe lijsten voor toegankelijkheid in Acrobat te etiketteren </em>
     <br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
