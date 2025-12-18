@@ -20,10 +20,10 @@ Leer hoe u aangepaste workflows kunt maken en gebruiken om het maken en verzende
 
 [!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 
-* [&#x200B; het werkschema van de Douane voor het proces van onderwijsIEP &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [&#x200B; het werkschema van de Douane voor het proces van onderwijsIEP &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=nl-NL)
 Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van een IEP-proces (Individalized Education Program)
-* [&#x200B; de Contracten van de Overheid en Forms van de Verzoek &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [&#x200B; Commerciële Contracten en de Vereiste Forms &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [&#x200B; de Contracten van de Overheid en Forms van de Verzoek &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=nl-NL)
+* [&#x200B; Commerciële Contracten en de Vereiste Forms &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=nl-NL)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Leer hoe de Custom Workflow Designer wordt gebruikt voor het digitaliseren van e
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; die met Acrobat Sign voor beheerders &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; die met Acrobat Sign voor beheerders &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-sign-get-started-administrators) wordt begonnen die voor vrij op Experience League beschikbaar is!
