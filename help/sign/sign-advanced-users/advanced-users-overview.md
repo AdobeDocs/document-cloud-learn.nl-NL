@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -22,13 +22,17 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 >[!BEGINTABS]
 
+>[!TAB  Bouw een douanewerkschema ]
+
+
+
 >[!TAB  verzend in bulk ]
 
-Leer hoe te [&#x200B; duizenden &#x200B;](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
+Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
 
 >[!TAB  methodes van de Authentificatie in Acrobat Sign ]
 
-Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
 
 >[!ENDTABS]
 
@@ -67,38 +71,6 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Verificatiemethoden in Acrobat Sign" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong> methodes van de Authentificatie in Acrobat Sign </strong></a>
-    </div>
-    <em> Leer over de waaier van identiteitsauthentificatiemethodes beschikbaar in Acrobat Sign </em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="Formuliergegevens beheren" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong> beheer vormgegevens </strong></a>
-      </div>
-      <em> Leer hoe te om vormgegevens van uw documenten te consolideren </em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="Online betalingen instellen" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong> Opstelling online betalingen </strong></a>
-    </div>
-    <em> Leer hoe te opstelling en online betalingen in uw documenten goed te keuren </em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="In bulk verzenden" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
       <em> verzamel honderden handtekeningen onmiddellijk voor om het even welk document in enkel een paar korte stappen </em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="Een webformulier maken" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
       <a href="webform.md"><strong> Creërend een Webvorm </strong></a>
       </div>
       <em> Leer hoe te om een document tot stand te brengen dat elektronisch op uw website kan worden ondertekend </em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="Een aangepaste workflow maken" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong> Bouw een douanewerkschema </strong></a>
+      </div>
+      <em> Leer om douaneworkflows tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden </em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="Online betalingen instellen" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong> Opstelling online betalingen </strong></a>
+      </div>
+      <em> Leer hoe te opstelling en online betalingen in uw documenten goed te keuren </em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Verificatiemethoden in Acrobat Sign" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong> methodes van de Authentificatie in Acrobat Sign </strong></a>
+      </div>
+      <em> Leer over de waaier van identiteitsauthentificatiemethodes beschikbaar in Acrobat Sign </em>
       <br>
   </td>
 </tr>
@@ -197,5 +201,32 @@ Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#128279;](auth
     <em> Leer hoe te, gegevens van een Webvorm te volgen te beheren en uit te voeren </em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="Formuliergegevens beheren" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong> beheer vormgegevens </strong></a>
+      </div>
+      <em> Leer hoe te om vormgegevens van uw documenten te consolideren </em>
+      <br>
+    </td>
+    <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

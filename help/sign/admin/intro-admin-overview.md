@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -23,21 +23,21 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!BEGINTABS]
 
+>[!TAB  Bouw een douanewerkschema ]
+
+Leer hoe te om [ douanewerkschema&#39;s ](building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
+
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
 
->[!TAB laat automatische gebruikerstoewijzingsregels  toe]
+>[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
 
-Leer hoe te opstelling [&#x200B; automatische toewijzingsregels &#x200B;](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
+Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
 
 >[!TAB  Migreer de malplaatjes van het Document ]
 
-Leer hoe te om naadloos [&#x200B; de malplaatjes van het Document &#x200B;](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
-
->[!TAB voeg een nieuwe gebruiker  toe]
-
-Leer hoe te [&#x200B; nieuwe gebruikers aan Acrobat Sign &#x200B;](add-users-to-your-account.md) toevoegen.
+Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
 >[!ENDTABS]
 
@@ -203,12 +203,12 @@ Leer hoe te [&#x200B; nieuwe gebruikers aan Acrobat Sign &#x200B;](add-users-to-
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Een workflow instellen" src="../assets/workflow.png" />
+      <img alt="Een aangepaste workflow maken" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong> Vestiging een werkschema </strong></a>
+    <a href="building-a-custom-workflow.md"><strong> Bouw een douanewerkschema </strong></a>
     </div>
-    <em> automatiseer documentworkflows om elektronische handtekeningen en gegevens snel te krijgen </em>
+    <em> Leer om douaneworkflows tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden </em>
     <br>
   </td>
 </tr>
