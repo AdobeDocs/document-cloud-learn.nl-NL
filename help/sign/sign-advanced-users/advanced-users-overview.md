@@ -28,11 +28,11 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 >[!TAB  verzend in bulk ]
 
-Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
+Leer hoe te [&#x200B; duizenden &#x200B;](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
 
 >[!TAB  methodes van de Authentificatie in Acrobat Sign ]
 
-Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#x200B; &#x200B;](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
 
 >[!ENDTABS]
 

@@ -25,19 +25,19 @@ Lees meer over het toevoegen van gebruikers aan uw account, het instellen van gr
 
 >[!TAB  Bouw een douanewerkschema ]
 
-Leer hoe te om [ douanewerkschema&#39;s ](building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
+Leer hoe te om [&#x200B; douanewerkschema&#39;s &#x200B;](building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
 
 >[!TAB  creeer een herbruikbaar malplaatje ]
 
-Leer hoe te om a [ herbruikbare documentmalplaatje ](../sign-advanced-users/create-a-template.md) te creëren.
+Leer hoe te om a [&#x200B; herbruikbare documentmalplaatje &#x200B;](../sign-advanced-users/create-a-template.md) te creëren.
 
->[!TAB  laat automatische gebruikerstoewijzingsregels ] toe
+>[!TAB laat automatische gebruikerstoewijzingsregels  toe]
 
-Leer hoe te opstelling [ automatische toewijzingsregels ](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
+Leer hoe te opstelling [&#x200B; automatische toewijzingsregels &#x200B;](automatic-assignment-rules.md) die gebruikers toegang tot Acrobat Sign in de Admin Console verlenen.
 
 >[!TAB  Migreer de malplaatjes van het Document ]
 
-Leer hoe te om naadloos [ de malplaatjes van het Document ](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
+Leer hoe te om naadloos [&#x200B; de malplaatjes van het Document &#x200B;](docusign-templates.md) en werkschema&#39;s in drie gemakkelijke stappen te migreren.
 
 >[!ENDTABS]
 
