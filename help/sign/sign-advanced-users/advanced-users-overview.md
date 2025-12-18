@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
+source-git-commit: 05438cb78ede952466c4c15c3cacc427c6bd83f1
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 4%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
@@ -24,15 +24,15 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 >[!TAB  Bouw een douanewerkschema ]
 
-
+Leer hoe te om [ douanewerkschema&#39;s ](../admin/building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
 
 >[!TAB  verzend in bulk ]
 
-Leer hoe te [&#x200B; duizenden &#x200B;](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
+Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
 
 >[!TAB  methodes van de Authentificatie in Acrobat Sign ]
 
-Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#x200B; &#x200B;](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
 
 >[!ENDTABS]
 
