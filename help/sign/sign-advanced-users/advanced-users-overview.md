@@ -24,15 +24,15 @@ Leer hoe u een document ter ondertekening kunt verzenden naar 100 ontvangers teg
 
 >[!TAB  Bouw een douanewerkschema ]
 
-Leer hoe te om [ douanewerkschema&#39;s ](../admin/building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
+Leer hoe te om [&#x200B; douanewerkschema&#39;s &#x200B;](../admin/building-a-custom-workflow.md) tot stand te brengen en te gebruiken om het proces te versnellen om een overeenkomst te creëren en te verzenden.
 
 >[!TAB  verzend in bulk ]
 
-Leer hoe te [ duizenden ](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
+Leer hoe te [&#x200B; duizenden &#x200B;](megasign.md) handtekeningen in één keer voor om het even welk document in enkel een paar korte stappen verzamelen.
 
 >[!TAB  methodes van de Authentificatie in Acrobat Sign ]
 
-Leer over de waaier van methodes beschikbaar in Acrobat Sign om [ ](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
+Leer over de waaier van methodes beschikbaar in Acrobat Sign om [&#x200B; &#x200B;](authentication-methods.md) de identiteit van iemand voor authentiek te verklaren die een document ondertekent.
 
 >[!ENDTABS]
 
