@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
+source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
 
 >[!TAB  Mobiel-vriendschappelijke mening ]
 
-Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
+Leer hoe te om [ mobiel-vriendelijke mening ](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
 
 >[!ENDTABS]
 
@@ -52,6 +52,16 @@ Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md
     <br>
   </td>  
   <td>
+    <a href="create-mobile-friendly.md">
+      <img alt="Mobielvriendelijke weergave maken" src="../assets/create-mobile-friendly.png" />
+    </a>
+    <div>
+    <a href="create-mobile-friendly.md"><strong> creeer mobiel-vriendelijke mening </strong></a>
+    </div>
+    <em> Leer hoe te om een mobiel-vriendelijke mening van het document tot stand te brengen </em>
+    <br>
+  </td>
+   <td>
     <a href="liquidmode.md">
       <img alt="Vloeiende modus in Acrobat Sign" src="../assets/liquid-mode.png" />
     </a>
@@ -61,7 +71,9 @@ Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md
     <em> Leer hoe de Vloeiende Wijze de mobiele het ondertekenen ervaring verbetert </em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Acrobat Sign mobiele app voor iOS downloaden" src="../assets/mobile-ios.png" />
     </a>
@@ -71,21 +83,14 @@ Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md
     <em> Download Acrobat Sign mobiele app van App Store </em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Acrobat Sign mobiele app voor Android downloaden" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
     </div>
     <em> Download Acrobat Sign mobiele app van Google Play </em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
