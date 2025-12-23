@@ -25,7 +25,7 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
 
 >[!TAB  Mobiel-vriendschappelijke mening ]
 
-Leer hoe te om [ mobiel-vriendelijke mening ](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
+Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
 
 >[!ENDTABS]
 
@@ -74,11 +74,11 @@ Leer hoe te om [ mobiel-vriendelijke mening ](mobile-friendly.md) te gebruiken o
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
       <img alt="Acrobat Sign mobiele app voor Android downloaden" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
     </div>
     <em> Download Acrobat Sign mobiele app van Google Play </em>
     <br>
