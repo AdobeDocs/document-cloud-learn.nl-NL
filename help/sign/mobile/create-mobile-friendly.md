@@ -1,20 +1,20 @@
 ---
 title: Mobielvriendelijke weergave maken
-description: Leer hoe u een mobielvriendelijke weergave van het document kunt maken met de modus "Mobiele focus"
+description: Leer hoe je naadloos een mobielvriendelijk document genereert zonder ondersteuning voor ontwikkelaars
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Mobielvriendelijke weergave maken
 
-Leer hoe u een mobielvriendelijke weergave van het document kunt maken met de modus Mobiele focus. Afzenders kunnen nu naadloos en zonder ondersteuning voor ontwikkelaars een mobielvriendelijk formulier genereren.
+Leer hoe je naadloos een mobielvriendelijk document genereert zonder ondersteuning voor ontwikkelaars.
 
 Met Mobile Focus profiteren afzenders van:
 
