@@ -2,11 +2,11 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/nl/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/nl/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/nl/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -35,7 +35,7 @@ ht-degree: 14%
       + [Een document wijzigen na het verzenden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ondertekenaars vervangen](sign-beginner-tutorials/replace-signer.md)
       + [Deadlines en herinneringen instellen](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [&#x200B; creeer een herbruikbaar malplaatje &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [&#x200B; creeer een herbruikbaar malplaatje &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=nl-NL)
    + Ondertekenen {#getting-started-signing}
       + [Een document elektronisch ondertekenen](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Een document invullen en ondertekenen](sign-beginner-tutorials/fill-and-sign.md)
@@ -51,12 +51,12 @@ ht-degree: 14%
       + [Ondertekeningsvolgorde instellen](sign-advanced-users/setting-up-routing.md)
       + [Het gebruik van de Delegatiegever-rol](sign-advanced-users/delegate-signature.md)
       + [De rol fiatteur gebruiken](sign-advanced-users/add-an-approver.md)
-      + [&#x200B; verzend in bulk &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [&#x200B; Creërend een Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [&#x200B; Bouw een douanewerkschema &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [&#x200B; verzend in bulk &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=nl-NL)
+      + [&#x200B; Creërend een Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=nl-NL)
+      + [&#x200B; Bouw een douanewerkschema &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Online betalingen instellen](sign-advanced-users/set-up-online-payments.md)
       + [Verificatiemethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
-      + [&#x200B; Tekst Tagging van Acrobat Sign &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [&#x200B; Tekst Tagging van Acrobat Sign &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=nl-NL)
       + [Tekstlabels gebruiken in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Beheren {#advanced-tasks-managing}
       + [Rapportage en transactiegebruik](sign-advanced-users/creating-a-report.md)
@@ -77,10 +77,10 @@ ht-degree: 14%
       + [Groepen maken en beheren](admin/create-and-manage-groups.md)
       + [Een extern archief instellen](admin/set-up-your-external-archive.md)
       + [Een herbruikbare sjabloon maken](sign-advanced-users/create-a-template.md)
-      + [&#x200B; Meldend en transactieverbruik &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [&#x200B; Meldend en transactieverbruik &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportopties voor gebruikers](admin/report-options.md)
       + [Een webformulier maken](sign-advanced-users/webform.md)
-      + [&#x200B; wijzig een bestaand Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [&#x200B; wijzig een bestaand Webvorm &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=nl-NL)
       + [In bulk verzenden](sign-advanced-users/megasign.md)
       + [Een aangepaste workflow maken](admin/building-a-custom-workflow.md)
       + [Controlerapporten](admin/audit-reports.md)
