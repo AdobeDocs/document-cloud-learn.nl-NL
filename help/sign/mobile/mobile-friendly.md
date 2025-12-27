@@ -22,4 +22,4 @@ Met &quot;Mobile Focus&quot; maakt Acrobat Sign het voor iedereen gemakkelijker 
 * Verbeterde nauwkeurigheid: reduceert fouten en zorgt ervoor dat alle benodigde informatie wordt vastgelegd
 * Continuïteit: gebruikers kunnen op elk moment beginnen en terugkeren naar het mobielvriendelijke formulier, zonder dat ze de voortgang verliezen
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478392?captions=dut&quality=12&learn=on&hidetitle=true)

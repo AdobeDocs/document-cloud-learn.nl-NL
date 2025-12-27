@@ -23,4 +23,4 @@ Met Mobile Focus profiteren afzenders van:
 * Geen technische expertise nodig: Genereer dynamische, mobielvriendelijke formulieren met minimale inspanning
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478404?captions=dut&quality=12&learn=on&hidetitle=true)
