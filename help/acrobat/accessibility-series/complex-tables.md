@@ -20,7 +20,7 @@ Leer hoe u tabellen labelt voor toegankelijkheid in Acrobat. De volgende onderwe
 >
 >Alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477958?captions=dut&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

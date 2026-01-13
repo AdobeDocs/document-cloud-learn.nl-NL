@@ -20,7 +20,7 @@ Leer hoe u de geleide handeling Toegankelijk maken kunt gebruiken om uw PDF-best
 >
 >Alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477969?captions=dut&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

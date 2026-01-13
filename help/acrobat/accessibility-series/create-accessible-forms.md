@@ -22,7 +22,7 @@ Leer hoe u formulieren toegankelijk maakt in Acrobat. Als u deze zeven stappen u
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471668?captions=dut&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Leer hoe u alle toegankelijkheidstools binnen handbereik brengt om het maken van toegankelijke PDF-bestanden te stroomlijnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471622?captions=dut&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
