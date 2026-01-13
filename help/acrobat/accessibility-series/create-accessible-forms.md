@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 jira: KT-18733
 exl-id: 2ba77a77-6dd0-4e05-8a7a-690542569061
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,8 @@ Leer hoe u formulieren toegankelijk maakt in Acrobat. Als u deze zeven stappen u
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471668?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Deze video maakt deel uit van de playlist [ reeks van de Toegankelijkheid van de PDF ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!

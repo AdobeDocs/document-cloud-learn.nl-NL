@@ -6,9 +6,10 @@ role: User
 level: Beginner
 topics: Accessibility
 jira: KT-18725
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+exl-id: 0073aeb2-ae73-4a41-93a8-834706904f2c
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 Ontdek wat een toegankelijk PDF-bestand is en waarom het belangrijk is.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471635?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Deze video maakt deel uit van de playlist [ reeks van de Toegankelijkheid van de PDF ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!

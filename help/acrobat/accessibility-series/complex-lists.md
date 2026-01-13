@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18731
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Leer hoe u complexe lijsten kunt labelen voor toegankelijkheid in Acrobat. Compl
 >
 >Sommige functies van deze zelfstudie zijn alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477837?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Deze video maakt deel uit van de playlist [ reeks van de Toegankelijkheid van de PDF ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!
