@@ -22,4 +22,4 @@ Leer hoe u alle toegankelijkheidstools binnen handbereik brengt om het maken van
 
 >[!TIP]
 >
->Deze video maakt deel uit van de playlist [ reeks van de Toegankelijkheid van de PDF ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van de playlist [&#x200B; reeks van de Toegankelijkheid van de PDF &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!

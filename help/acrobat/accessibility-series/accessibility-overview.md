@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Overzicht van toegankelijkheidsreeks
 
-Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de reeks variëren van de basisbeginselen van codering tot het werken met formulieren. Deze reeks in nu beschikbaar in [ cursusformaat ](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) op Experience League.
+Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de reeks variëren van de basisbeginselen van codering tot het werken met formulieren. Deze reeks in nu beschikbaar in [&#x200B; cursusformaat &#x200B;](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) op Experience League.
 
 ## Nieuw
 
@@ -23,19 +23,19 @@ Leer alles over het maken van toegankelijke PDF-bestanden. De Tutorials in de re
 
 >[!TAB  Complexe lijsten ]
 
-Leer hoe te [ markeringstabellen ](complex-tables.md) voor toegankelijkheid in Acrobat.
+Leer hoe te [&#x200B; markeringstabellen &#x200B;](complex-tables.md) voor toegankelijkheid in Acrobat.
 
 >[!TAB  Toegankelijke geleide actie maken ]
 
-Leer hoe te om [ Toegankelijke geleide actie ](make-accessible-action.md) te gebruiken.
+Leer hoe te om [&#x200B; Toegankelijke geleide actie &#x200B;](make-accessible-action.md) te gebruiken.
 
 >[!TAB  creeer een toegankelijke PDF in Acrobat ]
 
-Leer hoe te om een [ toegankelijke PDF te creëren die in Acrobat ](accessible-acrobat.md) begint.
+Leer hoe te om een [&#x200B; toegankelijke PDF te creëren die in Acrobat &#x200B;](accessible-acrobat.md) begint.
 
 >[!TAB  de grondbeginselen van het etiketteren ]
 
-Leer de grondbeginselen van hoe te om [ een PDF ](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
+Leer de grondbeginselen van hoe te om [&#x200B; een PDF &#x200B;](basics-tagging.md) dossier te etiketteren om het toegankelijk te maken.
 
 >[!ENDTABS]
 
