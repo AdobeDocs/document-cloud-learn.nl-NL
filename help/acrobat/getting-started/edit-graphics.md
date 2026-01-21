@@ -15,11 +15,11 @@ ht-degree: 1%
 
 # Afbeeldingen in een PDF bewerken
 
-Leer hoe u de bewerkingsmodus in Acrobat kunt gebruiken om afbeeldingen toe te voegen, te vervangen, uit te snijden, te vergroten, te verkleinen, te roteren en te rangschikken, rechtstreeks binnen een PDF op het bureaublad en op het web. De zelfstudie laat ook zien hoe u afbeeldingen van tekstherinneringen kunt genereren en verfijnen met behulp van een afbeeldingsgenerator in de app die wordt aangedreven door Adobe Express. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
+Leer hoe u de bewerkingsmodus in Acrobat kunt gebruiken om afbeeldingen toe te voegen, te vervangen, uit te snijden, te vergroten, te verkleinen, te roteren en te rangschikken, rechtstreeks binnen een PDF op het bureaublad en op het web. De zelfstudie laat ook zien hoe u afbeeldingen van tekstherinneringen kunt genereren en verfijnen met behulp van een afbeeldingsgenerator in de app die wordt aangedreven door Adobe Express. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE  door rol ]
+[!BADGE &#x200B; door rol &#x200B;]
 
 ## De bewerkingsmodus helpt verschillende teams
 
