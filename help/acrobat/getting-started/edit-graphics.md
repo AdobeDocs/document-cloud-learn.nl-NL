@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Leer hoe u de bewerkingsmodus in Acrobat kunt gebruiken om afbeeldingen toe te voegen, te vervangen, uit te snijden, te vergroten, te verkleinen, te roteren en te rangschikken, rechtstreeks binnen een PDF op het bureaublad en op het web. De zelfstudie laat ook zien hoe u afbeeldingen van tekstherinneringen kunt genereren en verfijnen met behulp van een afbeeldingsgenerator in de app die wordt aangedreven door Adobe Express. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446935?captions=dut&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE &#x200B; door rol &#x200B;]
 
