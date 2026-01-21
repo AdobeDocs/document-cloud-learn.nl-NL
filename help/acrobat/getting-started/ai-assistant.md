@@ -6,37 +6,50 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '332'
+ht-degree: 1%
 
 ---
 
 # Ontdek PDF-inzichten met AI Assistant
 
-Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant is een veilige gespreksengine waarmee documentworkflows worden verbeterd en complexe documentgegevens worden geanalyseerd. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
+Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant analyseert een PDF om samenvattingen te genereren, vragen te beantwoorden en inzichten te extraheren met duidelijke toewijzingen aan de broninhoud, waardoor je veel documenten handmatig hoeft te lezen. Door AI gegenereerde reacties worden geverifieerd door rechtstreeks te koppelen aan de exacte locaties in het document, waardoor sneller en betrouwbaarder beslissingen kunnen worden genomen. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-workspace.md).
 
-## Gebruiksscenario&#39;s
+De AI-assistent is beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI Assistant aanschaffen.
 
->[!BEGINTABS]
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!TAB  maak een impactful presentatie ]
+[!BADGE  door rol ]
 
-Gebruik spraakherinneringen om onderweg te zoeken naar inzichten uit branche- en klantrapporten. Bekijk [&#x200B; video &#x200B;](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true){target="_blank"}.
+## Hoe AI Assistant verschillende teams helpt
 
->[!TAB  onderzoeksbevindingen van het aandeel sneller ]
+* Juridisch en compliance
 
-vat brancherapporten samen, krijg diepgaandere inzichten en ontwikkel in een mum van tijd revisies voor je team. Bekijk [&#x200B; video &#x200B;](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  Juridische teams gebruiken AI Assistant om lange contracten, beleidsregels en regelgevingsdocumenten samen te vatten, snel relevante clausules of wijzigingen te identificeren en inzichten te verifiëren via directe citaties naar brontekst. Dit versnelt de herziening, terwijl het vertrouwen en de traceerbaarheid behouden blijven.
 
->[!TAB  Creeer snel voorstellen ]
+* Human Resources
 
-Versnel RFP-reacties door belangrijke documentinformatie te extraheren en tijdrovende revisies te elimineren. Bekijk [&#x200B; video &#x200B;](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  HR-teams gebruiken AI Assistant om belangrijke punten te extraheren uit beleidsdocumenten, trainingsmateriaal en handboeken voor medewerkers, zodat ze duidelijke samenvattingen en veelgestelde vragen kunnen maken zonder handmatig lange content te lezen of te herschrijven.
 
->[!TAB  verzend een snelle vergaderingssamenvatting ]
+* Verkoop
 
-Controleer de transcripten van de vergadering en help bij het opstellen van een e-mailoverzicht met belangrijke testmethoden. Bekijk [&#x200B; video &#x200B;](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  Verkoopteams gebruiken AI Assistant om voorstellen, RFP’s en klantdocumentatie te scannen, snel relevante antwoorden of gesprekspunten te verzamelen en beknopte samenvattingen te genereren die snellere reacties en transactiepreparatie ondersteunen.
 
->[!ENDTABS]
+* Marketing en communicatie
 
->[!VIDEO](https://video.tv.adobe.com/v/3445828?enablevpops&quality=12&learn=on&hidetitle=true&captions=dut)
+  Marketingteams gebruiken AI Assistant om rapporten en onderzoeksdocumenten te analyseren, inzichten te extraheren en goed gestructureerde samenvattingen te genereren die opnieuw kunnen worden gebruikt in presentaties, instructies en contentplanning.
+
+* Financiën
+
+  Financiële teams gebruiken AI Assistant om financiële rapporten en ondersteunende documenten te bekijken, trends of variaties samen te vatten en inzichten weer te geven die nodig zijn voor rapportage op directieniveau zonder handmatig hele bestanden te lezen.
+
+* Bewerkingen en programmabeheer
+
+  Operationele teams gebruiken AI Assistant om SOP&#39;s, projectdocumentatie en updates te analyseren, snel te begrijpen wat belangrijk is en samenvattingen te genereren om de stakeholders op één lijn te houden.
+
+* Managers en managers
+
+  Managers gebruiken AI Assistant voor samenvattingen op hoog niveau en directe antwoorden van complexe documenten, met citaties waarmee ze inzichten kunnen valideren zonder volledige bronmaterialen te bekijken.
+
