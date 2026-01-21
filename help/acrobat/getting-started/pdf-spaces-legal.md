@@ -19,7 +19,7 @@ Ontdek hoe een intern juridisch team PDF Spaces gebruikt om beleidsdocumenten, j
 
 PDF Spaces zijn beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI-assistent aanschaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475138?captions=dut&quality=12&learn=on&hidetitle=true)
 
 [!BADGE &#x200B; door rol &#x200B;]
 
