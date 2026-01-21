@@ -21,7 +21,7 @@ PDF Spaces zijn beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
-[!BADGE  door rol ]
+[!BADGE &#x200B; door rol &#x200B;]
 
 ## Hoe PDF Spaces verschillende teams helpen
 
