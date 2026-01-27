@@ -22,7 +22,7 @@ ht-degree: 5%
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)

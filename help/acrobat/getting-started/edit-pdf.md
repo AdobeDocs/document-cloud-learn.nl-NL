@@ -28,4 +28,4 @@ Leer hoe u woorden, woordgroepen of zelfs hele pagina&#39;s in uw PDF kunt bewer
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

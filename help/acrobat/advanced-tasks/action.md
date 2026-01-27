@@ -26,4 +26,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken in Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken in Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
