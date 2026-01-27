@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: b806cdc83632abc02a401550c77f32513926a3ef
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -20,18 +20,18 @@ Als u een reeks ingevulde formulieren hebt en de gegevens moet compileren, kunt 
 
 1. Plaats eerst al uw voltooide PDF forms in een map op uw computer.
 
-   ![Formuliergegevens Stap 1](../assets/FormData_1.png)
+   ![ Stap 1 van de Gegevens van de Vorm ](../assets/FormData_1.png)
 
-1. Open een van de ingevulde formulierbestanden en selecteer **[!UICONTROL Prepare Form]** in het gereedschappencentrum of het rechterdeelvenster.
+1. Open één van de voltooide vormdossiers, dan uitgezochte **[!UICONTROL Prepare Form]** van het centrum van Hulpmiddelen of juist-handruit.
 
-   ![Formuliergegevens Stap 2](../assets/FormData_2.png)
+   ![ Stap 2 van de Gegevens van de Vorm ](../assets/FormData_2.png)
 
-1. Selecteren **[!UICONTROL Meer]** **>** **[!UICONTROL Gegevensbestanden samenvoegen in spreadsheet]** in het rechterdeelvenster.
+1. Selecteer **[!UICONTROL Meer]** **>** **[!UICONTROL de Dossiers van de Gegevens van de Fusie in Spreadsheet]** in de juiste ruit.
 
-   ![Formuliergegevens Stap 3](../assets/FormData_3.png)
+   ![ Stap 3 van de Gegevens van de Vorm ](../assets/FormData_3.png)
 
 1. Selecteer de map die u met de ingevulde formulieren hebt gemaakt.
 
    Acrobat haalt de gegevens uit elk formulier op en maakt een spreadsheet van alle gegevens.
 
-   ![Formuliergegevens Stap 4](../assets/FormData_4.png)
+   ![ Stap 4 van de Gegevens van de Vorm ](../assets/FormData_4.png)
