@@ -16,11 +16,11 @@ ht-degree: 10%
 
 # Pagina’s indelen
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. [ Tussenvoegsel ](https://www.adobe.com/nl/acrobat/online/add-pages-to-pdf.html){target="_blank"}, vervang, [ spleet ](https://www.adobe.com/nl/acrobat/online/split-pdf.html){target="_blank"}, [ reorder ](https://www.adobe.com/nl/acrobat/online/rearrange-pdf.html){target="_blank"}, [ roteer ](https://www.adobe.com/nl/acrobat/online/rotate-pdf.html){target="_blank"}, en zelfs [ extract discontinue pagina&#39;s ](https://www.adobe.com/nl/acrobat/online/extract-pdf-pages.html){target="_blank"} om een professioneel-kijkt PDF tot stand te brengen. Deze videoleerprogramma gebruikt de [ nieuwe ervaring van Acrobat ](new-experience.md).
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je pagina’s in een handomdraai opnieuw rangschikt zoals jij dat wilt. [&#x200B; Tussenvoegsel &#x200B;](https://www.adobe.com/nl/acrobat/online/add-pages-to-pdf.html){target="_blank"}, vervang, [&#x200B; spleet &#x200B;](https://www.adobe.com/nl/acrobat/online/split-pdf.html){target="_blank"}, [&#x200B; reorder &#x200B;](https://www.adobe.com/nl/acrobat/online/rearrange-pdf.html){target="_blank"}, [&#x200B; roteer &#x200B;](https://www.adobe.com/nl/acrobat/online/rotate-pdf.html){target="_blank"}, en zelfs [&#x200B; extract discontinue pagina&#39;s &#x200B;](https://www.adobe.com/nl/acrobat/online/extract-pdf-pages.html){target="_blank"} om een professioneel-kijkt PDF tot stand te brengen. Deze videoleerprogramma gebruikt de [&#x200B; nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
 
 >[!TIP]
 >
->Leer over hoe te om a [ nieuwe douanepagina ](add-custom-page.md) toe te voegen terwijl het organiseren van pagina&#39;s.
+>Leer over hoe te om a [&#x200B; nieuwe douanepagina &#x200B;](add-custom-page.md) toe te voegen terwijl het organiseren van pagina&#39;s.
 
 <br>
 

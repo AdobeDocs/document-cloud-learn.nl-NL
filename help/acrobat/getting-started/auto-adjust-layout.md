@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Lay-out automatisch aanpassen
 
-Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst en de lay-out automatisch wordt aangepast aan de verschillende pagina&#39;s in uw PDF. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-experience.md).
+Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst en de lay-out automatisch wordt aangepast aan de verschillende pagina&#39;s in uw PDF. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
 
 >[!NOTE]
 >
