@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Ontdek PDF-inzichten met AI Assistant
 
-Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant analyseert een PDF om samenvattingen te genereren, vragen te beantwoorden en inzichten te extraheren met duidelijke toewijzingen aan de broninhoud, waardoor je veel documenten handmatig hoeft te lezen. Door AI gegenereerde reacties worden geverifieerd door rechtstreeks te koppelen aan de exacte locaties in het document, waardoor sneller en betrouwbaarder beslissingen kunnen worden genomen. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
+Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant analyseert een PDF om samenvattingen te genereren, vragen te beantwoorden en inzichten te extraheren met duidelijke toewijzingen aan de broninhoud, waardoor je veel documenten handmatig hoeft te lezen. Door AI gegenereerde reacties worden geverifieerd door rechtstreeks te koppelen aan de exacte locaties in het document, waardoor sneller en betrouwbaarder beslissingen kunnen worden genomen. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-experience.md).
 
 De AI-assistent is beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI Assistant aanschaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445828?captions=dut&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE &#x200B; door rol &#x200B;]
+[!BADGE  door rol ]
 
 ## Hoe AI Assistant verschillende teams helpt
 

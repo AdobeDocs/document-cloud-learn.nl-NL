@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10835
 thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Lay-out automatisch aanpassen
 
-Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst en de lay-out automatisch wordt aangepast aan de verschillende pagina&#39;s in uw PDF. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
+Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst en de lay-out automatisch wordt aangepast aan de verschillende pagina&#39;s in uw PDF. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-experience.md).
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ Leer meer over de nieuwe bewerkingsmodus waarmee inhoud opnieuw wordt geplaatst 
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/3441226?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)

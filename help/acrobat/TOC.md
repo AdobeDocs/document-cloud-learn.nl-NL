@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 069835e3924580e86d562650c4e689185bb16651
+source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 4%
+source-wordcount: '589'
+ht-degree: 5%
 
 ---
 
@@ -17,34 +17,40 @@ ht-degree: 4%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Overview](overview.md)
-+ Aan de slag {#getting-started}
++ Aan de slag {#get-started}
    + [Overview](getting-started/getting-started-overview.md)
-   + [Nieuwe Acrobat-ervaring](getting-started/new-workspace.md)
-   + [Beginselen van de werkruimte](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
-   + [Stimuleer teamefficiëntie met PDF Spaces](getting-started/pdf-spaces-legal.md)
-   + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
-   + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
-   + [Een PDF maken](getting-started/create-pdf.md)
-   + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
-   + [Pagina’s indelen](getting-started/organize.md)
-   + [Een nieuwe pagina ontwerpen](getting-started/add-custom-page.md)
-   + [Van papier naar PDF](getting-started/scan-and-ocr.md)
-   + [Tekst in een PDF bewerken](getting-started/edit-pdf.md)
-   + [Afbeeldingen in een PDF bewerken](getting-started/edit-graphics.md)
-   + [Deze PDF stileren](getting-started/stylize-this-pdf.md)
-   + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
-   + [PDF omzetten in verschillende bestandsindelingen](getting-started/export-pdf.md)
-   + [Samenwerken in real-time](getting-started/collaborate.md)
-   + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
-   + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
-   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
-   + [Handtekeningen ophalen](getting-started/signatures.md)
-   + [Uw documenten volgen](getting-started/track.md)
-   + [Productiviteit onderweg](getting-started/productivity.md)
-   + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
+   + Meer informatie over de basisbeginselen {#basics}
+      + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
+      + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
+      + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
+      + [Productiviteit onderweg](getting-started/productivity.md)
+      + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
+   + Werk slimmer met AI {#ai}
+      + [Ontdek PDF-inzichten met AI Assistant](getting-started/ai-assistant.md)
+      + [Stimuleer teamefficiëntie met PDF Spaces](getting-started/pdf-spaces-legal.md)
+      + [Wat is Acrobat Studio?](getting-started/acrobat-studio.md)
+   + Maken en ordenen {#create}
+      + [Een PDF maken](getting-started/create-pdf.md)
+      + [Bestanden combineren tot één PDF](getting-started/combine-to-pdf.md)
+      + [Pagina’s indelen](getting-started/organize.md)
+      + [Een nieuwe pagina ontwerpen](getting-started/add-custom-page.md)
+      + [Van papier naar PDF](getting-started/scan-and-ocr.md)
+   + Bewerken en verbeteren {#edit}
+      + [Tekst in een PDF bewerken](getting-started/edit-pdf.md)
+      + [Afbeeldingen in een PDF bewerken](getting-started/edit-graphics.md)
+      + [Deze PDF stileren](getting-started/stylize-this-pdf.md)
+      + [Lay-out automatisch aanpassen](getting-started/auto-adjust-layout.md)
+      + [PDF omzetten in verschillende bestandsindelingen](getting-started/export-pdf.md)
+   + Samenwerken en reviseren {#collaborate}
+      + [Samenwerken in real-time](getting-started/collaborate.md)
+      + [Opmerkingen over een PDF](getting-started/comment-on-pdf-files.md)
+   + Forms, handtekeningen en beveiliging {#tools}
+      + [Invulbare formulieren maken](getting-started/create-fillable-forms.md)
+      + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+      + [Protect een PDF-bestand met een wachtwoord](getting-started/password-protect.md)
+      + [Handtekeningen ophalen](getting-started/signatures.md)
+      + [Uw documenten volgen](getting-started/track.md)
 + Toegankelijkheidsreeks {#accessibility-tutorials}
    + [Overview](accessibility-series/accessibility-overview.md)
    + [De wat en waarom van toegankelijke PDF-bestanden](accessibility-series/what-why-accessible-pdf.md)
@@ -81,11 +87,11 @@ ht-degree: 4%
       + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
 + AI-gestuurd {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [ Ontdek de inzichten van de PDF met AI Medewerker ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [ teamefficiency van de Verhoging met PDF Spaces ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [ wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [ geef grafiek in a PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics) uit
+   + [ stileer deze PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat van 60 seconden {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -133,7 +139,7 @@ ht-degree: 4%
    + Overheid {#gov}
       + [Overview](industry/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [ 5 uiteinden voor het werken overal met Acrobat ](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
@@ -152,5 +158,5 @@ ht-degree: 4%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=nl-NL)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)

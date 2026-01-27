@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Deze PDF stileren
 
-Leer hoe te om Stileer Deze PDF te gebruiken om de visuele verschijning van een PDF te verbeteren door doopvontaanbevelingen, kleurenthema&#39;s, beelden, en ontwerpelementen toe te passen gebruikend in-app hulpmiddelen die door Adobe Express [&#x200B; worden aangedreven Adobe Express &#x200B;](https://express.adobe.com). De zelfstudie laat ook zien hoe u lay-outs kunt verfijnen, Adobe Stock- of AI-afbeeldingen kunt toevoegen en de tekstopmaak kunt aanpassen om fraaie, professioneel ogende documenten te maken. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-workspace.md).
+Leer hoe te om Stileer Deze PDF te gebruiken om de visuele verschijning van een PDF te verbeteren door doopvontaanbevelingen, kleurenthema&#39;s, beelden, en ontwerpelementen toe te passen gebruikend in-app hulpmiddelen die door Adobe Express [ worden aangedreven Adobe Express ](https://express.adobe.com). De zelfstudie laat ook zien hoe u lay-outs kunt verfijnen, Adobe Stock- of AI-afbeeldingen kunt toevoegen en de tekstopmaak kunt aanpassen om fraaie, professioneel ogende documenten te maken. Deze videoleerprogramma gebruikt de [ Nieuwe ervaring van Acrobat ](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445547?captions=dut&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE &#x200B; door rol &#x200B;]
+[!BADGE  door rol ]
 
 ## Hoe Stileer deze PDF verschillende teams helpt
 
