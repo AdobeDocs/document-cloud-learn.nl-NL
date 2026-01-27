@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+      + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 5%
       + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [ Ontdek de inzichten van de PDF met AI Medewerker ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [ teamefficiency van de Verhoging met PDF Spaces ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [ wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [ geef grafiek in a PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics) uit
+   + [ stileer deze PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat van 60 seconden {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -135,18 +135,12 @@ ht-degree: 5%
    + Overheid {#gov}
       + [Overview](industry/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [ 5 uiteinden voor het werken overal met Acrobat ](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
          + [Tip 4 - Werken met formulieren en handtekeningen](industry/gov/work-with-forms-and-signatures.md)
          + [Tip 5 - Scannen en bewerken op mobiele apparaten](industry/gov/scan-and-edit-on-mobile.md)
-      + Toegankelijkheid {#pdfs}
-         + [PDF toegankelijk maken](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Toegankelijkheid begrijpen](industry/gov/understanding-accessibility.md)
-         + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
-         + [Nr. 3 - Voltooien in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [PDF-stembiljetten toegankelijker maken](industry/gov/making-pdf-ballots-accessible.md)
 + Ontwikkelen {#develop}
    + [Overview](develop/develop-overview.md)
 + Implementeren {#deploy}
@@ -154,5 +148,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
