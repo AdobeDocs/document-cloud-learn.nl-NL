@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+      + [ Werk met  [!DNL Microsoft 365] ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -65,33 +65,29 @@ ht-degree: 5%
    + [Handeling Toegankelijk maken](accessibility-series/make-accessible-action.md)
 + Geavanceerde taken {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
-   + [Bladwijzers en hyperlinks toevoegen](advanced-tasks/bookmarks.md)
-   + [Gescande documenten optimaliseren](advanced-tasks/optimizescan.md)
-   + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
-   + [Geavanceerde formuliervelden](advanced-tasks/advancedforms.md)
-   + [Optimize PDF voor SEO](advanced-tasks/optimizeseo.md)
-   + [Werken met formuliervelden](advanced-tasks/workforms.md)
-   + [Verbeter je PDF](advanced-tasks/enhance.md)
-   + [Verschillen tussen twee PDF vaststellen](advanced-tasks/compare.md)
-   + [Handelingen met instructies](advanced-tasks/action.md)
-   + [Vertrouwelijke gegevens verwijderen](advanced-tasks/redact.md)
-   + [Een PDF comprimeren en optimaliseren](advanced-tasks/reduce.md)
-   + [Werken met formuliergegevens](advanced-tasks/formdata.md)
-   + Webinars over toegankelijkheid voor Acrobat {#accessibility-series}
-      + [Overview](advanced-tasks/accessibility-series.md)
-      + [Inleiding tot toegankelijkheid PDF](advanced-tasks/accessibilitysession1.md)
-      + [Een ontoegankelijke PDF herstellen](advanced-tasks/accessibilitysession2.md)
-      + [Complexe tabellen](advanced-tasks/accessibilitysession3.md)
-      + [Gescande documenten en complexe lijsten](advanced-tasks/accessibilitysession4.md)
-      + [Formuliervelden toevoegen aan een gecodeerde PDF](advanced-tasks/accessibilitysession5.md)
-      + [Formuliervelden toevoegen aan een niet-gecodeerde PDF](advanced-tasks/accessibilitysession6.md)
+   + Voorbereiden en verbeteren {#prepare}
+      + [Een PDF comprimeren en optimaliseren](advanced-tasks/reduce.md)
+      + [Gescande documenten optimaliseren](advanced-tasks/optimizescan.md)
+      + [Optimize PDF voor SEO](advanced-tasks/optimizeseo.md)
+      + [Bladwijzers en hyperlinks toevoegen](advanced-tasks/bookmarks.md)
+      + [Verschillen tussen twee PDF vaststellen](advanced-tasks/compare.md)
+      + [Verbeter je PDF](advanced-tasks/enhance.md)
+   + Formulieren maken en beheren {#forms}
+      + [Werken met formuliervelden](advanced-tasks/workforms.md)
+      + [Geavanceerde formuliervelden](advanced-tasks/advancedforms.md)
+      + [Werken met formuliergegevens](advanced-tasks/formdata.md)
+   + Beveiligen {#protect}
+      + [Vertrouwelijke gegevens verwijderen](advanced-tasks/redact.md)
+   + Workflows automatiseren en schalen {#automate}
+      + [Handelingen met instructies](advanced-tasks/action.md)
+      + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [ Ontdek de inzichten van de PDF met AI Medewerker ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [ teamefficiency van de Verhoging met PDF Spaces ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [ wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [ geef grafiek in a PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics) uit
+   + [ stileer deze PDF ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat van 60 seconden {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -139,7 +135,7 @@ ht-degree: 5%
    + Overheid {#gov}
       + [Overview](industry/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [ 5 uiteinden voor het werken overal met Acrobat ](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
@@ -158,5 +154,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [ Productiviteit op de weg ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
