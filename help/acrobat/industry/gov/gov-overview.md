@@ -26,8 +26,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="5 tips voor het overal werken met Acrobat (volledige 15:12)" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="5 tips voor het overal werken met Acrobat (volledige 15:12)"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="5 tips voor het overal werken met Acrobat (volledige 15:12)" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="5 tips voor het overal werken met Acrobat (volledige 15:12)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -35,11 +35,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" title="5 tips voor het overal werken met Acrobat (volledige 15:12)"> 5 uiteinden voor het werken overal met Acrobat (volledige 15:12) </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" title="5 tips voor het overal werken met Acrobat (volledige 15:12)"> 5 uiteinden voor het werken overal met Acrobat (volledige 15:12) </a>
                     </p>
                     <p class="is-size-6">Leer hoe u de tools in Acrobat en de bijbehorende mobiele apps kunt gebruiken om overal te werken</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -49,8 +49,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" title="Tip 1 - Download je tools" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Tip 1 - Download je tools"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" title="Tip 1 - Download je tools" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Tip 1 - Download je tools"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,11 +58,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" target="_self" rel="referrer" title="Tip 1 - Download je tools"> Tip #1 - krijg uw hulpmiddelen </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" target="_self" rel="referrer" title="Tip 1 - Download je tools"> Tip #1 - krijg uw hulpmiddelen </a>
                     </p>
                     <p class="is-size-6">De eerste stap om vanaf elke locatie aan de slag te gaan, is het verkrijgen van je Acrobat-tools en mobiele apps</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/get-your-tools" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -72,8 +72,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" title="Tip 2 - Samenwerken aan documenten" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Tip 2 - Samenwerken aan documenten"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" title="Tip 2 - Samenwerken aan documenten" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Tip 2 - Samenwerken aan documenten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,11 +81,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" target="_self" rel="referrer" title="Tip 2 - Samenwerken aan documenten"> Tip #2 - Werk aan documenten samen </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" target="_self" rel="referrer" title="Tip 2 - Samenwerken aan documenten"> Tip #2 - Werk aan documenten samen </a>
                     </p>
                     <p class="is-size-6">Creëer eenvoudige en moeiteloze workflows voor het samenwerken aan documenten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/collaborate-on-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -95,8 +95,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" title="Tip 3 - Protect digitale documenten" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="Tip 3 - Protect digitale documenten"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" title="Tip 3 - Protect digitale documenten" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="Tip 3 - Protect digitale documenten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,11 +104,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" target="_self" rel="referrer" title="Tip 3 - Protect digitale documenten"> Tip #3 - de digitale documenten van Protect </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" target="_self" rel="referrer" title="Tip 3 - Protect digitale documenten"> Tip #3 - de digitale documenten van Protect </a>
                     </p>
                     <p class="is-size-6">Een wachtwoord aan uw PDF toevoegen om te voorkomen dat bestanden worden gekopieerd, bewerkt of afgedrukt</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/protect-digital-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -118,8 +118,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" title="Tip 4 - Werken met formulieren en handtekeningen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Tip 4 - Werken met formulieren en handtekeningen"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" title="Tip 4 - Werken met formulieren en handtekeningen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Tip 4 - Werken met formulieren en handtekeningen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,11 +127,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" target="_self" rel="referrer" title="Tip 4 - Werken met formulieren en handtekeningen"> Tip #4 - Werk met formulieren en handtekeningen </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" target="_self" rel="referrer" title="Tip 4 - Werken met formulieren en handtekeningen"> Tip #4 - Werk met formulieren en handtekeningen </a>
                     </p>
                     <p class="is-size-6">Leer hoe u digitaal kunt blijven bij het invullen van formulieren</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/work-with-forms-and-signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
@@ -141,8 +141,8 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" title="Tip 5 - Scannen en bewerken op mobiele apparaten" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Tip 5 - Scannen en bewerken op mobiele apparaten"
+                    <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" title="Tip 5 - Scannen en bewerken op mobiele apparaten" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Tip 5 - Scannen en bewerken op mobiele apparaten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,11 +150,11 @@ Bekijk onze Acrobat-tutorials die speciaal zijn ontworpen voor federale, staats-
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" target="_self" rel="referrer" title="Tip 5 - Scannen en bewerken op mobiele apparaten"> Tip #5 - Scannen en bewerken op mobiele apparaten </a>
+                        <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" target="_self" rel="referrer" title="Tip 5 - Scannen en bewerken op mobiele apparaten"> Tip #5 - Scannen en bewerken op mobiele apparaten </a>
                     </p>
                     <p class="is-size-6">Leer hoe je kunt werken met mobiele apps van Adobe Scan en Acrobat Reader om vanaf elke locatie werk gedaan te krijgen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/gov/tips/scan-and-edit-on-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
                 </a>
             </div>
