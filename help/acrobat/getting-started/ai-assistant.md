@@ -19,7 +19,7 @@ Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant
 
 De AI-assistent is beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI Assistant aanschaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445828?captions=dut&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE &#x200B; team-specifiek &#x200B;]
 
