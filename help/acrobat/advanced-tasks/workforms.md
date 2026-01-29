@@ -22,7 +22,7 @@ In deze praktische zelfstudie leert u hoe u verschillende typen formuliervelden 
 
 ## Wat je nodig hebt
 
-[![ krijg dossier ](../assets/Getfiles.svg)](../assets/Questionnaire.pdf)
+[![&#x200B; krijg dossier &#x200B;](../assets/Getfiles.svg)](../assets/Questionnaire.pdf)
 Voorbeeldbestand om mee te oefenen (PDF, 934 KB)
 
 <br>
@@ -56,7 +56,7 @@ Verschillende typen formuliervelden toevoegen en de eigenschappen ervan instelle
 
 Als u een lijstveld toevoegt, bestaat er minder kans op fouten in uw formuliergegevens.
 
-1. Selecteer en schrap het *tekstgebied van de Plaats van 0} HK.*
+1. Selecteer en schrap het *tekstgebied van de Plaats van 0&rbrace; HK.*
 1. Selecteer **doos van de Lijst** in de toolbar en plaats een nieuw gebied in de geschrapte plaats van het tekstgebied.
 1. De Plaats van het type *HK* in de **Naam van het Gebied:**
 1. Selecteer **Alle Eigenschappen** en kies de **Opties** tabel.
@@ -110,7 +110,7 @@ Als u eigenschappen voor meerdere velden tegelijk wilt instellen, moet u de tabv
 Door de tabvolgorde in te stellen, zorgt u ervoor dat de invuller van het formulier eenvoudig van veld naar veld kan gaan terwijl hij het formulier invult.
 
 1. Het type *Shift + N* om de lusjeorde te openbaren.
-1. Verplaats het *gebied van de Plaats van 0} HK onder het* Aantal werknemers *gebied in de rechtse ruit.*
+1. Verplaats het *gebied van de Plaats van 0&rbrace; HK onder het* Aantal werknemers *gebied in de rechtse ruit.*
 1. Verplaats het *Begin van het Project* en *Eind van het Project* gebieden onder het *EMAIL ADRES* gebied in de juiste ruit.
 
 Door een formulier te beveiligen, weet u zeker dat de velden of inhoud van het document niet kunnen worden gewijzigd.

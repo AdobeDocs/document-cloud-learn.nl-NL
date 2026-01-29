@@ -16,8 +16,8 @@ ht-degree: 0%
 
 # Opmerkingen over een PDF
 
-Leer hoe u opmerkingen kunt toevoegen op een gedeelde PDF via alleen een webbrowser. Of je nu samenwerkt met een team of een document controleert, met de tools voor Acrobat-opmerkingen kun je eenvoudig duidelijke en actiegerichte feedback geven. Deze videoleerprogramma gebruikt de [ nieuwe ervaring van Acrobat ](new-experience.md).
+Leer hoe u opmerkingen kunt toevoegen op een gedeelde PDF via alleen een webbrowser. Of je nu samenwerkt met een team of een document controleert, met de tools voor Acrobat-opmerkingen kun je eenvoudig duidelijke en actiegerichte feedback geven. Deze videoleerprogramma gebruikt de [&#x200B; nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
 
-Leren hoe te om een PDF te delen, controleer [ in echt - tijd ](collaborate.md) leerprogramma samenwerken.
+Leren hoe te om een PDF te delen, controleer [&#x200B; in echt - tijd &#x200B;](collaborate.md) leerprogramma samenwerken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)

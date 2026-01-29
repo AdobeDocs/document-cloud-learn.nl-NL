@@ -20,18 +20,18 @@ Als u een reeks ingevulde formulieren hebt en de gegevens moet compileren, kunt 
 
 1. Plaats eerst al uw voltooide PDF forms in een map op uw computer.
 
-   ![ Stap 1 van de Gegevens van de Vorm ](../assets/FormData_1.png)
+   ![&#x200B; Stap 1 van de Gegevens van de Vorm &#x200B;](../assets/FormData_1.png)
 
 1. Open één van de voltooide vormdossiers, dan uitgezochte **[!UICONTROL Prepare Form]** van het centrum van Hulpmiddelen of juist-handruit.
 
-   ![ Stap 2 van de Gegevens van de Vorm ](../assets/FormData_2.png)
+   ![&#x200B; Stap 2 van de Gegevens van de Vorm &#x200B;](../assets/FormData_2.png)
 
 1. Selecteer **[!UICONTROL Meer]** **>** **[!UICONTROL de Dossiers van de Gegevens van de Fusie in Spreadsheet]** in de juiste ruit.
 
-   ![ Stap 3 van de Gegevens van de Vorm ](../assets/FormData_3.png)
+   ![&#x200B; Stap 3 van de Gegevens van de Vorm &#x200B;](../assets/FormData_3.png)
 
 1. Selecteer de map die u met de ingevulde formulieren hebt gemaakt.
 
    Acrobat haalt de gegevens uit elk formulier op en maakt een spreadsheet van alle gegevens.
 
-   ![ Stap 4 van de Gegevens van de Vorm ](../assets/FormData_4.png)
+   ![&#x200B; Stap 4 van de Gegevens van de Vorm &#x200B;](../assets/FormData_4.png)

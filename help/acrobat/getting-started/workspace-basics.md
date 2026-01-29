@@ -20,7 +20,7 @@ Leer hoe je met de Acrobat-interface eenvoudig bestanden en tools kunt openen op
 
 >[!TIP]
 >
->Wilt u meer weten over de nieuwe Acrobat-ervaring die u kunt activeren in Acrobat? Controle uit het [ nieuwe de ervarings ](new-experience.md) leerprogramma van Acrobat.
+>Wilt u meer weten over de nieuwe Acrobat-ervaring die u kunt activeren in Acrobat? Controle uit het [&#x200B; nieuwe de ervarings &#x200B;](new-experience.md) leerprogramma van Acrobat.
 
 <br>
 

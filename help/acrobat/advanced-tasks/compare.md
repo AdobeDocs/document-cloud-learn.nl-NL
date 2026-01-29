@@ -18,17 +18,17 @@ ht-degree: 0%
 
 Maak nooit de fout om met de verkeerde versie van een bestand te werken. Detecteer snel en nauwkeurig de verschillen tussen twee PDF-bestanden om de workflows voor documentrevisie te verbeteren.
 
-[!BADGE  Gevallen van het Gebruik ]
+[!BADGE &#x200B; Gevallen van het Gebruik &#x200B;]
 Toepassingen, zekerheden, informatiebladen, handleidingen, beleidsregels, rapporten, verzoek om aankoop (RFPs)
 
-[!BADGE  Organisatorische Gevolgen ]
+[!BADGE &#x200B; Organisatorische Gevolgen &#x200B;]
 Kostenbesparingen, organisatorische efficiëntie, tijdbesparing, kwaliteitsgarantie
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ Geavanceerde Taken in Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; Geavanceerde Taken in Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) uitvoert die voor vrij op Experience League beschikbaar is!
 
 >[!NOTE]
 >

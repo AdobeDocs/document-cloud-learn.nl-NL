@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Aangepaste opdrachten en gereedschappen
 
-Leer hoe u de efficiëntie van de documentworkflow kunt verbeteren met aangepaste opdrachten en gereedschappen. Deel vervolgens je nieuwe opdrachten en tools met collega’s om de efficiëntie van je organisatie te verbeteren. Dit videoleerprogramma wordt nog niet toegelaten voor de [ nieuwe ervaring van Acrobat ](../getting-started/new-experience.md).
+Leer hoe u de efficiëntie van de documentworkflow kunt verbeteren met aangepaste opdrachten en gereedschappen. Deel vervolgens je nieuwe opdrachten en tools met collega’s om de efficiëntie van je organisatie te verbeteren. Dit videoleerprogramma wordt nog niet toegelaten voor de [&#x200B; nieuwe ervaring van Acrobat &#x200B;](../getting-started/new-experience.md).
 
 >[!NOTE]
 >

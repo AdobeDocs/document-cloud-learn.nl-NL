@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Bestanden combineren tot één PDF
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer om naadloos veel verschillende typen bestanden (PDF, Word, Excel, PowerPoint, JPEG, enz.) te combineren in één PDF. [ combinerend dossiers in één enkele PDF ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer om naadloos veel verschillende typen bestanden (PDF, Word, Excel, PowerPoint, JPEG, enz.) te combineren in één PDF. [&#x200B; combinerend dossiers in één enkele PDF &#x200B;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
 
 >[!TIP]
 >
->Leer over hoe te om een merk [ nieuwe douanepagina ](add-custom-page.md) toe te voegen terwijl het combineren van dossiers.
+>Leer over hoe te om een merk [&#x200B; nieuwe douanepagina &#x200B;](add-custom-page.md) toe te voegen terwijl het combineren van dossiers.
 
 <br>
 
@@ -28,4 +28,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

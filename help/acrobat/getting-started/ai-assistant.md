@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Ontdek PDF-inzichten met AI Assistant
 
-Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant analyseert een PDF om samenvattingen te genereren, vragen te beantwoorden en inzichten te extraheren met duidelijke toewijzingen aan de broninhoud, zodat je niet langer handmatig lange documenten hoeft te lezen. Door AI gegenereerde reacties worden geverifieerd door rechtstreeks te koppelen aan de exacte locaties in het document, waardoor sneller en betrouwbaarder beslissingen kunnen worden genomen. Deze videoleerprogramma gebruikt de [ nieuwe ervaring van Acrobat ](new-experience.md).
+Leer hoe je met AI Assistant inzichten krijgt uit je PDF-bestanden. AI Assistant analyseert een PDF om samenvattingen te genereren, vragen te beantwoorden en inzichten te extraheren met duidelijke toewijzingen aan de broninhoud, zodat je niet langer handmatig lange documenten hoeft te lezen. Door AI gegenereerde reacties worden geverifieerd door rechtstreeks te koppelen aan de exacte locaties in het document, waardoor sneller en betrouwbaarder beslissingen kunnen worden genomen. Deze videoleerprogramma gebruikt de [&#x200B; nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
 
 De AI-assistent is beschikbaar voor gebruikers die Acrobat Studio of de invoegtoepassing AI Assistant aanschaffen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE  team-specifiek ]
+[!BADGE &#x200B; team-specifiek &#x200B;]
 
 ## Hoe AI Assistant verschillende teams helpt
 

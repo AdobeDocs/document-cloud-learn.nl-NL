@@ -31,11 +31,11 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 * Korte alinea&#39;s met trefwoorden en lijsten gebruiken
 * Interne en externe inhoud toevoegen aan uw website of andere websites met hyperlinks
 * Een hyperlinkinhoudsopgave toevoegen voor documenten die langer zijn dan 25 pagina&#39;s
-* Voer [ tekstherkenning ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) op alle gescande documenten in werking
+* Voer [&#x200B; tekstherkenning &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) op alle gescande documenten in werking
 * Mobiele PDF maken
-Om de mobiele het bekijken ervaring van uw PDF te controleren, open het dossier in de [ mobiele app van Acrobat Reader ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en zet Vloeiende Wijze aan. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
+Om de mobiele het bekijken ervaring van uw PDF te controleren, open het dossier in de [&#x200B; mobiele app van Acrobat Reader &#x200B;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en zet Vloeiende Wijze aan. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
 
-  ![ Screenshot van Liquid Mode in de mobiele app van Acrobat Reader ](../assets/optimizeseo1.png)
+  ![&#x200B; Screenshot van Liquid Mode in de mobiele app van Acrobat Reader &#x200B;](../assets/optimizeseo1.png)
 
 +++
 
@@ -56,7 +56,7 @@ Voeg sleutel **[!UICONTROL Eigenschappen van het Document]** als volgt toe:
 Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekken, Verkennen, enz.
 1. Selecteer **[!UICONTROL Extra Meta-gegevens]** om auteursrecht of openbare domeininformatie toe te voegen indien van toepassing.
 
-   ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo2.png)
+   ![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo2.png)
 
 +++
 
@@ -64,7 +64,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 ## &#x200B;3. Tags toevoegen aan uw PDF
 
-Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [ Toegankelijk ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aan die individuen met gehandicapten-het verbetert ook SEO.
+Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [&#x200B; Toegankelijk &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aan die individuen met gehandicapten-het verbetert ook SEO.
 
 +++Details weergeven over het labelen van een PDF
 
@@ -76,7 +76,7 @@ Een PDF als volgt labelen:
 1. Voer **[!UICONTROL Vastgestelde Alternatieve Tekst]** indien nodig in.
 1. De sleutelwoorden van het gebruik om het beeld in de **[!UICONTROL Afwisselende Tekst]** te beschrijven.
 
-   ![ Screenshot van het plaatsen van Alternatieve tekst in PDF ](../assets/optimizeseo3.png)
+   ![&#x200B; Screenshot van het plaatsen van Alternatieve tekst in PDF &#x200B;](../assets/optimizeseo3.png)
 
 +++
 
@@ -88,7 +88,7 @@ Een PDF als volgt labelen:
 
 ## &#x200B;4. Voorbereiden voor het web
 
-Optimaliseer uw PDF door het voor Webmening voor te bereiden en [ verminderend de grootte van het PDF- dossier ](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimaliseer uw PDF door het voor Webmening voor te bereiden en [&#x200B; verminderend de grootte van het PDF- dossier &#x200B;](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Bekijk details over hoe je PDF voorbereidt voor het web
 
@@ -96,11 +96,11 @@ Bereid uw PDF als volgt voor op het web:
 
 Om uw PDF voor het Web voor te bereiden, selecteer **[!UICONTROL Dossier > sparen als Andere > Verminderde grootte PDF]**.
 
-![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo4.png)
+![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo4.png)
 
 Deze stap vermindert de dossiergrootte en laat **Snelle Mening van het Web** in de PDF toe. **Snelle Mening van het Web** laat het dossier toe om onmiddellijk worden geopend, worden bekeken en worden gezocht alvorens het volledige dossier wordt gestroomd of gedownload - creërend een optimale eindgebruikerervaring. Open **[!UICONTROL de Eigenschappen van het Document]** CTRL + D *op Vensters of* Cmd + D *op Mac) om te bepalen als* Snelle Mening van het Web **wordt toegelaten.**
 
-![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo5.png)
+![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
@@ -124,7 +124,7 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 ## &#x200B;6. Beveilig uw PDF
 
-De laatste stap is [ uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} te beschermen om onbevoegde veranderingen te verhinderen.
+De laatste stap is [&#x200B; uw PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} te beschermen om onbevoegde veranderingen te verhinderen.
 
 +++Bekijk details over het beveiligen van je PDF
 
@@ -137,7 +137,7 @@ Beveilig een PDF als volgt:
 1. Voer een sterk wachtwoord in en bevestig dit.
 1. Selecteer **[!UICONTROL O.K.]** en sla het dossier op.
 
-   ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo6.png)
+   ![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo6.png)
 
 +++
 

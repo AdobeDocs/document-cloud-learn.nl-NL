@@ -16,6 +16,6 @@ ht-degree: 2%
 
 # Fill &amp; Sign PDF forms
 
-Leer hoe te [ een vorm van de PDF invullen en ondertekenen ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html){target="_blank"} snel en gemakkelijk. Er hoeft niet per se te worden afgedrukt of gescand.
+Leer hoe te [&#x200B; een vorm van de PDF invullen en ondertekenen &#x200B;](https://www.adobe.com/nl/acrobat/online/sign-pdf.html){target="_blank"} snel en gemakkelijk. Er hoeft niet per se te worden afgedrukt of gescand.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
