@@ -19,7 +19,7 @@ Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroom
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE  team-specifiek ]
+[!BADGE &#x200B; team-specifiek &#x200B;]
 
 ## Hoe Acrobat Studio verschillende teams helpt
 

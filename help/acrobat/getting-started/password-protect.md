@@ -16,15 +16,15 @@ ht-degree: 1%
 
 # Protect een PDF-bestand met een wachtwoord
 
-Leer hoe te [ een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} toevoegen om anderen tegen het openen of [ het uitgeven van het dossier van de PDF ](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} te beschermen. Door uw PDF-bestanden te beschermen voorkomt u ongeoorloofde toegang, beschermt u gevoelige informatie, behoudt u de documentintegriteit en voldoet u aan bepaalde branchevoorschriften.
+Leer hoe te [&#x200B; een wachtwoord aan uw PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} toevoegen om anderen tegen het openen of [&#x200B; het uitgeven van het dossier van de PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/pdf-editor.html){target="_blank"} te beschermen. Door uw PDF-bestanden te beschermen voorkomt u ongeoorloofde toegang, beschermt u gevoelige informatie, behoudt u de documentintegriteit en voldoet u aan bepaalde branchevoorschriften.
 
 >[!SLIDE](protect-pdfs)
 
 >[!TIP]
 >
->Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [ Action Wizard ](../advanced-tasks/action.md).
+>Om veelvoudige PDF dossiers te beschermen, probeer gebruikend de [&#x200B; Action Wizard &#x200B;](../advanced-tasks/action.md).
 
-[!BADGE  team-specifiek ]
+[!BADGE &#x200B; team-specifiek &#x200B;]
 
 ## De bescherming van PDF helpt verschillende teams
 
