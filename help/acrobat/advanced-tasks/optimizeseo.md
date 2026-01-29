@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 * Eén hoofdkop/titel gebruiken die begint met een trefwoord
 * Trefwoordsubkoppen gebruiken die zijn geordend in een hiërarchische structuur
 * Korte alinea&#39;s met trefwoorden en lijsten gebruiken
-* Interne en externe (inhoud op uw website of andere websites) hyperlinks toevoegen
+* Interne en externe inhoud toevoegen aan uw website of andere websites met hyperlinks
 * Een hyperlinkinhoudsopgave toevoegen voor documenten die langer zijn dan 25 pagina&#39;s
-* Voer [&#x200B; tekstherkenning &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=nl-NL) op alle gescande documenten in werking
+* Voer [ tekstherkenning ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) op alle gescande documenten in werking
 * Mobiele PDF maken
-Om de mobiele het bekijken ervaring van uw PDF te controleren, open het dossier in de [&#x200B; mobiele app van Acrobat Reader &#x200B;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en zet Vloeiende Wijze aan. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
+Om de mobiele het bekijken ervaring van uw PDF te controleren, open het dossier in de [ mobiele app van Acrobat Reader ](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en zet Vloeiende Wijze aan. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
 
-  ![&#x200B; Screenshot van Liquid Mode in de mobiele app van Acrobat Reader &#x200B;](../assets/optimizeseo1.png)
+  ![ Screenshot van Liquid Mode in de mobiele app van Acrobat Reader ](../assets/optimizeseo1.png)
 
 +++
 
@@ -56,7 +56,7 @@ Voeg sleutel **[!UICONTROL Eigenschappen van het Document]** als volgt toe:
 Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekken, Verkennen, enz.
 1. Selecteer **[!UICONTROL Extra Meta-gegevens]** om auteursrecht of openbare domeininformatie toe te voegen indien van toepassing.
 
-   ![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo2.png)
+   ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo2.png)
 
 +++
 
@@ -64,7 +64,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 ## &#x200B;3. Tags toevoegen aan uw PDF
 
-Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [&#x200B; Toegankelijk &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=nl-NL) aan die met gehandicapten-het verbetert ook SEO.
+Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [ Toegankelijk ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aan die individuen met gehandicapten-het verbetert ook SEO.
 
 +++Details weergeven over het labelen van een PDF
 
@@ -76,7 +76,7 @@ Een PDF als volgt labelen:
 1. Voer **[!UICONTROL Vastgestelde Alternatieve Tekst]** indien nodig in.
 1. De sleutelwoorden van het gebruik om het beeld in de **[!UICONTROL Afwisselende Tekst]** te beschrijven.
 
-   ![&#x200B; Screenshot van het plaatsen van Alternatieve tekst in PDF &#x200B;](../assets/optimizeseo3.png)
+   ![ Screenshot van het plaatsen van Alternatieve tekst in PDF ](../assets/optimizeseo3.png)
 
 +++
 
@@ -88,7 +88,7 @@ Een PDF als volgt labelen:
 
 ## &#x200B;4. Voorbereiden voor het web
 
-Optimaliseer de ervaring van het in wisselwerking staan met uw PDF door het voor Webmening voor te bereiden en [&#x200B; verminderend de grootte van het PDF- dossier &#x200B;](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimaliseer uw PDF door het voor Webmening voor te bereiden en [ verminderend de grootte van het PDF- dossier ](https://www.adobe.com/nl/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Bekijk details over hoe je PDF voorbereidt voor het web
 
@@ -96,11 +96,11 @@ Bereid uw PDF als volgt voor op het web:
 
 Om uw PDF voor het Web voor te bereiden, selecteer **[!UICONTROL Dossier > sparen als Andere > Verminderde grootte PDF]**.
 
-![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo4.png)
+![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo4.png)
 
 Deze stap vermindert de dossiergrootte en laat **Snelle Mening van het Web** in de PDF toe. **Snelle Mening van het Web** laat het dossier toe om onmiddellijk worden geopend, worden bekeken en worden gezocht alvorens het volledige dossier wordt gestroomd of gedownload - creërend een optimale eindgebruikerervaring. Open **[!UICONTROL de Eigenschappen van het Document]** CTRL + D *op Vensters of* Cmd + D *op Mac) om te bepalen als* Snelle Mening van het Web **wordt toegelaten.**
 
-![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo5.png)
+![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
@@ -124,20 +124,20 @@ De bestandsnaam wordt onderdeel van de URL wanneer een PDF op het web wordt gepl
 
 ## &#x200B;6. Beveilig uw PDF
 
-De laatste stap is [&#x200B; uw PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} te beschermen om onbevoegde veranderingen te verhinderen.
+De laatste stap is [ uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} te beschermen om onbevoegde veranderingen te verhinderen.
 
 +++Bekijk details over het beveiligen van je PDF
 
 Beveilig een PDF als volgt:
 
 1. Open **[!UICONTROL de Eigenschappen van het Document]** CTRL + D *op Vensters of* Cmd + D *op Mac) en selecteer de* Veiligheid **[!UICONTROL tabel.]**
-1. Controleer **[!UICONTROL het uitgeven en druk van het document. Een wachtwoord zal worden vereist om deze montages te veranderen.]**
+1. Controleer **[!UICONTROL het uitgeven en druk van het document. Een wachtwoord wordt vereist om deze montages te veranderen.]**
 1. Onder **[!UICONTROL Toegestane Veranderingen:]** selecteer **[!UICONTROL niets]**.
 1. Controle **[!UICONTROL laat teksttoegang voor de apparaten van de het schermlezer voor visueel gehandicapt toe.]**
 1. Voer een sterk wachtwoord in en bevestig dit.
 1. Selecteer **[!UICONTROL O.K.]** en sla het dossier op.
 
-   ![&#x200B; Screenshot van de Eigenschappen van het Document &#x200B;](../assets/optimizeseo6.png)
+   ![ Screenshot van de Eigenschappen van het Document ](../assets/optimizeseo6.png)
 
 +++
 

@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Bestanden combineren tot één PDF
 
-Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer hoe je naadloos veel verschillende bestandstypen combineert (PDF, Word, Excel, PowerPoint, JPEG, enz.) in één PDF. [&#x200B; Combinerend dossiers in één enkele PDF &#x200B;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}  staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
+Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecreëerd. Leer om naadloos veel verschillende typen bestanden (PDF, Word, Excel, PowerPoint, JPEG, enz.) te combineren in één PDF. [ combinerend dossiers in één enkele PDF ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} staat u toe om inhoud te beheren en te controleren die u naar anderen verzendt-creërend een betere ervaring.
 
 >[!TIP]
 >
->Leer over hoe te om een merk [&#x200B; nieuwe douanepagina &#x200B;](add-custom-page.md) toe te voegen terwijl het combineren van dossiers.
+>Leer over hoe te om een merk [ nieuwe douanepagina ](add-custom-page.md) toe te voegen terwijl het combineren van dossiers.
 
 <br>
 
@@ -28,4 +28,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [ wordt Begonnen met Adobe Acrobat ](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!

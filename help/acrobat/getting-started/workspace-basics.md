@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5531
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ Leer hoe je met de Acrobat-interface eenvoudig bestanden en tools kunt openen op
 
 >[!TIP]
 >
->Wilt u meer weten over de nieuwe Acrobat-ervaring die u kunt activeren in Acrobat? Controle uit [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
+>Wilt u meer weten over de nieuwe Acrobat-ervaring die u kunt activeren in Acrobat? Controle uit het [ nieuwe de ervarings ](new-experience.md) leerprogramma van Acrobat.
 
 <br>
 

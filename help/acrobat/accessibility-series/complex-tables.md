@@ -5,23 +5,23 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Complexe tabellen
 
-Leer hoe u tabellen labelt voor toegankelijkheid in Acrobat. De volgende onderwerpen worden behandeld: opties voor tabeleditors instellen, het celtype (TD of TH) identificeren, het koptekstbereik en het bereik instellen, een tabeloverzicht maken, cel-id&#39;s genereren, gegevenscellen koppelen aan cel-id&#39;s voor kopcellen en een herhalende koptekstrij maken.
+Leer hoe u tabellen labelt voor toegankelijkheid in Acrobat. Tot de behandelde onderwerpen behoren het instellen van tabeleditoropties, het identificeren van het celtype (TD of TH), het instellen van het koptekstbereik en het bereik, en het maken van een tabeloverzicht. De zelfstudie behandelt ook het genereren van cel-id&#39;s voor kopteksten, het koppelen van gegevenscellen aan cel-id&#39;s voor kopteksten en het maken van een herhalende koptekstrij.
 
 >[!NOTE]
 >
 >Alleen beschikbaar in Acrobat Pro, Premium en Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477958?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Deze video maakt deel uit van de playlist [&#x200B; reeks van de Toegankelijkheid van de PDF &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van de playlist [ reeks van de Toegankelijkheid van de PDF ](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!

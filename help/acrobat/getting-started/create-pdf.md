@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Een PDF maken
 
-Leer hoe te [&#x200B; PDF van alle verschillende soorten documenten &#x200B;](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt de [&#x200B; Nieuwe ervaring van Acrobat &#x200B;](new-experience.md).
+Leer hoe te [ PDF van alle verschillende soorten documenten ](https://www.adobe.com/nl/acrobat/online/convert-pdf.html) tot stand brengen. Begin met een bestand dat is gemaakt in Microsoft Office of een Creative Cloud-app, of gebruik een afbeelding, een scan of zelfs een website. Het omzetten van content in PDF biedt een handige en betrouwbare manier om documenten te delen, te behouden en te beveiligen met behoud van hun oorspronkelijke opmaak. Deze videoleerprogramma gebruikt [ n ervaring ](new-experience.md).
 
 >[!TIP]
 >
->Gebruik je altijd Microsoft Office? Controle uit deze [&#x200B; integraties &#x200B;](../integrate/integrate-overview.md#microsoft) die u toestaan om PDF direct binnen uw favoriete toepassingen van het Bureau te creëren.
+>Gebruik je altijd Microsoft Office? Controle uit deze [ integraties ](../integrate/integrate-overview.md#microsoft) die u toestaan om PDF direct binnen uw favoriete toepassingen van het Bureau te creëren.
 
 <br>
 
@@ -28,4 +28,4 @@ Leer hoe te [&#x200B; PDF van alle verschillende soorten documenten &#x200B;](ht
 
 Wilt u een draagbare versie van deze zelfstudie? Selecteer het PDF-pictogram om een geschreven versie van deze zelfstudie te openen of te downloaden.
 
-[![&#x200B; PDF pictogramafbeelding &#x200B;](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}
+[![ PDF pictogramafbeelding ](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}
