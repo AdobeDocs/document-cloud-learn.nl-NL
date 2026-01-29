@@ -31,7 +31,7 @@ PDF-inhoud moet uniek zijn en als volgt zijn gestructureerd:
 * Korte alinea&#39;s met trefwoorden en lijsten gebruiken
 * Interne en externe inhoud toevoegen aan uw website of andere websites met hyperlinks
 * Een hyperlinkinhoudsopgave toevoegen voor documenten die langer zijn dan 25 pagina&#39;s
-* Voer [&#x200B; tekstherkenning &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) op alle gescande documenten in werking
+* Voer [&#x200B; tekstherkenning &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) op alle gescande documenten in werking
 * Mobiele PDF maken
 Om de mobiele het bekijken ervaring van uw PDF te controleren, open het dossier in de [&#x200B; mobiele app van Acrobat Reader &#x200B;](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) en zet Vloeiende Wijze aan. U kunt desgewenst aanvullende subkoppen opnemen om de navigatie te verbeteren.
 
@@ -64,7 +64,7 @@ Probeer de samenvatting te beginnen met een actiewerkwoord zoals Leren, Ontdekke
 
 ## &#x200B;3. Tags toevoegen aan uw PDF
 
-Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [&#x200B; Toegankelijk &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aan die individuen met gehandicapten-het verbetert ook SEO.
+Het etiketteren van inhoud in uw PDF maakt niet alleen uw dossier [&#x200B; Toegankelijk &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aan die individuen met gehandicapten-het verbetert ook SEO.
 
 +++Details weergeven over het labelen van een PDF
 

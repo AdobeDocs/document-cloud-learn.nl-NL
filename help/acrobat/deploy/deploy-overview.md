@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Implementatie- en best practice-artikelen met waardevolle inzichten en kennis die is opgedaan door met klanten te werken.
 
-* Leer hoe te [&#x200B; Adobe Acrobat &#x200B;](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} opstelt als u Adobe® Creative Cloud™ voor teams of onderneming gebruikt.
+* Leer hoe te [&#x200B; Adobe Acrobat &#x200B;](https://helpx.adobe.com/nl/enterprise/using/deploying-acrobat.html){target="_blank"} opstelt als u Adobe® Creative Cloud™ voor teams of onderneming gebruikt.
 
 * Leer over de [&#x200B; Toolkit van de Onderneming voor de Producten van Acrobat &#x200B;](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} om aangepaste producten over uw organisatie op te stellen, opstelling gevirtualiseerde installaties, en de werkschema&#39;s van de ondernemingsPDF tot stand te brengen.
 

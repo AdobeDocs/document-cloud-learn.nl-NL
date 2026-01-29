@@ -70,8 +70,8 @@ Gebruikers kunnen zich aanmelden bij https://documentcloud.adobe.com/ om alle ov
 
 ## Ga voor meer informatie naar de volgende pagina&#39;s:
 
-* [Aanmelden in Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [&#x200B; Beherend dossiers (waar zijn mijn dossiers?) &#x200B;](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Aanmelden in Adobe Document Cloud](https://helpx.adobe.com/nl/document-cloud/help/sign-in.html)
+* [&#x200B; Beherend dossiers (waar zijn mijn dossiers?) &#x200B;](https://helpx.adobe.com/nl/document-cloud/help/manage-files.html)
 * [&#x200B; Gebruikend [!UICONTROL &#x200B; Customization Wizard van Acrobat &#x200B;] voor configuratie &#x200B;](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [&#x200B; Overzicht van [!UICONTROL &#x200B; Admin Console &#x200B;] &#x200B;](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
 * [&#x200B; Beherend Adobe Sign op de [!UICONTROL &#x200B; Admin Console &#x200B;] &#x200B;](https://helpx.adobe.com/nl/enterprise/using/adobe-sign-for-enterprise.html)

@@ -28,4 +28,4 @@ Om de beste klantervaringen te bieden, moet content sneller dan ooit worden gecr
 
 >[!TIP]
 >
->Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van playlist [&#x200B; wordt Begonnen met Adobe Acrobat &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-get-started-business-users) die voor vrij op Experience League beschikbaar is!
