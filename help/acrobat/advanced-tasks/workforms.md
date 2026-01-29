@@ -37,7 +37,7 @@ Gebruik het gereedschap Prepare Form om automatisch formuliervelden toe te voege
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448517?captions=dut&quality=12&learn=on&hidetitle=true)
 
 <br>
 
@@ -94,7 +94,7 @@ Comb-eigenschappen worden gebruikt om tekst gelijkmatig te verspreiden over de b
 
 <br>
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439898?captions=dut&hidetitle=true)
 
 <br>
 
