@@ -83,11 +83,11 @@ ht-degree: 5%
       + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat van 60 seconden {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
