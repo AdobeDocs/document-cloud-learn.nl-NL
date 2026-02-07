@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe u het ondertekenen van een document kunt delegeren aan iemand anders.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3479527?captions=dut&quality=12&learn=on&hidetitle=true)
