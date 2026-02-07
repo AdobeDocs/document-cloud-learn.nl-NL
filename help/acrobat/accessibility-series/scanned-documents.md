@@ -25,4 +25,4 @@ Leer hoe u gescande documenten toegankelijk maakt in Acrobat. Gescande PDF kan l
 
 >[!TIP]
 >
->Deze video maakt deel uit van de playlist [&#x200B; reeks van de Toegankelijkheid van de PDF &#x200B;](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!
+>Deze video maakt deel uit van de playlist [&#x200B; reeks van de Toegankelijkheid van de PDF &#x200B;](https://experienceleague.adobe.com/nl/playlists/acrobat-pdf-accessibility) die voor vrij op Experience League beschikbaar is!
