@@ -16,4 +16,4 @@ ht-degree: 0%
 
 # Adobe Acrobat-bronnen
 
-Verken diverse [&#x200B; middelen &#x200B;](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) zoals webinars, blogs, rapporten, infographics, en gidsen om meer over Adobe Acrobat te leren.
+Verken diverse [&#x200B; middelen &#x200B;](https://business.adobe.com/nl/resources/acrobat.html?ch_Content-Type=Webinars) zoals webinars, blogs, rapporten, infographics, en gidsen om meer over Adobe Acrobat te leren.
