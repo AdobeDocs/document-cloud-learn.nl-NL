@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe eenvoudig het is om de ondertekening van een document aan iemand anders te delegeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3479527?captions=dut&quality=12&learn=on&hidetitle=true)
