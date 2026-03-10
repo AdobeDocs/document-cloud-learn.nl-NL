@@ -19,21 +19,21 @@ Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroom
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE  team-specifiek ]
+[!BADGE &#x200B; team-specifiek &#x200B;]
 
 ## Hoe Acrobat Studio verschillende teams helpt
 
 * **Juridisch &amp; Naleving**
 
-  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren. [Probeer het nu ](https://w.adobedemo.com/s/ujZN1y).
+  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren. [Probeer het nu &#x200B;](https://w.adobedemo.com/s/ujZN1y).
 
 * **Personeelsmiddelen**
 
-  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt. [Probeer het nu ](https://w.adobedemo.com/s/NvvfVm).
+  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt. [Probeer het nu &#x200B;](https://w.adobedemo.com/s/NvvfVm).
 
 * **Verkoop**
 
-  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden. [Probeer het nu ](https://w.adobedemo.com/s/HEEljN).
+  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden. [Probeer het nu &#x200B;](https://w.adobedemo.com/s/HEEljN).
 
 * **Marketing &amp; Mededelingen**
 
