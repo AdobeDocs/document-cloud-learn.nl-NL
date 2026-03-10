@@ -6,39 +6,39 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Wat is Acrobat Studio?
 
-Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroomlijnt met Acrobat Studio — zodat je team sneller kan bewegen. Acrobat Studio is een alles-in-één-oplossing met Acrobat Pro, AI Assistant, PDF Spaces en Adobe Express Premium. Deze geïntegreerde tools versnellen de teamproductiviteit door bestanden te centraliseren, AI-gedreven analyse mogelijk te maken en end-to-end contentcreatie te ondersteunen binnen een geïntegreerde werkruimte.
+Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroomlijnt met Acrobat Studio — zodat je team sneller kan bewegen. Acrobat Studio is een alles-in-één-oplossing met Acrobat Pro, AI Assistant, PDF Spaces en Adobe Express Premium. Verken *probeer het nu* interactieve opties hieronder om te leren hoe de Studio van Acrobat het werk van uw team stroomlijnt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475062?captions=dut&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE &#x200B; team-specifiek &#x200B;]
+[!BADGE  team-specifiek ]
 
 ## Hoe Acrobat Studio verschillende teams helpt
 
 * **Juridisch &amp; Naleving**
 
-  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren.
+  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren. [Probeer het nu ](https://w.adobedemo.com/s/ujZN1y).
 
 * **Personeelsmiddelen**
 
-  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt.
+  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt. [Probeer het nu ](https://w.adobedemo.com/s/NvvfVm).
 
 * **Verkoop**
 
-  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden.
+  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden. [Probeer het nu ](https://w.adobedemo.com/s/HEEljN).
 
 * **Marketing &amp; Mededelingen**
 
   Haal inzichten uit brondocumenten en transformeer ze met behulp van Adobe Express in merkpresentaties, one-pagers en visuele content.
 
-* **Uitvoeringen &amp; Leiders**
+* **Financiën**
 
-  Maak bondige, brongekoppelde samenvattingen in meerdere documenten, zodat beslissingen sneller kunnen worden genomen zonder dat elk bestand wordt gereviseerd.
+  Ontdek hoe financiële teams sneller kunnen gaan via financiële rapportage - zonder dat dit ten koste gaat van nauwkeurigheid, vertrouwen of controle. [Probeer het nu ] https://w.adobedemo.com/s/31LpAI.
