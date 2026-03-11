@@ -19,21 +19,21 @@ Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroom
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE  team-specifiek ]
+[!BADGE &#x200B; team-specifiek &#x200B;]
 
 ## Hoe Acrobat Studio verschillende teams helpt
 
 * **Juridisch &amp; Naleving**
 
-  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren. **[Probeer het nu ](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
+  Centraliseer beleidsregels, contracten en regelgevingsrichtlijnen in één werkruimte, en gebruik vervolgens AI Assistant om wijzigingen aan het licht te brengen, risico’s te identificeren en compatibele updates met verifieerbare citaten te genereren. **[Probeer het nu &#x200B;](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **Personeelsmiddelen**
 
-  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt. **[Probeer het nu ](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
+  Zet complexe beleidsdocumenten om in duidelijke samenvattingen, veelgestelde vragen en materialen die klaar zijn voor werknemers, terwijl je berichten consistent en compliant houdt. **[Probeer het nu &#x200B;](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **Verkoop**
 
-  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden. **[Probeer het nu ](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
+  Zet snel voorstellen en RFP-reacties samen door goedgekeurde content uit bestaande documenten te halen en deze om te zetten in gepolijst, gebruiksklare bestanden. **[Probeer het nu &#x200B;](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **Marketing &amp; Mededelingen**
 
@@ -41,4 +41,4 @@ Leer hoe je merkveilige content creëert, inzichten haalt en complex werk stroom
 
 * **Financiën**
 
-  Ontdek hoe financiële teams sneller kunnen gaan via financiële rapportage - zonder dat dit ten koste gaat van nauwkeurigheid, vertrouwen of controle. **[Probeer het nu ](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
+  Ontdek hoe financiële teams sneller kunnen gaan via financiële rapportage - zonder dat dit ten koste gaat van nauwkeurigheid, vertrouwen of controle. **[Probeer het nu &#x200B;](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
