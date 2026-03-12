@@ -15,7 +15,7 @@ ht-degree: 10%
 
 # 5 Tips voor het overal werken met digitale Acrobat-Protect-documenten
 
-[ voeg een wachtwoord aan uw PDF ](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} toe om het kopiëren, het uitgeven, of druk te verhinderen.
+[&#x200B; voeg een wachtwoord aan uw PDF &#x200B;](https://www.adobe.com/nl/acrobat/online/password-protect-pdf.html){target="_blank"} toe om het kopiëren, het uitgeven, of druk te verhinderen.
 
 ## Tip #3 - Protect digitale documenten (1:23)
 

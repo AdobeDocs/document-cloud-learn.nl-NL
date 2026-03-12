@@ -15,7 +15,7 @@ ht-degree: 7%
 
 # 5 Tips voor het werken overal met Acrobat—Werken met formulieren en handtekeningen
 
-Iedereen op één of ander punt moet [ vormen ](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) invullen. Leer hoe u digitaal kunt blijven bij het invullen van formulieren, aangezien u niet altijd toegang hebt tot een printer.
+Iedereen op één of ander punt moet [&#x200B; vormen &#x200B;](https://www.adobe.com/nl/acrobat/online/sign-pdf.html) invullen. Leer hoe u digitaal kunt blijven bij het invullen van formulieren, aangezien u niet altijd toegang hebt tot een printer.
 
 ## Tip #4 - Werken met formulieren en handtekeningen (7:03)
 
