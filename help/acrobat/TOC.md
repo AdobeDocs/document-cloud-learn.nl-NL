@@ -6,23 +6,23 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
+source-git-commit: 3a947947f9eaac8e369a2236b5795fb5a74fb01b
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 5%
+source-wordcount: '634'
+ht-degree: 4%
 
 ---
 
 
 # Acrobat Tutorials {#acrobat-learning}
 
-+ [Overview](overview.md)
++ [Overzicht](overview.md)
 + Aan de slag {#get-started}
-   + [Overview](getting-started/getting-started-overview.md)
+   + [Overzicht](getting-started/getting-started-overview.md)
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [&#x200B; Werk met  [!DNL Microsoft 365] &#x200B;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+      + [Werken met  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -52,7 +52,7 @@ ht-degree: 5%
       + [Handtekeningen ophalen](getting-started/signatures.md)
       + [Uw documenten volgen](getting-started/track.md)
 + Toegankelijkheidsreeks {#accessibility-tutorials}
-   + [Overview](accessibility-series/accessibility-overview.md)
+   + [Overzicht](accessibility-series/accessibility-overview.md)
    + [De wat en waarom van toegankelijke PDF-bestanden](accessibility-series/what-why-accessible-pdf.md)
    + [Uw werkruimte instellen](accessibility-series/set-up-workspace.md)
    + [Een toegankelijke PDF maken vanuit Word](accessibility-series/create-accessible-from-word.md)
@@ -64,7 +64,7 @@ ht-degree: 5%
    + [Complexe tabellen](accessibility-series/complex-tables.md)
    + [Handeling Toegankelijk maken](accessibility-series/make-accessible-action.md)
 + Geavanceerde taken {#advanced-tasks}
-   + [Overview](advanced-tasks/advanced-tasks-overview.md)
+   + [Overzicht](advanced-tasks/advanced-tasks-overview.md)
    + Voorbereiden en verbeteren {#prepare}
       + [Een PDF comprimeren en optimaliseren](advanced-tasks/reduce.md)
       + [Gescande documenten optimaliseren](advanced-tasks/optimizescan.md)
@@ -82,71 +82,71 @@ ht-degree: 5%
       + [Handelingen met instructies](advanced-tasks/action.md)
       + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
-   + [Overview](ai-powered/ai-overview.md)
-   + [&#x200B; Ontdek de inzichten van de PDF met AI Medewerker &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [&#x200B; teamefficiency van de Verhoging met PDF Spaces &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [&#x200B; wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [&#x200B; geef grafiek in a PDF  uit](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [&#x200B; stileer deze PDF &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
-+ Acrobat van 60 seconden {#60-second}
-   + [Overview](60-second/60-second-overview.md)
+   + [Overzicht](ai-powered/ai-overview.md)
+   + [Ontdek PDF-inzichten met AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Stimuleer teamefficiëntie met PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Afbeeldingen in een PDF bewerken](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Deze PDF stileren](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Gebruiksscenario&#39;s {#use-cases}
+   + [Overzicht](use-cases/use-cases-overview.md)
+   + Overheid {#gov}
+      + [Overzicht](use-cases/gov/gov-overview.md)
+      + 5 tips voor het overal werken met Acrobat {#tips}
+         + [ 5 uiteinden voor het werken overal met Acrobat ](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Tip 1 - Download je tools](use-cases/gov/get-your-tools.md)
+         + [Tip 2 - Samenwerken aan documenten](use-cases/gov/collaborate-on-documents.md)
+         + [Tip 3 - Digitale documenten beschermen](use-cases/gov/protect-digital-documents.md)
+         + [Tip 4 - Werken met formulieren en handtekeningen](use-cases/gov/work-with-forms-and-signatures.md)
+         + [Tip 5 - Scannen en bewerken op mobiele apparaten](use-cases/gov/scan-and-edit-on-mobile.md)
++ 60 seconden Acrobat {#60-second}
+   + [Overzicht](60-second/60-second-overview.md)
    + [PDF bewerken met Acrobat-web](60-second/edit.md)
    + [Tekst in een gescand PDF-bestand herkennen](60-second/textrecognition.md)
    + [Bestanden combineren tot één PDF](60-second/combine-to-one-pdf.md)
-   + [Pagina&#39;s in een oogwenk ordenen](60-second/organize.md)
+   + [Pagina&#39;s zo snel mogelijk ordenen](60-second/organize.md)
    + [Een foto bewerken in uw PDF](60-second/editphoto.md)
-   + [Een afbeelding in uw PDF bewerken](60-second/editgraphic.md)
-   + [Een PDF naar Word converteren](60-second/convert-pdf-word.md)
+   + [Een afbeelding bewerken in uw PDF](60-second/editgraphic.md)
+   + [PDF converteren naar Word](60-second/convert-pdf-word.md)
    + [Een PDF converteren naar Excel](60-second/convert-pdf-excel.md)
-   + [Een PDF omzetten in PowerPoint](60-second/convert-pdf-powerpoint.md)
-   + [Export PDF aan Word van uw telefoon](60-second/exportwordphone.md)
+   + [Een PDF converteren naar PowerPoint](60-second/convert-pdf-powerpoint.md)
+   + [Export PDF naar Word van je telefoon](60-second/exportwordphone.md)
    + [Een PDF maken van Microsoft Word](60-second/word-to-pdf.md)
    + [PDF-bestanden maken met Acrobat](60-second/create-from-acrobat.md)
-   + [Word converteren naar PDF, inclusief formuliervelden](60-second/wordform.md)
-   + [In een oogwenk een PDF van foto&#39;s maken](60-second/photo.md)
-   + [Zet een PPT-bestand om in PDF op uw telefoon](60-second/phone.md)
-   + [Eenvoudiger PDF-bestanden maken](60-second/optimize.md)
-   + [Elektronisch een papieren document ondertekenen](60-second/sign.md)
-   + [Protect uw PDF-bestanden met een wachtwoord](60-second/protect.md)
-   + [Redactie: de juiste weg](60-second/redaction.md)
+   + [Word naar PDF converteren, inclusief formuliervelden](60-second/wordform.md)
+   + [Maak direct een PDF met foto&#39;s](60-second/photo.md)
+   + [Een PPT-bestand naar PDF converteren op uw telefoon](60-second/phone.md)
+   + [Efficiëntere PDF-bestanden in één klap maken](60-second/optimize.md)
+   + [Een papieren document elektronisch ondertekenen](60-second/sign.md)
+   + [PDF-bestanden beveiligen met een wachtwoord](60-second/protect.md)
+   + [Redactie: De juiste manier](60-second/redaction.md)
    + [Delen voor opmerkingen](60-second/share-comment.md)
-   + [Delen en opmerkingen plaatsen over PDF-bestanden in teams](60-second/share-comment-teams.md)
-   + [PDF-opmerkingen met overzicht](60-second/summarize-comments.md)
+   + [PDF-bestanden delen en opmerkingen toevoegen in teams](60-second/share-comment-teams.md)
+   + [PDF-opmerkingen omdraaien met overzicht](60-second/summarize-comments.md)
    + [PDF-opmerkingen laden in InDesign](60-second/indesign.md)
-   + [Acrobat helpen bij het maken van toegankelijke PDF](60-second/accessible.md)
+   + [Acrobat helpen bij het maken van toegankelijke PDF&#39;s](60-second/accessible.md)
    + [Een PDF omzetten in een standaardindeling](60-second/conform.md)
-   + [Breng de verschillen met PDF bij Vergelijken](60-second/compare.md)
+   + [De verschillen met PDF Compare schalen](60-second/compare.md)
    + [Meerdere PDF-bestanden tegelijk zoeken](60-second/search.md)
-+ Vaardigingenbouwers {#skill-builders}
++ Skill Builders {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integraties {#integrations}
-   + [Overview](integrate/integrate-overview.md)
+   + [Overzicht](integrate/integrate-overview.md)
    + [PDF maken van  [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Creeer PDF in  [!DNL Office]  voor het Web](integrate/createofficeweb.md)
-   + [PDF samenwerking in  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Werk met uw  [!DNL SharePoint]  dossiers](integrate/acrobatandsp.md)
+   + [Creeer PDFs in  [!DNL Office]  voor het Web](integrate/createofficeweb.md)
+   + [PDF-samenwerking in  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Het werk met uw  [!DNL SharePoint]  dossiers](integrate/acrobatandsp.md)
    + [E-mailberichten en bijlagen converteren naar PDF in  [!DNL Outlook]](integrate/outlook.md)
    + [PDF-inhoud maken tijdens bladeren met  [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Protect PDF die  [!DNL Microsoft Purview Information]  gevoeligheidsetiketten gebruiken](integrate/microsoftsensitivitylabels.md)
+   + [Bescherm PDFs gebruikend  [!DNL Microsoft Purview Information]  gevoeligheidslabels](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat for  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Werken met bestanden van  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Industrie en diensten {#by-industry}
-   + [Overview](industry/industry-overview.md)
-   + Overheid {#gov}
-      + [Overview](industry/gov/gov-overview.md)
-      + 5 tips voor het overal werken met Acrobat {#tips}
-         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [Tip 1 - Download je tools](industry/gov/get-your-tools.md)
-         + [Tip 2 - Samenwerken aan documenten](industry/gov/collaborate-on-documents.md)
-         + [Tip 3 - Protect digitale documenten](industry/gov/protect-digital-documents.md)
-         + [Tip 4 - Werken met formulieren en handtekeningen](industry/gov/work-with-forms-and-signatures.md)
-         + [Tip 5 - Scannen en bewerken op mobiele apparaten](industry/gov/scan-and-edit-on-mobile.md)
 + Ontwikkelen {#develop}
-   + [Overview](develop/develop-overview.md)
+   + [Overzicht](develop/develop-overview.md)
 + Implementeren {#deploy}
-   + [Overview](deploy/deploy-overview.md)
-   + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
+   + [Overzicht](deploy/deploy-overview.md)
+   + [Belangrijke productupdates van Acrobat DC voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
-   + [Overview](mobile/mobile-overview.md)
-   + [&#x200B; Productiviteit op de weg &#x200B;](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Overzicht](mobile/mobile-overview.md)
+   + [Productiviteit onderweg](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
