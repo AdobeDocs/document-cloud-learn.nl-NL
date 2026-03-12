@@ -22,7 +22,7 @@ ht-degree: 4%
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [Werken met  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Werken met  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 4%
       + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
    + [Overzicht](ai-powered/ai-overview.md)
-   + [Ontdek PDF-inzichten met AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Stimuleer teamefficiëntie met PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Afbeeldingen in een PDF bewerken](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Deze PDF stileren](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Ontdek PDF-inzichten met AI Assistant](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Stimuleer teamefficiëntie met PDF Spaces](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Afbeeldingen in een PDF bewerken](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Deze PDF stileren](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Gebruiksscenario&#39;s {#use-cases}
    + [Overzicht](use-cases/use-cases-overview.md)
    + Overheid {#gov}
@@ -148,5 +148,5 @@ ht-degree: 4%
    + [Belangrijke productupdates van Acrobat DC voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + [Productiviteit onderweg](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Productiviteit onderweg](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)
