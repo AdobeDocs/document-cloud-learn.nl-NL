@@ -1,22 +1,56 @@
 ---
-title: Gebruiksscenario's
-description: Kijk hoe je klantervaringen en werknemerservaringen kunt transformeren door verschillende gebruiksscenario’s te onderzoeken
+title: Overzicht van gevallen gebruiken
+description: Ontdek verschillende gebruiksscenario’s en ontdek hoe Acrobat je werk kan transformeren
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Gebruiksscenario&#39;s
+# Overzicht van gevallen
 
-Ontdek hoe je met Acrobat de productiviteit verhoogt en informatie omzet in actiegerichte inzichten voor je team.
+Ontdek hoe je met Acrobat de productiviteit verhoogt en informatie omzet in actiegerichte inzichten voor je team en de sector.
+
+## Bedrijfstak
+
+Ontdek hoe teams in verschillende bedrijfssectoren Acrobat gebruiken om dagelijkse documentuitdagingen op te lossen, workflows te stroomlijnen en bedrijfskritieke taken te ondersteunen.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Gebruiksscenario&apos;s voor financiën" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong> de gebruiksgevallen van de Financiën </strong></a>
+    </div>
+    <em> Leer hoe de financiële teams Acrobat gebruiken om, financiële documenten tot stand te brengen te beheren, te analyseren en te beveiligen </em>
+    <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Industrie
 
@@ -27,7 +61,7 @@ Ontdek hoe je met Acrobat de productiviteit verhoogt en informatie omzet in acti
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat voor de overheid" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat voor de overheid"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat voor de overheid"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
