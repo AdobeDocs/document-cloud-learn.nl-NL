@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ Ontdek financieringsspecifieke workflows die laten zien hoe Acrobat het maken va
 
 >[!TAB  draai financiële rapporten in uitvoerend-klaar inzichten ]
 
-Leer hoe de financieringsteams financiële informatie kunnen consolideren om zeer belangrijke prestaties [&#x200B; inzicht &#x200B;](finance-insights.md) snel te blootstellen.
+Leer hoe de financieringsteams financiële informatie kunnen consolideren om zeer belangrijke prestaties [ inzicht ](finance-insights.md) snel te blootstellen.
 
 >[!ENDTABS]
 
@@ -32,12 +33,12 @@ Leer hoe de financieringsteams financiële informatie kunnen consolideren om zee
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="Zet financiële rapporten om in inzichten die klaar zijn voor de uitvoering" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="Bereid voor op de uitvoering afgestemde financiële documenten voor, van inzicht tot levering" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong> draai financiële rapporten in uitvoerend-klaar inzichten </strong></a>
+    <a href="finance-insights.md"><strong> voorbereidt uitvoerend-klaar financiële documenten van inzicht aan levering </strong></a>
     </div>
-    <em> Leer hoe de financiële teams financiële informatie kunnen consolideren om zeer belangrijke prestatiesinzichten snel te blootstellen </em>
+    <em> Leer hoe de financiële teams de Studio van Acrobat gebruiken om zich van analyse aan levering te bewegen </em>
     <br>
   </td>
   <td>
