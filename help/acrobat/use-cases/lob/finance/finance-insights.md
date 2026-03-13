@@ -6,32 +6,36 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 57155812d67c812370d0b5d93f03211b5e1c25f7
+source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Bereid voor op de uitvoering afgestemde financiële documenten voor, van inzicht tot levering
 
-Ontdek hoe financiële teams Acrobat Studio gebruiken om van analyse naar levering te gaan door financiële documenten te consolideren, veilig samen te werken met stakeholders en voor managers geschikte rapporten en presentaties te maken. Deze end-to-end workflow laat zien hoe je inzichten blootlegt, revisies beheert, een merkconsistent ontwerp toepast en veilige, controleklare financiële materialen levert voor leiderschaps- en boardrapportage. Dit gebruiksscenario is ontworpen om op volgorde te worden voltooid. Elke video bouwt verder op de vorige stap in de workflow.
+Ontdek hoe financiële teams Acrobat gebruiken om financiële documenten te beheren, van inzicht tot levering. Dit gebruiksgeval doorloopt een end-to-end workflow voor het analyseren van informatie, het samenwerken met belanghebbenden en het creëren van voor managers geschikt financieel materiaal. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
 
-## &#x200B;1. Betere financiële prestaties
+Meest geschikt voor: financiële leiders, teams voor KP&amp;A, analisten en iedereen die materiaal voorbereidt voor evaluatie door directie of bestuur.
+
+## Stap 1. Betere financiële prestaties
 
 Begin met het consolideren van financiële documenten en het blootleggen van belangrijke inzichten om informatie voor te bereiden voor de evaluatie door de directie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;2. Samenwerken aan financiële rapporten
+## Stap 2. Samenwerken aan financiële rapporten
 
-Breng stakeholders bijeen om financieel materiaal te bekijken, feedback te delen en inzichten te verfijnen in een veilige werkruimte.
+Inzichten zijn nu klaar voor teamreview. Breng stakeholders bijeen om financieel materiaal te bekijken, feedback te delen en inzichten te verfijnen in een veilige werkruimte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;3. Presentaties maken die klaar zijn voor de uitvoering
+## Stap 3. Presentaties maken die klaar zijn voor de uitvoering
 
-Zet gevalideerde inzichten om in verfijnde, merkgebonden presentaties en zorg voor financiële producten voor leiderschap.
+Feedback is voltooid en de inhoud kan worden geleverd. Zet gevalideerde inzichten om in verfijnde, merkgebonden presentaties en zorg voor financiële producten voor leiderschap.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
+Je hebt nu een herhaalbaar proces voor het analyseren, evalueren en leveren van financiële documenten die klaar zijn voor het dagelijks bestuur met Acrobat.
 
