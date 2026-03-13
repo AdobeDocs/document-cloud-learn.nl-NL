@@ -97,7 +97,7 @@ ht-degree: 4%
    + Overheid {#gov}
       + [Overzicht](use-cases/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [ 5 uiteinden voor het werken overal met Acrobat ](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](use-cases/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](use-cases/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](use-cases/gov/protect-digital-documents.md)

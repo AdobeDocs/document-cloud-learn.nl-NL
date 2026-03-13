@@ -23,7 +23,7 @@ Ontdek financieringsspecifieke workflows die laten zien hoe Acrobat het maken va
 
 >[!TAB  draai financiële rapporten in uitvoerend-klaar inzichten ]
 
-Leer hoe de financieringsteams financiële informatie kunnen consolideren om zeer belangrijke prestaties [ inzicht ](finance-insights.md) snel te blootstellen.
+Leer hoe de financieringsteams financiële informatie kunnen consolideren om zeer belangrijke prestaties [&#x200B; inzicht &#x200B;](finance-insights.md) snel te blootstellen.
 
 >[!ENDTABS]
 
