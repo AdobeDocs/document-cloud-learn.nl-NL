@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
+source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 Ontdek hoe financiële teams Acrobat gebruiken om financiële documenten te beheren, van inzicht tot levering. Dit gebruiksgeval doorloopt een end-to-end workflow voor het analyseren van informatie, het samenwerken met belanghebbenden en het creëren van voor managers geschikt financieel materiaal. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
 
-Meest geschikt voor: financiële leiders, teams voor KP&amp;A, analisten en iedereen die materiaal voorbereidt voor evaluatie door directie of bestuur.
+**het Meest voor:** de leiders van Financiën, teams van FP&amp;A, analisten, en iedereen die materiaal voor uitvoerend of boardoverzicht voorbereidt.
 
 ## Stap 1. Betere financiële prestaties
 
