@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -22,7 +23,7 @@ Ontdek hoe HR-teams Acrobat gebruiken om documenten en workflows te beheren tijd
 
 >[!TAB  Van inzicht aan effect: Stroomlijn de werkschema&#39;s van HR ]
 
-Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemers te stroomlijnen onboardinginhoud van [&#x200B; inzicht, samenwerking, aan levering on-brand &#x200B;](hr-insights.md).
+Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemers te stroomlijnen onboardinginhoud van [ inzicht, samenwerking, aan levering on-brand ](hr-insights.md).
 
 >[!ENDTABS]
 
@@ -32,10 +33,10 @@ Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemers te stroo
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="Van inzicht tot impact: stroomlijn HR-workflows" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="Van inzicht tot impact: stroomlijn onboarding-workflows" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong> Van inzicht aan effect: Stroomlijn de werkschema's van HR </strong></a>
+    <a href="hr-insights.md"><strong> Van inzicht aan effect: Stroomlijn onboardingworkflows </strong></a>
     </div>
     <em> Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemersonboarding van begin tot eind te stroomlijnen </em>
     <br>

@@ -1,22 +1,23 @@
 ---
-title: Van inzicht tot impact — Stroomlijn HR-workflows
+title: Van inzicht tot impact — Stroomlijn onboarding-workflows
 description: Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van begin tot eind te stroomlijnen
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# Van inzicht tot impact: stroomlijn HR-workflows
+# Van inzicht tot impact: stroomlijn onboarding-workflows
 
 Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van begin tot eind te stroomlijnen. Leer hoe je complexe onboardingdocumenten omzet in duidelijke inzichten, samenwerkt met stakeholders in gedeelde PDF Spaces en gepolijste, merkgerichte content creëert die klaar is om te delen met nieuwe medewerkers — sneller, consistenter en met vertrouwen. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
 
-**Best voor:** de leiders van u, de verrichtingen van u en bedrijfspartners, onboarding en de teams van de werknemerservaring, en iedereen verantwoordelijk voor het herzien van, het samenwerken aan, of het creëren van werknemer-onder ogen ziende de materialen van HR.
+**het Meest voor:** de leiders van u, de verrichtingen van u en bedrijfspartners, onboarding en de teams van de werknemerservaring, en iedereen die de materialen van u voor werknemers of leiding voorbereidt.
 
 ## Stap 1. Zet onboardingdocumenten om in duidelijke inzichten
 
@@ -37,4 +38,3 @@ Feedback is voltooid en de inhoud kan worden geleverd. Bekijk hoe Acrobat Studio
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 U hebt nu een herhaalbaar proces voor het analyseren, reviseren en leveren van voor werknemers geschikte documenten met Acrobat Studio.
-
