@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
+source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '135'
 ht-degree: 1%
 
 ---
 
 # Acrobat HR-praktijkvoorbeelden
 
-Ontdek hoe HR-teams Acrobat gebruiken om documenten en workflows te beheren tijdens de hele levenscyclus van medewerkers. Van inzicht in complexe HR-materialen en samenwerking met belanghebbenden tot het creëren van duidelijke, merkgebonden content, bekijk hoe HR-teams efficiënter werken, op één lijn blijven en betere werknemerservaringen bieden.
+Ontdek hoe HR-teams Acrobat gebruiken om documenten en workflows te beheren tijdens de hele levenscyclus van medewerkers. Van inzicht in complexe HR-materialen en samenwerking met belanghebbenden tot het creëren van duidelijke, merkgerichte content, bekijk hoe Acrobat HR-teams efficiënter kan werken, op één lijn kan blijven en betere werknemerservaringen kan bieden.
 
 ## Nieuw
 
@@ -22,7 +22,7 @@ Ontdek hoe HR-teams Acrobat gebruiken om documenten en workflows te beheren tijd
 
 >[!TAB  Van inzicht aan effect: Stroomlijn de werkschema&#39;s van HR ]
 
-Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemers te stroomlijnen onboardinginhoud van [&#x200B; inzicht, samenwerking, aan levering on-brand &#x200B;](hr-insights.md).
+Ontdek hoe de teams van u de Studio van Acrobat gebruiken om werknemers te stroomlijnen onboardinginhoud van [ inzicht, samenwerking, aan levering on-brand ](hr-insights.md).
 
 >[!ENDTABS]
 

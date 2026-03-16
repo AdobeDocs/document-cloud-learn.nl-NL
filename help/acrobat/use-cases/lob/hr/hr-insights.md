@@ -1,20 +1,20 @@
 ---
-title: Van inzicht tot impact — Stream HR-workflows
+title: Van inzicht tot impact — Stroomlijn HR-workflows
 description: Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van begin tot eind te stroomlijnen
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
+source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 2%
 
 ---
 
-# Van inzicht tot impact: stroom HR-workflows
+# Van inzicht tot impact: stroomlijn HR-workflows
 
-Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van begin tot eind te stroomlijnen. Leer hoe je complexe onboardingdocumenten omzet in duidelijke inzichten, met stakeholders in gedeelde PDF Spaces samenwerkt en gepolijste, merkgerichte content creëert die klaar is om te delen met nieuwe huren - sneller, consistenter en met vertrouwen. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
+Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van begin tot eind te stroomlijnen. Leer hoe je complexe onboardingdocumenten omzet in duidelijke inzichten, samenwerkt met stakeholders in gedeelde PDF Spaces en gepolijste, merkgerichte content creëert die klaar is om te delen met nieuwe medewerkers — sneller, consistenter en met vertrouwen. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
 
 **Best voor:** de leiders van u, de verrichtingen van u en bedrijfspartners, onboarding en de teams van de werknemerservaring, en iedereen verantwoordelijk voor het herzien van, het samenwerken aan, of het creëren van werknemer-onder ogen ziende de materialen van HR.
 
