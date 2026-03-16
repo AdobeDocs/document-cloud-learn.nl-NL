@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Inzichten zijn nu klaar voor teamreview. Ontdek hoe PDF Spaces feedback, opmerki
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Stap 3. Presentaties maken die klaar zijn voor de uitvoering
+## Stap 3. Maak aansprekende onboardingcontent voor nieuwe medewerkers
 
 Feedback is voltooid en de inhoud kan worden geleverd. Bekijk hoe Acrobat Studio AI en branded sjablonen gebruikt om snel werknemersklare presentaties en materialen te maken die je eenvoudig kunt delen en bijwerken.
 
