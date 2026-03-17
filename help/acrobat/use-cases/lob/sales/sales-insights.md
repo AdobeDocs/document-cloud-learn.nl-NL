@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
+source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 2%
