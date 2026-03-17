@@ -22,7 +22,7 @@ Laat juridische teams sneller bewegen, verminder risico’s en behoud controle i
 
 >[!TAB  Zet wettelijke inzichten in actiegerichte begeleiding ]
 
-Leer hoe de wettelijke teams de Studio van Acrobat gebruiken om [ complexe documenten te analyseren, veilig samen te werken, en inzichten ](legal-insights.md) in duidelijke, actiegerichte begeleiding te veranderen — sneller en met groter vertrouwen.
+Leer hoe de wettelijke teams de Studio van Acrobat gebruiken om [&#x200B; complexe documenten te analyseren, veilig samen te werken, en inzichten &#x200B;](legal-insights.md) in duidelijke, actiegerichte begeleiding te veranderen — sneller en met groter vertrouwen.
 
 >[!ENDTABS]
 
