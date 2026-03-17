@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Overzicht juridische use cases voor Acrobat
 
-Leer hoe je juridische revisies stroomlijnt door documentanalyse, samenwerking en contentcreatie in één veilige, beheerde workflow te plaatsen.
+Laat juridische teams sneller bewegen, verminder risico’s en behoud controle in elke fase van documentrevisie en levering.
 
 ## Nieuw
 
@@ -22,7 +22,7 @@ Leer hoe je juridische revisies stroomlijnt door documentanalyse, samenwerking e
 
 >[!TAB  Zet wettelijke inzichten in actiegerichte begeleiding ]
 
-Leer hoe de wettelijke teams de Studio van Acrobat gebruiken om [&#x200B; complexe documenten te analyseren, veilig samen te werken, en inzichten &#x200B;](legal-insights.md) in duidelijke, actiegerichte begeleiding te veranderen — sneller en met groter vertrouwen.
+Leer hoe de wettelijke teams de Studio van Acrobat gebruiken om [ complexe documenten te analyseren, veilig samen te werken, en inzichten ](legal-insights.md) in duidelijke, actiegerichte begeleiding te veranderen — sneller en met groter vertrouwen.
 
 >[!ENDTABS]
 
