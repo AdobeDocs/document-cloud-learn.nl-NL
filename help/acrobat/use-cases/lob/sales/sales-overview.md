@@ -23,7 +23,7 @@ Ontdek hoe verkoopteams van inzicht in klanten naar uitvoering overstappen door 
 
 >[!TAB  Zet klantenintelligentie in het winnen verkoopactiva ]
 
-Leer hoe de verkoopteams klant [ inzichten kunnen verzamelen, samenwerken, en on-brand presentaties ](sales-insights.md) produceren.
+Leer hoe de verkoopteams klant [&#x200B; inzichten kunnen verzamelen, samenwerken, en on-brand presentaties &#x200B;](sales-insights.md) produceren.
 
 >[!ENDTABS]
 
