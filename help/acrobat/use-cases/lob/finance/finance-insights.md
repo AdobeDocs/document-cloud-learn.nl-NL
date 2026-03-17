@@ -23,13 +23,13 @@ Ontdek hoe financiële teams Acrobat gebruiken om financiële documenten te behe
 
 Begin met het consolideren van financiële documenten en het blootleggen van belangrijke inzichten om informatie voor te bereiden voor de evaluatie door de directie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481429?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 2. Samenwerken aan financiële rapporten
 
 Inzichten zijn nu klaar voor teamreview. Breng stakeholders bijeen om financieel materiaal te bekijken, feedback te delen en inzichten te verfijnen in een veilige werkruimte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481442?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 3. Presentaties maken die klaar zijn voor de uitvoering
 
