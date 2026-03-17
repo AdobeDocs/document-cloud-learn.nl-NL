@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Ontdek hoe verkoopteams klantinzichten kunnen verzamelen, kunnen samenwerken in een gedeelde werkruimte en gevalideerde informatie kunnen omzetten in on-brand presentaties en voorstellen - sneller en met meer vertrouwen. Dit gebruiksgeval is ontworpen om op volgorde te worden voltooid, waarbij elke video voortbouwt op de vorige stap.
 
-**Best voor:** Best voor: De leiders van u, de verrichtingen van u en bedrijfspartners, onboarding en de teams van de werknemerservaring, en iedereen die de materialen van u voor werknemers of leiderschap voorbereidt.
+**Meest voor:** de managers van de Rekening, verkoopmanagers, handelsteams, en iedereen die klant-onder ogen ziende verkoopmaterialen voor vergaderingen, presentaties, of voorstellen voorbereidt.
 
-## Stap 1. Zet onboardingdocumenten om in duidelijke inzichten
+## Stap 1. Begrijp je klant met AI-gedreven inzichten
 
 Leer eerst hoe je klantdocumenten verzamelt, belangrijke informatie analyseert en door AI gedreven samenvattingen en inzichten gebruikt om inzicht te krijgen in de behoeften van klanten en je voor te bereiden op effectievere verkoopgesprekken.
 
@@ -36,4 +36,4 @@ Feedback is voltooid en de inhoud kan worden geleverd. Leer hoe je gevalideerde 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-U hebt nu een herhaalbaar proces voor het begrijpen van klanten, het samenwerken met belanghebbenden en het leveren van voor de verkoop geschikte presentaties en voorstellen met Acrobat Studio.Y
+U hebt nu een herhaalbaar proces om klanten te begrijpen, samen te werken met belanghebbenden en voor verkoop geschikte presentaties en voorstellen te leveren met Acrobat Studio.
