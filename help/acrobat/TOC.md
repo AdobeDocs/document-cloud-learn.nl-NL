@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '674'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Meer informatie over de basisbeginselen {#basics}
       + [Beginselen van de werkruimte](getting-started/workspace-basics.md)
       + [Nieuwe Acrobat-ervaring](getting-started/new-experience.md)
-      + [Werken met  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=nl-NL#microsoft)
+      + [Werken met  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Overal werken met Acrobat Web](getting-started/acrobatweb.md)
       + [Productiviteit onderweg](getting-started/productivity.md)
       + [Waar komen PDF vandaan?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 5%
       + [Aangepaste opdrachten en gereedschappen](advanced-tasks/custom.md)
 + AI-gestuurd {#ai-powered}
    + [Overzicht](ai-powered/ai-overview.md)
-   + [Ontdek PDF-inzichten met AI Assistant](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Stimuleer teamefficiëntie met PDF Spaces](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Wat is Acrobat Studio?](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Afbeeldingen in een PDF bewerken](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Deze PDF stileren](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Ontdek PDF-inzichten met AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Stimuleer teamefficiëntie met PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Wat is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Afbeeldingen in een PDF bewerken](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Deze PDF stileren](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Gebruiksscenario&#39;s {#use-cases}
    + [Overzicht](use-cases/use-cases-overview.md)
    + Bedrijfstak {#lob}
@@ -97,13 +97,16 @@ ht-degree: 5%
       + HR {#hr}
          + [Overzicht](use-cases/lob/hr/hr-overview.md)
          + [Van inzicht tot impact: stroomlijn onboarding-workflows](use-cases/lob/hr/hr-insights.md)
+      + Juridisch {#legal}
+         + [Overzicht](use-cases/lob/legal/legal-overview.md)
+         + [Juridische inzichten omzetten in actiegerichte richtlijnen](use-cases/lob/legal/legal-insights.md)
       + Verkoop {#sales}
          + [Overzicht](use-cases/lob/sales/sales-overview.md)
          + [Customer intelligence omzetten in succesvolle verkoopassets](use-cases/lob/sales/sales-insights.md)
    + Overheid {#gov}
       + [Overzicht](use-cases/gov/gov-overview.md)
       + 5 tips voor het overal werken met Acrobat {#tips}
-         + [&#x200B; 5 uiteinden voor het werken overal met Acrobat &#x200B;](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [ 5 uiteinden voor het werken overal met Acrobat ](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tip 1 - Download je tools](use-cases/gov/get-your-tools.md)
          + [Tip 2 - Samenwerken aan documenten](use-cases/gov/collaborate-on-documents.md)
          + [Tip 3 - Protect digitale documenten](use-cases/gov/protect-digital-documents.md)
@@ -158,5 +161,5 @@ ht-degree: 5%
    + [Belangrijke Acrobat DC-productupdates voor ETLA-klanten](deploy/signentitlementchanges.md)
 + Mobiel {#mobile}
    + [Overzicht](mobile/mobile-overview.md)
-   + [Productiviteit onderweg](https://experienceleague.adobe.com/nl/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Productiviteit onderweg](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles naar PDF scannen](mobile/scan-mobile-app.md)

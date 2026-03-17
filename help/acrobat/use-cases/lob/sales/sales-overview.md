@@ -1,11 +1,12 @@
 ---
 title: Overzicht van Acrobat Sales Use
-description: Ontdek hoe verkoopteams van inzicht naar impact gaan dankzij slimmere samenwerking en snellere contentcreatie.
+description: Ontdek hoe verkoopteams van inzicht naar impact gaan met slimmere samenwerking en snellere contentcreatie
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -22,11 +23,11 @@ Ontdek hoe verkoopteams van inzicht in klanten naar uitvoering overstappen door 
 
 >[!TAB  Zet klantenintelligentie in het winnen verkoopactiva ]
 
-Leer hoe de verkoopteams klant [&#x200B; inzichten kunnen verzamelen, samenwerken, en on-brand presentaties &#x200B;](sales-insights.md) produceren.
+Leer hoe de verkoopteams klant [ inzichten kunnen verzamelen, samenwerken, en on-brand presentaties ](sales-insights.md) produceren.
 
 >[!ENDTABS]
 
-## Zelfstudies voor HR-gebruiksscenario&#39;s
+## Zelfstudies over verkoopvoorbeelden
 
 <table style="table-layout:fixed">
 <tr>

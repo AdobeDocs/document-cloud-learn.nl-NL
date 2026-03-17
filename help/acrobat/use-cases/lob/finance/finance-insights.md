@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 3%
 
 ---
@@ -37,5 +37,5 @@ Feedback is voltooid en de inhoud kan worden geleverd. Zet gevalideerde inzichte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-Je hebt nu een herhaalbaar proces voor het analyseren, evalueren en leveren van financiële documenten die klaar zijn voor het dagelijks bestuur met Acrobat.
+U hebt nu een herhaalbaar proces voor het analyseren, reviseren en afleveren van financiële documenten die klaar zijn voor het dagelijks bestuur met Acrobat Studio.
 
