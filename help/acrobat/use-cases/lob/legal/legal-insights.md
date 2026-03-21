@@ -22,19 +22,19 @@ Ontdek hoe juridische teams Acrobat Studio gebruiken om complexe documenten te a
 
 Begin met het analyseren van complexe juridische documenten, het blootleggen van belangrijke wijzigingen en het identificeren van risico’s met behulp van AI-gedreven inzichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481640?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 2. Veilig samenwerken bij juridische revisie
 
 Inzichten zijn nu klaar voor teamreview. Ontdek hoe je de e-mailchaos kunt verminderen, versiebeheer kunt behouden en veilig kunt samenwerken aan complexe juridische reviews.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481653?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 3. Zet juridische inzichten om in bedrijfsklare content
 
 Feedback is voltooid en de inhoud kan worden geleverd. Ontdek hoe juridische teams snel richtlijnen opstellen, goedgekeurde branding toepassen en veilige, toegankelijke PDF bieden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481664?captions=dut&quality=12&learn=on&hidetitle=true)
 
 Je hebt nu een herhaalbaar proces om juridische documenten te begrijpen, veilig samen te werken en duidelijke bedrijfsklare richtlijnen te creëren.
 

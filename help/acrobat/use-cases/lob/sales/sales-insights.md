@@ -22,18 +22,18 @@ Ontdek hoe verkoopteams klantinzichten kunnen verzamelen, kunnen samenwerken in 
 
 Leer eerst hoe je klantdocumenten verzamelt, belangrijke informatie analyseert en door AI gedreven samenvattingen en inzichten gebruikt om inzicht te krijgen in de behoeften van klanten en je voor te bereiden op effectievere verkoopgesprekken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481570?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 2. Verplaats deals naar een hoger plan met gerichte teamsamenwerking
 
 Inzichten zijn nu klaar voor teamreview. Leer hoe u in een gedeelde werkruimte kunt samenwerken aan klantaccounts, stakeholders kunt afstemmen op rolgebaseerde toegang en inzichten, notities en documenten kunt bekijken zonder dat de context of controle verloren gaat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481594?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 3. Versnel deals met verkoopklare content
 
 Feedback is voltooid en de inhoud kan worden geleverd. Leer hoe je gevalideerde klantinzichten kunt omzetten in verfijnde, on-brand-verkooppresentaties en -voorstellen - zonder dat je helemaal zelf hoeft te beginnen of gebruik kunt maken van ontwerpondersteuning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481605?captions=dut&quality=12&learn=on&hidetitle=true)
 
 U hebt nu een herhaalbaar proces om klanten te begrijpen, samen te werken met belanghebbenden en voor verkoop geschikte presentaties en voorstellen te leveren met Acrobat Studio.

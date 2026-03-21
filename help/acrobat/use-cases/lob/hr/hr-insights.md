@@ -23,18 +23,18 @@ Ontdek hoe HR-teams Acrobat Studio gebruiken om de werving van medewerkers van b
 
 Leer eerst hoe AI-gedreven onboarding-inzichten belangrijke informatie kunnen benadrukken, de volgende stappen kunnen blootleggen en ervoor kunnen zorgen dat nieuwe medewerkers op het juiste moment de juiste informatie krijgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481490?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 2. Reviseren en uitlijnen op onboardingmaterialen
 
 Inzichten zijn nu klaar voor teamreview. Ontdek hoe PDF Spaces feedback, opmerkingen en updates geordend houdt, zodat stakeholders op één lijn blijven staan en onboardingstappen vooruit zonder e-mailketens of versieverwarring.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481527?captions=dut&quality=12&learn=on&hidetitle=true)
 
 ## Stap 3. Maak aansprekende onboardingcontent voor nieuwe medewerkers
 
 Feedback is voltooid en de inhoud kan worden geleverd. Bekijk hoe Acrobat Studio AI en branded sjablonen gebruikt om snel werknemersklare presentaties en materialen te maken die je eenvoudig kunt delen en bijwerken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481538?captions=dut&quality=12&learn=on&hidetitle=true)
 
 U hebt nu een herhaalbaar proces voor het analyseren, reviseren en leveren van voor werknemers geschikte documenten met Acrobat Studio.
