@@ -8,10 +8,10 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 1%
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ Verzend documenten ter ondertekening, volg de voortgang van elektronische ondert
 
 >[!TAB  Mobiel-vriendschappelijke mening ]
 
-Leer hoe te om [&#x200B; mobiel-vriendelijke mening &#x200B;](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
+Leer hoe te om [ mobiel-vriendelijke mening ](mobile-friendly.md) te gebruiken om vormen op uw mobiele apparaat te voltooien.
 
 >[!TAB  creeer mobiel-vriendelijke mening ]
 
-Leer hoe te om een [&#x200B; mobiel-vriendelijk &#x200B;](create-mobile-friendly.md) document foutloos, zonder enige ontwikkelaarssteun te produceren.
+Leer hoe te om een [ mobiel-vriendelijk ](create-mobile-friendly.md) document foutloos, zonder enige ontwikkelaarssteun te produceren.
 
 >[!ENDTABS]
 
@@ -47,7 +47,7 @@ Leer hoe te om een [&#x200B; mobiel-vriendelijk &#x200B;](create-mobile-friendly
   </td>
   <td>
     <a href="mobile-friendly.md">
-      <img alt="Mobielvriendelijke weergave" src="../assets/mobile-friendly.png" />
+      <img alt="Mobielvriendelijke weergave" src="../assets/mobile-friendly.png"/>
     </a>
     <div>
     <a href="mobile-friendly.md"><strong> Mobiel-vriendschappelijke mening </strong></a>
@@ -88,11 +88,11 @@ Leer hoe te om een [&#x200B; mobiel-vriendelijk &#x200B;](create-mobile-friendly
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Acrobat Sign mobiele app voor Android downloaden" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong> Download Acrobat Sign mobiele app voor Android </strong></a>
     </div>
     <em> Download Acrobat Sign mobiele app van Google Play </em>
     <br>
