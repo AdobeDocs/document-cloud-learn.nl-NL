@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # GEARCHIVEERD
 
-Dit repo is gemigreerd naar <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en> .
+Dit repo is gemigreerd naar <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.nl-NL> .
